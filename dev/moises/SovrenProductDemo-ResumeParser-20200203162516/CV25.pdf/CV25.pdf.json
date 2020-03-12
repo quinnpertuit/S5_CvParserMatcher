@@ -1,0 +1,1031 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Aayushi Kanodia",
+          "GivenName": "Aayushi",
+          "FamilyName": "Kanodia"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "UTTAR PRADESH"
+              ],
+              "Municipality": "Noida",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Delhi / NCR"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "A focused professional with experience in Data Analytics, Portfolio Management, Risk Analysis, Quantitative Research, Data\r\nMining, Business Intelligence, Data Modeling, Project Management, Marketing Analysis, Stakeholder Management, Business\r\nGeneration, Impact Analysis, SAS",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "BSR & Co",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Analyst - Data Analytics",
+                "OrgName": {
+                  "OrganizationName": "BSR & Co"
+                },
+                "Description": "Learnings\r\nAssistance in preparation of transfer pricing compliances, including transfer pricing reports, Form\r\n3CEB, Master File, Country by Country report and related litigation work for client.\r\nLearning - Excellent Excel and Presentation skills. Working under narrow timeline during peak season.\r\nDirect interaction with clientele.",
+                "StartDate": {
+                  "YearMonth": "2018-06"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Tax",
+                    "Comments": "Finance describes 20% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "BSR",
+                    "sov:NormalizedTitle": "Analyst Data Analytics",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Analyst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "BSR"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Amity University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.A",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Economics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.A (Economics) from Amity University in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Amity University"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Analyst, Data Analyst, Data Analytics, Risk Analysis, Quantitative Research, Data Mining, Business\r\nIntelligence, Data Modeling, Project Management, Marketing Analysis, Impact Analysis\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 30-Jan-20\tLast Modified: 30-Jan-20\r\nac514b27ca83415dbb826141078d5d46\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMicrosoft Office\r\n\r\nPower Point presentation"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tExpert"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tExpert"
+          },
+          {
+            "LanguageCode": "de",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "German\tProficient"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Conferred with \"Rising Star\" award, for exemplary and dedicated work by B S R & Co. LLP"
+          },
+          {
+            "Description": "Conferred with \"Rising Star\" award, for exemplary and dedicated work by B S R & Co. LLP,\r\nIndia.\r\nProfessional Degree in foreign business language- German.\r\nSuccessfully published research paper on 'IMPACT OF WATER SUPPLY ON ECONOMIC\r\nGROWTH - CASE STUDY OF INDIA'.\r\nSuccessfully organized seminar on \" Impact of Policies and Functioning of the APEX Financial\r\nInstitutions of the Economic and Financial Development of India\"; October 19-20, 2015\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=f28f   51809540e211d4e58485f0f1207006&sid=3810263223&AT=1580666759\r\n2/2/20 19'09\r\n\r\n\r\nSuccessfully organized \"National Conference on Sustainable Development In India: Economic\r\nIssues and policy Initiatives\"; March 03-04, 2016.\r\nSuccessfully organized 'National Conference on Shaping India 2020-30: Sustainable Development\r\nand Socio Economic Perspective & Challenges'; March 23-24, 2017.\r\nSuccessfully organized 'National Conference on Leveraging SDG's To Drive Socio- Economic\r\nDevelopment: Mission 2030\".; March 22-23, 2018\r\nVolunteered for Blood Donation Camp organized by ROTARY BLOOD BANK.\r\nVolunteered for Adopt a Tree 2016 Campaign, organized by WWF-India"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'09\r\n\r\n\r\nAayushi Kanodia\r\n\r\n\r\nExecutive seeking roles in Data Analytics, Portfolio Management, Risk\r\nAnalysis, Quantitative Research, Business Intelligence, Data Modeling, Project\r\nManagement, Marketing Analysis, Stakeholder Management, Impact Analysis, Wealth\r\nManagement\r\n\r\n\r\nCurrent Designation: Analyst - Data Analytics\tTotal Experience: 1 Year(s) 8 Month(s)\r\nCurrent Company: BSR & Co.\tHighest Degree: B.A [Economics]\r\nCurrent Location: Noida\r\nPref. Location: Noida, Delhi / NCR\r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: Strategy /Management Consulting Firms\r\nMarital Status: Single/unmarried\r\nKey Skills: Analyst, Data Analyst, Data Analytics, Risk Analysis, Quantitative Research, Data Mining, Business\r\nIntelligence, Data Modeling, Project Management, Marketing Analysis, Impact Analysis\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 30-Jan-20\tLast Modified: 30-Jan-20\r\nac514b27ca83415dbb826141078d5d46\r\n\r\n\r\nSummary\r\nA focused professional with experience in Data Analytics, Portfolio Management, Risk Analysis, Quantitative Research, Data\r\nMining, Business Intelligence, Data Modeling, Project Management, Marketing Analysis, Stakeholder Management, Business\r\nGeneration, Impact Analysis, SAS\r\n\r\n\r\nWork Experience\r\nBSR & Co. as Analyst - Data Analytics\r\nJun 2018 to Till Date\r\nLearnings\r\nAssistance in preparation of transfer pricing compliances, including transfer pricing reports, Form\r\n3CEB, Master File, Country by Country report and related litigation work for client.\r\nLearning - Excellent Excel and Presentation skills. Working under narrow timeline during peak season.\r\nDirect interaction with clientele.\r\n\r\nAchievements\r\nConferred with \"Rising Star\" award, for exemplary and dedicated work by B S R & Co. LLP,\r\nIndia.\r\nProfessional Degree in foreign business language- German.\r\nSuccessfully published research paper on 'IMPACT OF WATER SUPPLY ON ECONOMIC\r\nGROWTH - CASE STUDY OF INDIA'.\r\nSuccessfully organized seminar on \" Impact of Policies and Functioning of the APEX Financial\r\nInstitutions of the Economic and Financial Development of India\"; October 19-20, 2015\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=f28f   51809540e211d4e58485f0f1207006&sid=3810263223&AT=1580666759\r\n2/2/20 19'09\r\n\r\n\r\nSuccessfully organized \"National Conference on Sustainable Development In India: Economic\r\nIssues and policy Initiatives\"; March 03-04, 2016.\r\nSuccessfully organized 'National Conference on Shaping India 2020-30: Sustainable Development\r\nand Socio Economic Perspective & Challenges'; March 23-24, 2017.\r\nSuccessfully organized 'National Conference on Leveraging SDG's To Drive Socio- Economic\r\nDevelopment: Mission 2030\".; March 22-23, 2018\r\nVolunteered for Blood Donation Camp organized by ROTARY BLOOD BANK.\r\nVolunteered for Adopt a Tree 2016 Campaign, organized by WWF-India.\r\n\r\n\r\nEducation\r\nUG: B.A (Economics) from Amity University in 2018\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMicrosoft Office\r\n\r\nPower Point presentation\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tExpert\r\n\r\nHindi\tExpert\r\n\r\nGerman\tProficient\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=f28f   51809540e211d4e58485f0f1207006&sid=3810263223&AT=1580666759\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Noida",
+          "sov:PreferredLocation": "Noida, Delhi / NCR",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Physically Challenged: No"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Aayushi Kanodia's experience appears to be somewhat concentrated in Information Technology (mostly Big Data) and somewhat concentrated in Marketing (mostly Data & Analytics). Aayushi Kanodia's experience appears to be entry level, with 20 months of experience.",
+          "sov:MonthsOfWorkExperience": "20",
+          "sov:AverageMonthsPerEmployer": "20",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "34",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "28",
+                        "@percentOfParentTaxonomy": "84",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "5530954",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "5531055",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA MODELING",
+                                "@id": "01503802",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Telephony",
+                        "@id": "347",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "APEX",
+                            "@id": "026854",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MODELING",
+                            "@id": "024098",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "7200000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAS",
+                            "@id": "5551185",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAS",
+                            "@id": "5540979",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "026549",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "341",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAS",
+                            "@id": "007445",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "31",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "28",
+                        "@percentOfParentTaxonomy": "91",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SAS",
+                            "@id": "1400078",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "026550",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "021245",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "1400096",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "1400009",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Tax",
+                        "@id": "702",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "53",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRANSFER PRICING",
+                            "@id": "7000012",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "022510",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "007091",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MODELING",
+                            "@id": "024099",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "7000125",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Real Estate & Facilities",
+                        "@id": "710",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000109",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000026",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000007",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Litigation",
+                        "@id": "400",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "LITIGATION",
+                            "@id": "022593",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Budget Related",
+                        "@id": "516",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRICING",
+                            "@id": "005394",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Aptitudes",
+                        "@id": "532",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRESENTATION SKILLS",
+                            "@id": "005353",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "Serial Attached SCSI",
+                            "@id": "1007286",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SAS",
+                                "@id": "100728601",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Water, Wastewater, Soil, Hydrology",
+                        "@id": "296",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "WATER SUPPLY",
+                            "@id": "010901",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "007090",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Process",
+                        "@id": "143",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "006272",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAS",
+                            "@id": "9000114",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "64",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MODELING",
+                            "@id": "014996",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "012210",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Nursing",
+                    "@id": "99",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Blood and Circulatory",
+                        "@id": "425",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BLOOD BANK",
+                            "@id": "026688",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Clinical",
+                    "@id": "28",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "277",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BLOOD BANK",
+                            "@id": "026687",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "35",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "36",
+              "@ends": "44",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "45",
+              "@ends": "68",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "Achievements"
+            },
+            {
+              "@starts": "69",
+              "@ends": "72",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "73",
+              "@ends": "80",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "81",
+              "@ends": "97",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Aayushi Kanodia"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=f28f"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Work Authorization\r\nPhysically Challenged: No",
+              "Pref. Location: Noida, Delhi / NCR",
+              "Current Location: Noida",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3318",
+        "sov:ParseTime": "250",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:303;3,6] Each of the following sections in the resume contain more content than the work history and education sections combined: 'Achievements', 'Languages Known'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:709406fb-d3eb-472d-9ab4-da0a6276e682",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "FpL8//////8="
+      }
+    }
+  }
+}

@@ -1,0 +1,1264 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ExecutiveSummary": "Overall 2 years of IT experience with\r\n* 2 years of experience in data analysis and RCA in Microsoft windows\r\n* 1 year of experience in data analysis and Applied Machine learning using python and keras",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Wipro Technologies",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Project Engineer - junior analyst",
+                "OrgName": {
+                  "OrganizationName": "Wipro Technologies"
+                },
+                "Description": "to Feb 2018",
+                "StartDate": {
+                  "YearMonth": "2018-02"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Wipro Technologies",
+                    "sov:NormalizedTitle": "Project Engineer junior analyst",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Project Engineer",
+                        "junior analyst",
+                        "analyst"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Software tester & QA Engineer",
+                "OrgName": {
+                  "OrganizationName": "Microsoft"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "   ~~~~~~~~~~~~~~  "
+                  }
+                ],
+                "Description": "currently working for Microsoft Client which releases new versions of Operating systems\r\n(OS) every 6 months to the market. This project deals with the compatibility of the various applications on different OS.\r\n\r\nHackathons:\r\nData Science FinHack 2 (   ~~~~~~~~~~~~~~  ):\r\nBusiness Forecasting - A Time series problem of forecasting case count for the financial services company.\r\nAnalysed the patterns, trend and seasonal trend creating as many datetime features and built models using ARIMA,\r\nSARIMAX\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     11e510f1b635e4c52481d460e560c6&sid=3810263223&AT=1580681854",
+                "StartDate": {
+                  "YearMonth": "2018-02"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Accounting",
+                    "Comments": "Finance describes 60% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Microsoft",
+                    "sov:NormalizedTitle": "Software tester AND QA Engineer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Software tester",
+                        "tester & QA Engineer"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "Title": "Coordinate with Project Stakeholders like Delivery Manager",
+                "OrgName": {
+                  "OrganizationName": "   ~~~~~~~~~~  "
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "   ~~~~~~~~~~  "
+                  }
+                ],
+                "Description": "Predicting severity of airplane accident given various factors - Built a Decision Tree classifier and Random forest classifier\r\nextracting feature importance by forward selection and selectKbest method implementing all data pre-processing\r\ntechniques.\r\n\r\nCASE STUDIES:\r\nPersonalized Cancer Diagnosis:\r\nRedefining Cancer Treatment: Built a Logistic model with text featurization techniques like tf-idf, word2vec, BOW to automatically classify genetic variations\r\nAmazon Food Review Classification:\r\nTrained Decision Trees and Ensemble models, performing sentiment analysis on customer reviews to classifying positive and negative reviews\r\n\r\nAutomating Project Approval:\r\nBuilt LSTM Recurrent neural networks to classify or predict which project to be approved there by reducing manual\r\nevaluation\r\nRole in Application Compatibility test:\r\n\r\nTranslate customer requirements and product goals into appropriate tests and delivering the product.\r\nDebugged and performed root cause analysis (RCA) on the AcRepro/UIF bugs logged by the end users.\r\nCoordinate with Project Stakeholders like Delivery Manager, Test Managers, Business Analyst, and Business Teams in all\r\nphases of STLC to deliver quality products Worked in MySQL database on simple queries, created test data using\r\nExperience in performing functional testing, integrating testing and smoke testing and ad-hoc testing\r\nSQL for back-end testing.\r\nReview audit of the test results of the SMEs for the quality assurance.\r\nMentoring new joiners in order to make them understand project goals and objectives.\r\nExperience in Microsoft SQL Server (Queries and analysis)\r\nParticipated in phases of Requirement Gathering and Analysis, Review meetings\r\nNew features of Windows OS such as Japanese Era, RS FUN, Privacy settings are pilot tested before releasing it to the market by creating test plans, designs to increase productivity.\r\nExpertise in making test scenarios, test cases, test data, and other status reports.\r\nExperience in Analyzing the Business Requirements, Functional Specification and Change Request documents",
+                "StartDate": {
+                  "Year": "2018"
+                },
+                "EndDate": {
+                  "AnyDate": "2020-02-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 38% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "   ~~~~~~~~~~  ",
+                    "sov:NormalizedTitle": "Coordinate with Project Stakeholders like Delivery Manager"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Project Engineer",
+                "OrgName": {
+                  "OrganizationName": "Wipro"
+                },
+                "Description": "junior Analyst, responsible for gathering and analysis of the data and provide insights",
+                "StartDate": {
+                  "YearMonth": "2018-02"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Wipro",
+                    "sov:NormalizedTitle": "Project Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Wipro Technologies"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "MVSR engineering college"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from MVSR engineering college in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "MVSR engineering college"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "TrendNext Exam(Wipro-Learning & Development) Clearance in Python, Windows Platform testing, HTML5",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Project Engineer, Data Analyst, Data Analysis, Business Analysis, Business Intelligence, Machine\r\nlearning, statistical modelling, Data wrangling, Predictive modelling, Regression modelleing, Text Analysis, Deep\r\nlearning, Python, MySQL, SQLite, Sklearn, keras, numpy\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 20b05d9e5690500281\tLast Active: 2-Feb-20\tLast Modified: 1-Feb-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nSklearn, keras, numpy, pandas\r\n\r\nPython\t3\t2020\t2 Year(s)\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     11e510f1b635e4c52481d460e560c6&sid=3810263223&AT=1580681854\r\n2/2/20 23&18\r\n\r\n\r\nMySQL, SQLite\t2020\t2 Year(s)\r\n\r\nJupyter Notebook, Google Colab\r\n\r\nWINDOWS\r\n\r\nMTC (Medusa), WTT\r\n\r\nMACHINE LEARNING\t2020\t1 Year(s)\r\n\r\nNatural Language Processing\t2020\t1 Year(s)\r\n\r\nDeep learning\t2020\t1 Year(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          },
+          {
+            "LanguageCode": "te",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Telugu\tProficient"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&18\r\n\r\n\r\nSaiMaheshKrishna\r\n\r\n\r\nProject Engineer seeking assignment in Data Analysis, Business Analysis, Business\r\nIntelligence, Machine learning, statistical modelling, Data wrangling, Predictive\r\nmodelling, Regression modelleing, Text Analysis, Deep\r\nlearning, Python, MySQL, SQLite, Sklearn\r\n\r\n\r\nCurrent Designation: Project Engineer\tTotal Experience: 2 Year(s) 0 Month(s)\r\nCurrent Company: Wipro\tNotice Period: 2 Months\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree: B.Tech/B.E. [Computers]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Project Engineer, Data Analyst, Data Analysis, Business Analysis, Business Intelligence, Machine\r\nlearning, statistical modelling, Data wrangling, Predictive modelling, Regression modelleing, Text Analysis, Deep\r\nlearning, Python, MySQL, SQLite, Sklearn, keras, numpy\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 20b05d9e5690500281\tLast Active: 2-Feb-20\tLast Modified: 1-Feb-20\r\n\r\n\r\nSummary\r\nOverall 2 years of IT experience with\r\n* 2 years of experience in data analysis and RCA in Microsoft windows\r\n* 1 year of experience in data analysis and Applied Machine learning using python and keras\r\n\r\n\r\nWork Experience\r\nWipro Technologies as Project Engineer - junior analyst\r\nFeb 2018 to Feb 2018\r\nPROJECT 1: Feb 2018- Till Date, PSP-MIC-MD-SERVER Hyderabad\r\nClient: Microsoft\r\nCompany: Wipro Technologies\r\n\r\nDescription:\r\nSoftware tester & QA Engineer, currently working for Microsoft Client which releases new versions of Operating systems\r\n(OS) every 6 months to the market. This project deals with the compatibility of the various applications on different OS.\r\n\r\nHackathons:\r\n\r\nData Science FinHack 2 (   ~~~~~~~~~~~~~~  ):\r\nBusiness Forecasting - A Time series problem of forecasting case count for the financial services company.\r\nAnalysed the patterns, trend and seasonal trend creating as many datetime features and built models using ARIMA,\r\nSARIMAX\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     11e510f1b635e4c52481d460e560c6&sid=3810263223&AT=1580681854\r\n2/2/20 23&18\r\n\r\n\r\nSeverity of Airplane accident(   ~~~~~~~~~~  )\r\nPredicting severity of airplane accident given various factors - Built a Decision Tree classifier and Random forest classifier\r\nextracting feature importance by forward selection and selectKbest method implementing all data pre-processing\r\ntechniques.\r\n\r\nCASE STUDIES:\r\n\r\nPersonalized Cancer Diagnosis:\r\nRedefining Cancer Treatment: Built a Logistic model with text featurization techniques like tf-idf, word2vec, BOW to\r\nautomatically classify genetic variations\r\nAmazon Food Review Classification:\r\nTrained Decision Trees and Ensemble models, performing sentiment analysis on customer reviews to classifying positive\r\nand negative reviews\r\n\r\nAutomating Project Approval:\r\nBuilt LSTM Recurrent neural networks to classify or predict which project to be approved there by reducing manual\r\nevaluation\r\nRole in Application Compatibility test:\r\n\r\nTranslate customer requirements and product goals into appropriate tests and delivering the product.\r\nDebugged and performed root cause analysis (RCA) on the AcRepro/UIF bugs logged by the end users.\r\nCoordinate with Project Stakeholders like Delivery Manager, Test Managers, Business Analyst, and Business Teams in all\r\nphases of STLC to deliver quality products Worked in MySQL database on simple queries, created test data using\r\nExperience in performing functional testing, integrating testing and smoke testing and ad-hoc testing\r\nSQL for back-end testing.\r\nReview audit of the test results of the SMEs for the quality assurance.\r\nMentoring new joiners in order to make them understand project goals and objectives.\r\nExperience in Microsoft SQL Server (Queries and analysis)\r\nParticipated in phases of Requirement Gathering and Analysis, Review meetings\r\nNew features of Windows OS such as Japanese Era, RS FUN, Privacy settings are pilot tested before releasing it to the\r\nmarket by creating test plans, designs to increase productivity.\r\nExpertise in making test scenarios, test cases, test data, and other status reports.\r\nExperience in Analyzing the Business Requirements, Functional Specification and Change Request documents\r\n\r\n\r\nWipro as Project Engineer\r\nFeb 2018 to Till Date\r\njunior Analyst, responsible for gathering and analysis of the data and provide insights\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from MVSR engineering college in 2017\r\n\r\nOther Qualifications/Certifications/Programs:\r\nTrendNext Exam(Wipro-Learning & Development) Clearance in Python, Windows Platform testing, HTML5.\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nSklearn, keras, numpy, pandas\r\n\r\nPython\t3\t2020\t2 Year(s)\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     11e510f1b635e4c52481d460e560c6&sid=3810263223&AT=1580681854\r\n2/2/20 23&18\r\n\r\n\r\nMySQL, SQLite\t2020\t2 Year(s)\r\n\r\nJupyter Notebook, Google Colab\r\n\r\nWINDOWS\r\n\r\nMTC (Medusa), WTT\r\n\r\nMACHINE LEARNING\t2020\t1 Year(s)\r\n\r\nNatural Language Processing\t2020\t1 Year(s)\r\n\r\nDeep learning\t2020\t1 Year(s)\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tProficient\r\n\r\nTelugu\tProficient\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~~~~~~~~~  \tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     11e510f1b635e4c52481d460e560c6&sid=3810263223&AT=1580681854\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "The candidate's experience appears to be somewhat concentrated in Information Technology (mostly Database) and somewhat concentrated in Engineering (mostly Other). The candidate's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "28",
+          "sov:AverageMonthsPerEmployer": "28",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "13",
+          "sov:HighestManagementScore": "55",
+          "sov:ExecutiveType": "general",
+          "sov:ManagementStory": "Starting on 12/31/2018, the candidate held the following low-level management position for 13 months:\r\n\tTitle: Coordinate with Project Stakeholders like Delivery Manager for Wipro Technologies,    ~~~~~~~~~~  ",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "33",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "14",
+                        "@percentOfParentTaxonomy": "43",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "13",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "13",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "13",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MICROSOFT SQL SERVER",
+                                "@id": "022023",
+                                "@existsInText": "true",
+                                "@totalMonths": "13",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              },
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@totalMonths": "13",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SQLITE",
+                            "@id": "3391131",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "DECISION TREES",
+                            "@id": "7200017",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "DEEP LEARNING",
+                            "@id": "7200018",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "NEURAL NETWORKS",
+                            "@id": "7200042",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "RANDOM FOREST",
+                            "@id": "7200053",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "NATURAL LANGUAGE PROCESSING",
+                            "@id": "5531029",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SENTIMENT ANALYSIS",
+                            "@id": "5531060",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "SOFTWARE TESTER",
+                            "@id": "025863",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "NATURAL",
+                            "@id": "003276",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "KERAS",
+                                "@id": "3391124",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              },
+                              {
+                                "@name": "NUMPY",
+                                "@id": "3391118",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "HTML5",
+                            "@id": "5520541",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "23",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "263",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "49",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROJECT ENGINEER",
+                            "@id": "022592",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROOT CAUSE ANALYSIS",
+                            "@id": "080477",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "TEST PLANS",
+                            "@id": "024205",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROOT CAUSE ANALYSIS",
+                            "@id": "080338",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Stress Analysis and Testing",
+                        "@id": "309",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "FUNCTIONAL TESTING",
+                            "@id": "022845",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MEDUSA",
+                            "@id": "024510",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "14",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "69",
+                        "sov:Skill": [
+                          {
+                            "@name": "FUNCTIONAL TESTING",
+                            "@id": "022846",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "ROOT CAUSE ANALYSIS",
+                            "@id": "007236",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "TEST CASES",
+                            "@id": "009422",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "TEST PLANS",
+                            "@id": "009451",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "QA",
+                            "@id": "006125",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "QUALITY ASSURANCE",
+                            "@id": "022250",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software",
+                        "@id": "931",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "SOFTWARE TESTER",
+                            "@id": "025862",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "48",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005583",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "FORECASTING",
+                            "@id": "023164",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "FORECASTING",
+                            "@id": "7000318",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL SERVICES",
+                            "@id": "017478",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "7000125",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Knowledge and Learning Management",
+                    "@id": "92",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Knowledge and Learning Management",
+                        "@id": "903",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MENTORING",
+                            "@id": "200051",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "NEURAL",
+                            "@id": "200040",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3",
+                            "@childrenTotalMonths": "13",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "NEURAL NETWORKS",
+                                "@id": "200039",
+                                "@existsInText": "true",
+                                "@totalMonths": "13",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "52",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "024469",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "BUSINESS REQUIREMENTS",
+                            "@id": "022626",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Planning and Estimating",
+                        "@id": "502",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "48",
+                        "sov:Skill": [
+                          {
+                            "@name": "FORECASTING",
+                            "@id": "017858",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "256",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "FORECASTING",
+                            "@id": "023163",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Auditing",
+                        "@id": "942",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005584",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "87",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "012210",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "FORECASTING",
+                            "@id": "017857",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Translations and Language Work",
+                    "@id": "91",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Translation",
+                        "@id": "901",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRANSLATE",
+                            "@id": "200002",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Operating Systems",
+                        "@id": "299",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT WINDOWS",
+                            "@id": "024345",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "35",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "36",
+              "@ends": "98",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "99",
+              "@ends": "101",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "102",
+              "@ends": "105",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "106",
+              "@ends": "132",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "133",
+              "@ends": "147",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "5418",
+        "sov:ParseTime": "890",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:302;] A first and last name was not found in the contact information. A resume should always include the candidate's first and last name.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:123;] Marital status should not be included in a resume (for most cultures).",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:c7eed6fd-f969-4b49-9c45-1da62ea299c7",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "jfkDAAAAAAA="
+      }
+    }
+  }
+}

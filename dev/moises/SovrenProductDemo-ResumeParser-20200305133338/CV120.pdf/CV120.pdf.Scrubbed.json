@@ -1,0 +1,1061 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "1.5year's experience in business intelligence. Possess strong analytical skills and excellent interpersonal communication skills,\r\nexcellent problem solving and quick delivering skills. I am a team player, and I am committed to co-operative teamwork.\r\nUsed to working in fast-paced and demanding environments under tight deadlines and will put in the extra time and effort that\r\nthe work demands. Have the ability to work with people at all levels of organization and have gained strong teamwork and\r\ncollaboration skills along the way.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "IDEAS Engineering",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Software Engineer-Tableau",
+                "OrgName": {
+                  "OrganizationName": "IDEAS Engineering"
+                },
+                "Description": "Project Domain Tableau Developer, Data Analyst:\r\nTeam Size: 8\r\nClient: Forescout Technologies\r\nTechnology & Architecture Tableau, SQL Server, Visual Studio:\r\n\r\nRoles & Responsibilities\r\nResponsible for Requirement analysis from the client.\r\nGathering the Data Sources from the ETL Team.\r\nDevelopment of Tableau Reports based on the client requirement.\r\nData analysis and validating the Tableau Reports.\r\nPublishing the Tableau Reports to the Server for Clients Q/A.\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     585f09563a4454405a4d5f0b02546&sid=3810263223&AT=1580681992\r\n2/2/20 23&21",
+                "StartDate": {
+                  "YearMonth": "2018-07"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 69% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "IDEAS Engineering",
+                    "sov:NormalizedTitle": "Software Engineer Tableau",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Software Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "IDEAS Engineering"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "NIE Institute of Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Electronics/Telecommunication) from NIE Institute of Technology, Mysuru in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "NIE Institute of Technology"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Diploma in Electronics and communication engineering",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Software Engineer, Software Developer, Data Warehousing, Business Intelligence, Data\r\nVisualization, Requirements Gathering, Database Development, Database Administration, SQL\r\nServer, C#, ASP.Net, SSIS, MVC, Tableau\r\n\r\nVerified: Email - id\r\n\r\n\r\nID: Last Active: 28-Jan-20\tLast Modified: 28-Jan-20\r\nc515c009db9147ccb52e0099d1799c19\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nETL, C#, ASP.Net, SSIS, MVC\r\n\r\nTABLEAU\t2018.1\t2019\t1 Year(s) 4 Month(s)\r\n\r\nSQL Server"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          },
+          {
+            "LanguageCode": "kn",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Kannada"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&21\r\n\r\n\r\n   ~~~~~~~~  \r\n\r\n\r\nSoftware Engineer seeking roles in Data Analytics, Business Intelligence, Tableau\r\nDeveloper, SQL,\r\nData Visualization, Tableau development, Requirements Gathering, Database\r\nDevelopment, Database Administration, SQL Server, C#, ASP.Net, SSIS, MVC\r\n\r\n\r\nCurrent Designation: Software Engineer-Tableau\tTotal Experience: 1 Year(s) 5 Month(s)\r\nCurrent Company: IDEAS Engineering\tNotice Period: 15 Days or less\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree: B.Tech/B.E.\r\n[Electronics/Telecommunication]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: IT Software - DBA / Datawarehousing\r\nRole: Software Developer\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Software Engineer, Software Developer, Data Warehousing, Business Intelligence, Data\r\nVisualization, Requirements Gathering, Database Development, Database Administration, SQL\r\nServer, C#, ASP.Net, SSIS, MVC, Tableau\r\n\r\nVerified: Email - id\r\n\r\n\r\nID: Last Active: 28-Jan-20\tLast Modified: 28-Jan-20\r\nc515c009db9147ccb52e0099d1799c19\r\n\r\n\r\nSummary\r\n1.5year's experience in business intelligence. Possess strong analytical skills and excellent interpersonal communication skills,\r\nexcellent problem solving and quick delivering skills. I am a team player, and I am committed to co-operative teamwork.\r\nUsed to working in fast-paced and demanding environments under tight deadlines and will put in the extra time and effort that\r\nthe work demands. Have the ability to work with people at all levels of organization and have gained strong teamwork and\r\ncollaboration skills along the way.\r\n\r\n\r\nWork Experience\r\nIDEAS Engineering as Software Engineer-Tableau\r\nJul 2018 to Till Date\r\nProject Domain Tableau Developer, Data Analyst:\r\nTeam Size: 8\r\nClient: Forescout Technologies\r\nTechnology & Architecture Tableau, SQL Server, Visual Studio:\r\n\r\nRoles & Responsibilities\r\nResponsible for Requirement analysis from the client.\r\nGathering the Data Sources from the ETL Team.\r\nDevelopment of Tableau Reports based on the client requirement.\r\nData analysis and validating the Tableau Reports.\r\nPublishing the Tableau Reports to the Server for Clients Q/A.\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     585f09563a4454405a4d5f0b02546&sid=3810263223&AT=1580681992\r\n2/2/20 23&21\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from NIE Institute of Technology, Mysuru in 2018\r\n\r\nOther Qualifications/Certifications/Programs:\r\nDiploma in Electronics and communication engineering\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nETL, C#, ASP.Net, SSIS, MVC\r\n\r\nTABLEAU\t2018.1\t2019\t1 Year(s) 4 Month(s)\r\n\r\nSQL Server\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\nKannada\r\n\r\n\r\nProjects\r\nProject Title: Order Management\r\nClient: Forescout technologies\r\nNature of Employment: Full Time\tDuration: Jan 2019 - Aug 2019\r\nProject Location: Bengaluru\tOnsite / Offsite: Offsite\r\nRole: Project Leader\tTeam Size: 8\r\nSkill Used: Tableau, SQL, SSIS\r\nRole Description: Development and testing..\r\nProject Details: Order management project consisted of 4 different Tableau workbooks like Sales order details, Invoice\r\nPayment details, Processing speed details and Customer payment details   This project includes fetching data from database\r\nor any other sources like Netsuite, Salesforce etc bringing them into database table's and views, then creating interactive\r\ndashboards using tableau for data management and data analysis\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~~~~~~~~~  \tCountries: India\r\nJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     585f09563a4454405a4d5f0b02546&sid=3810263223&AT=1580681992\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Marketing (mostly Data & Analytics).    ~~~~~~~~  's experience appears to be entry level, with 20 months of experience.",
+          "sov:MonthsOfWorkExperience": "20",
+          "sov:AverageMonthsPerEmployer": "20",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "74",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "27",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATABASE ADMINISTRATION",
+                            "@id": "015028",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "WEB DATABASE",
+                            "@id": "023811",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE DEVELOPMENT",
+                                "@id": "015033",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "22",
+                        "@percentOfParentTaxonomy": "30",
+                        "sov:Skill": [
+                          {
+                            "@name": "TABLEAU SOFTWARE",
+                            "@id": "5540985",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TABLEAU",
+                                "@id": "55409852",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VISUAL STUDIO",
+                                "@id": "010645",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "C#",
+                            "@id": "012275",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REQUIREMENT ANALYSIS",
+                            "@id": "022962",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA MANAGEMENT",
+                            "@id": "5530951",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "DATA SOURCES",
+                            "@id": "5530960",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "ETL",
+                            "@id": "5530987",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Middleware and Integration",
+                        "@id": "345",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "ETL",
+                            "@id": "016965",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASP",
+                            "@id": "004324",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MS ASP",
+                            "@id": "025409",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ASP.NET",
+                                "@id": "004334",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "NETSUITE",
+                            "@id": "5500364",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA WAREHOUSING",
+                            "@id": "015020",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "95",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "PROBLEM SOLVING",
+                            "@id": "005482",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "012210",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "68",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Interactive Design",
+                        "@id": "572",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570157",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570127",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Visual Design",
+                        "@id": "565",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570073",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Motion Design",
+                        "@id": "564",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570059",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Related",
+                        "@id": "115",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "86",
+                        "sov:Skill": [
+                          {
+                            "@name": "PUBLISHING",
+                            "@id": "006027",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Billing and Collections",
+                        "@id": "110",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVOICE",
+                            "@id": "020120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Litigation",
+                        "@id": "400",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLIENTS",
+                            "@id": "200081",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Aptitudes",
+                        "@id": "532",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "75",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCELLENT INTERPERSONAL COMMUNICATION SKILLS",
+                            "@id": "017012",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM PLAYER",
+                            "@id": "026529",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SALES ORDER",
+                            "@id": "030777",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS REQUIREMENTS",
+                            "@id": "022626",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "REQUIREMENTS GATHERING",
+                                "@id": "006835",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ORDER MANAGEMENT",
+                            "@id": "004014",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Telecom",
+                        "@id": "146",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMMUNICATION ENGINEERING",
+                            "@id": "013973",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "21",
+              "@ends": "31",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "32",
+              "@ends": "39",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "40",
+              "@ends": "59",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "60",
+              "@ends": "62",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "63",
+              "@ends": "66",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "67",
+              "@ends": "76",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "77",
+              "@ends": "86",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "87",
+              "@ends": "108",
+              "@sectionType": "PROJECT_HEADERS",
+              "#text": "Projects"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "3689",
+        "sov:ParseTime": "406",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:32c1e562-3acf-449b-8aee-6fd7707e5655",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "yKMBAAAAAAA="
+      }
+    }
+  }
+}

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Mumbai</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Experienced data management analyst with demonstrated history of working in financial services industry.Skilled in Microsoft
+Excel, Word, Outlook, Basics of SQL, Accounting, Marketing, Leadership, Public Speaking. Strong information technology
+professional with a Master of Business Administration - MBA focused in Finance from K.S. School of Business Management.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>S&amp;P Global Market Intelligence</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Researcher I</Title>
+					<OrgName>
+						<OrganizationName>S&amp;P Global Market Intelligence</OrganizationName>
+					</OrgName>
+					<Description>Department: Market Intelligence (Entity Management)
+
+Responsibilities:-
+* Responsible for the accuracy, completeness, and timeliness of relevant data published in SNL products for the information tracked by the respective department. (Worldwide coverage of company).
+* Worked on Identification of Duplicate Record of Entities and Funds Records both on CIQ &amp; SNL end through research &amp; content collection.
+* Deletion of Duplicate Records of Entities and Funds both on CIQ &amp; SNL end using various process like GenericB, West,
+WestX, Deletion Utility Tool, Remote Machines, Microsoft SQL Sever, MS Excel &amp; MS Outlook
+* Providing employee training and development within the department to increase subject matter expertise.
+* Handling client questions and provided comprehensive responses
+* Provided suggestions on improving the data set collection techniques, accuracy and audits in case of red flags for error
+prone data set.
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     b415c540c211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666757
+2/2/20 19'09</Description>
+					<StartDate>
+						<YearMonth>2018-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Common End-user Software → Core Office</CategoryCode>
+						<Comments>Common End-user Software describes 40% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>S&amp;P Global Market Intelligence</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Researcher I</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>S&amp;P Global Market Intelligence</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>K.S School of Business Management (Gujarat University)</SchoolName>
+				</School>
+				<Degree degreeType="masters">
+					<DegreeName>MBA/PGDM</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Finance</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MBA/PGDM (Finance) from K.S School of Business Management (Gujarat University) in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>MBA</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>MBA</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>K S School of Business Management Gujarat University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>K.S School of Business Management (Gujarat University)</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.B.A</DegreeName>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Management</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.B.A/ B.M.S (Management) from K.S School of Business Management (Gujarat University) in 2016</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>K S School of Business Management Gujarat University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>SPSS</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: market analysis, sql server, vba, ms office, financial analysis, financial planning, data analysis, market
+intelligence, business research, market analysis, sql server, vba, ms office, financial analysis, financial planning, financial
+modelling, equity derivatives
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 29-Jan-20
+3c2ca0bbf27242148d95f83017971508
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Prezi, MS Word, PowerPoint,
+
+Excel, Outllook, Microsoft SQL Server</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>te</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Telugu	Beginner</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>gu</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Gujarati	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'09
+
+
+   ~~~~~~~~~~~~~  
+
+
+Experienced data management analyst with demonstrated history of working in
+financial services industry.Skilled in Microsoft Excel, Word, Outlook, Basics of SQL,
+Accounting, Marketing, Leadership, Public Speaking
+
+
+Current Designation: Data Researcher I	Total Experience: 1 Year(s) 5 Month(s)
+Current Company: S&amp;P Global Market Intelligence	Notice Period: 15 Days or less
+   ~~~~~~~~~~~~~~~~~~~  	Highest Degree: MBA/PGDM [Finance]
+   ~~~~~~~~~~~~~~~~~  
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: KPO / Research /Analytics
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: market analysis, sql server, vba, ms office, financial analysis, financial planning, data analysis, market
+intelligence, business research, market analysis, sql server, vba, ms office, financial analysis, financial planning, financial
+modelling, equity derivatives
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 29-Jan-20
+3c2ca0bbf27242148d95f83017971508
+
+
+Summary
+Experienced data management analyst with demonstrated history of working in financial services industry.Skilled in Microsoft
+Excel, Word, Outlook, Basics of SQL, Accounting, Marketing, Leadership, Public Speaking. Strong information technology
+professional with a Master of Business Administration - MBA focused in Finance from K.S. School of Business Management.
+
+
+Work Experience
+S&amp;P Global Market Intelligence as Data Researcher I
+Jul 2018 to Till Date
+Department: Market Intelligence (Entity Management)
+
+Responsibilities:-
+* Responsible for the accuracy, completeness, and timeliness of relevant data published in SNL products for the
+information tracked by the respective department. (Worldwide coverage of company).
+* Worked on Identification of Duplicate Record of Entities and Funds Records both on CIQ &amp; SNL end through research &amp;
+content collection.
+* Deletion of Duplicate Records of Entities and Funds both on CIQ &amp; SNL end using various process like GenericB, West,
+WestX, Deletion Utility Tool, Remote Machines, Microsoft SQL Sever, MS Excel &amp; MS Outlook
+* Providing employee training and development within the department to increase subject matter expertise.
+* Handling client questions and provided comprehensive responses
+* Provided suggestions on improving the data set collection techniques, accuracy and audits in case of red flags for error
+prone data set.
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     b415c540c211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666757
+2/2/20 19'09
+
+
+Education
+UG: B.B.A/ B.M.S (Management) from K.S School of Business Management (Gujarat University) in 2016
+
+PG: MBA/PGDM (Finance) from K.S School of Business Management (Gujarat University) in 2018
+
+Other Qualifications/Certifications/Programs:
+SPSS
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Prezi, MS Word, PowerPoint,
+
+Excel, Outllook, Microsoft SQL Server
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+Hindi	Proficient
+
+English	Proficient
+
+Telugu	Beginner
+
+Gujarati	Proficient
+
+
+Projects
+Project Title: A Study on ATL and BTL Advertising Strategy of Big Bazaar
+Client:
+Nature of Employment: Full Time	Duration: Dec 2017 - Apr 2018
+Project Location: Ahmadabad	Onsite / Offsite: Offsite
+Role: Project Leader	Team Size: 3
+Skill Used: Marketing, Advertising, Atl, Btl, Promotions, Online Marketing, Digital Marketing
+Project Details: Company- BigBazar, Segment- Hypermarket
+
+Project Title: Marketing Feasibility Report and Financial Feasibility Report
+Client:
+Nature of Employment: Full Time	Duration: Jul 2015 - Apr 2016
+Project Location: Ahmadabad	Onsite / Offsite: Offsite
+Role: Project Leader	Team Size: 10
+Skill Used: Market Research, Primary Research, Secondary Research, Financial Research, Financial Modelling, Financial
+Analysis, Financial Planning, Excel, MS Office Word, Powerpoint, Marketing
+Project Details: Company-Jainflex Cable Pvt. Ltd, Product-
+Electric Wires and Cables
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     b415c540c211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666757
+2/2/20 19'09
+
+
+Project Title: Company Research on Nuts and Bolt Industry
+Client:
+Nature of Employment: Full Time	Duration: Dec 2014 - Apr 2015
+Onsite / Offsite: Offsite
+Project Details: Company- Nuts and Bolt Industry, Product- Nuts and Bolts
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~  	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     b415c540c211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666757
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~~~~  's experience appears to be mostly concentrated in Common End-user Software (mostly Core Office) and slightly concentrated in Information Technology (mostly Database).    ~~~~~~~~~~~~~  's experience appears to be entry level, with 19 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>19</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>19</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="48">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="48" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY; POS-1" childrenTotalMonths="19" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="MS EXCEL" id="002864" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="false">
+									<sov:ChildSkill name="MS OFFICE" id="022136" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT OUTLOOK" id="024344" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="MS OUTLOOK" id="002972" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+									<sov:ChildSkill name="OUTLOOK" id="021954" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT POWERPOINT" id="023613" existsInText="false">
+									<sov:ChildSkill name="POWERPOINT" id="021977" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT WORD" id="022961" existsInText="false">
+									<sov:ChildSkill name="MS WORD" id="003106" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="WORD" id="002379" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="13">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="12" percentOfParentTaxonomy="89">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="MICROSOFT SQL SERVER" id="022023" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="1" percentOfParentTaxonomy="7">
+								<sov:Skill name="MS OFFICE" id="022137" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA MANAGEMENT" id="5530951" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="VBA" id="3391143" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="13">
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="4" percentOfParentTaxonomy="29">
+								<sov:Skill name="FINANCE" id="023147" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; SUMMARY; DEG-2"></sov:Skill>
+								<sov:Skill name="FINANCIAL PLANNING" id="017471" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="3" percentOfParentTaxonomy="26">
+								<sov:Skill name="COLLECTION" id="013778" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080203" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="3" percentOfParentTaxonomy="22">
+								<sov:Skill name="MBA" id="7000321" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; SUMMARY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="1" percentOfParentTaxonomy="12">
+								<sov:Skill name="DERIVATIVES" id="024287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STRATEGIC PLANNING" id="023034" existsInText="false">
+									<sov:ChildSkill name="FINANCIAL PLANNING" id="017493" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internal Audit" id="706" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="ACCOUNTING" id="7000058" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting" id="705" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="ACCOUNTING" id="7000036" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Securities" id="236" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080196" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mortgage" id="233" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="SPSS" id="027122" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Trading" id="239" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="FINANCIAL SERVICES" id="017478" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="11">
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="5" percentOfParentTaxonomy="46">
+								<sov:Skill name="BUSINESS MANAGEMENT" id="1400092" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; SUMMARY; DEG-1; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="2" percentOfParentTaxonomy="15">
+								<sov:Skill name="MARKET ANALYSIS" id="1400060" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MARKET RESEARCH" id="1400326" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PRIMARY RESEARCH" id="1400063" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SPSS" id="027121" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Advertising" id="595" percentOfOverall="1" percentOfParentTaxonomy="12">
+								<sov:Skill name="ADVERTISING STRATEGY" id="1400190" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DIGITAL CAMPAIGN" id="1400380" existsInText="false">
+									<sov:ChildSkill name="DIGITAL MARKETING" id="1400381" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="1" percentOfParentTaxonomy="8">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="DIGITAL MARKETING" id="1400390" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Marketing Communications" id="592" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="ADVERTISING" id="1400153" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Direct" id="222" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="ONLINE MARKETING" id="003814" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="7">
+							<sov:Subtaxonomy name="Talent Sourcing" id="583" percentOfOverall="6" percentOfParentTaxonomy="82">
+								<sov:Skill name="COMPETITIVE INTELLIGENCE" id="9000260" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="MARKET INTELLIGENCE" id="9000261" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="7">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="7">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="SPSS" id="9000110" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="4">
+							<sov:Subtaxonomy name="Auditing" id="942" percentOfOverall="3" percentOfParentTaxonomy="92">
+								<sov:Skill name="AUDIT" id="005584" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="AUDITS" id="005789" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Bookkeeping" id="944" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="ACCOUNTING" id="022499" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Bookkeeping, Office Management" id="89" percentOfOverall="3">
+							<sov:Subtaxonomy name="Bookeeping Tasks" id="533" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="ACCOUNTING" id="005856" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="COLLECTION" id="013779" existsInText="true" totalMonths="19" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Environmental" id="6" percentOfOverall="1">
+							<sov:Subtaxonomy name="Testing, Assessments, and Monitoring" id="328" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="FEASIBILITY" id="026575" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="1">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="FEASIBILITY" id="026574" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2016-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="19" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="35" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="36" ends="57" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="58" ends="62" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="63" ends="66" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="67" ends="74" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="75" ends="86" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="87" ends="124" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>4608</sov:ParsedTextLength>
+			<sov:ParseTime>296</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;7] The following section in the resume contains more content than the work history and education sections combined: 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:8ff58f73-21fb-42fd-9ad2-6043cf2783b8</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>1cn9//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

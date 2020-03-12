@@ -1,0 +1,1272 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Geetika Raizada",
+          "GivenName": "Geetika",
+          "FamilyName": "Raizada"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Functional Area: Analytics & Business Intelligence"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "A result-driven professional with nearly 2 years of experience in Retail/ Forex Trade and Banking Operations of Finnacle and\r\nrelated activities\r\nPresently associated with ICICI Bank as Deputy Manager\r\nHands-on experience in various tools & technologies such as Python(OOPS, Collections, POP and exception Handling, data\r\nencapsulation), SQL and many more\r\nExperienced in DMAT Account/ Trading & Finance Account\r\nSkilled in working on Finacle Tools; successfully updated all the banking transaction database within stipulated timeline",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "ICICI Bank",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Deputy Manager",
+                "OrgName": {
+                  "OrganizationName": "ICICI Bank"
+                },
+                "Description": "to Apr 2018\r\nKey Result Areas:\r\nAdministering end-to-end Banking Operations inclusive of managing all types of banking products\r\nActing as an escalation gate; addressing and resolving queries of Corporate and HNI Accounts pertaining to banking\r\nproducts which resulting in achievement of customer satisfaction matrices\r\nDocumenting and updating all the banking transaction database in Finacle Tool\r\nMonitoring and evaluating:\r\nThe customer accounts; updating the KYC details of customers who all are falling in different risk categories; ensuring\r\nadherence to service standards of the bank & regulatory compliance as laid down by RBI & other regulatory authorities\r\nPost loan disbursement activities including processing of release letters, recovery of bad debts, NPA, preparation of\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c88   090958503a4454405a4d5f0b02546&sid=3810263223&AT=1580681127\r\n2/2/20 23&09\r\n\r\n\r\ncompromise proposals and associated legal proceedings\r\nMaintaining Suspicious Transaction Reports; submitting the same to the Branch Head to avoid any case of fraud and risk to the banks image\r\nMitigating financial risk through the development and implementation of strategic measures\r\nManaging various credit operations involving appraising proposals, conducting risk analysis & scrutinizing relevant\r\ndocuments before sanctioning loans\r\nIndulging in overall risk & exposures of customers, involving risk assessment, internal / external rating, monitoring\r\nmitigants & portfolio risks\r\nScrutinzing and reviewing existing working capital limits\r\nPerforming analytical review of financial operations of the process; interpreting financial data for determining past financial\r\nperformance and projecting the financial probability of process\r\nInvestigating key business issues behind the numbers and providing clear, concise & timely analysis",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Operations",
+                    "Comments": "Finance describes 46% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "ICICI Bank",
+                    "sov:NormalizedTitle": "Deputy Manager"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Deputy Manager",
+                "OrgName": {
+                  "OrganizationName": "ICICI Bank"
+                },
+                "Description": "operation and business development",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Sales → General",
+                    "Comments": "Sales describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "ICICI Bank",
+                    "sov:NormalizedTitle": "Deputy Manager"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "ICICI Bank"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "ICICI Manipal University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG Diploma",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Banking and Finance"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: PG Diploma (Banking and Finance) from ICICI Manipal University in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "ICICI Manipal University"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics and Instrumentation Engineering"
+                    ]
+                  }
+                ],
+                "DegreeMinor": [
+                  {
+                    "Name": [
+                      "Technology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Electronics and Instrumentation Engineering) from Babu Banarasi Das Northern India Instiute of Technology in 2014",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "NISM -MUTUAL FUND, NISM-Equity derivatives (pursuing), IRDA",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "(pursuing)",
+            "Id": "1",
+            "Description": "NISM -MUTUAL FUND, NISM-Equity derivatives (pursuing), IRDA"
+          },
+          {
+            "Name": "NISM -MUTUAL FUND, NISM-Equity derivatives",
+            "Id": "1",
+            "Description": "NISM -MUTUAL FUND, NISM-Equity derivatives (pursuing), IRDA"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Deputy Manager, Project Manager, Project Management, Banking Operations, Branch Operations, Business\r\nAnalysis, Financial Analysis, Project Execution, Data Analysis, Python, SQL, Forex Trading, Financial Risk, Credit\r\nOperations, Risk Analysis\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 31-Jan-20\r\n40921a6e441c4452b6c5f24571624d46\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nWindows OS (Win 98, 2000, XP, )\r\n\r\nMS Office, MS PowerPoint\r\n\r\nINTERNET APPLICATIONS\r\n\r\nPython, SQL"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&09\r\n\r\n\r\nGeetika Raizada\r\n\r\n\r\nDeputy Manager seeking roles in Project Management, Banking Operations, Branch\r\nOperations, Business Analysis, Financial Analysis, Project Execution, Data Analysis,\r\nPython, SQL, Forex Trading, Financial Risk, Credit Operations, Risk Analysis\r\n\r\n\r\nCurrent Designation: Deputy Manager\tTotal Experience: 2 Year(s) 0 Month(s)\r\nCurrent Company: ICICI Bank\tNotice Period: 1 Month\r\nCurrent Location: Mumbai\tHighest Degree: PG Diploma [Banking and Finance]\r\nPref. Location: Mumbai, Pune, Delhi / NCR\r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Business Analyst\r\nIndustry: Banking/Financial Services/Broking\r\nMarital Status: Single/unmarried\r\nKey Skills: Deputy Manager, Project Manager, Project Management, Banking Operations, Branch Operations, Business\r\nAnalysis, Financial Analysis, Project Execution, Data Analysis, Python, SQL, Forex Trading, Financial Risk, Credit\r\nOperations, Risk Analysis\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 31-Jan-20\r\n40921a6e441c4452b6c5f24571624d46\r\n\r\n\r\nSummary\r\nA result-driven professional with nearly 2 years of experience in Retail/ Forex Trade and Banking Operations of Finnacle and\r\nrelated activities\r\nPresently associated with ICICI Bank as Deputy Manager\r\nHands-on experience in various tools & technologies such as Python(OOPS, Collections, POP and exception Handling, data\r\nencapsulation), SQL and many more\r\nExperienced in DMAT Account/ Trading & Finance Account\r\nSkilled in working on Finacle Tools; successfully updated all the banking transaction database within stipulated timeline\r\n\r\n\r\nWork Experience\r\nICICI Bank as Deputy Manager\r\nApr 2018 to Apr 2018\r\nKey Result Areas:\r\nAdministering end-to-end Banking Operations inclusive of managing all types of banking products\r\nActing as an escalation gate; addressing and resolving queries of Corporate and HNI Accounts pertaining to banking\r\nproducts which resulting in achievement of customer satisfaction matrices\r\nDocumenting and updating all the banking transaction database in Finacle Tool\r\nMonitoring and evaluating:\r\nThe customer accounts; updating the KYC details of customers who all are falling in different risk categories; ensuring\r\nadherence to service standards of the bank & regulatory compliance as laid down by RBI & other regulatory authorities\r\nPost loan disbursement activities including processing of release letters, recovery of bad debts, NPA, preparation of\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c88   090958503a4454405a4d5f0b02546&sid=3810263223&AT=1580681127\r\n2/2/20 23&09\r\n\r\n\r\ncompromise proposals and associated legal proceedings\r\nMaintaining Suspicious Transaction Reports; submitting the same to the Branch Head to avoid any case of fraud and risk\r\nto the banks image\r\nMitigating financial risk through the development and implementation of strategic measures\r\nManaging various credit operations involving appraising proposals, conducting risk analysis & scrutinizing relevant\r\ndocuments before sanctioning loans\r\nIndulging in overall risk & exposures of customers, involving risk assessment, internal / external rating, monitoring\r\nmitigants & portfolio risks\r\nScrutinzing and reviewing existing working capital limits\r\nPerforming analytical review of financial operations of the process; interpreting financial data for determining past financial\r\nperformance and projecting the financial probability of process\r\nInvestigating key business issues behind the numbers and providing clear, concise & timely analysis\r\n\r\n\r\nICICI Bank as Deputy Manager\r\nApr 2018 to Till Date\r\noperation and business development\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Electronics and Instrumentation Engineering) from Babu Banarasi Das Northern India Instiute of\r\nTechnology in 2014\r\n\r\nPG: PG Diploma (Banking and Finance) from ICICI Manipal University in 2018\r\n\r\nOther Qualifications/Certifications/Programs:\r\nNISM -MUTUAL FUND, NISM-Equity derivatives (pursuing), IRDA\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nWindows OS (Win 98, 2000, XP, )\r\n\r\nMS Office, MS PowerPoint\r\n\r\nINTERNET APPLICATIONS\r\n\r\nPython, SQL\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tJob Type: Permanent\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c88   090958503a4454405a4d5f0b02546&sid=3810263223&AT=1580681127\r\n2/2/20 23&09\r\n\r\n\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c88   090958503a4454405a4d5f0b02546&sid=3810263223&AT=1580681127\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Mumbai",
+          "sov:PreferredLocation": "Mumbai, Pune, Delhi / NCR",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Category: General"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Geetika Raizada's experience appears to be somewhat concentrated in Finance (mostly Operations) and slightly concentrated in Business Operations and General Business (mostly Management Activities or Functions). Geetika Raizada's experience appears to be lower-to-mid level, with about 2 years of experience, with several years tenure in management, including a mid-level position.",
+          "sov:MonthsOfWorkExperience": "24",
+          "sov:AverageMonthsPerEmployer": "24",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "24",
+          "sov:CurrentManagementLevel": "mid-level",
+          "sov:HighestManagementScore": "55",
+          "sov:ExecutiveType": "general",
+          "sov:ManagementStory": "Starting on 4/1/2018, the candidate held the following mid-level management position for 1 months:\r\n\tTitle: Deputy Manager for ICICI Bank\r\nCurrent position is a mid-level management role: Deputy Manager\r\nStarting on 4/1/2018, the candidate held the following mid-level management position for 23 months:\r\n\tTitle: Deputy Manager for ICICI Bank",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "39",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "BANKING OPERATIONS",
+                            "@id": "023218",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "LOAN DISBURSEMENT",
+                            "@id": "020857",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Credit and Underwriting",
+                        "@id": "240",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "014614",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "LOANS",
+                            "@id": "022185",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "DERIVATIVES",
+                            "@id": "024287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "DISBURSEMENT",
+                            "@id": "015486",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "RISK ASSESSMENT",
+                            "@id": "007092",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "080179",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL ANALYSIS",
+                            "@id": "080203",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "007091",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "080204",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Securities",
+                        "@id": "236",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL ANALYSIS",
+                            "@id": "080196",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "FINANCIAL OPERATIONS",
+                            "@id": "017470",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internal Audit",
+                        "@id": "706",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL OPERATIONS",
+                            "@id": "7000208",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mortgage",
+                        "@id": "233",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "LOANS",
+                            "@id": "080236",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Lending",
+                        "@id": "234",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "LOANS",
+                            "@id": "080217",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCE",
+                            "@id": "023147",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; SUMMARY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRADING",
+                            "@id": "009789",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Equities",
+                        "@id": "238",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MUTUAL FUND",
+                            "@id": "003228",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "12",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "64",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "022750",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022227",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "47",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "1",
+                            "@childrenLastUsed": "2018-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "1",
+                                "@lastUsed": "2018-04-01",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "5531055",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "DAS",
+                            "@id": "5551108",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROJECT MANAGER",
+                            "@id": "022909",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MS OFFICE",
+                            "@id": "022137",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "58",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080537",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "007090",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Environmental",
+                        "@id": "136",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK ASSESSMENT",
+                            "@id": "007095",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080363",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080270",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS DEVELOPMENT",
+                            "@id": "023757",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "CUSTOMER ACCOUNTS",
+                            "@id": "030368",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "RETAIL",
+                            "@id": "030018",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "SATISFACTION",
+                            "@id": "030000",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Accounts Receivable",
+                        "@id": "940",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "64",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022226",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounts Payable",
+                        "@id": "933",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "DISBURSEMENT",
+                            "@id": "015485",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTING",
+                            "@id": "023928",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Proposals and Related",
+                        "@id": "431",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROPOSALS",
+                            "@id": "005891",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022229",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "COLLECTIONS",
+                                "@id": "013782",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Government",
+                    "@id": "86",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Regulatory",
+                        "@id": "524",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "REGULATORY COMPLIANCE",
+                            "@id": "006698",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Channel Management",
+                        "@id": "226",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "71",
+                        "sov:Skill": [
+                          {
+                            "@name": "POINT OF PURCHASE",
+                            "@id": "1400217",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "POP",
+                                "@id": "1400218",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "RETAIL MARKETING",
+                            "@id": "1400215",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RETAIL",
+                                "@id": "1400216",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Nuclear Power Misc",
+                        "@id": "924",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "081113",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Power Related",
+                        "@id": "925",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "081107",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS OFFICE",
+                                "@id": "022136",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT POWERPOINT",
+                            "@id": "023613",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS POWERPOINT",
+                                "@id": "002995",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "POWERPOINT",
+                                "@id": "021977",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "19",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "39",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "40",
+              "@ends": "76",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "77",
+              "@ends": "82",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "83",
+              "@ends": "86",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "87",
+              "@ends": "98",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "99",
+              "@ends": "119",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Geetika Raizada"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=c88"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Mumbai, Pune, Delhi / NCR",
+              "Work Authorization\r\nCategory: General",
+              "Current Location: Mumbai",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "4517",
+        "sov:ParseTime": "312",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:664662d6-f745-4919-a529-2cfa98f06f13",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "hA8AAAAAAAA="
+      }
+    }
+  }
+}

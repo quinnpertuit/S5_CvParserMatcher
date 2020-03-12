@@ -1,0 +1,1233 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "1. A result-oriented professional with over 1.7 years of industrial experience in the field of Artificial Intelligence and Data Science\r\n2. Development experience of end-to-end data science pipeline right from data extraction using ETL tools, to building algorithms\r\nand visualizing the output by preparing dashboards\r\n3. Drives the integrated value proposition and works with clients to gain alignment and buy-in\r\n4. Implements proof of concepts to assess the value of AI use cases\r\n5. Works with other teammates to design, develop and test AI and machine learning applications\r\n6. Actively participates in related AI communities and technology forums\r\n7. A quick learner in mastering new technologies; capable of working in teams and self-directed settings as well\r\n8. A Kaggle bronze medallist and an active contributor to open source data science projects",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Accenture",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Senior Software Engineer (Data Science)",
+                "OrgName": {
+                  "OrganizationName": "Accenture"
+                },
+                "Description": "1. Improved visual inspection and quality checks system of a French automotive parts manufacturing client, by using\r\nArtificial Intelligence.\r\n\r\nKey Result Areas:\r\nWorked with senior developers to design, implement, test, deploy as well as support new artificial intelligence\r\nfunctionalities;\r\nOnshore deputation (Paris) to interface with the client for knowledge transfer and gathering business needs;\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     510515f0a211d4e58485f0f1207006&sid=3810263223&AT=1580666751\r\n2/2/20 19'08\r\n\r\n\r\nProcessed and transformed image data in Python;\r\nPrepared and analysed performance metrics;\r\nAnnotated images for training deep learning models by using open source tools;\r\nGenerated and assimilated nodes into the code pipeline;\r\nContributed to design, development, testing, troubleshooting and debugging of the application;\r\nConsistently ensured technical integrity of project deliverables;\r\nAdhered to project timelines throughout the process of application development lifecycle\r\n\r\n2. Built a visual search-based recommendation engine using Generative Adversarial Networks (GANs).\r\n\r\n3. Built a pipeline to automatically extract data from driving license images for an American multinational cab service\r\nprovider, by using Optical Character Recognition (OCR) techniques.\r\n\r\nKey Result Areas:\r\nPerformed image pre-processing using OpenCV;\r\nCreated text post-processing models;\r\nPrepared client proposal deck;\r\nParticipated in client demos;\r\nHelped teammates with their deliverables\r\n\r\n4. Built a system to automatically extract handwritten text from health insurance forms for an American health care\r\ncompany, by using Optical Character Recognition (OCR) techniques.",
+                "StartDate": {
+                  "YearMonth": "2018-08"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 47% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Accenture",
+                    "sov:NormalizedTitle": "Senior Software Engineer Data Science",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Software Engineer",
+                        "Software Engineer (Data Science)",
+                        "Software Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Accenture"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Narsee Monjee Institute Of Management Studies"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai"
+            },
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "MBA/PGDM",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Business Intelligence and Analytics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: MBA/PGDM (Business Intelligence and Analytics) from Narsee Monjee Institute Of Management Studies, Mumbai in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "MBA",
+                    "sov:NormalizedDegreeType": "MBA"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Narsee Monjee Institute Of Management Studies"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Narsee Monjee Institute of Management Studies"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2016"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2016"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Electronics/Telecommunication) from Narsee Monjee Institute of Management Studies, Mumbai in 2016",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Narsee Monjee Institute of Management Studies"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Deep Learning",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Machine Learning",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Statistical Learning",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Deep Learning, Machine Learning, Statistical Modeling, Python, Computer Vision, R, MATLAB, Keras,\r\nTensorFlow, SQL, OpenCV, Git, GitLab, Artificial Intelligence, NumPy, Pandas, SciPy, Matplotlib, Data Science, Data\r\nMining, Hadoop, SAS, NLP, Spark, AWS, Big Data\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 2-Feb-20\r\nb2b58de60a674065b1991ef856b006a1\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython\t2019\t1 Year(s) 0 Month(s)\r\n\r\nKeras\t2019\t1 Year(s) 0 Month(s)\r\n\r\nTensorFlow\t2019\t1 Year(s) 0 Month(s)\r\n\r\nGIT\t2019\t1 Year(s) 0 Month(s)\r\n\r\nOPENCV\t2019\t1 Year(s) 0 Month(s)\r\n\r\nSQL\t2019\t1 Year(s) 0 Month(s)\r\n\r\nR\t2018\t1 Year(s) 0 Month(s)\r\n\r\nMATLAB\t2018\t1 Year(s) 0 Month(s)\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     510515f0a211d4e58485f0f1207006&sid=3810263223&AT=1580666751\r\n2/2/20 19'08\r\n\r\n\r\nGitLab\t2019\t1 Year(s) 0 Month(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "ENGLISH\tExpert"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "HINDI\tExpert"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'08\r\n\r\n\r\n   ~~~~~~~  \r\n\r\n\r\nData Scientist, Seeking Roles in Artificial Intelligence, Machine Learning, Data\r\nScience, Python, R, Data Analytics, Statistical Analysis, Computer Vision, Natural\r\nLanguage Processing (NLP), TensorFlow, Deep Learning, OCR, Big Data, Hadoop,\r\nSpark\r\n\r\n\r\nCurrent Designation: Senior Software Engineer (Data Science)\tTotal Experience: 1 Year(s) 7 Month(s)\r\nCurrent Company: Accenture\tNotice Period: 2 Months\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree: MBA/PGDM [Business Intelligence and\r\nAnalytics]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Other\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Deep Learning, Machine Learning, Statistical Modeling, Python, Computer Vision, R, MATLAB, Keras,\r\nTensorFlow, SQL, OpenCV, Git, GitLab, Artificial Intelligence, NumPy, Pandas, SciPy, Matplotlib, Data Science, Data\r\nMining, Hadoop, SAS, NLP, Spark, AWS, Big Data\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 2-Feb-20\r\nb2b58de60a674065b1991ef856b006a1\r\n\r\n\r\nSummary\r\n1. A result-oriented professional with over 1.7 years of industrial experience in the field of Artificial Intelligence and Data Science\r\n2. Development experience of end-to-end data science pipeline right from data extraction using ETL tools, to building algorithms\r\nand visualizing the output by preparing dashboards\r\n3. Drives the integrated value proposition and works with clients to gain alignment and buy-in\r\n4. Implements proof of concepts to assess the value of AI use cases\r\n5. Works with other teammates to design, develop and test AI and machine learning applications\r\n6. Actively participates in related AI communities and technology forums\r\n7. A quick learner in mastering new technologies; capable of working in teams and self-directed settings as well\r\n8. A Kaggle bronze medallist and an active contributor to open source data science projects\r\n\r\n\r\nWork Experience\r\nAccenture as Senior Software Engineer (Data Science)\r\nAug 2018 to Till Date\r\n1. Improved visual inspection and quality checks system of a French automotive parts manufacturing client, by using\r\nArtificial Intelligence.\r\n\r\nKey Result Areas:\r\nWorked with senior developers to design, implement, test, deploy as well as support new artificial intelligence\r\nfunctionalities;\r\nOnshore deputation (Paris) to interface with the client for knowledge transfer and gathering business needs;\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     510515f0a211d4e58485f0f1207006&sid=3810263223&AT=1580666751\r\n2/2/20 19'08\r\n\r\n\r\nProcessed and transformed image data in Python;\r\nPrepared and analysed performance metrics;\r\nAnnotated images for training deep learning models by using open source tools;\r\nGenerated and assimilated nodes into the code pipeline;\r\nContributed to design, development, testing, troubleshooting and debugging of the application;\r\nConsistently ensured technical integrity of project deliverables;\r\nAdhered to project timelines throughout the process of application development lifecycle\r\n\r\n2. Built a visual search-based recommendation engine using Generative Adversarial Networks (GANs).\r\n\r\n3. Built a pipeline to automatically extract data from driving license images for an American multinational cab service\r\nprovider, by using Optical Character Recognition (OCR) techniques.\r\n\r\nKey Result Areas:\r\nPerformed image pre-processing using OpenCV;\r\nCreated text post-processing models;\r\nPrepared client proposal deck;\r\nParticipated in client demos;\r\nHelped teammates with their deliverables\r\n\r\n4. Built a system to automatically extract handwritten text from health insurance forms for an American health care\r\ncompany, by using Optical Character Recognition (OCR) techniques.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from Narsee Monjee Institute of Management Studies, Mumbai in\r\n2016\r\n\r\nPG: MBA/PGDM (Business Intelligence and Analytics) from Narsee Monjee Institute Of Management Studies, Mumbai in\r\n2018\r\n\r\nOther Qualifications/Certifications/Programs:\r\nDeep Learning\r\nMachine Learning\r\nStatistical Learning\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython\t2019\t1 Year(s) 0 Month(s)\r\n\r\nKeras\t2019\t1 Year(s) 0 Month(s)\r\n\r\nTensorFlow\t2019\t1 Year(s) 0 Month(s)\r\n\r\nGIT\t2019\t1 Year(s) 0 Month(s)\r\n\r\nOPENCV\t2019\t1 Year(s) 0 Month(s)\r\n\r\nSQL\t2019\t1 Year(s) 0 Month(s)\r\n\r\nR\t2018\t1 Year(s) 0 Month(s)\r\n\r\nMATLAB\t2018\t1 Year(s) 0 Month(s)\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     510515f0a211d4e58485f0f1207006&sid=3810263223&AT=1580666751\r\n2/2/20 19'08\r\n\r\n\r\nGitLab\t2019\t1 Year(s) 0 Month(s)\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nENGLISH\tExpert\r\n\r\nHINDI\tExpert\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~  \tUS Work Status: Need H1 Visa\r\nPhysically Challenged: No\tCountries: India\r\nJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     510515f0a211d4e58485f0f1207006&sid=3810263223&AT=1580666751\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Machine Learning) and slightly concentrated in Marketing (mostly Data & Analytics).    ~~~~~~~  's experience appears to be entry level, with 18 months of experience.",
+          "sov:MonthsOfWorkExperience": "18",
+          "sov:AverageMonthsPerEmployer": "18",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "63",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "21",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DEEP LEARNING",
+                            "@id": "7200018",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "19",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTIFICIAL INTELLIGENCE",
+                            "@id": "5530905",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "ETL",
+                            "@id": "5530987",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "5530761",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "NATURAL LANGUAGE PROCESSING",
+                            "@id": "5531029",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "NLP",
+                                "@id": "5531030",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "RECOMMENDATION ENGINE",
+                            "@id": "5531051",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "19",
+                        "sov:Skill": [
+                          {
+                            "@name": "APPLICATION DEVELOPMENT",
+                            "@id": "021556",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "Git",
+                            "@id": "1004755",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "Hadoop",
+                            "@id": "1004744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1",
+                            "@childrenTotalMonths": "18",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "KERAS",
+                                "@id": "3391124",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "MATPLOTLIB",
+                                "@id": "3391120",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "NUMPY",
+                                "@id": "3391118",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "OPENCV",
+                                "@id": "3391119",
+                                "@existsInText": "true",
+                                "@totalMonths": "18",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                              },
+                              {
+                                "@name": "PANDAS",
+                                "@id": "3391116",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "TENSORFLOW",
+                                "@id": "3391117",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTIFICIAL INTELLIGENCE",
+                            "@id": "003449",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPEN SOURCE",
+                            "@id": "003842",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "OCR",
+                            "@id": "003652",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAS",
+                            "@id": "5551185",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAS",
+                            "@id": "5540979",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "021346",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Middleware and Integration",
+                        "@id": "345",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ETL",
+                            "@id": "016965",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "USE CASES",
+                            "@id": "010312",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "341",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAS",
+                            "@id": "007445",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "97",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "1400328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SAS",
+                            "@id": "1400078",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "STATISTICAL MODELING",
+                            "@id": "1400069",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL MODELING",
+                            "@id": "1400099",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "VALUE PROPOSITION",
+                            "@id": "1400005",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "45",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTICAL",
+                            "@id": "080533",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "PARTS ASSEMBLY",
+                            "@id": "023602",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "18",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "AUTOMOTIVE PARTS",
+                                "@id": "007766",
+                                "@existsInText": "true",
+                                "@totalMonths": "18",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Optical",
+                        "@id": "141",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMPUTER VISION",
+                            "@id": "014117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "OPTICAL",
+                            "@id": "080832",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTICAL",
+                            "@id": "080269",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "Serial Attached SCSI",
+                            "@id": "1007286",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SAS",
+                                "@id": "100728601",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software and Tools",
+                        "@id": "310",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "024275",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Light Technical/Trades/Skilled Labor",
+                    "@id": "27",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Maint and Repair",
+                        "@id": "290",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUAL INSPECTION",
+                            "@id": "081061",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "293",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUAL INSPECTION",
+                            "@id": "081047",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUAL INSPECTION",
+                            "@id": "025386",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUALITY CHECKS",
+                            "@id": "006233",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Transmission & Distribution",
+                    "@id": "45",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Transmission",
+                        "@id": "326",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PIPELINE",
+                            "@id": "004805",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Standards, Protocols, Technologies",
+                        "@id": "317",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "67",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTICAL",
+                            "@id": "022172",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "67",
+                        "sov:Skill": [
+                          {
+                            "@name": "METRICS",
+                            "@id": "021737",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "012210",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "MBA",
+                            "@id": "7000321",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "7000125",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA EXTRACTION",
+                            "@id": "9000117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "SAS",
+                            "@id": "9000114",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SELF-DIRECTED",
+                            "@id": "007740",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "21",
+              "@ends": "31",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "32",
+              "@ends": "43",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "44",
+              "@ends": "83",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "84",
+              "@ends": "90",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "91",
+              "@ends": "96",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "97",
+              "@ends": "123",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "124",
+              "@ends": "140",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "4990",
+        "sov:ParseTime": "328",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:5706a806-6e68-425b-b7ab-89a462d1b4a9",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "EKT+//////8="
+      }
+    }
+  }
+}

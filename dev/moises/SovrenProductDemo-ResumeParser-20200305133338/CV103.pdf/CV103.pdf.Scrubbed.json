@@ -1,0 +1,967 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "Bangalore"
+              ],
+              "Municipality": "Pune"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Total 2 years of working experience in Cloud Technologies, Big Data, Analytics & Devops domain.\r\n? Working experience in Public Cloud platforms (Azure, GCP, Alibaba)\r\n? Experience in Azure Cloud platform and it's services (Azure VM, Virtual Machines Scale Sets, Azure\r\nFunctions, Azure SQL Database, Azure Monitor, Virtual Network)\r\n? Experience with Microsoft Power Platform (Microsoft's PowerApps, Power Automate & Power BI) and\r\nMicrosoft Security tools (Microsoft Information Protection).\r\n? Experience in migrating applications from Data center to cloud which includes the transfer from on premise\r\ndata center to the cloud.\r\n? Hadoop Development and Administration, Scripting, Solution Architecting and Designing experience\r\n? Working experience in REST API's\r\n? Experience in business analysis and requirements gathering, design and implementing solutions",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "HCL Infosystems Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "System Engineer",
+                "OrgName": {
+                  "OrganizationName": "HCL Infosystems Ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "DELHI"
+                      ],
+                      "Municipality": "New Delhi"
+                    }
+                  }
+                ],
+                "Description": "Project Office 365 Migration & Microsoft Products Deployments\r\nProject Overview Involved in Migration of users to Office 365 cloud with deployment of various\r\nMicrosoft Tools which includes Microsoft Teams, App developed on Power Platform.\r\nPeriod Oct 2018 - till date\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108584b1179465e401804435a0e176&sid=3810263223&AT=1580681849",
+                "StartDate": {
+                  "YearMonth": "2018-10"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Config Deploy Upgrade Migrate",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "HCL Infosystems",
+                    "sov:NormalizedTitle": "System Engineer"
+                  }
+                }
+              },
+              {
+                "Title": "Business, Planner",
+                "OrgName": {
+                  "OrganizationName": "Technologies Microsoft Azure"
+                },
+                "Description": "Microsoft Power Platforms(Power Apps, Power Bi, Power Automate)\r\nTasks and Responsibilities\r\nInstalling and Configuration of Azure VMs.\r\nConfiguration of Azure AD Connect Server with Azure AD Pass through\r\nAuthentication Agent Server.\r\nMicrosoft Teams Deployment with in-built applications.\r\nMicrosoft Information Protection deployment with its labels & policies.\r\nDeveloped Canvas Visitor Management User's App on Microsoft's Power\r\nPlatform using PowerApps & Power Automate.\r\nDeveloped Model Driven Visitor management admin app on Power Apps.\r\nDeveloped flow models on Power Automate for Automatic process.\r\nDeveloped AI model for text recognition with Power Apps AI Builder.\r\nConfigured Power BI tabs for SCCM data in Microsoft Teams.\r\nPower BI Reports Modeling\r\nCreated end user SOP's of Office 365, Microsoft Teams, One Drive for\r\nBusiness, Planner, Yammer, Forms etc.",
+                "StartDate": {
+                  "Year": "2018"
+                },
+                "EndDate": {
+                  "AnyDate": "2020-02-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 92% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Technologies Microsoft Azure",
+                    "sov:NormalizedTitle": "Business Planner"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "HCL Infosystems"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Centre for Development"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG Diploma",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Centre for Development of Advanced Computing"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: PG Diploma (Big Data Analytics) from Centre for Development of Advanced Computing in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Center for Development"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "ECHELON INSTITUTE OF TECHNOLOGY"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from ECHELON INSTITUTE OF TECHNOLOGY in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "ECHELON INSTITUTE OF TECHNOLOGY"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Microsoft Azure Administrator AZ 103",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Microsoft Azure Fundamentals AZ 900",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Google Cloud Architecting (Google Learning)",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: system engineer, software developer, hadoop development, solution architecting, business analysis, data\r\nmining, python, java, r, c++, c, mysql, nosql, tableau, microsoft azure, google cloud platform, devops, cloud\r\ncomputing, Powerapps\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 542981ee6869f0bb96\tLast Active: 2-Feb-20\tLast Modified: 31-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMicrosoft Azure, Google Cloud Platform\t1 Year(s) 5 Month(s)\r\n\r\nMicrosoft's PowerApps, Power BI\t1 Year(s) 0 Month(s)\r\n\r\nWINDOWS, LINUX\t1 Year(s) 0 Month(s)\r\n\r\nPython, Java, R, C++, C\t1 Year(s) 0 Month(s)\r\n\r\nMongodb, Mysql\r\n\r\nHadoop, Apache Spark\r\n\r\nNoSQL\r\n\r\nPower BI, Tableau\t1 Year(s) 0 Month(s)\r\n\r\nPowerApps Portal\t1 Year(s) 0 Month(s)\r\n\r\nOffice 365\t1 Year(s) 5 Month(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tExpert"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tProficient"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&18\r\n\r\n\r\n   ~~~~~~~~  \r\n\r\n\r\nSystem Engineer seeking roles in Microsoft Azure, GCP, Cloud Computing, Microsoft\r\nPowerPlatform, Powerapps, Software Development, Hadoop Development, Solution\r\nArchitecting, BusinessAnalysis, Data Mining, Python, Java, R, C++, Power Bi, Devops\r\n\r\n\r\nCurrent Designation: System Engineer\tTotal Experience: 1 Year(s) 10 Month(s)\r\nCurrent Company: HCL Infosystems Ltd\tNotice Period: 15 Days or less\r\n   ~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree: PG Diploma [Big Data Analytics]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: IT Software - Application Programming /\r\nMaintenance\r\nRole: Software Developer\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: system engineer, software developer, hadoop development, solution architecting, business analysis, data\r\nmining, python, java, r, c++, c, mysql, nosql, tableau, microsoft azure, google cloud platform, devops, cloud\r\ncomputing, Powerapps\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 542981ee6869f0bb96\tLast Active: 2-Feb-20\tLast Modified: 31-Jan-20\r\n\r\n\r\nSummary\r\nTotal 2 years of working experience in Cloud Technologies, Big Data, Analytics & Devops domain.\r\n? Working experience in Public Cloud platforms (Azure, GCP, Alibaba)\r\n? Experience in Azure Cloud platform and it's services (Azure VM, Virtual Machines Scale Sets, Azure\r\nFunctions, Azure SQL Database, Azure Monitor, Virtual Network)\r\n? Experience with Microsoft Power Platform (Microsoft's PowerApps, Power Automate & Power BI) and\r\nMicrosoft Security tools (Microsoft Information Protection).\r\n? Experience in migrating applications from Data center to cloud which includes the transfer from on premise\r\ndata center to the cloud.\r\n? Hadoop Development and Administration, Scripting, Solution Architecting and Designing experience\r\n? Working experience in REST API's\r\n? Experience in business analysis and requirements gathering, design and implementing solutions\r\n\r\n\r\nWork Experience\r\nHCL Infosystems Ltd as System Engineer\r\nOct 2018 to Till Date\r\nClient JK Cement, New Delhi\r\nProject Office 365 Migration & Microsoft Products Deployments\r\nProject Overview Involved in Migration of users to Office 365 cloud with deployment of various\r\nMicrosoft Tools which includes Microsoft Teams, App developed on Power Platform.\r\nPeriod Oct 2018 - till date\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108584b1179465e401804435a0e176&sid=3810263223&AT=1580681849\r\n2/2/20 23&18\r\n\r\n\r\nTechnologies Microsoft Azure, Microsoft Power Platforms(Power Apps, Power Bi, Power\r\nAutomate)\r\nTasks and\r\nResponsibilities\r\nInstalling and Configuration of Azure VMs.\r\nConfiguration of Azure AD Connect Server with Azure AD Pass through\r\nAuthentication Agent Server.\r\nMicrosoft Teams Deployment with in-built applications.\r\nMicrosoft Information Protection deployment with its labels & policies.\r\nDeveloped Canvas Visitor Management User's App on Microsoft's Power\r\nPlatform using PowerApps & Power Automate.\r\nDeveloped Model Driven Visitor management admin app on Power Apps.\r\nDeveloped flow models on Power Automate for Automatic process.\r\nDeveloped AI model for text recognition with Power Apps AI Builder.\r\nConfigured Power BI tabs for SCCM data in Microsoft Teams.\r\nPower BI Reports Modeling\r\nCreated end user SOP's of Office 365, Microsoft Teams, One Drive for\r\nBusiness, Planner, Yammer, Forms etc.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from ECHELON INSTITUTE OF TECHNOLOGY in 2017\r\n\r\nPG: PG Diploma (Big Data Analytics) from Centre for Development of Advanced Computing in 2018\r\n\r\nOther Qualifications/Certifications/Programs:\r\nMicrosoft Azure Administrator AZ 103\r\nMicrosoft Azure Fundamentals AZ 900\r\nGoogle Cloud Architecting (Google Learning)\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMicrosoft Azure, Google Cloud Platform\t1 Year(s) 5 Month(s)\r\n\r\nMicrosoft's PowerApps, Power BI\t1 Year(s) 0 Month(s)\r\n\r\nWINDOWS, LINUX\t1 Year(s) 0 Month(s)\r\n\r\nPython, Java, R, C++, C\t1 Year(s) 0 Month(s)\r\n\r\nMongodb, Mysql\r\n\r\nHadoop, Apache Spark\r\n\r\nNoSQL\r\n\r\nPower BI, Tableau\t1 Year(s) 0 Month(s)\r\n\r\nPowerApps Portal\t1 Year(s) 0 Month(s)\r\n\r\nOffice 365\t1 Year(s) 5 Month(s)\r\n\r\n\r\nLanguages Known\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108584b1179465e401804435a0e176&sid=3810263223&AT=1580681849\r\n2/2/20 23&18\r\n\r\n\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tExpert\r\n\r\nHindi\tProficient\r\n\r\n\r\nProjects\r\nProject Title: Office 365 Migration\r\nClient: J K Cement\r\nNature of Employment: Full Time\tDuration: Dec 2018 - Till Date\r\nProject Location: New Delhi\tOnsite / Offsite: Offsite\r\nRole: Domain Expert\tTeam Size: 9\r\nSkill Used: Microsoft Azure, Microsoft Power Platform, Office 365\r\nProject Details: Involved in Migration of users to Office 365 cloud with deployment of various Microsoft Tools which includes\r\nMicrosoft Teams, App developed on Power Platform.\r\n\r\nProject Title: CryptoCurrency\r\nClient:    ~~~~~~~~~~~  \r\nNature of Employment: Full Time\tDuration: Sep 2017 - Feb 2018\r\nProject Location: Work From Home\tOnsite / Offsite: Offsite\r\nRole: Database Architect/DBA\tTeam Size: 5\r\nSkill Used: MySQL, Data Analysis, Core Java, JDBC,\r\nProject Details: The system enables to get all the updated cryptocurrency data &perform SQL queries.\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~  \tCountries: India\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108584b1179465e401804435a0e176&sid=3810263223&AT=1580681849\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Config Deploy Upgrade Migrate) and slightly concentrated in Marketing (mostly Data & Analytics).    ~~~~~~~~  's experience appears to be entry level, with 18 months of experience.",
+          "sov:MonthsOfWorkExperience": "18",
+          "sov:AverageMonthsPerEmployer": "18",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "86",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "30",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEPLOYMENT",
+                            "@id": "023631",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "27",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "BIG DATA ANALYTICS",
+                            "@id": "5530909",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "5530942",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "5530761",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5530805",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "NOSQL",
+                            "@id": "5530812",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "POWER BI",
+                            "@id": "5531045",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JDBC",
+                            "@id": "020287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SQL QUERIES",
+                            "@id": "3404001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mainframe",
+                        "@id": "197",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "VMS",
+                            "@id": "010680",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUTHENTICATION",
+                            "@id": "005912",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE SPARK",
+                            "@id": "3391146",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "Hadoop",
+                            "@id": "1004744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MS SECURITY",
+                            "@id": "025140",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MICROSOFT SECURITY",
+                                "@id": "022010",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SCRIPTING",
+                            "@id": "024873",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "024134",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "DEV OPS",
+                            "@id": "0146073",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DEVOPS",
+                                "@id": "0146074",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REST",
+                            "@id": "7180010",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "VIRTUAL MACHINE",
+                            "@id": "7180107",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VM",
+                                "@id": "7180108",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "TABLEAU SOFTWARE",
+                            "@id": "5540985",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TABLEAU",
+                                "@id": "55409852",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compiler & Runtime",
+                        "@id": "719",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "VIRTUAL MACHINE",
+                            "@id": "7190065",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VM",
+                                "@id": "7190066",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5500361",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SECURITY",
+                            "@id": "022110",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "VM",
+                            "@id": "010677",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "13",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BI",
+                                "@id": "1400081",
+                                "@existsInText": "true",
+                                "@totalMonths": "13",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "1400328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "024469",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "BUSINESS REQUIREMENTS",
+                            "@id": "022626",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "REQUIREMENTS GATHERING",
+                                "@id": "006835",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2017-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Scientific",
+                    "@id": "15",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Chemical",
+                        "@id": "377",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "GCP",
+                            "@id": "018186",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Clinical",
+                    "@id": "28",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "277",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "GCP",
+                            "@id": "018185",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "43",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "44",
+              "@ends": "77",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "78",
+              "@ends": "82",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "83",
+              "@ends": "88",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "89",
+              "@ends": "112",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "113",
+              "@ends": "124",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "125",
+              "@ends": "151",
+              "@sectionType": "PROJECT_HEADERS",
+              "#text": "Projects"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "5426",
+        "sov:ParseTime": "656",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:ab648bc1-e697-43e9-9aee-6d3d8b60f21a",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "YOwAAAAAAAA="
+      }
+    }
+  }
+}

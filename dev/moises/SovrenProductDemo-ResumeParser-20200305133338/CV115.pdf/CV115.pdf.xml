@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Devanshi Mittalbhai Jhaveri</FormattedName>
+				<GivenName>Devanshi</GivenName>
+				<MiddleName>Mittalbhai</MiddleName>
+				<FamilyName>Jhaveri</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Mumbai</Municipality>
+					<DeliveryAddress>
+						<AddressLine>MBA/PGDM [Marketing]</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>An MBA (Telecom Management, Marketing &amp; Finance) and Engineer in the field of Electronics &amp; Communication with
+experience in the field of Enterprise Asset Management, Change Impact Assessment, Data Analytics, Telecom Business
+Process Modelling &amp; Transformation, Risk assessment in telecom domain and Internal Process Audit in healthcare domain
+Operational knowledge in various MS Office applications like Excel, Power-point, Word, SAP &amp; business intelligence tools like
+Alteryx &amp; PowerBI
+An effective team player with intension of gaining knowledge to sharpen already existing skills and competencies</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>EY</EmployerOrgName>
+				<PositionHistory positionType="contract" currentEmployer="true">
+					<Title>Consultant</Title>
+					<OrgName>
+						<OrganizationName>EY</OrganizationName>
+					</OrgName>
+					<Description>Consultant in Risk Advisory team - Telecom - Internal Audit</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Finance → Accounting</CategoryCode>
+						<Comments>Finance describes 43% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>EY</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Consultant</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="contract">
+					<Title>Consultant</Title>
+					<OrgName>
+						<OrganizationName>EY</OrganizationName>
+					</OrgName>
+					<Description>to Apr 2018
+Organisation</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TF">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>EY</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Consultant</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>EY</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Ernst &amp; Young</EmployerOrgName>
+				<PositionHistory positionType="contract" currentEmployer="true">
+					<Title>Consultant</Title>
+					<OrgName>
+						<OrganizationName>Ernst &amp; Young</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Mumbai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Grade 2 Projects Undertaken Key Deliverables &amp; Learning Timeline
+Core Data Team Member (Off-site)
+
+https://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681981
+2/2/20 23&amp;20</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>Ernst AND Young</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Consultant</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Ernst AND Young</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Enterprise Asset Management</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Business Transformation Support Lead (On-Site)</Title>
+					<OrgName>
+						<OrganizationName>Enterprise Asset Management</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>Nashik</Region>
+							<Municipality>Navi Mumbai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Indore for a leading hospital chain in India
+Processes covered:
+1. Procurement of Medical and Non-medical Supplies and Hospital Inventory Management
+2. In-patient &amp; Out-Patient - Registration to Discharge cycle, Billing and Collection
+3. Medical &amp; Non-medical transportation
+Methodology used:
+1. Identification of each sub-level process and discussion with relevant stakeholder
+2. Performing analytics on various data objects with the help of system level reports
+3. Listing various gaps based on process and system understanding
+4. Citing the risk impact and root cause
+5. Devised various corrective/preventive action plans
+6. Quantification of the cost and revenue impact</Description>
+					<StartDate>
+						<YearMonth>2018-11</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-05</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Purchasing, Procurement, Inventory Control, Supply Chain → Purchasing</CategoryCode>
+						<Comments>Purchasing, Procurement, Inventory Control, Supply Chain describes 29% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Enterprise Asset Management</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Business Transformation Support Lead On Site</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Business Transformation Support Lead</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>EAM</OrganizationName>
+					</OrgName>
+					<Description>solution for one of the world's largest telecom players across Egypt assisting them to track their fixed assets from an acquire-to-retire stage
+Key Deliverables:
+1. Master Data Creation and Management:
+Enterprise Asset Management
+Mapping of warehouse and site inventories with the new master database thereby assisting the migration activity
+Preparation of the Bill of Materials by taking input from various sources such as purchase orders and stock inventories of the client
+Reconciliation of Asset inventories:
+Analysed the financial reports such as the AUC and FAR of the client and performed their reconciliation with the warehouse and site inventories respectively
+the data analysis, sanitization, streamlining, conjunction and presentation of data points from procurement, inventory and Network Operating Centre to make them sync with the new Asset management</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Finance → Accounting</CategoryCode>
+						<Comments>Finance describes 31% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>EAM</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Enterprise Asset Management</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Symbiosis International (Deemed) University</SchoolName>
+				</School>
+				<Degree degreeType="masters">
+					<DegreeName>MBA/PGDM</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Marketing</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MBA/PGDM (Marketing) from Symbiosis International (Deemed) University in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>MBA</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>MBA</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Symbiosis International Deemed University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>gujarat technological university</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2015</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Electronics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2015</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Electronics/Telecommunication) from gujarat technological university in 2015</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>gujarat technological university</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Consultant, System Admin, Asset Management, Process Audit, Change Management, Risk
+Management, Business Planning, Impact Assessment, Data Analytics, Network Management, Business Intelligence, Data
+Analytics, Stakeholder Management, Root Cause Analysis, SAP
+
+Verified: Phone Number |	Email - id
+
+
+ID: 6999455265af717863	Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft Office
+
+
+https://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681981
+2/2/20 23&amp;20</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>gu</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Gujarati</Comments>
+			</Language>
+		</Languages>
+		<Associations>
+			<Association>
+				<Name>Core Data Team Member (Off-site)</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;20
+
+
+Devanshi Mittalbhai Jhaveri
+
+
+Consultant seeking roles in Asset Management, Process Audit, Change
+Management, Risk Management, Business Planning, Impact Assessment, Data
+Analytics, Network Management, Business Intelligence, Data Analytics, Stakeholder
+Management, Root Cause Analysis, SAP
+
+
+Current Designation: Consultant	Total Experience: 1 Year(s) 7 Month(s)
+Current Company: EY	Notice Period: More than 3 Months
+Current Location: Mumbai	Highest Degree: MBA/PGDM [Marketing]
+Pref. Location: Ahmedabad, Mumbai, Gandhinagar
+Functional Area: Corporate Planning / Consulting
+Role: Sr Outside Consultant
+Industry: Telcom/ISP
+Marital Status: Single/unmarried
+Key Skills: Consultant, System Admin, Asset Management, Process Audit, Change Management, Risk
+Management, Business Planning, Impact Assessment, Data Analytics, Network Management, Business Intelligence, Data
+Analytics, Stakeholder Management, Root Cause Analysis, SAP
+
+Verified: Phone Number |	Email - id
+
+
+ID: 6999455265af717863	Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+
+
+Summary
+An MBA (Telecom Management, Marketing &amp; Finance) and Engineer in the field of Electronics &amp; Communication with
+experience in the field of Enterprise Asset Management, Change Impact Assessment, Data Analytics, Telecom Business
+Process Modelling &amp; Transformation, Risk assessment in telecom domain and Internal Process Audit in healthcare domain
+Operational knowledge in various MS Office applications like Excel, Power-point, Word, SAP &amp; business intelligence tools like
+Alteryx &amp; PowerBI
+An effective team player with intension of gaining knowledge to sharpen already existing skills and competencies
+
+
+Work Experience
+EY as Consultant
+Apr 2018 to Till Date
+Consultant in Risk Advisory team - Telecom - Internal Audit
+
+
+EY as Consultant
+Apr 2018 to Apr 2018
+Organisation
+Ernst &amp; Young, Mumbai
+Apr 2018 - Present Team
+Risk Advisory, Internal Audit, Telecom Designation
+Consultant - Grade 2 Projects Undertaken Key Deliverables &amp; Learning Timeline
+Core Data Team Member (Off-site)
+
+https://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681981
+2/2/20 23&amp;20
+
+
+Apr 2018 - Nov 2018
+
+Enterprise Asset Management (EAM) solution for one of the world's largest telecom players across Egypt assisting them
+to track their fixed assets from an acquire-to-retire stage
+Key Deliverables:
+1. Master Data Creation and Management:
+Enterprise Asset Management
+Mapping of warehouse and site inventories with the new master database thereby assisting the migration activity
+Preparation of the Bill of Materials by taking input from various sources such as purchase orders and stock inventories of
+the client
+Reconciliation of Asset inventories:
+Analysed the financial reports such as the AUC and FAR of the client and performed their reconciliation with the
+warehouse and site inventories respectively
+the data analysis, sanitization, streamlining, conjunction and presentation of data points from procurement, inventory and
+Network Operating Centre to make them sync with the new Asset management
+Business Transformation Support Lead (On-Site)
+Nov 2018 - May 2019
+Enterprise Asset Management (EAM) solution for one of the world's largest telecom players across Egypt assisting them
+to track their fixed assets from an acquire-to-retire stage
+Identifying the key risks &amp; re-engineer processes for risk transformation.
+Ensure the client's smooth transition to the EAM solution with respect to people and operational readiness
+Assessing the impact of the change coming from new solution by understanding the client's current asset management
+practices holistically and mapping them against the respective activities under the new solution
+Managing stakeholders across various functions viz Networks, SCM, Finance, Global MDM, etc., understanding their risks
+&amp; challenges and recommending efficient solutions to mitigate these risks
+Central SPOC for multiple functions across the client during the implementation phase
+Executing Vendor on-boarding pertaining to the new EAM solution
+Delivered training as a part of the knowledge transfer and hand-holding of 40+ client stakeholders from different disciplines
+on the SAP based EAM solution.
+Performed internal process audit for 3 locations - Navi Mumbai, Nashik, Indore for a leading hospital chain in India
+Processes covered:
+1. Procurement of Medical and Non-medical Supplies and Hospital Inventory Management
+2. In-patient &amp; Out-Patient - Registration to Discharge cycle, Billing and Collection
+3. Medical &amp; Non-medical transportation
+Methodology used:
+1. Identification of each sub-level process and discussion with relevant stakeholder
+2. Performing analytics on various data objects with the help of system level reports
+3. Listing various gaps based on process and system understanding
+4. Citing the risk impact and root cause
+5. Devised various corrective/preventive action plans
+6. Quantification of the cost and revenue impact
+
+
+Education
+UG: B.Tech/B.E. (Electronics/Telecommunication) from gujarat technological university in 2015
+
+PG: MBA/PGDM (Marketing) from Symbiosis International (Deemed) University in 2018
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft Office
+
+
+https://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681981
+2/2/20 23&amp;20
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+Gujarati
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681981
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Mumbai</sov:CurrentLocation>
+				<sov:PreferredLocation>Ahmedabad, Mumbai, Gandhinagar</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Devanshi Mittalbhai Jhaveri's experience appears to be somewhat concentrated in Finance (mostly Compliance) and slightly concentrated in Degreed Accounting (mostly Auditing). Devanshi Mittalbhai Jhaveri's experience appears to be lower-to-mid level, with about 2 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>26</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>8</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>15</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>6</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 11/1/2018, the candidate held the following low-level management position for 6 months:
+	Title: Business Transformation Support Lead (On-Site) for Enterprise Asset Management</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="31">
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="10" percentOfParentTaxonomy="33">
+								<sov:Skill name="AUDIT" id="005583" existsInText="true" totalMonths="23" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="RISK ASSESSMENT" id="007092" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="7" percentOfParentTaxonomy="24">
+								<sov:Skill name="ASSET MANAGEMENT" id="004809" existsInText="true" totalMonths="13" lastUsed="2019-05-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="FINANCE" id="023147" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting" id="705" percentOfOverall="4" percentOfParentTaxonomy="12">
+								<sov:Skill name="BOM" id="7000312" existsInText="false" childrenTotalMonths="7" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="BILL OF MATERIALS" id="7000313" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="INTERNAL AUDIT" id="7000215" existsInText="true" totalMonths="23" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="4" percentOfParentTaxonomy="12">
+								<sov:Skill name="COLLECTION" id="013778" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="FIXED ASSETS" id="017570" existsInText="true" totalMonths="13" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="RECONCILIATION" id="022800" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internal Audit" id="706" percentOfOverall="2" percentOfParentTaxonomy="7">
+								<sov:Skill name="BOM" id="7000067" existsInText="false" childrenTotalMonths="7" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="BILL OF MATERIALS" id="7000068" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Admin and Customer Service" id="242" percentOfOverall="2" percentOfParentTaxonomy="6">
+								<sov:Skill name="INTERNAL AUDIT" id="026141" existsInText="true" totalMonths="23" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Trading" id="239" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="FINANCIAL REPORTS" id="022370" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="MBA" id="7000321" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; SUMMARY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="7000125" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="17">
+							<sov:Subtaxonomy name="Auditing" id="942" percentOfOverall="12" percentOfParentTaxonomy="72">
+								<sov:Skill name="AUDIT" id="005584" existsInText="true" totalMonths="23" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-3; POS-5" childrenTotalMonths="23" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="INTERNAL AUDIT" id="026140" existsInText="true" totalMonths="23" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting" id="932" percentOfOverall="2" percentOfParentTaxonomy="11">
+								<sov:Skill name="FIXED ASSETS" id="024145" existsInText="true" totalMonths="13" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reconciliations" id="257" percentOfOverall="1" percentOfParentTaxonomy="6">
+								<sov:Skill name="RECONCILIATION" id="081000" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management" id="960" percentOfOverall="1" percentOfParentTaxonomy="6">
+								<sov:Skill name="RECONCILIATION" id="080997" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="962" percentOfOverall="1" percentOfParentTaxonomy="6">
+								<sov:Skill name="FINANCIAL REPORTS" id="017477" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="12">
+							<sov:Subtaxonomy name="RF" id="268" percentOfOverall="10" percentOfParentTaxonomy="82">
+								<sov:Skill name="TELECOM" id="022904" existsInText="true" totalMonths="23" lastUsed="2020-03-05" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-3; POS-4; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="15">
+								<sov:Skill name="TOPO" id="023035" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2019-05-01">
+									<sov:ChildSkill name="MAPPING" id="021224" existsInText="true" totalMonths="13" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="ROOT CAUSE ANALYSIS" id="080477" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="ROOT CAUSE ANALYSIS" id="080338" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Environmental" id="136" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="RISK ASSESSMENT" id="007095" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="11">
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="3" percentOfParentTaxonomy="30">
+								<sov:Skill name="SAP" id="007436" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="3" percentOfParentTaxonomy="28">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="7" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MAPPING" id="021223" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="1" percentOfParentTaxonomy="12">
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MASTER DATA MANAGEMENT" id="5531023" existsInText="false" childrenTotalMonths="6" childrenLastUsed="2019-05-01">
+									<sov:ChildSkill name="MDM" id="5531024" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="1" percentOfParentTaxonomy="10">
+								<sov:Skill name="CHANGE MANAGEMENT" id="022159" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SCM" id="007546" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="1" percentOfParentTaxonomy="9">
+								<sov:Skill name="BILLING" id="022475" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="1" percentOfParentTaxonomy="9">
+								<sov:Skill name="EAM" id="015812" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="MS OFFICE" id="022137" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="10">
+							<sov:Subtaxonomy name="Standards, Protocols, Technologies" id="317" percentOfOverall="10" percentOfParentTaxonomy="98">
+								<sov:Skill name="TELECOM" id="022903" existsInText="true" totalMonths="23" lastUsed="2020-03-05" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-3; POS-4; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Skilled" id="323" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="TELECOMMUNICATION" id="022284" existsInText="true" lastUsed="2015-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="4">
+							<sov:Subtaxonomy name="Purchasing" id="458" percentOfOverall="3" percentOfParentTaxonomy="61">
+								<sov:Skill name="PROCUREMENT" id="7270001" existsInText="true" totalMonths="13" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="PURCHASE ORDERS" id="006083" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Inventory" id="459" percentOfOverall="2" percentOfParentTaxonomy="39">
+								<sov:Skill name="INVENTORY" id="020086" existsInText="true" totalMonths="13" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="4">
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="2" percentOfParentTaxonomy="45">
+								<sov:Skill name="BILL OF MATERIALS" id="1400011" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="1" percentOfParentTaxonomy="32">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false" childrenTotalMonths="7" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; SUMMARY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="BUSINESS PLANNING" id="1400329" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Bookkeeping, Office Management" id="89" percentOfOverall="3">
+							<sov:Subtaxonomy name="Bookeeping Tasks" id="533" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="BILLING" id="011553" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="COLLECTION" id="013779" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="RECONCILIATION" id="022801" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="2">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="2" percentOfParentTaxonomy="89">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="RECONCILIATION" id="006624" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="11">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="CHANGE MANAGEMENT" id="012977" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="2">
+							<sov:Subtaxonomy name="Billing and Collections" id="110" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="BILLING" id="022474" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="COLLECTION" id="013780" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Environmental" id="6" percentOfOverall="1">
+							<sov:Subtaxonomy name="Remediation, Mitigation, Cleanup, Removal" id="332" percentOfOverall="1" percentOfParentTaxonomy="92">
+								<sov:Skill name="SANITIZATION" id="007435" existsInText="true" totalMonths="7" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Testing, Assessments, and Monitoring" id="328" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="RISK ASSESSMENT" id="022564" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Hardware Engineering" id="29" percentOfOverall="1">
+							<sov:Subtaxonomy name="Test Engineering" id="714" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="SYSTEM LEVEL" id="5000015" existsInText="true" totalMonths="6" lastUsed="2019-05-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="MS OFFICE" id="022136" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT WORD" id="022961" existsInText="false">
+									<sov:ChildSkill name="WORD" id="002379" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Organization Development" id="581" percentOfOverall="0" percentOfParentTaxonomy="25">
+								<sov:Skill name="CHANGE MANAGEMENT" id="9000213" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Management" id="579" percentOfOverall="0" percentOfParentTaxonomy="25">
+								<sov:Skill name="CHANGE MANAGEMENT" id="9000169" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="25">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="25">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="0">
+							<sov:Subtaxonomy name="Attitude" id="528" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEAM PLAYER" id="026529" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Healthcare Non-physician Non-nurse" id="95" percentOfOverall="0">
+							<sov:Subtaxonomy name="Allied Health" id="158" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="HEALTHCARE" id="018806" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="0">
+							<sov:Subtaxonomy name="Modeling" id="501" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PROCESS MODELLING" id="005534" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2015-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="38" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="39" ends="100" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="101" ends="106" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="107" ends="116" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="117" ends="133" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Devanshi Mittalbhai Jhaveri</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=0b2</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Ahmedabad, Mumbai, Gandhinagar</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Mumbai</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>5722</sov:ParsedTextLength>
+			<sov:ParseTime>687</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:221;POS-4] We could not find a job title for: POS-4. Every position in a resume should have a job title.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:25559cd5-b468-4889-95a0-f895882cba99</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>bHwBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

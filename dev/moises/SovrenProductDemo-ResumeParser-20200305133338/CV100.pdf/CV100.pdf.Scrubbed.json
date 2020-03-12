@@ -1,0 +1,1156 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Result-oriented Professional with 1.5 years of experience in Embedded Software Development, Embedded Design, Embedded\r\nTesting, Firmware Development.Analyzing and enhancing efficiency, stability of system. Having good experience in writing test\r\ncases based on requirement. good experience in C, Python, linux and data structure.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Atop Technology",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Embedded Software Engineer",
+                "OrgName": {
+                  "OrganizationName": "Atop Technology"
+                },
+                "Description": "1. Worked on protocols like Modbus in API devlopment.\r\n2.Experience in Xilinx FPGA processor-based software development by using Xilinx SDK.\r\n3.Good knowledge on IRIG-B time synchronization\r\n4.Worked on SPI and UART communication protocols.\r\n5.Worked on debug tools such as JTAG.\r\n6.Worked on BRAM.\r\n7.Sound knowledge on SOC.\r\n8. Hands on experience in computer vision.",
+                "StartDate": {
+                  "YearMonth": "2018-12"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Engineering → Software and Tools",
+                    "Comments": "Engineering describes 46% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Atop Technology",
+                    "sov:NormalizedTitle": "Embedded Software Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Atop Technology"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Siksha O Anusandhan University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "2020-02-02"
+                    },
+                    "EndDate": {
+                      "Year": "2023"
+                    }
+                  }
+                ],
+                "Comments": "01b0500543a4454405a4d5f0b02546&sid=3810263223&AT=1580681711\r\n2/2/20 23&17\r\n\r\n\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from Siksha O Anusandhan University in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "false",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Siksha O Anusandhan University"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "SIKSHA O ANUSANDHAN UNIVERSITY"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: M.Tech (Electronics/Telecommunication) from SIKSHA O ANUSANDHAN UNIVERSITY in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "SIKSHA O ANUSANDHAN UNIVERSITY"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Professional Development Course in Embedded System Design",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: embedded software development, embedded testing, data structures, shell scripting, linux, sdk, keil, embedded\r\nc, ARM Processor, Python, Firmware Development, PWM\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 08437ecb4b290a6629\tLast Active: 2-Feb-20\tLast Modified: 27-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nEclipse\r\n\r\nSDK (2018.1), Keil\r\n\r\nMac OS X, Windows, Ubuntu\r\n\r\nLaTeX, Pack Office\t2 Year(s)\r\n\r\nC\t2019\t2 Year(s)\r\n\r\nLinux\t1 Year(s) 5 Month(s)\r\n\r\nShell Scripting\r\n\r\nData Structures\t2019\t1 Year(s) 0 Month(s)\r\n\r\nPython\t2.7\t2019\t1 Year(s) 0 Month(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tExpert"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tExpert"
+          },
+          {
+            "LanguageCode": "or",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Oriya\tExpert"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&17\r\n\r\n\r\n   ~~~~~~~~~~~~~~~  \r\n\r\n\r\nProven experience as embedded tester, embedded developer and firmware\r\ndeveloper.Knowledge and experience in ARM processor.posses good knowledge on\r\nEmbedded C, data structure, linux, python, Image Processing, pwm, communication\r\nprotocol UART and SPI.\r\n\r\n\r\nCurrent Designation: Embedded Software Engineer\tTotal Experience: 1 Year(s) 5 Month(s)\r\nCurrent Company: Atop Technology\tNotice Period: 1 Month\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree: M.Tech\r\n[Electronics/Telecommunication]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: IT Software - Embedded /EDA /VLSI /ASIC\r\n/Chip Des.\r\nRole: Software Developer\r\nIndustry: Semiconductors/Electronics\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: embedded software development, embedded testing, data structures, shell scripting, linux, sdk, keil, embedded\r\nc, ARM Processor, Python, Firmware Development, PWM\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 08437ecb4b290a6629\tLast Active: 2-Feb-20\tLast Modified: 27-Jan-20\r\n\r\n\r\nSummary\r\nResult-oriented Professional with 1.5 years of experience in Embedded Software Development, Embedded Design, Embedded\r\nTesting, Firmware Development.Analyzing and enhancing efficiency, stability of system. Having good experience in writing test\r\ncases based on requirement. good experience in C, Python, linux and data structure.\r\n\r\n\r\nWork Experience\r\nAtop Technology as Embedded Software Engineer\r\nDec 2018 to Till Date\r\n1. Worked on protocols like Modbus in API devlopment.\r\n2.Experience in Xilinx FPGA processor-based software development by using Xilinx SDK.\r\n3.Good knowledge on IRIG-B time synchronization\r\n4.Worked on SPI and UART communication protocols.\r\n5.Worked on debug tools such as JTAG.\r\n6.Worked on BRAM.\r\n7.Sound knowledge on SOC.\r\n8. Hands on experience in computer vision.\r\n\r\n\r\nEducation\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     01b0500543a4454405a4d5f0b02546&sid=3810263223&AT=1580681711\r\n2/2/20 23&17\r\n\r\n\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from Siksha O Anusandhan University in 2018\r\n\r\nPG: M.Tech (Electronics/Telecommunication) from SIKSHA O ANUSANDHAN UNIVERSITY in 2018\r\n\r\nOther Qualifications/Certifications/Programs:\r\nProfessional Development Course in Embedded System Design\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nEclipse\r\n\r\nSDK (2018.1), Keil\r\n\r\nMac OS X, Windows, Ubuntu\r\n\r\nLaTeX, Pack Office\t2 Year(s)\r\n\r\nC\t2019\t2 Year(s)\r\n\r\nLinux\t1 Year(s) 5 Month(s)\r\n\r\nShell Scripting\r\n\r\nData Structures\t2019\t1 Year(s) 0 Month(s)\r\n\r\nPython\t2.7\t2019\t1 Year(s) 0 Month(s)\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tExpert\r\n\r\nHindi\tExpert\r\n\r\nOriya\tExpert\r\n\r\n\r\nProjects\r\nProject Title: PWM Pulse Generation for IRIG-B\r\nClient: Product Development\r\nNature of Employment: Full Time\tDuration: Sep 2019 - Dec 2019\r\nRole: Programmer\tOnsite / Offsite: Offsite\r\nTeam Size: 2\r\nSkill Used: embedded c\r\nProject Details: Projects Worked On\r\n\r\nDescription: IRIG-B frame consist of 100 pps (pulse per second) having time information in B.C.D. format.\r\nEach pulse is of 10ms duration. The reference and position identifier is of 8ms duration, Bit 1 is of 5ms\r\nduration and Bit 0 is of 2ms duration for generating pwm pulse i have used TTC(Triple Timer Counter).\r\nRole: Designing and writing code to generate pwm waveform.\r\nHardware used: Xilinx Zynq Processor and Oscilloscope\r\nTeam Size: 2\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     01b0500543a4454405a4d5f0b02546&sid=3810263223&AT=1580681711\r\n2/2/20 23&17\r\n\r\n\r\nProject Title: Modbus Protocol device Development\r\nClient: Product Development\r\nNature of Employment: Full Time\tDuration: Dec 2018 - Aug 2019\r\nRole: Programmer\tOnsite / Offsite: Offsite\r\nTeam Size: 3\r\nSkill Used: Linux, C\r\nProject Details: Xilinx Zynq processor-based module loaded with Modbus server firmware. Module used to receive Modbus\r\ndata and store it in a memory (Block RAM). This data shall be shared with another processor via UART/SPI. The processor\r\nshall receive the data and do further processing. API calls and memory mapping information shall be provided so that other\r\nprocessor can get data from the memory via UART/SPI interface. By collecting the data, the processor can use it for further\r\napplications.\r\nRole: Speed Example coding, Interface document creation, Reading and understanding the Test cases, Testing and validating\r\nthe Module, Test report creation. Processor: Xilinx Zynq Processor and TI AM3359 Processor\r\nTeam Size: 3\r\n\r\nProject Title: Face Detection Using Boosted Cascade Approach\r\nClient: Final year Project\r\nNature of Employment: Full Time\tDuration: Aug 2017 - Apr 2018\r\nRole: Programmer\tOnsite / Offsite: Offsite\r\nTeam Size: 2\r\nSkill Used: PythonOpencv\r\nProject Details: Viola-Jones objection detection approach is used to detect faces in video sequences. Here we train the\r\nboosted cascade classifier using only the frontal faces. The method for face recognition process has two phases training and\r\ndetecting. In training phase, grayscale frontal face images from Yale database and non-face images has been used. In\r\ndetection phase real time video has taken from webcam to detect frontal face and eye blinks.\r\nRole: Preparing Design and Test Description Documents, Application coding.\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~  \tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     01b0500543a4454405a4d5f0b02546&sid=3810263223&AT=1580681711\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~~~~~~~~  's experience appears to be somewhat concentrated in Engineering (mostly Computer Hardware) and somewhat concentrated in Information Technology (mostly Programming).    ~~~~~~~~~~~~~~~  's experience appears to be entry level, with 15 months of experience.",
+          "sov:MonthsOfWorkExperience": "15",
+          "sov:AverageMonthsPerEmployer": "15",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "34",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "18",
+                        "@percentOfParentTaxonomy": "51",
+                        "sov:Skill": [
+                          {
+                            "@name": "EMBEDDED SOFTWARE",
+                            "@id": "023202",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "FIRMWARE",
+                            "@id": "080764",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "JTAG",
+                            "@id": "080659",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "022816",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SOC",
+                            "@id": "008188",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SPI",
+                            "@id": "1007274",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "WRITING TEST",
+                            "@id": "025103",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "XILINX",
+                            "@id": "080677",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software and Tools",
+                        "@id": "310",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARM",
+                            "@id": "5000218",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "FIRMWARE",
+                            "@id": "080303",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SPI",
+                            "@id": "5000228",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "UART",
+                            "@id": "5000231",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "XILINX",
+                            "@id": "080275",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1",
+                            "@childrenTotalMonths": "15",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "XILINX FPGA",
+                                "@id": "011474",
+                                "@existsInText": "true",
+                                "@totalMonths": "15",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Circuits",
+                        "@id": "266",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "FPGA",
+                            "@id": "024896",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JTAG",
+                            "@id": "080593",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Optical",
+                        "@id": "141",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMPUTER VISION",
+                            "@id": "014117",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "TOPO",
+                            "@id": "023035",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MAPPING",
+                                "@id": "021224",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "29",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "17",
+                        "@percentOfParentTaxonomy": "60",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "EMBEDDED C",
+                            "@id": "016161",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "EMBEDDED SOFTWARE",
+                            "@id": "081196",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081198",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SCRIPTING",
+                            "@id": "024873",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "15",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@totalMonths": "15",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Embedded and Realtime",
+                        "@id": "340",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "EMBEDDED SOFTWARE",
+                            "@id": "081183",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081185",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compiler & Runtime",
+                        "@id": "719",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "FIELD PROGRAMMABLE GATE ARRAY",
+                            "@id": "7190021",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "15",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "FPGA",
+                                "@id": "7190022",
+                                "@existsInText": "true",
+                                "@totalMonths": "15",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JTAG",
+                            "@id": "027128",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SHELL SCRIPTING",
+                            "@id": "007925",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "FIRMWARE",
+                            "@id": "022819",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081189",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURE",
+                            "@id": "5530961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Hardware Engineering",
+                    "@id": "29",
+                    "@percentOfOverall": "13",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Firmware Engineering",
+                        "@id": "730",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "60",
+                        "sov:Skill": [
+                          {
+                            "@name": "SPI",
+                            "@id": "5000121",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "UART",
+                            "@id": "5000124",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Test Engineering",
+                        "@id": "714",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEBUG",
+                            "@id": "5000017",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "OSCILLOSCOPE",
+                            "@id": "5000028",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SPI",
+                            "@id": "5000026",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Closing and Processing",
+                        "@id": "114",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESSOR",
+                            "@id": "023636",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESSOR",
+                            "@id": "005575",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Nuclear Power Misc",
+                        "@id": "924",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021195",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "FPGA",
+                            "@id": "017936",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "61",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2023-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Hardware",
+                        "@id": "319",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "39",
+                        "sov:Skill": [
+                          {
+                            "@name": "FPGA",
+                            "@id": "017935",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "OSCILLOSCOPE",
+                            "@id": "026342",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "55",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2023-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "358",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "45",
+                        "sov:Skill": [
+                          {
+                            "@name": "CASCADE",
+                            "@id": "024424",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DEVELOPMENT",
+                            "@id": "1400022",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Brand Management",
+                        "@id": "227",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DEVELOPMENT",
+                            "@id": "005612",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Light Technical/Trades/Skilled Labor",
+                    "@id": "27",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "293",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "OSCILLOSCOPE",
+                            "@id": "081038",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Electronic",
+                        "@id": "294",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "OSCILLOSCOPE",
+                            "@id": "081025",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Mac",
+                        "@id": "300",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAC",
+                            "@id": "020979",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MAC OS",
+                                "@id": "0209793",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST CASES",
+                            "@id": "009422",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "22",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "36",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "37",
+              "@ends": "49",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "50",
+              "@ends": "59",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "60",
+              "@ends": "63",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "64",
+              "@ends": "85",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "86",
+              "@ends": "95",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "96",
+              "@ends": "151",
+              "@sectionType": "PROJECT_HEADERS",
+              "#text": "Projects"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "5435",
+        "sov:ParseTime": "374",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:303;7] The following section in the resume contains more content than the work history and education sections combined: 'Projects'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:1edd16b4-50d8-41b5-ab49-b4b26748486d",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "tG8AAAAAAAA="
+      }
+    }
+  }
+}

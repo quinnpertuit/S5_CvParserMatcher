@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Vijaya R Shrivastav</FormattedName>
+				<GivenName>Vijaya</GivenName>
+				<MiddleName>R</MiddleName>
+				<FamilyName>Shrivastav</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Gurgaon</Region>
+					<Municipality>Noida</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Delhi / NCR</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>To be a part of dynamic and progressive organization that offers challenging working environment where one can utilize energy
+and competences in a positive direction and contribute towards overall objectives of organization.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>WIPRO Technology</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Project Engineer</Title>
+					<OrgName>
+						<OrganizationName>WIPRO Technology</OrganizationName>
+					</OrgName>
+					<Description>Provide technical solutions related to production database for issues related to Federal Express(US) Transportation
+management system and International shipping system.
+Involved in Oracle DB patches and code fixes in Oracle environment.
+Hands on experience in Linux system and AS400 system to provide technical support to FedEx US shipping applications.
+Opened, tracked and resolved incident response and service requests, ensuring problem ownership, promoting end user
+satisfaction
+Provided technical expertise, system knowledge, and applicable code updates to support production &amp; testing database as
+it relates to customer issues and concerns
+Resolved customer complaints and concerns with strong verbal and negotiation skills.
+Displayed courtesy and strong interpersonal skills with all customer interactions.
+Maintained composure and patience in face of difficult customer.
+
+
+Project: FedEx US
+
+https://freesearch.naukri.com/preview/printResume?uname=cf5   24b520713310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681705</Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Database</CategoryCode>
+						<Comments>Information Technology describes 55% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>WIPRO Technology</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Project Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>WIPRO Technology</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>FedEx Shipping</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Oracle DB admin</Title>
+					<OrgName>
+						<OrganizationName>FedEx Shipping</OrganizationName>
+					</OrgName>
+					<Description>applications desc:
+
+Transportation Management System is a web-based application that allows the station users to create or schedule the trips from One Hub to the Other Hub.
+Also, it is interfaced with many systems for Payment, Settlement for Drivers, Vehicle Maintenance etc.
+Based on the role assigned, the user will be able to perform his operations.
+Administrator creates user profile, Account setup system, and Authorization controls.
+The program administrator can create, edit and delete the corporate cards.
+
+
+I
+
+
+3
+
+:: 3::</Description>
+					<StartDate>
+						<Year>2016</Year>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2020-02-02</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Internet</CategoryCode>
+						<Comments>Information Technology describes 42% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>FedEx Shipping</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Oracle DB admin</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>admin</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>FedEx Shipping</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>SRM university</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computers) from SRM university (SRMU) in 2018
+
+
+https://freesearch.naukri.com/preview/printResume?uname=cf5   24b520713310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681705
+2/2/20 23&amp;16</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>SRM university</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Project Engineer, Project Lead, Data Warehousing, Data Analysis, Project Management, Data
+Migration, Requirement Gathering, Data Modelling, Business Intelligence, Data Extraction, Software Development Data
+Integration, Database Designing, SQL, Hadoop, HTML, CSS
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 1-Feb-20
+75810927a7d846c08c6704892db409f2
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Oracle SQL, As400, Linux
+
+SAP GRC, Big data hadoop, HTML, CSS, php
+
+PHP, javascript</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+		</Languages>
+		<SecurityCredentials>
+			<SecurityCredential>
+				<Name>Duration: ~ June, 2018 onwards
+
+Description:
+International Clearance deals with the shipments/Packages that need to cross the USA/CA Border.
+It helps in creating a Manifest that contains the details of Driver, Tractor, Trailer and the Packages which is then submitted
+to the customs for their approval.
+Once the Customs provide the approval, the Driver starts the trip and reaches the border to submit the approval manifest.
+Customs verifies the manifest and approve the trip to cross the border.</Name>
+				<EffectiveDate>
+					<FirstIssuedDate>
+						<YearMonth>2018-06</YearMonth>
+					</FirstIssuedDate>
+				</EffectiveDate>
+			</SecurityCredential>
+		</SecurityCredentials>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;16
+
+
+Vijaya R Shrivastav
+
+
+Project Engineer seeking roles in Data Warehousing, Data Analysis, Project
+Management, Data Migration, Requirement Gathering, Data Modelling, Business
+Intelligence, Data Extraction, Software Development Data Integration, Database
+Designing, SQL, Hadoop, HTML, CSS
+
+
+Current Designation: Project Engineer	Total Experience: 1 Year(s) 8 Month(s)
+Current Company: WIPRO Technology	Notice Period: 2 Months
+Current Location: Noida	Highest Degree: B.Tech/B.E. [Computers]
+Pref. Location: Delhi / NCR, Gurgaon, Noida
+Functional Area: IT Software - DBA / Datawarehousing
+Role: Project Lead
+Industry: IT-Software/Software Services
+Marital Status: Single/unmarried
+Key Skills: Project Engineer, Project Lead, Data Warehousing, Data Analysis, Project Management, Data
+Migration, Requirement Gathering, Data Modelling, Business Intelligence, Data Extraction, Software Development Data
+Integration, Database Designing, SQL, Hadoop, HTML, CSS
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 1-Feb-20
+75810927a7d846c08c6704892db409f2
+
+
+Summary
+To be a part of dynamic and progressive organization that offers challenging working environment where one can utilize energy
+and competences in a positive direction and contribute towards overall objectives of organization.
+
+
+Work Experience
+WIPRO Technology as Project Engineer
+Jun 2018 to Till Date
+Provide technical solutions related to production database for issues related to Federal Express(US) Transportation
+management system and International shipping system.
+Involved in Oracle DB patches and code fixes in Oracle environment.
+Hands on experience in Linux system and AS400 system to provide technical support to FedEx US shipping applications.
+Opened, tracked and resolved incident response and service requests, ensuring problem ownership, promoting end user
+satisfaction
+Provided technical expertise, system knowledge, and applicable code updates to support production &amp; testing database as
+it relates to customer issues and concerns
+Resolved customer complaints and concerns with strong verbal and negotiation skills.
+Displayed courtesy and strong interpersonal skills with all customer interactions.
+Maintained composure and patience in face of difficult customer.
+
+
+Project: FedEx US
+
+
+https://freesearch.naukri.com/preview/printResume?uname=cf5   24b520713310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681705
+2/2/20 23&amp;16
+
+
+Role: Oracle DB admin
+
+FedEx Shipping applications desc:
+
+Transportation Management System is a web-based application that allows the station users to create or schedule the
+trips from One Hub to the Other Hub.
+Also, it is interfaced with many systems for Payment, Settlement for Drivers, Vehicle Maintenance etc.
+Based on the role assigned, the user will be able to perform his operations.
+Administrator creates user profile, Account setup system, and Authorization controls.
+The program administrator can create, edit and delete the corporate cards.
+
+
+I
+
+
+3
+
+:: 3::
+
+International Clearance
+
+Duration: ~ June, 2018 onwards
+
+Description:
+International Clearance deals with the shipments/Packages that need to cross the USA/CA Border.
+It helps in creating a Manifest that contains the details of Driver, Tractor, Trailer and the Packages which is then submitted
+to the customs for their approval.
+Once the Customs provide the approval, the Driver starts the trip and reaches the border to submit the approval manifest.
+Customs verifies the manifest and approve the trip to cross the border.
+
+
+Projects:
+
+Minor Project
+A project on the topic "Movie Success Prediction using data mining"(a website with front end using
+HTML, CSS, PHP, JAVASCRIPT and back end using Data Mining techniques like Decesion tree and K-means clustering
+
+Major project
+A project on "Health Management System" which measured Temperature, Pressure and Heart rate of patient and then
+classify them as fit or not fit and if they are prone to a heart disease or not. An android app was also made through which
+user can log into their profile or the can use the website as well.
+Skills involved: Data mining, Sql, Android and Web designing
+Certifications In Wipro Limited.
+
+TRAINED SKILLS: Sep-2018 PEGA L1 Jul-2018
+SAP Security L1 Jul-2018
+SAP GRC -Governance-Risk-ComplianceL1 Jul-2018
+SAP BASIS L1Jul-2018
+SAP ABAP L1 Jul-2018
+RDBMS - Database Development L1 Jul-2018
+Oracle SQL L1 Jun-2018
+
+
+Education
+UG: B.Tech/B.E. (Computers) from SRM university (SRMU) in 2018
+
+
+https://freesearch.naukri.com/preview/printResume?uname=cf5   24b520713310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681705
+2/2/20 23&amp;16
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Oracle SQL, As400, Linux
+
+SAP GRC, Big data hadoop, HTML, CSS, php
+
+PHP, javascript
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=cf5   24b520713310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681705
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Noida</sov:CurrentLocation>
+				<sov:PreferredLocation>Delhi / NCR, Gurgaon, Noida</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Vijaya R Shrivastav's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Engineering (mostly Other). Vijaya R Shrivastav's experience appears to be lower-to-mid level, with about 3 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>38</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>19</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="68">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="39" percentOfParentTaxonomy="58">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="21" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" totalMonths="38" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB DATABASE" id="023811" existsInText="false">
+									<sov:ChildSkill name="DATABASE DEVELOPMENT" id="015033" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="BACK END" id="025118" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="Drivers" id="1004764" existsInText="true" totalMonths="37" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="Hadoop" id="1004744" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="AS/400" id="191" percentOfOverall="4" percentOfParentTaxonomy="6">
+								<sov:Skill name="AS400" id="003516" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="4" percentOfParentTaxonomy="6">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="4" percentOfParentTaxonomy="5">
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SECURITY" id="022110" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB BASED" id="024402" existsInText="false" childrenTotalMonths="37" childrenLastUsed="2020-02-02">
+									<sov:ChildSkill name="WEB-BASED" id="02440201" existsInText="true" totalMonths="37" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="CLUSTERING" id="3490022" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="INCIDENT RESPONSE" id="3490068" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Help Desk" id="194" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="TECHNICAL SUPPORT" id="009271" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="ABAP" id="026645" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="BASIS" id="024676" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SAP" id="007436" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SRM" id="008497" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CLUSTERING" id="5530921" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="HADOOP" id="5530761" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="K-MEANS" id="7200034" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DATA WAREHOUSING" id="015020" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CLUSTERING" id="5551333" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SRM" id="5551195" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="PEGA" id="026181" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="341" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="RDBMS" id="022369" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="CLUSTERING" id="013564" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="ANDROID" id="5520503" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="ANDROID" id="7310008" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="REQUIREMENT GATHERING" id="006830" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="7">
+							<sov:Subtaxonomy name="Other" id="263" percentOfOverall="7" percentOfParentTaxonomy="100">
+								<sov:Skill name="PROJECT ENGINEER" id="022592" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="5">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SHIPPING" id="022445" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="37" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Warehouse" id="87" percentOfOverall="5">
+							<sov:Subtaxonomy name="General Tasks" id="497" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="SHIPPING" id="022446" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1" childrenTotalMonths="21" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="INTERNATIONAL SHIPPING" id="020033" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="2">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="SATISFACTION" id="030000" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="2">
+							<sov:Subtaxonomy name="Messages and Contact" id="112" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="FEDEX" id="025108" existsInText="true" totalMonths="21" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="2">
+							<sov:Subtaxonomy name="General Repair" id="452" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022117" existsInText="true" totalMonths="37" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="2">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" totalMonths="37" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="2">
+							<sov:Subtaxonomy name="Attitude" id="528" percentOfOverall="2" percentOfParentTaxonomy="100"></sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="1">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="1" percentOfParentTaxonomy="69">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HADOOP" id="1400328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="0" percentOfParentTaxonomy="31">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="1">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="0" percentOfParentTaxonomy="36">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="0" percentOfParentTaxonomy="32">
+								<sov:Skill name="FRONT END" id="5570217" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="0" percentOfParentTaxonomy="32">
+								<sov:Skill name="FRONT END" id="5570300" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="DATA EXTRACTION" id="9000117" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="0">
+							<sov:Subtaxonomy name="Corporate" id="727" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="GOVERNANCE" id="7270003" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="35" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="36" ends="77" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="78" ends="89" sectionType="SECURITY_CLEARANCES">International Clearance</sov:Section>
+				<sov:Section starts="90" ends="111" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+				<sov:Section starts="112" ends="119" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="120" ends="129" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="130" ends="144" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Vijaya R Shrivastav</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=cf5</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Delhi / NCR, Gurgaon, Noida</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Noida</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>5081</sov:ParsedTextLength>
+			<sov:ParseTime>390</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:b7bd0fc6-f124-4d60-a001-dedc3c206665</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>5x8AAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

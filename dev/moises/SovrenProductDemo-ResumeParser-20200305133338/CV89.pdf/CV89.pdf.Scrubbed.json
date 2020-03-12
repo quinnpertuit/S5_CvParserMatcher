@@ -1,0 +1,1356 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "UTTAR PRADESH"
+              ],
+              "Municipality": "Noida"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "B.Tech. (Computer Science) with nearly 2 years of rich experience as a Data Analyst with exposure in Data Sciences\r\nIn-depth knowledge of various tools like Python, Pandas, NumPy, SQL\r\nHands-on experience in reporting based projects, Analyzing Sales Figures, Market Research and Logistics\r\nExpertise in preparing financial operational reports in form of charts, graphs & tables\r\nWorking knowledge of financial markets and Pharmaceutical domain\r\nProactively analyzed data to answer key questions from stakeholders or out of self-initiated curiosity with an eye for what drove\r\nbusiness performance, investigating and communicating areas for improvement in efficiency and productivity\r\nPeople-friendly, collaborative & approachable with strong planning, interpersonal, analytical and problem solving skills",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Cognizant Technology Solutions",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Programmer Analyst",
+                "OrgName": {
+                  "OrganizationName": "Cognizant Technology Solutions"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Cognizant Technology Solutions",
+                    "sov:NormalizedTitle": "Programmer Analyst"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Programmer Analyst",
+                "OrgName": {
+                  "OrganizationName": "Cognizant Technology Solutions"
+                },
+                "Description": "to Apr 2018",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Cognizant Technology Solutions",
+                    "sov:NormalizedTitle": "Programmer Analyst"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Cognizant Technology Solutions"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "Programmer Analyst",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "Trainee Since May'19: Programmer Analyst Key Result Areas:\r\nPerforming data acquisition & extraction, data analysis (quantitative and qualitative), data presentation and reporting\r\nPresenting client specific actionable information in the form of daily, weekly and monthly reports; preparing executive\r\nreports showing the performance of the business unit against the goals\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     54c140614310f005808160d5a4e5e6&sid=3810263223&AT=1580681574\r\n2/2/20 23&14\r\n\r\n\r\nDelivering KPI reports to clients and stakeholders using presentations / diagrams; reviewing reports and data to ensure\r\nerrorless process of merging/de-duplication of customer records\r\nBuilding advanced Excel spreadsheets, using linked tables, pivot tables, conditional formatting, formulas, functions,\r\nadvanced lookups, so on; creating large PowerPoint presentations with embedded charts and tables\r\n\r\nProjects Executed:\r\nTitle: Quota Setting, Reporting Tool Objective: Client wanted to set sales targets for its marketing field force in US\r\ngeography. The project is a part of Incentive Compensation Program, wherein sales goals are floated to the sales\r\nrepresentatives, based on attainment of target percentage payout for the employees is decided\r\n\r\nRole:\r\nManaged end-to-end design of automated tool/application using Python\r\nPerformed data analysis, cleaning, validation and processing to dynamically produced excel based reports\r\nDrafted Mock up project templates for project approval and business requirement documents\r\nDesigned project workflow from initial to end stage\r\n\r\nTitle: Space, Development & Support Objective: SPACE is a web based reporting tool in which client is provided with an\r\nend to end reporting solution. It's a single page application which is developed on HTML 5 (browser compatible). One stop\r\nsolution from Data load to flexible business rules to Real time processing to online reports. Designed to suit the Sales\r\nanalytical and Incentive compensation needs of pharmaceutical companies\r\n\r\nRole:\r\nDeveloping software solutions by studying information needs, conferring with users, studying systems flow, data usage, and work processes\r\nUnderstanding process requirements and providing use cases for business, functional & technical specifications by\r\ninterfacing with the clients\r\nPlanning & discussing the technical processes of the next cycle phase or iterations of the software application that is\r\nunder development; ensuring quality deliveries and taking accountability for efficiency\r\nPreparing SQL Queries for data loading and data validation queries to check data usability, relevance and integrity based on business rules and data priority level\r\nEnsuring automated flow of operations by working with SPACE which is a web page which provided clients with an end-to-\r\nend reporting solution\r\nLoading the data into different schemes like Staging, UAT and Production through mappings\r\nMaking visualization reports (Matplotlib based) and excel reports after processing data for testing of tableau dashboards and Data Processing\r\nGood exposure to reporting projects and developing dashboard using Tableau, SQL and Excel\r\nExperienced in working under strict deadlines, while maintaining extreme precision\r\n\r\nNotable Highlights:\r\nReceived multiple client appreciations and acknowledgments\r\nReduced cost by 6%",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 37% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Programmer Analyst"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Northern India Engineering College"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from Northern India Engineering College, GGSIPU in 2017\r\n\r\nPG: in 0",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Northern India Engineering College"
+              }
+            }
+          }
+        ]
+      },
+      "SpeakingEventsHistory": {
+        "SpeakingEvent": [
+          {
+            "EventName": "",
+            "EventType": "conference",
+            "Description": "Delivering KPI reports to clients and stakeholders using presentations / diagrams; reviewing reports and data to ensure"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Programmer Analyst, Business Analyst, Data Analytics, Data Sciences, Quantitative Analysis, Data Analysis, Data\r\nManagement, Software Development, Statistical Analysis, SDLC Management, Python, Pandas, NumPy, SQL, Tableau, Data\r\nVisualization, Excel\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 29-Jan-20\r\n04728bff24284554971da18363f98700\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython\r\n\r\nscikit-learn\r\n\r\nPandas\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     54c140614310f005808160d5a4e5e6&sid=3810263223&AT=1580681574\r\n2/2/20 23&14\r\n\r\n\r\nNUMPY\r\n\r\nMATPLOTLIB\r\n\r\nREGEX\r\n\r\nSQL\r\n\r\nMicrosoft Excel\r\n\r\nTFS, Git\r\n\r\nTABLEAU"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "ENGLISH"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "HINDI"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&14\r\n\r\n\r\n   ~~~~~~~~~~  \r\n\r\n\r\nProgrammer Analyst seeking roles in Data Analytics, Data Sciences, Business\r\nAnalysis, Quantitative Analysis, Data Analysis, Data Management, incentive\r\ncompensation, Software Development, Statistical Analysis, SDLC Management, Python,\r\nPandas, NumPy, SQL\r\n\r\n\r\nCurrent Designation: Programmer Analyst\tTotal Experience: 2 Year(s) 0 Month(s)\r\nCurrent Company: Cognizant Technology Solutions\tNotice Period: 2 Months\r\n   ~~~~~~~~~~~~~~~~~~  \tHighest Degree:\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: IT Software - Application Programming /\r\nMaintenance\r\nRole: Business Analyst\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Programmer Analyst, Business Analyst, Data Analytics, Data Sciences, Quantitative Analysis, Data Analysis, Data\r\nManagement, Software Development, Statistical Analysis, SDLC Management, Python, Pandas, NumPy, SQL, Tableau, Data\r\nVisualization, Excel\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 29-Jan-20\r\n04728bff24284554971da18363f98700\r\n\r\n\r\nSummary\r\nB.Tech. (Computer Science) with nearly 2 years of rich experience as a Data Analyst with exposure in Data Sciences\r\nIn-depth knowledge of various tools like Python, Pandas, NumPy, SQL\r\nHands-on experience in reporting based projects, Analyzing Sales Figures, Market Research and Logistics\r\nExpertise in preparing financial operational reports in form of charts, graphs & tables\r\nWorking knowledge of financial markets and Pharmaceutical domain\r\nProactively analyzed data to answer key questions from stakeholders or out of self-initiated curiosity with an eye for what drove\r\nbusiness performance, investigating and communicating areas for improvement in efficiency and productivity\r\nPeople-friendly, collaborative & approachable with strong planning, interpersonal, analytical and problem solving skills\r\n\r\n\r\nWork Experience\r\nCognizant Technology Solutions as Programmer Analyst\r\nApr 2018 to Till Date\r\n\r\nCognizant Technology Solutions as Programmer Analyst\r\nApr 2018 to Apr 2018\r\nGrowth Path: Apr'18- Apr'19: Programmer Analyst Trainee Since May'19: Programmer Analyst Key Result Areas:\r\nPerforming data acquisition & extraction, data analysis (quantitative and qualitative), data presentation and reporting\r\nPresenting client specific actionable information in the form of daily, weekly and monthly reports; preparing executive\r\nreports showing the performance of the business unit against the goals\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     54c140614310f005808160d5a4e5e6&sid=3810263223&AT=1580681574\r\n2/2/20 23&14\r\n\r\n\r\nDelivering KPI reports to clients and stakeholders using presentations / diagrams; reviewing reports and data to ensure\r\nerrorless process of merging/de-duplication of customer records\r\nBuilding advanced Excel spreadsheets, using linked tables, pivot tables, conditional formatting, formulas, functions,\r\nadvanced lookups, so on; creating large PowerPoint presentations with embedded charts and tables\r\n\r\nProjects Executed:\r\nTitle: Quota Setting, Reporting Tool Objective: Client wanted to set sales targets for its marketing field force in US\r\ngeography. The project is a part of Incentive Compensation Program, wherein sales goals are floated to the sales\r\nrepresentatives, based on attainment of target percentage payout for the employees is decided\r\n\r\nRole:\r\nManaged end-to-end design of automated tool/application using Python\r\nPerformed data analysis, cleaning, validation and processing to dynamically produced excel based reports\r\nDrafted Mock up project templates for project approval and business requirement documents\r\nDesigned project workflow from initial to end stage\r\n\r\nTitle: Space, Development & Support Objective: SPACE is a web based reporting tool in which client is provided with an\r\nend to end reporting solution. It's a single page application which is developed on HTML 5 (browser compatible). One stop\r\nsolution from Data load to flexible business rules to Real time processing to online reports. Designed to suit the Sales\r\nanalytical and Incentive compensation needs of pharmaceutical companies\r\n\r\nRole:\r\nDeveloping software solutions by studying information needs, conferring with users, studying systems flow, data usage,\r\nand work processes\r\nUnderstanding process requirements and providing use cases for business, functional & technical specifications by\r\ninterfacing with the clients\r\nPlanning & discussing the technical processes of the next cycle phase or iterations of the software application that is\r\nunder development; ensuring quality deliveries and taking accountability for efficiency\r\nPreparing SQL Queries for data loading and data validation queries to check data usability, relevance and integrity based\r\non business rules and data priority level\r\nEnsuring automated flow of operations by working with SPACE which is a web page which provided clients with an end-to-\r\nend reporting solution\r\nLoading the data into different schemes like Staging, UAT and Production through mappings\r\nMaking visualization reports (Matplotlib based) and excel reports after processing data for testing of tableau dashboards\r\nand Data Processing\r\nGood exposure to reporting projects and developing dashboard using Tableau, SQL and Excel\r\nExperienced in working under strict deadlines, while maintaining extreme precision\r\n\r\nNotable Highlights:\r\nReceived multiple client appreciations and acknowledgments\r\nReduced cost by 6%\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from Northern India Engineering College, GGSIPU in 2017\r\n\r\nPG: in 0\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython\r\n\r\nscikit-learn\r\n\r\nPandas\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     54c140614310f005808160d5a4e5e6&sid=3810263223&AT=1580681574\r\n2/2/20 23&14\r\n\r\n\r\nNUMPY\r\n\r\nMATPLOTLIB\r\n\r\nREGEX\r\n\r\nSQL\r\n\r\nMicrosoft Excel\r\n\r\nTFS, Git\r\n\r\nTABLEAU\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nENGLISH\r\n\r\nHINDI\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~  \tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     54c140614310f005808160d5a4e5e6&sid=3810263223&AT=1580681574\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~~~  's experience appears to be somewhat concentrated in Information Technology (mostly Programming) and slightly concentrated in User Experience (mostly Interactive Design).    ~~~~~~~~~~  's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "24",
+          "sov:AverageMonthsPerEmployer": "12",
+          "sov:FulltimeDirectHirePredictiveIndex": "33",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "38",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "Git",
+                            "@id": "1004755",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2019-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MATPLOTLIB",
+                                "@id": "3391120",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2019-04-01",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                              },
+                              {
+                                "@name": "NUMPY",
+                                "@id": "3391118",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              },
+                              {
+                                "@name": "PANDAS",
+                                "@id": "3391116",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081198",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "REGEX",
+                            "@id": "3391139",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SQL QUERIES",
+                            "@id": "3404001",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA VALIDATION",
+                            "@id": "025857",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "UAT",
+                            "@id": "010065",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "USABILITY",
+                            "@id": "010313",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "TABLEAU SOFTWARE",
+                            "@id": "5540985",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2019-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TABLEAU",
+                                "@id": "55409852",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2019-04-01",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "SDLC",
+                            "@id": "025956",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "USE CASES",
+                            "@id": "010312",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081189",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Embedded and Realtime",
+                        "@id": "340",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081185",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB BASED",
+                            "@id": "024402",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Training",
+                        "@id": "202",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ACQUISITION",
+                            "@id": "023246",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "341",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "PIVOT TABLES",
+                            "@id": "004856",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "15",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Interactive Design",
+                        "@id": "572",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570157",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570127",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570120",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Visual Design",
+                        "@id": "565",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570073",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Motion Design",
+                        "@id": "564",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570059",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Information Architect",
+                        "@id": "567",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "MOCK-UP",
+                            "@id": "5570098",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2019-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MOCK UP",
+                                "@id": "5570302",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2019-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "12",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "87",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUOTA",
+                            "@id": "030021",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SALES GOALS",
+                            "@id": "030743",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SALES TARGETS",
+                            "@id": "030829",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Account Management",
+                        "@id": "104",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "13"
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "75",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "DATA VALIDATION",
+                            "@id": "025858",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "PROBLEM SOLVING",
+                            "@id": "005482",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008576",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "64",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2019-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2019-04-01",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "1400072",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "QUANTITATIVE ANALYSIS",
+                            "@id": "006273",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET RESEARCH",
+                            "@id": "1400326",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "MICROSOFT EXCEL",
+                            "@id": "024810",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MICROSOFT POWERPOINT",
+                            "@id": "023613",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2019-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "POWERPOINT",
+                                "@id": "021977",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2019-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Process",
+                        "@id": "143",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "62",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "006272",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "022816",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "022186",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Compensation",
+                        "@id": "184",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMPENSATION PROGRAM MANAGEMENT",
+                            "@id": "9000051",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2019-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "COMPENSATION PROGRAM",
+                                "@id": "9000308",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2019-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA VALIDATION",
+                            "@id": "9000104",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "QUANTITATIVE ANALYSIS",
+                            "@id": "9000112",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "9000111",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "91",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "022510",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "QUANTITATIVE ANALYSIS",
+                                "@id": "006276",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Securities",
+                        "@id": "236",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL MARKETS",
+                            "@id": "017466",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008574",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Software",
+                        "@id": "931",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA VALIDATION",
+                            "@id": "025856",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ACQUISITION",
+                            "@id": "014955",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "WORKFLOW",
+                            "@id": "024213",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Modeling",
+                        "@id": "501",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008575",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Budget Related",
+                        "@id": "516",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMPENSATION",
+                            "@id": "014003",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TECHNICAL SPECIFICATIONS",
+                            "@id": "009269",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "LOGISTICS",
+                            "@id": "022309",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "21",
+              "@ends": "31",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "32",
+              "@ends": "42",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "43",
+              "@ends": "100",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "101",
+              "@ends": "106",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "107",
+              "@ends": "135",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "136",
+              "@ends": "150",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "6125",
+        "sov:ParseTime": "499",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:222;POS-3] No employer name was found for:  POS-3. Every position in a resume should have an employer name."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:5a1c1b90-4e43-479a-9813-b5d18502ea16",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "lwD9//////8="
+      }
+    }
+  }
+}

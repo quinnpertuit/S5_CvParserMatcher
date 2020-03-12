@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ManagementLevel>none</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>member of the data science team, and working alongside our technical experts</MainJobTitle>
+    <JobTitle>member of the data science team</JobTitle>
+    <JobTitle>member</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <MainEmployerName>WHAT WE ARE LOOKING FOR</MainEmployerName>
+  </EmployerNames>
+  <LanguageCodes>
+    <LanguageCode>fr</LanguageCode>
+    <LanguageCode>en</LanguageCode>
+  </LanguageCodes>
+  <CurrentLocation>
+    <Municipality>Tokyo</Municipality>
+    <CountryCode>JP</CountryCode>
+  </CurrentLocation>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>master's degree in mathematics and Statistics</DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>masters</RequiredDegree>
+  <SourceText>Shift Technology is reinventing insurance claims automation and fraud detection with AI. We help insurers fully automate more claims, deliver a great customer experience while protecting against risk, and accurately identify suspected claims fraud, making investigative teams more effective and reducing fraud losses.
+
+Since our launch in 2014 in Paris, we've raised over $100M with Tier 1 investors, opened offices in Boston, Tokyo, Singapore, London, Madrid, Zurich, and Hong Kong, and currently work with more than 80 insurers globally. If you are excited about joining a fast-growing insurtech innovator with a passion for excellence and global culture, Shift is the place for you.
+
+Are you looking for an internship where you can get strong programming skills and discover real-life problems? Come and join the French Insurtech leader to change the insurance world with A.I.!
+
+This position is for you if you are looking for an end-of-studies internship to complete your degree, and are interested in a permanent position if you think Shift is the right place to start!
+
+YOUR ROLE
+
+As a member of the data science team, and working alongside our technical experts, your role will be key to roll-out our different solutions to the clients. Your day-to-day will include :
+Set-up and deploy in production the data processing pipelines of our clients, including data reception in batches or in real-time, data cleaning, information extraction, calibration of fraud detection models, etc.
+Work closely with our clients to understand their needs, their feedback to improve our solutions
+R&amp;D for product development and innovation (through machine learning, image analysis, NLP, trend analysis, chatbots)
+Work closely with the sales team for prospects demo (and yes, that includes travelling worldwide!)
+
+WHAT WE ARE LOOKING FOR
+You have a master's degree in mathematics and Statistics, (a knowledge in machine learning and/or Big Data is a plus)
+You have experience in object-oriented programming
+You combine strong analysis with synthesis abilities and are not afraid to deal with the details
+You can write quality production code
+You are comfortable dealing with clients
+You are fluent in English, and ideally in an other European language
+PERKS AND BENEFITS
+Nice office in central Paris
+International environment (we have more than 35 nationalities represented at Shift!)
+Lunch card and public transportation sponsorship
+Healthy seasonal basket fruits and cereals
+Welcome drinks / Team building events
+Workshop and training
+
+EEO Statement
+
+At Shift we thrive to be a diverse and inclusive workforce. We hire and trust people without regard to race, color, religion, marital status, age, national or ethnic origin, physical or mental disability, medical condition, pregnancy, genetic information, gender identity or expression, sexual orientation, or other non-merit criteria.
+Shift is proud to be an Equal Opportunity Employer.</SourceText>
+  <RevisionDate>2020-03-08</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>PoUAAAAAAAA=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="45">
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="15" percentOfParentTaxonomy="33">
+          <Skill name="DATA SCIENCE" id="5530958" existsInText="true" required="false" />
+          <Skill name="MACHINE LEARNING" id="5531016" existsInText="true" required="true" />
+          <Skill name="NATURAL LANGUAGE PROCESSING" id="5531029" existsInText="false" required="false">
+            <ChildSkill name="NLP" id="5531030" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Machine Learning" id="720" percentOfOverall="6" percentOfParentTaxonomy="13">
+          <Skill name="DATA SCIENCE" id="7200001" existsInText="true" required="false" />
+          <Skill name="MACHINE LEARNING" id="7200149" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Multimedia" id="351" percentOfOverall="6" percentOfParentTaxonomy="13">
+          <Skill name="PERKS ENTERPRISE" id="351001" existsInText="false" required="false">
+            <ChildSkill name="PERKS" id="35100101" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="6" percentOfParentTaxonomy="13">
+          <Skill name="OBJECT-ORIENTED" id="023329" existsInText="true" required="false">
+            <ChildSkill name="OBJECT-ORIENTED PROGRAMMING" id="003631" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Security" id="338" percentOfOverall="3" percentOfParentTaxonomy="7">
+          <Skill name="MACHINE LEARNING" id="3380002" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="3" percentOfParentTaxonomy="7">
+          <Skill name="REAL-TIME" id="081190" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Embedded and Realtime" id="340" percentOfOverall="3" percentOfParentTaxonomy="7">
+          <Skill name="REAL-TIME" id="081186" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Database" id="193" percentOfOverall="3" percentOfParentTaxonomy="7">
+          <Skill name="DATA CLEANING" id="014973" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Engineering" id="5" percentOfOverall="15">
+        <Subtaxonomy name="General Engineering" id="307" percentOfOverall="6" percentOfParentTaxonomy="40">
+          <Skill name="CALIBRATION" id="080478" existsInText="true" required="true" />
+          <Skill name="REAL-TIME" id="080509" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="3" percentOfParentTaxonomy="20">
+          <Skill name="REAL-TIME" id="080770" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Techniques" id="264" percentOfOverall="3" percentOfParentTaxonomy="20">
+          <Skill name="CALIBRATION" id="080637" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Stress Analysis and Testing" id="309" percentOfOverall="3" percentOfParentTaxonomy="20">
+          <Skill name="CALIBRATION" id="080308" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Marketing" id="14" percentOfOverall="9">
+        <Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="3" percentOfParentTaxonomy="33">
+          <Skill name="DATA SCIENCE" id="1400075" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Product" id="585" percentOfOverall="3" percentOfParentTaxonomy="33">
+          <Skill name="PRODUCT DEVELOPMENT" id="1400022" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Brand Management" id="227" percentOfOverall="3" percentOfParentTaxonomy="33">
+          <Skill name="PRODUCT DEVELOPMENT" id="005612" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Insurance" id="19" percentOfOverall="9">
+        <Subtaxonomy name="Auto" id="416" percentOfOverall="6" percentOfParentTaxonomy="67">
+          <Skill name="AUTO INSURANCE" id="024485" existsInText="false" required="false">
+            <ChildSkill name="INSURANCE CLAIMS" id="019925" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Claims and Adjusting" id="408" percentOfOverall="3" percentOfParentTaxonomy="33">
+          <Skill name="CLAIMS" id="022237" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Clinical" id="28" percentOfOverall="6">
+        <Subtaxonomy name="Tests and Functions" id="276" percentOfOverall="3" percentOfParentTaxonomy="50">
+          <Skill name="CALIBRATION" id="023206" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Claims and Billing" id="269" percentOfOverall="3" percentOfParentTaxonomy="50">
+          <Skill name="CLAIMS" id="022238" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Degreed Accounting" id="32" percentOfOverall="6">
+        <Subtaxonomy name="Payroll" id="961" percentOfOverall="3" percentOfParentTaxonomy="50">
+          <Skill name="CLAIMS" id="022239" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Accounts Payable" id="933" percentOfOverall="3" percentOfParentTaxonomy="50">
+          <Skill name="CLAIMS" id="013345" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Sales" id="20" percentOfOverall="3">
+        <Subtaxonomy name="General" id="105" percentOfOverall="3" percentOfParentTaxonomy="100">
+          <Skill name="SALES TEAM" id="030830" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="General Management" id="80" percentOfOverall="3">
+        <Subtaxonomy name="People Oriented" id="517" percentOfOverall="3" percentOfParentTaxonomy="100">
+          <Skill name="TEAM BUILDING" id="009221" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="3">
+        <Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="3" percentOfParentTaxonomy="100">
+          <Skill name="STATISTICS" id="008585" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

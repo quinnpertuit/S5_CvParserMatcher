@@ -1,0 +1,1198 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "Gurgaon"
+              ],
+              "Municipality": "Gurgaon"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "B. Tech Computer Science Engineering with Nearly 1 years experience in IT Infrastructure Management, Technical Support, IT\r\nOperations Management, Project Management, Python, Java, SQL, Excel, Data Structures, algorithms, Numpy, Pandas, DBMS,\r\nOOP's, Data Mining, Data Analyst, Big Data Hadoop",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "British Telecom",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "@currentEmployer": "true",
+                "Title": "Trainee Associate network planner and design",
+                "OrgName": {
+                  "OrganizationName": "British Telecom"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2018-07"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "British Telecom",
+                    "sov:NormalizedTitle": "Trainee Associate network planner and design",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Trainee Associate"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@positionType": "internship",
+                "Title": "planner and Record Trainee Associate",
+                "OrgName": {
+                  "OrganizationName": "British Telecom as Network"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2018-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "British Telecom as Network",
+                    "sov:NormalizedTitle": "planner and Record Trainee Associate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "British Telecom"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "CPA Global",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "Intern",
+                "OrgName": {
+                  "OrganizationName": "CPA Global"
+                },
+                "Description": "Worked with the software development team at CPA GLOBAL,\r\nResponsibilities - Write, debug & test VBA macros\r\nUnderstanding the code flow of formatting platform written in PHP\r\nTheoretical learning of Agile Software development model",
+                "StartDate": {
+                  "YearMonth": "2017-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 45% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "CPA Global",
+                    "sov:NormalizedTitle": "Intern"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "CPA Global"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Sapient Consulting",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "Intern",
+                "OrgName": {
+                  "OrganizationName": "Sapient Consulting"
+                },
+                "Description": "Worked with the Data Analytics team,\r\nResponsibilities - Interpreting data, analyzing results using statistical techniques.\r\nAcquiring data from primary or secondary data sources and maintaining databases.",
+                "StartDate": {
+                  "YearMonth": "2016-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Sapient Consulting",
+                    "sov:NormalizedTitle": "Intern"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Sapient Consulting"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "SRM UNIVERSITY Kattankulathur CAMPUS"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "TAMIL NADU"
+              ],
+              "Municipality": "Chennai"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science and Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computer Science and Engineering) from SRM UNIVERSITY Kattankulathur CAMPUS, Chennai in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "SRM UNIVERSITY Kattankulathur CAMPUS"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Certified Big Data Hadoop Developer by Simplilearn Solutions Pvt Ltd",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "CPA",
+            "Id": "2",
+            "Description": "certification; matched to list"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Java, Java Collections, Python, Numpy, Pandas, Django, Jquery, R programming, Postgre SQL, MySQL, Big\r\nData Hadoop, Spark, Scala, Advanced Excel, Core Java, C, C++, Debugging, Data Structures, Algorithms, OOPS, Data\r\nMining, DBMS, MS Word, PowerPoint\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 53cd8c5b52429c4b15\tLast Active: 2-Feb-20\tLast Modified: 2-Feb-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nJava, Java Collections, Javascript\r\n\r\npython, django, angularjs\r\n\r\nJquery R programing, Postgre SQL\r\n\r\nMySQL, Big Data Hadoop\r\n\r\nSpark, Scala, Advanced Excel\r\n\r\nNumby, Core Java, C, C++\r\n\r\nDebugging, Data Structures\r\n\r\nOOPS, Data Mining, DBMS\r\n\r\nMS Word, PowerPoint"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          },
+          {
+            "LanguageCode": "pa",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Punjabi"
+          },
+          {
+            "LanguageCode": "fr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "French"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&14\r\n\r\n\r\n   ~~~~~~~~  \r\n\r\n\r\nB.tech Computer Science Engineer Fresher for programming, development, Technical\r\nroles, Data Analytics jobs. Skills - Java, Python, Numpy, Pandas, R programming\r\nSQL, MySQL, POSTGRESQL, Big Data and Hadoop, Advanced Excel, Data\r\nStructures Algorithms\r\n\r\n\r\nCurrent Designation: Trainee Associate network planner and\tTotal Experience: 1 Year(s) 0 Month(s)\r\ndesign\r\nNotice Period: 15 Days or less\r\nCurrent Company: British Telecom\r\nHighest Degree: B.Tech/B.E. [Computer Science and\r\n   ~~~~~~~~~~~~~~~~~~  \tEngineering]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: IT Software - Application Programming /\r\nMaintenance\r\nRole: Software Developer\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Java, Java Collections, Python, Numpy, Pandas, Django, Jquery, R programming, Postgre SQL, MySQL, Big\r\nData Hadoop, Spark, Scala, Advanced Excel, Core Java, C, C++, Debugging, Data Structures, Algorithms, OOPS, Data\r\nMining, DBMS, MS Word, PowerPoint\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 53cd8c5b52429c4b15\tLast Active: 2-Feb-20\tLast Modified: 2-Feb-20\r\n\r\n\r\nSummary\r\nB. Tech Computer Science Engineering with Nearly 1 years experience in IT Infrastructure Management, Technical Support, IT\r\nOperations Management, Project Management, Python, Java, SQL, Excel, Data Structures, algorithms, Numpy, Pandas, DBMS,\r\nOOP's, Data Mining, Data Analyst, Big Data Hadoop\r\n\r\n\r\nWork Experience\r\nBritish Telecom as Trainee Associate network planner and design\r\nJul 2018 to Till Date\r\n\r\nBritish Telecom as Network planner and Record Trainee Associate\r\nJul 2018 to May 2019\r\n\r\nCPA Global as Intern\r\nJun 2017 to Jul 2017\r\nWorked with the software development team at CPA GLOBAL,\r\nResponsibilities - Write, debug & test VBA macros\r\nUnderstanding the code flow of formatting platform written in PHP\r\nTheoretical learning of Agile Software development model\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     0180c5c0a211d4e58485f0f1207006&sid=3810263223&AT=1580681570\r\n2/2/20 23&14\r\n\r\n\r\nSapient Consulting as Intern\r\nJun 2016 to Jul 2016\r\nWorked with the Data Analytics team,\r\nResponsibilities - Interpreting data, analyzing results using statistical techniques.\r\nAcquiring data from primary or secondary data sources and maintaining databases.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computer Science and Engineering) from SRM UNIVERSITY Kattankulathur CAMPUS, Chennai in 2018\r\n\r\nOther Qualifications/Certifications/Programs:\r\nCertified Big Data Hadoop Developer by Simplilearn Solutions Pvt Ltd\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nJava, Java Collections, Javascript\r\n\r\npython, django, angularjs\r\n\r\nJquery R programing, Postgre SQL\r\n\r\nMySQL, Big Data Hadoop\r\n\r\nSpark, Scala, Advanced Excel\r\n\r\nNumby, Core Java, C, C++\r\n\r\nDebugging, Data Structures\r\n\r\nOOPS, Data Mining, DBMS\r\n\r\nMS Word, PowerPoint\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\nPunjabi\r\n\r\nFrench\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~~~~~~~~~  \tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=825   0180c5c0a211d4e58485f0f1207006&sid=3810263223&AT=1580681570\r\n2/2/20 23&14\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=825   0180c5c0a211d4e58485f0f1207006&sid=3810263223&AT=1580681570\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in Finance (mostly Internal Audit).    ~~~~~~~~  's experience appears to be entry level, with 22 months of experience.",
+          "sov:MonthsOfWorkExperience": "22",
+          "sov:AverageMonthsPerEmployer": "7",
+          "sov:FulltimeDirectHirePredictiveIndex": "1",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "46",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "18",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DJANGO",
+                            "@id": "3391160",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "Hadoop",
+                            "@id": "1004744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-07-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "NUMPY",
+                                "@id": "3391118",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              },
+                              {
+                                "@name": "PANDAS",
+                                "@id": "3391116",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "1",
+                            "@childrenLastUsed": "2017-07-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@totalMonths": "1",
+                                "@lastUsed": "2017-07-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "VBA",
+                            "@id": "3391143",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-07-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2016-07-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "5530954",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA SOURCES",
+                            "@id": "5530960",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2016-07-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "DATABASE MANAGEMENT SYSTEM",
+                            "@id": "5530966",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DBMS",
+                                "@id": "5530967",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "5530761",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "DBMS",
+                            "@id": "015077",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Gaming",
+                        "@id": "551",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "DJANGO",
+                            "@id": "5510043",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SCALA",
+                            "@id": "5510135",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "INFRASTRUCTURE MANAGEMENT",
+                            "@id": "019800",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "IT INFRASTRUCTURE",
+                            "@id": "020223",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "7200000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "026549",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SRM",
+                            "@id": "5551195",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANGULARJS",
+                            "@id": "5520505",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Help Desk",
+                        "@id": "194",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "TECHNICAL SUPPORT",
+                            "@id": "009271",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SRM",
+                            "@id": "008497",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCALA",
+                            "@id": "007474",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "20",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Internal Audit",
+                        "@id": "706",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "CPA",
+                            "@id": "7000052",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-07-01",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "CPA",
+                            "@id": "7000031",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-07-01",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Tax",
+                        "@id": "702",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "CPA",
+                            "@id": "7000010",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-07-01",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "12",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "83",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2016-07-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "1400328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "026550",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MICROSOFT POWERPOINT",
+                            "@id": "023613",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "POWERPOINT",
+                                "@id": "021977",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT WORD",
+                            "@id": "022961",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS WORD",
+                                "@id": "003106",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "WORD",
+                                "@id": "002379",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Hardware Engineering",
+                    "@id": "29",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Test Engineering",
+                        "@id": "714",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEBUG",
+                            "@id": "5000017",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-07-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "47",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS MANAGEMENT",
+                            "@id": "024471",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "RF",
+                        "@id": "268",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOM",
+                            "@id": "022904",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "OPERATIONS MANAGEMENT",
+                            "@id": "024470",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022229",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "COLLECTIONS",
+                                "@id": "013782",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Call Center or Help Desk or Customer Service",
+                    "@id": "46",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Customer Facing",
+                        "@id": "130",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "COLLECTIONS",
+                            "@id": "013783",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Help Desk",
+                        "@id": "129",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "TECHNICAL SUPPORT",
+                            "@id": "009270",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "24",
+              "@ends": "33",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "34",
+              "@ends": "39",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "40",
+              "@ends": "65",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "66",
+              "@ends": "68",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "69",
+              "@ends": "72",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "73",
+              "@ends": "94",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "95",
+              "@ends": "116",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "3286",
+        "sov:ParseTime": "375",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:12d2cb17-4613-4452-9f78-ba3c2f00c66f",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "S98CAAAAAAA="
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>true</CurrentJobIsMgmt>
+  <HighestManagementScore>55</HighestManagementScore>
+  <ManagementLevel>mid</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Criteo team members partner</MainJobTitle>
+    <JobTitle>team members partner</JobTitle>
+    <JobTitle>Internship of a minimum</JobTitle>
+    <JobTitle>Internship</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <MainEmployerName>Criteo (NASDAQ</MainEmployerName>
+  </EmployerNames>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>Master</DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>masters</RequiredDegree>
+  <SourceText>Who we are
+Criteo (NASDAQ: CRTO) is the global technology company powering the worlds marketers with trusted and impactful advertising. 2,800 Criteo team members partner with over 20,000 customers and thousands of publishers around the globe to deliver effective advertising across all channels, by applying advanced machine learning to unparalleled data sets. Criteo empowers companies of all sizes with the technology they need to better know and serve their customers.
+
+We are innovative, passionate and result-driven. We are an interdisciplinary team, leveraging the strengths of engineers and scientists.
+The Data Science - Product Analytics team uses cutting edge technology, advanced statistics and machine learning to understand the most complex business problems at Criteo. We are committed to designing and building technical solutions to drive Criteos development and keep up with a fast-evolving product landscape.
+We serve as trusted partners to leadership and work closely with PMs, R&amp;D, Finance or Business teams.
+Inside Data Science - Product Analytics:
+· Find new ways to optimize the bidding strategy
+· Optimize our capability to recognize users across all their devices and their interactions in the open-internet
+· Define, drive and analyze results of A/B tests to assess whether online performance is in line with offline simulations
+· Provide data-driven insights to ensure Criteo remains one step ahead of competitive threats
+· Identify and size development opportunities for new products
+What will you do?
+You enjoy solving real-world problems with data. You will be assigned to one or several projects.
+
+Overall, your responsibilities include:
+· Mine large data sets and turn them into understandable and actionable insights
+· Build scalable analytic solutions using state of the art tools based on large and granular datasets
+· Design and execute a stream of analysis and tests to measure the impact of your solutions
+· Master our internal analytic datasets and reporting tools
+Who are you?
+· Last year of Masters degree or higher in a quantitative field (Mathematics, Computer Science, Physics, Engineering, Economics,etc.)
+· Internship of a minimum of 6 months
+· Outstanding analytical skills and creative thinking
+
+· Fluency in the core toolkit of Data Science:
+R/Python; SQL/Hive
+Manipulating large-scale data sets
+Building data pipelines
+Descriptive and predictive modelling
+Implementing visualizations, dashboards, and reports
+Excellent interpersonal and communication skills, pro-active and independent
+Fun to work with!
+
+At Criteo, we dare to be different. We believe that diversity fuels innovation and creates an energy that can be seen and felt all over Criteo. We champion different perspectives and are committed to creating a workplace where all Criteos are heard and feel a sense of belonging.
+
+Criteo collects your personal data for the purposes of managing Criteo's recruitment related activities. Consequently, Criteo may use your personal data in relation to the evaluation and selection of applicants. Your information will be accessible to the different Criteo entities across the world. By clicking the "Apply" button you expressly give your consent.</SourceText>
+  <RevisionDate>2020-03-08</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>gRwBAAAAAAA=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="58">
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="16" percentOfParentTaxonomy="27">
+          <Skill name="DATA SCIENCE" id="5530958" existsInText="true" required="false" />
+          <Skill name="DATASETS" id="5530959" existsInText="true" required="true" />
+          <Skill name="MACHINE LEARNING" id="5531016" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="16" percentOfParentTaxonomy="27">
+          <Skill name="PYTHON" id="006120" existsInText="true" required="false" />
+          <Skill name="REPORTING TOOLS" id="006823" existsInText="true" required="false" />
+          <Skill name="Hive" id="1004749" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Machine Learning" id="720" percentOfOverall="11" percentOfParentTaxonomy="18">
+          <Skill name="DATA SCIENCE" id="7200001" existsInText="true" required="false" />
+          <Skill name="MACHINE LEARNING" id="7200149" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="5" percentOfParentTaxonomy="9">
+          <Skill name="LARGE-SCALE" id="7180008" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Security" id="338" percentOfOverall="5" percentOfParentTaxonomy="9">
+          <Skill name="MACHINE LEARNING" id="3380002" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="9">
+          <Skill name="SQL" id="008481" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Engineering" id="5" percentOfOverall="16">
+        <Subtaxonomy name="General Engineering" id="307" percentOfOverall="5" percentOfParentTaxonomy="33">
+          <Skill name="FUELS" id="080447" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Techniques" id="264" percentOfOverall="5" percentOfParentTaxonomy="33">
+          <Skill name="SIMULATIONS" id="008001" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Process" id="143" percentOfOverall="5" percentOfParentTaxonomy="33">
+          <Skill name="QUANTITATIVE" id="006272" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Marketing" id="14" percentOfOverall="11">
+        <Subtaxonomy name="Marketing Communications" id="592" percentOfOverall="5" percentOfParentTaxonomy="50">
+          <Skill name="ADVERTISING" id="1400153" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="5" percentOfParentTaxonomy="50">
+          <Skill name="DATA SCIENCE" id="1400075" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Finance" id="7" percentOfOverall="11">
+        <Subtaxonomy name="Other" id="243" percentOfOverall="5" percentOfParentTaxonomy="50">
+          <Skill name="FINANCE" id="023147" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="5" percentOfParentTaxonomy="50">
+          <Skill name="QUANTITATIVE" id="022510" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="5">
+        <Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="5" percentOfParentTaxonomy="100">
+          <Skill name="STATISTICS" id="008585" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

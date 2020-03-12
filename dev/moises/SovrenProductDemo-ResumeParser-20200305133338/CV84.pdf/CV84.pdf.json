@@ -1,0 +1,803 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Subhankar Dey",
+          "GivenName": "Subhankar",
+          "FamilyName": "Dey"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Bengaluru / Bangalore",
+                  "0 Year(s) 0 Month(s)"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "B. Tech (Computer Science & Engineering) fresher with excellence in managing Software Development, Application\r\nProgramming, Application Maintenance, Project Management, Requirement Gathering, Business Analysis, Solution\r\nArchitecture, Software Engineering, C, C++, Java, HTML, CSS, Data Structures, DBMS, SQL.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Final Year Project in College",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Solution Architect",
+                "OrgName": {
+                  "OrganizationName": "Final Year Project in College"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Municipality": "Kolkata"
+                    }
+                  }
+                ],
+                "Description": "Nature of Employment: Part Time\tDuration: Aug 2018 - Jun 2019\r\nProject Location: Kolkata\tOnsite / Offsite: Offsite\r\nRole: Solution Architect\tTeam Size: 4\r\nSkill Used: data mining, Excel, MATLAB\r\nRole Description: solution of all dataset and analysis",
+                "StartDate": {
+                  "YearMonth": "2018-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Machine Learning",
+                    "Comments": "Information Technology describes 80% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Final Year Project in College",
+                    "sov:NormalizedTitle": "Solution Architect"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Final Year Project in College"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "West Bengal University of Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science and Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computer Science and Engineering) from West Bengal University of Technology (WBUT) in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "West Bengal University of Technology"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Fresher, Software Development, Application Programming, Application Maintenance, Project\r\nManagement, Requirement Gathering, Business Analysis, Solution Architecture, Software\r\nEngineering, C, C++, Java, HTML, CSS, Data Structures, DBMS, SQL\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 29-Jan-20\r\n976d09b1897847a69e1cff2bdd7ef825\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nC\tC11\t2019\t3 Year(s) 9 Month(s)\r\n\r\nCORE JAVA\tSE 7\t2019\t1 Year(s) 2 Month(s)\r\n\r\nC++\tC++17\t2019\t2 Year(s) 3 Month(s)\r\n\r\nHTML\t2014\t2019\t2 Year(s) 3 Month(s)\r\n\r\nCSS\tCSS2\t2019\t1 Year(s) 2 Month(s)\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=658   854150d1479061742504d1d421e056&sid=3810263223&AT=1580681564\r\n2/2/20 23&13\r\n\r\n\r\nSQL\tOracle   2018\t0 Year(s) 6 Month(s)\r\n11G"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tBeginner"
+          },
+          {
+            "LanguageCode": "bn",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Bengali\tExpert"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&13\r\n\r\n\r\nSubhankar Dey\r\n\r\n\r\nFresher, Seeking Roles in Software Development, Application\r\nProgramming, Application Maintenance, Project Management, Requirement\r\nGathering, Business Analysis, Solution Architecture, Software\r\nEngineering, C, C++, Java, HTML, CSS, Data Structures, DBMS, SQL\r\n\r\n\r\nCurrent Location: Bengaluru / Bangalore\tTotal Experience: 0 Year(s) 0 Month(s)\r\nPref. Location: Bengaluru / Bangalore\tHighest Degree: B.Tech/B.E. [Computer Science and\r\nEngineering]\r\nFunctional Area: IT Software - System Programming\r\nRole: Software Developer\r\nIndustry: Fresher/Trainee\r\nMarital Status: Single/unmarried\r\nKey Skills: Fresher, Software Development, Application Programming, Application Maintenance, Project\r\nManagement, Requirement Gathering, Business Analysis, Solution Architecture, Software\r\nEngineering, C, C++, Java, HTML, CSS, Data Structures, DBMS, SQL\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 29-Jan-20\r\n976d09b1897847a69e1cff2bdd7ef825\r\n\r\n\r\nSummary\r\nB. Tech (Computer Science & Engineering) fresher with excellence in managing Software Development, Application\r\nProgramming, Application Maintenance, Project Management, Requirement Gathering, Business Analysis, Solution\r\nArchitecture, Software Engineering, C, C++, Java, HTML, CSS, Data Structures, DBMS, SQL.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computer Science and Engineering) from West Bengal University of Technology (WBUT) in 2019\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nC\tC11\t2019\t3 Year(s) 9 Month(s)\r\n\r\nCORE JAVA\tSE 7\t2019\t1 Year(s) 2 Month(s)\r\n\r\nC++\tC++17\t2019\t2 Year(s) 3 Month(s)\r\n\r\nHTML\t2014\t2019\t2 Year(s) 3 Month(s)\r\n\r\nCSS\tCSS2\t2019\t1 Year(s) 2 Month(s)\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=658   854150d1479061742504d1d421e056&sid=3810263223&AT=1580681564\r\n2/2/20 23&13\r\n\r\n\r\nSQL\tOracle   2018\t0 Year(s) 6 Month(s)\r\n11G\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nHindi\tBeginner\r\n\r\nBengali\tExpert\r\n\r\nEnglish\tProficient\r\n\r\n\r\nProjects\r\nProject Title: Heart Attack Prediction System Using Clustering Technique\r\nClient: Final Year Project in College\r\nNature of Employment: Part Time\tDuration: Aug 2018 - Jun 2019\r\nProject Location: Kolkata\tOnsite / Offsite: Offsite\r\nRole: Solution Architect\tTeam Size: 4\r\nSkill Used: data mining, Excel, MATLAB\r\nRole Description: solution of all dataset and analysis\r\nProject Details: This proposed system acts as a decision support system and will prove to be an aid for the physicians with\r\nthe diagnosis. Each data point is associated with multiple clusters depending upon the membership degree using data\r\nmining.\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tUS Work Status: Have H1 Visa\r\nPhysically Challenged: No\tCountries: Australia, Japan, United States\r\nJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=658   54150d1479061742504d1d421e056&sid=3810263223&AT=1580681564\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore",
+          "sov:WillingToRelocate": "No"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Subhankar Dey's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Common End-user Software (mostly Core Office). Subhankar Dey's experience appears to be entry level, with 10 months of experience.",
+          "sov:MonthsOfWorkExperience": "10",
+          "sov:AverageMonthsPerEmployer": "10",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "87",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "21",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLUSTERING",
+                            "@id": "5530921",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "5530954",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA POINT",
+                            "@id": "5530956",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "DATABASE MANAGEMENT SYSTEM",
+                            "@id": "5530966",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DBMS",
+                                "@id": "5530967",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLUSTERING",
+                            "@id": "5551333",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLUSTERING",
+                            "@id": "3490022",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLUSTERING",
+                            "@id": "013564",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "7200000",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "026549",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "021346",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "APPLICATION PROGRAMMING",
+                            "@id": "021658",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "B2B SOFTWARE",
+                            "@id": "023446",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE ENGINEERING",
+                                "@id": "008221",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "DBMS",
+                            "@id": "015077",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "341",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DECISION SUPPORT",
+                            "@id": "023179",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2019-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "024469",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "19",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "35",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "36",
+              "@ends": "39",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "40",
+              "@ends": "61",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "62",
+              "@ends": "71",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "72",
+              "@ends": "79",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Projects"
+            },
+            {
+              "@starts": "80",
+              "@ends": "93",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Project Details"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Subhankar Dey"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=658"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Current Location: Bengaluru / Bangalore",
+              "Pref. Location: Bengaluru / Bangalore",
+              "Marital Status: Single",
+              "0 Year(s) 0 Month(s)"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2893",
+        "sov:ParseTime": "234",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS,WORK HISTORY] The following section types appear multiple times in the resume: SKILLS (2 occurrences), WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,6] The following sections do not have the header on a separate line: 'Key Skills', 'Project Details'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:47d7b380-c9f3-4e73-9417-56023aefd60c",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "bSICAAAAAAA="
+      }
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "SovrenData": {
+    "@xml:lang": "en",
+    "DocumentLanguage": "en",
+    "CurrentJobIsMgmt": "true",
+    "HighestManagementScore": "55",
+    "ManagementLevel": "mid",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+      "MainJobTitle": "Criteo team members partner",
+      "JobTitle": [
+        "team members partner",
+        "Internship of a minimum",
+        "Internship"
+      ]
+    },
+    "EmployerNames": {
+      "MainEmployerName": "Criteo (NASDAQ"
+    },
+    "Education": {
+      "Degree": [
+        {
+          "DegreeType": "masters",
+          "DegreeName": "Master"
+        }
+      ]
+    },
+    "RequiredDegree": "masters",
+    "TypeOfSource": "stJobOrder",
+    "SourceText": "Who we are\r\nCriteo (NASDAQ: CRTO) is the global technology company powering the worlds marketers with trusted and impactful advertising. 2,800 Criteo team members partner with over 20,000 customers and thousands of publishers around the globe to deliver effective advertising across all channels, by applying advanced machine learning to unparalleled data sets. Criteo empowers companies of all sizes with the technology they need to better know and serve their customers.\r\n\r\nWe are innovative, passionate and result-driven. We are an interdisciplinary team, leveraging the strengths of engineers and scientists.\r\nThe Data Science - Product Analytics team uses cutting edge technology, advanced statistics and machine learning to understand the most complex business problems at Criteo. We are committed to designing and building technical solutions to drive Criteos development and keep up with a fast-evolving product landscape.\r\nWe serve as trusted partners to leadership and work closely with PMs, R&D, Finance or Business teams.\r\nInside Data Science - Product Analytics:\r\n· Find new ways to optimize the bidding strategy\r\n· Optimize our capability to recognize users across all their devices and their interactions in the open-internet\r\n· Define, drive and analyze results of A/B tests to assess whether online performance is in line with offline simulations\r\n· Provide data-driven insights to ensure Criteo remains one step ahead of competitive threats\r\n· Identify and size development opportunities for new products\r\nWhat will you do?\r\nYou enjoy solving real-world problems with data. You will be assigned to one or several projects.\r\n\r\nOverall, your responsibilities include:\r\n· Mine large data sets and turn them into understandable and actionable insights\r\n· Build scalable analytic solutions using state of the art tools based on large and granular datasets\r\n· Design and execute a stream of analysis and tests to measure the impact of your solutions\r\n· Master our internal analytic datasets and reporting tools\r\nWho are you?\r\n· Last year of Masters degree or higher in a quantitative field (Mathematics, Computer Science, Physics, Engineering, Economics,etc.)\r\n· Internship of a minimum of 6 months\r\n· Outstanding analytical skills and creative thinking\r\n\r\n· Fluency in the core toolkit of Data Science:\r\nR/Python; SQL/Hive\r\nManipulating large-scale data sets\r\nBuilding data pipelines\r\nDescriptive and predictive modelling\r\nImplementing visualizations, dashboards, and reports\r\nExcellent interpersonal and communication skills, pro-active and independent\r\nFun to work with!\r\n\r\nAt Criteo, we dare to be different. We believe that diversity fuels innovation and creates an energy that can be seen and felt all over Criteo. We champion different perspectives and are committed to creating a workplace where all Criteos are heard and feel a sense of belonging.\r\n\r\nCriteo collects your personal data for the purposes of managing Criteo's recruitment related activities. Consequently, Criteo may use your personal data in relation to the evaluation and selection of applicants. Your information will be accessible to the different Criteo entities across the world. By clicking the \"Apply\" button you expressly give your consent.",
+    "RevisionDate": "2020-03-08",
+    "ParserConfigurationString": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DigitalSignature": "YgYBAAAAAAA=",
+    "SkillsTaxonomyOutput": [
+      {
+        "@name": "Sovren",
+        "Taxonomy": [
+          {
+            "@name": "Information Technology",
+            "@id": "10",
+            "@percentOfOverall": 58.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Big Data",
+                "@id": "553",
+                "@percentOfOverall": 16.0,
+                "@percentOfParentTaxonomy": 27.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "5530958",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DATASETS",
+                    "@id": "5530959",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "5531016",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Programming",
+                "@id": "204",
+                "@percentOfOverall": 16.0,
+                "@percentOfParentTaxonomy": 27.0,
+                "Skill": [
+                  {
+                    "@name": "PYTHON",
+                    "@id": "006120",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "REPORTING TOOLS",
+                    "@id": "006823",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "Hive",
+                    "@id": "1004749",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Machine Learning",
+                "@id": "720",
+                "@percentOfOverall": 11.0,
+                "@percentOfParentTaxonomy": 18.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "7200001",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "7200149",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Distributed Systems",
+                "@id": "718",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 9.0,
+                "Skill": [
+                  {
+                    "@name": "LARGE-SCALE",
+                    "@id": "7180008",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Security",
+                "@id": "338",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 9.0,
+                "Skill": [
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "3380002",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Database",
+                "@id": "193",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 9.0,
+                "Skill": [
+                  {
+                    "@name": "SQL",
+                    "@id": "008481",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Engineering",
+            "@id": "5",
+            "@percentOfOverall": 16.0,
+            "Subtaxonomy": [
+              {
+                "@name": "General Engineering",
+                "@id": "307",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 33.0,
+                "Skill": [
+                  {
+                    "@name": "FUELS",
+                    "@id": "080447",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Techniques",
+                "@id": "264",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 33.0,
+                "Skill": [
+                  {
+                    "@name": "SIMULATIONS",
+                    "@id": "008001",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Process",
+                "@id": "143",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 33.0,
+                "Skill": [
+                  {
+                    "@name": "QUANTITATIVE",
+                    "@id": "006272",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Marketing",
+            "@id": "14",
+            "@percentOfOverall": 11.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Marketing Communications",
+                "@id": "592",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "ADVERTISING",
+                    "@id": "1400153",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Data & Analytics",
+                "@id": "588",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "1400075",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Finance",
+            "@id": "7",
+            "@percentOfOverall": 11.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Other",
+                "@id": "243",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "FINANCE",
+                    "@id": "023147",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Financial Planning & Analysis",
+                "@id": "235",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "QUANTITATIVE",
+                    "@id": "022510",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Business Operations and General Business",
+            "@id": "34",
+            "@percentOfOverall": 5.0,
+            "Subtaxonomy": [
+              {
+                "@name": "General Skills and Activities",
+                "@id": "437",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "STATISTICS",
+                    "@id": "008585",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

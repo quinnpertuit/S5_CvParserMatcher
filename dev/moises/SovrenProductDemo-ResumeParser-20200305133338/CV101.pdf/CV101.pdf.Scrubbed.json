@@ -1,0 +1,1133 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Result-oriented Professional with 2 years of experience in Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  .",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Quinnox Consultancy Services",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "@currentEmployer": "true",
+                "Title": "Consultant",
+                "OrgName": {
+                  "OrganizationName": "Quinnox Consultancy Services"
+                },
+                "Description": "Knowledge on Insurance domain.\r\nGood understanding ability to quickly adapt to new Technologies and Tools.\r\nGood analytical and problem solving skills with ability to adapt new methods and procedures\r\nSelf-Motivated with ability to work independently or as a team member\r\nExcellent communication, project co-ordination and interpersonal skills, and loves more challenging task.\r\nHighly motivated, self-starting, team player with strong desire to learn.",
+                "StartDate": {
+                  "YearMonth": "2019-01"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Personal Attributes → Attitude",
+                    "Comments": "Personal Attributes describes 50% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "Quinnox Consultancy Services",
+                    "sov:NormalizedTitle": "Consultant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Quinnox Consultancy Services"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "QBE(US)",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Back End Developer",
+                "OrgName": {
+                  "OrganizationName": "QBE(US)"
+                },
+                "Description": "PROJECT DESCRIPTION: QBE Insurance Group Limited is Australia's largest global insurer. It provides insurance\r\nservices mainly to Australia, America, Europe and Asia pacific region.\r\nAAS i.e, Automated Agency System QBE's information system for managing agent/broker (Agency name, address, personnel etc.). It acts as a central repository for all the agent information which will be utilized by downstream system.\r\n\r\nPROJECT TITLE: Sainsbury's Argos\r\nENVIRONMENT: Core Java, Spring, Hibernate,\r\nROLE: Associate software Engineer\r\n\r\nPROJECT DESCRIPTION: Argos is a British catalog retailer operating in the United Kingdom and Ireland, and a subsidiary of Sainsbury's. The company trades both through physical stores and online, with over 845 retail stores.",
+                "StartDate": {
+                  "Year": "2017"
+                },
+                "EndDate": {
+                  "AnyDate": "2020-02-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 56% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "QBE US",
+                    "sov:NormalizedTitle": "Back End Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "QBE US"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Accenture India Private Limited",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Associate Software Engineer",
+                "OrgName": {
+                  "OrganizationName": "Accenture India Private Limited"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2016-03"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Accenture India",
+                    "sov:NormalizedTitle": "Associate Software Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Accenture India"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "MOISTURE CHECKING SYSTEM",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Developer",
+                "OrgName": {
+                  "OrganizationName": "MOISTURE CHECKING SYSTEM"
+                },
+                "Description": "PROJECT DESCRIPTION: A Major Project (Final Year) to check the moisture of the soil for a farmer using soil sensor and java. (February '15 - April '15).\r\n\r\nRole/Responsibilities:\r\nIdentifying the Requirements based on Business Requirement Document.\r\nInvolved in Development, Bug fixing and Unit testing.\r\nHandled Deployments without any issues.\r\nHave done Effort Estimation.\r\nHave done Client interaction and people management.\r\nHave done server side development using Spring MVC Framework.\r\nCrud Operations done using Hibernate.\r\nHave done client side development using GWT, Ajax and JSON\r\nHave written JUnit test cases.",
+                "StartDate": {
+                  "YearMonth": "2015-02"
+                },
+                "EndDate": {
+                  "YearMonth": "2015-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 65% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "MOISTURE CHECKING SYSTEM",
+                    "sov:NormalizedTitle": "Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "MOISTURE CHECKING SYSTEM"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2015"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2015"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from IITM, Gwalior in 2015\r\n\r\nPG: in 0",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Consultant, Software Developer, Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement Analysis, Solution Architecture, Data\r\nStructure, Algorithm, Java, J2EE, Spring    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 46551805728918d995\tLast Active: 31-Jan-20\tLast Modified: 30-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nJAVA, J2EE\r\n\r\nspring boot\r\n\r\nMicroservice, Hibernate\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     120918006116050c500d5440564c6&sid=3810263223&AT=1580681844\r\n2/2/20 23&17\r\n\r\n\r\nRESTFUL\r\n\r\nGWT, HTML5\r\n\r\nJSP, JDBC, JavaScript\r\n\r\nApache Tomcat\r\n\r\nIBM Websphere Application Server\r\n\r\nMysql, DB2, ORACLE\r\n\r\nEclipse, IBM RAD\r\n\r\nJenkins, UIpath, Notepad++\r\n\r\nIBM UCD, JIRA"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tExpert"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&17\r\n\r\n\r\n   ~~~~~~~~~~  \r\n\r\n\r\nConsultant seeking roles in Software Development, Application\r\nProgramming, Application Maintenance, Project Management, Requirement\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\n\r\n\r\nCurrent Designation: Consultant -Java/J2EE\tTotal Experience: 2 Year(s) 0 Month(s)\r\nCurrent Company: Quinnox Consultancy Services\tNotice Period: 15 Days or less\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree:\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: IT Software - Application Programming /\r\nMaintenance\r\nRole: Software Developer\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Consultant, Software Developer, Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement Analysis, Solution Architecture, Data\r\nStructure, Algorithm, Java, J2EE, Spring    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 46551805728918d995\tLast Active: 31-Jan-20\tLast Modified: 30-Jan-20\r\n\r\n\r\nSummary\r\nResult-oriented Professional with 2 years of experience in Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  .\r\n\r\n\r\nWork Experience\r\nQuinnox Consultancy Services as Consultant -Java/J2EE\r\nJan 2019 to Till Date\r\nKnowledge on Insurance domain.\r\nGood understanding ability to quickly adapt to new Technologies and Tools.\r\nGood analytical and problem solving skills with ability to adapt new methods and procedures\r\nSelf-Motivated with ability to work independently or as a team member\r\nExcellent communication, project co-ordination and interpersonal skills, and loves more challenging task.\r\nHighly motivated, self-starting, team player with strong desire to learn.\r\n\r\n\r\nAccenture India Private Limited as Associate Software Engineer\r\nMar 2016 to Apr 2017\r\nPROJECTS:\r\n\r\nPROJECT TITLE: QBE INSURANCE\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     120918006116050c500d5440564c6&sid=3810263223&AT=1580681844\r\n2/2/20 23&17\r\n\r\n\r\nENVIRONMENT: Core Java, Data Structure, Spring, IBM WebSphere application Server\r\n\r\nROLE: Back End Developer\r\n\r\nCLIENT: QBE(US)\r\n\r\nPROJECT DESCRIPTION: QBE Insurance Group Limited is Australia's largest global insurer. It provides insurance\r\nservices mainly to Australia, America, Europe and Asia pacific region.\r\nAAS i.e, Automated Agency System QBE's information system for managing agent/broker (Agency name, address,\r\npersonnel etc.). It acts as a central repository for all the agent information which will be utilized by downstream system.\r\n\r\nPROJECT TITLE: Sainsbury's Argos\r\n\r\nENVIRONMENT: Core Java, Spring, Hibernate,\r\n\r\nROLE: Associate software Engineer\r\n\r\nPROJECT DESCRIPTION: Argos is a British catalog retailer operating in the United Kingdom and Ireland, and a\r\nsubsidiary of Sainsbury's. The company trades both through physical stores and online, with over 845 retail stores.\r\n\r\nPROJECT TITLE: MOISTURE CHECKING SYSTEM\r\n\r\nENVIRONMENT: Java\r\n\r\nROLE: Developer\r\n\r\nPROJECT DESCRIPTION: A Major Project (Final Year) to check the moisture of the soil for a farmer using soil sensor and\r\njava. (February '15 - April '15).\r\n\r\nRole/Responsibilities:\r\nIdentifying the Requirements based on Business Requirement Document.\r\nInvolved in Development, Bug fixing and Unit testing.\r\nHandled Deployments without any issues.\r\nHave done Effort Estimation.\r\nHave done Client interaction and people management.\r\nHave done server side development using Spring MVC Framework.\r\nCrud Operations done using Hibernate.\r\nHave done client side development using GWT, Ajax and JSON\r\nHave written JUnit test cases.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from IITM, Gwalior in 2015\r\n\r\nPG: in 0\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nJAVA, J2EE\r\n\r\nspring boot\r\n\r\nMicroservice, Hibernate\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     120918006116050c500d5440564c6&sid=3810263223&AT=1580681844\r\n2/2/20 23&17\r\n\r\n\r\nRESTFUL\r\n\r\nGWT, HTML5\r\n\r\nJSP, JDBC, JavaScript\r\n\r\nApache Tomcat\r\n\r\nIBM Websphere Application Server\r\n\r\nMysql, DB2, ORACLE\r\n\r\nEclipse, IBM RAD\r\n\r\nJenkins, UIpath, Notepad++\r\n\r\nIBM UCD, JIRA\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tExpert\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~~~~~~~~~  \tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     120918006116050c500d5440564c6&sid=3810263223&AT=1580681844\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Sales (mostly Entry Level).    ~~~~~~  's experience appears to be lower-to-mid level, with about 3 years of experience.",
+          "sov:MonthsOfWorkExperience": "41",
+          "sov:AverageMonthsPerEmployer": "10",
+          "sov:FulltimeDirectHirePredictiveIndex": "18",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "84",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "59",
+                        "@percentOfParentTaxonomy": "70",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "J2EE",
+                            "@id": "020255",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-3; POS-4",
+                            "@childrenTotalMonths": "27",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HIBERNATE",
+                                "@id": "3391127",
+                                "@existsInText": "true",
+                                "@totalMonths": "27",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3; POS-4"
+                              },
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "27",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JSP",
+                            "@id": "339001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "APPLICATION PROGRAMMING",
+                            "@id": "021658",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "APPLICATION SERVER",
+                            "@id": "024219",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "BACK END",
+                            "@id": "025118",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3",
+                            "@childrenTotalMonths": "25",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BACK END DEVELOPER",
+                                "@id": "009515",
+                                "@existsInText": "true",
+                                "@totalMonths": "25",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JSON",
+                            "@id": "5520555",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "REQUIREMENT ANALYSIS",
+                            "@id": "022962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "38",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "AJAX",
+                            "@id": "196001",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "WEBSPHERE",
+                            "@id": "026748",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURE",
+                            "@id": "5530961",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "DB2",
+                            "@id": "5530738",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JIRA",
+                            "@id": "2000006",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JUNIT",
+                            "@id": "020369",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "UNIT TESTING",
+                            "@id": "010254",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "HTML5",
+                            "@id": "5520541",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "2",
+                            "@childrenLastUsed": "2015-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@totalMonths": "2",
+                                "@lastUsed": "2015-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "2",
+                            "@childrenLastUsed": "2015-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@totalMonths": "2",
+                                "@lastUsed": "2015-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DB2",
+                            "@id": "015075",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JDBC",
+                            "@id": "020287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "64",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "38",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "RETAIL",
+                            "@id": "030018",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022552",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "080470",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Techniques",
+                        "@id": "264",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "080635",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Optical",
+                        "@id": "141",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "SENSOR",
+                            "@id": "022936",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "67",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROBLEM SOLVING",
+                            "@id": "005482",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Channel Management",
+                        "@id": "226",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "RETAIL MARKETING",
+                            "@id": "1400215",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "25",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RETAIL",
+                                "@id": "1400216",
+                                "@existsInText": "true",
+                                "@totalMonths": "25",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM PLAYER",
+                            "@id": "026529",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Call Center or Help Desk or Customer Service",
+                    "@id": "46",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Customer Facing",
+                        "@id": "130",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLIENT INTERACTION",
+                            "@id": "013440",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST CASES",
+                            "@id": "009422",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "21",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "36",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "37",
+              "@ends": "49",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "50",
+              "@ends": "98",
+              "@sectionType": "WORK HISTORY",
+              "#text": "PROJECTS [PROJECT_HEADERS_SUBSECTION_OF_WORK_SECTION]"
+            },
+            {
+              "@starts": "99",
+              "@ends": "104",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "105",
+              "@ends": "137",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "138",
+              "@ends": "150",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "4601",
+        "sov:ParseTime": "390",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS,WORK HISTORY] The following section types appear multiple times in the resume: SKILLS (2 occurrences), WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:4f3f5bab-7f04-4d43-ad3b-173ce26f2bac",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "gCkDAAAAAAA="
+      }
+    }
+  }
+}

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Result-oriented Professional with over 1 year of experience in Application Programming, Software Development, Web
+Development, Requirement Gathering, Project Management, Software Development Life Cycle, Program
+Management, Python, C, HTML, Java SE, Apache Tomcat, C++, MySQL, Data Structures, Algorithms, Oracle</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Data Analyst</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Data Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Industrial Mathematics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MS/M.Sc(Science) (Industrial Mathematics with Computer Application) from Jamia Millia Islamia in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>ATMA RAM SANATAN DHARMA COLLEGE</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Sc</DegreeName>
+					<DegreeDate>
+						<Year>2013</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Electronics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2013</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Sc (Electronics) from ATMA RAM SANATAN DHARMA COLLEGE in 2013</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>BSc</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>BSc</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>ATMA RAM SANATAN DHARMA COLLEGE</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Oracle Certified Professional</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Oracle Certified</Name>
+				<Id>2</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Software Developer, Application Programming, Software Development, Web Development, Requirement
+Gathering, Project Management, Software Development Life Cycle, Program Management, Python, C, HTML, Java
+SE, Apache Tomcat, C++, MySQL, Data Structures, Algorithms
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 28-Jan-20
+7e554783c28346afb224667db1491063
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+JAVA
+
+Python
+
+C/C++
+
+HTML
+
+Data structures and algorithms
+
+Structured Query Language (SQL)
+
+Adobe Photoshop
+
+RaspberryPi 3B+
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     64f011240280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580681116
+de 2</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;08
+
+
+   ~~~~~~~~~~~~~~  
+
+
+Seeking roles in Application Programming, Software Development, Web
+Development, Requirement Gathering, Project Management, Software Development Life
+Cycle, Program Management, Python, C, HTML, Java SE, Apache
+Tomcat, C++, MySQL, Data Structures, Algorithms, Oracle
+
+
+   ~~~~~~~~~~~~~~~~~~  	Total Experience:    ~~~~~~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: MS/M.Sc(Science) [Industrial
+Mathematics with Computer Application]
+Functional Area: IT Software - Application Programming /
+Maintenance
+Role: Software Developer
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Software Developer, Application Programming, Software Development, Web Development, Requirement
+Gathering, Project Management, Software Development Life Cycle, Program Management, Python, C, HTML, Java
+SE, Apache Tomcat, C++, MySQL, Data Structures, Algorithms
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 28-Jan-20
+7e554783c28346afb224667db1491063
+
+
+Summary
+Result-oriented Professional with over 1 year of experience in Application Programming, Software Development, Web
+Development, Requirement Gathering, Project Management, Software Development Life Cycle, Program
+Management, Python, C, HTML, Java SE, Apache Tomcat, C++, MySQL, Data Structures, Algorithms, Oracle
+
+
+Work Experience
+CSG Analytics as Data Analyst
+Aug 2018 to Oct 2019
+
+
+Education
+UG: B.Sc (Electronics) from ATMA RAM SANATAN DHARMA COLLEGE in 2013
+
+PG: MS/M.Sc(Science) (Industrial Mathematics with Computer Application) from Jamia Millia Islamia in 2018
+
+Other Qualifications/Certifications/Programs:
+Oracle Certified Professional, Java SE 7 Programmer-II
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     64f011240280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580681116
+2/2/20 23&amp;08
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+JAVA
+
+Python
+
+C/C++
+
+HTML
+
+Data structures and algorithms
+
+Structured Query Language (SQL)
+
+Adobe Photoshop
+
+RaspberryPi 3B+
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     64f011240280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580681116
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Finance (mostly Real Estate &amp; Facilities).    ~~~~~~~~~~~~~~  's experience appears to be entry level, with 14 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>14</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>14</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="82">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="36" percentOfParentTaxonomy="44">
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" whereFound="Found in CERTIFICATIONS; SUMMARY"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="12" percentOfParentTaxonomy="15">
+								<sov:Skill name="APPLICATION PROGRAMMING" id="021658" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="C/C++" id="002371" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="12" percentOfParentTaxonomy="15">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="9" percentOfParentTaxonomy="11">
+								<sov:Skill name="LIFE CYCLE" id="022707" existsInText="true" whereFound="Found in SKILLS; SUMMARY">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT LIFE CYCLE" id="008214" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="REQUIREMENT GATHERING" id="006830" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="6" percentOfParentTaxonomy="8">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA STRUCTURES" id="6180000" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="TOMCAT" id="009664" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="7">
+							<sov:Subtaxonomy name="Real Estate &amp; Facilities" id="710" percentOfOverall="3" percentOfParentTaxonomy="45">
+								<sov:Skill name="FINANCIAL PROJECT MANAGEMENT" id="7000113" existsInText="false">
+									<sov:ChildSkill name="PROGRAM MANAGEMENT" id="7000114" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="2" percentOfParentTaxonomy="27">
+								<sov:Skill name="LIFE CYCLE" id="020748" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="2" percentOfParentTaxonomy="27">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="6">
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="2" percentOfParentTaxonomy="33">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="33">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="33">
+								<sov:Skill name="LIFE CYCLE" id="020750" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="2">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Graphic Design" id="33" percentOfOverall="2">
+							<sov:Subtaxonomy name="Software" id="432" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="PHOTOSHOP" id="025873" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="ADOBE PHOTOSHOP" id="013441" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="1">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2013-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="36" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="37" ends="41" sectionType="WORK HISTORY" />
+				<sov:Section starts="42" ends="46" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="47" ends="54" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="55" ends="81" sectionType="SKILLS">IT Skills</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2304</sov:ParsedTextLength>
+			<sov:ParseTime>234</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Fatal Problems Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:415;] We found no WORK HISTORY section header for the candidate, but we calculated where we thought WORK HISTORY was located in the resume. The work history section should have a header such as 'Work History' before listing the content.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;0,5] Each of the following sections in the resume contain more content than the work history and education sections combined: 'Key Skills', 'IT Skills'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+							<sov:Information>[Sovren:325;2] The following sections do not have a header: Section with index 2 (of type: WORK HISTORY). Every section should have a header directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:d6b51fac-f4c9-47e6-b02d-f4895b3b6e52</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>JRgAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

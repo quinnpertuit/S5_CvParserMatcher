@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Business Analysis, Data Analysis, Business Intelligence, Equity Research, Secondary Research, Financial Research, Business
+Research, Financial Analysis, Business Planning, Primary Research, Risk Analysis, Market Research</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Analyst</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Data Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Analyst</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>STRATISTICS MRC</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Research Associate</Title>
+					<OrgName>
+						<OrganizationName>STRATISTICS MRC</OrganizationName>
+					</OrgName>
+					<Description>As a research associate, I was involved in secondary analysis of various sectors for developing the report. Market
+engineering and development of figures based on proportions were done using advanced Excel. Analyzing the financials,
+company profiles and segmentation are part of report making through secondary research.</Description>
+					<StartDate>
+						<YearMonth>2017-03</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Marketing → Channel, Partner &amp; Ecosystem Marketing</CategoryCode>
+						<Comments>Marketing describes 25% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="X">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>STRATISTICS MRC</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Research Associate</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>STRATISTICS MRC</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="masters">
+					<DegreeName>MBA/PGDM</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Finance</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MBA/PGDM (Finance) from IBS HYDERABAD in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>MBA</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>MBA</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>JNTU</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2015</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2015</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computers) from JNTU, Hyderabad in 2015</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>JNTU</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: business analyst, business analysis, data analysis, business intelligence, equity research, secondary
+research, financial research, financial analysis, business planning, risk analysis, market research
+
+Verified: Phone Number |	Email - id
+
+
+ID: 5f5ff8440eeea9af70	Last Active: 2-Feb-20	Last Modified: 2-Feb-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python	1 Year(s) 6 Month(s)
+
+MySQL,	0	1 Year(s) 10 Month(s)
+
+TABLEAU	0	2 Year(s) 0 Month(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'10
+
+
+   ~~~~~~~~~~~~~~~  
+
+
+Data analyst, SQL, Python, R
+
+
+Current Designation: Data Analyst	Total Experience:    ~~~~~~~~~~~~~~~  
+Current Company: Amazon	Notice Period:    ~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: MBA/PGDM [Finance]
+   ~~~~~~~~~~~~~~~~~~~~  
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: KPO / Research /Analytics
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: business analyst, business analysis, data analysis, business intelligence, equity research, secondary
+research, financial research, financial analysis, business planning, risk analysis, market research
+
+Verified: Phone Number |	Email - id
+
+
+ID: 5f5ff8440eeea9af70	Last Active: 2-Feb-20	Last Modified: 2-Feb-20
+
+
+Summary
+Business Analysis, Data Analysis, Business Intelligence, Equity Research, Secondary Research, Financial Research, Business
+Research, Financial Analysis, Business Planning, Primary Research, Risk Analysis, Market Research
+
+
+Work Experience
+Amazon as Data Analyst
+Aug 2018 to Till Date
+
+Amazon as Analyst
+Aug 2018 to Oct 2019
+
+Amazon as Analyst
+Aug 2018 to Oct 2019
+
+STRATISTICS MRC as Research Associate
+Mar 2017 to Jul 2018
+As a research associate, I was involved in secondary analysis of various sectors for developing the report. Market
+engineering and development of figures based on proportions were done using advanced Excel. Analyzing the financials,
+company profiles and segmentation are part of report making through secondary research.
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     051855003a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580666770
+2/2/20 19'10
+
+
+Education
+UG: B.Tech/B.E. (Computers) from JNTU, Hyderabad in 2015
+
+PG: MBA/PGDM (Finance) from IBS HYDERABAD in 2017
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python	1 Year(s) 6 Month(s)
+
+MySQL,	0	1 Year(s) 10 Month(s)
+
+TABLEAU	0	2 Year(s) 0 Month(s)
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+
+Projects
+Project Title: Equity analysis of telecom sector
+Client: Investors
+Nature of Employment: Full Time	Duration: Feb 2016 - May 2016
+Onsite / Offsite: Offsite
+Project Details: Conducting analysis of the shares of Telecom sector based on the historical data, fundamental and technical
+analysis thereby assisting in predicting the future investment opportunities in the specific sector
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Countries: India
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     051855003a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580666770
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~~~~~~  's experience appears to be somewhat concentrated in Information Technology (mostly Database) and slightly concentrated in Marketing (mostly Channel, Partner &amp; Ecosystem Marketing).    ~~~~~~~~~~~~~~~  's experience appears to be lower-to-mid level, with about 3 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>35</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>11</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="26">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="12" percentOfParentTaxonomy="47">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" totalMonths="18" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="11" percentOfParentTaxonomy="43">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" totalMonths="18" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="RISK ANALYSIS" id="5531055" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="2" percentOfParentTaxonomy="7">
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="18">
+							<sov:Subtaxonomy name="Channel, Partner &amp; Ecosystem Marketing" id="590" percentOfOverall="10" percentOfParentTaxonomy="54">
+								<sov:Skill name="SEGMENTATION" id="1400105" existsInText="true" totalMonths="17" lastUsed="2018-07-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="4" percentOfParentTaxonomy="23">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="2" percentOfParentTaxonomy="14">
+								<sov:Skill name="MARKET RESEARCH" id="1400326" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="PRIMARY RESEARCH" id="1400063" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="2" percentOfParentTaxonomy="9">
+								<sov:Skill name="BUSINESS PLANNING" id="1400329" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="18">
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="5" percentOfParentTaxonomy="27">
+								<sov:Skill name="MBA" id="7000321" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="5" percentOfParentTaxonomy="27">
+								<sov:Skill name="FINANCE" id="023147" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="3" percentOfParentTaxonomy="18">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080203" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="RISK ANALYSIS" id="007091" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="2" percentOfParentTaxonomy="9">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="7000125" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Securities" id="236" percentOfOverall="2" percentOfParentTaxonomy="9">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080196" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Treasury" id="246" percentOfOverall="2" percentOfParentTaxonomy="9">
+								<sov:Skill name="BUSINESS ANALYSIS" id="012194" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="10">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="10" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" totalMonths="17" lastUsed="2018-07-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="10">
+							<sov:Subtaxonomy name="Reporting" id="962" percentOfOverall="10" percentOfParentTaxonomy="100">
+								<sov:Skill name="FINANCIALS" id="017494" existsInText="true" totalMonths="17" lastUsed="2018-07-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="10">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="10" percentOfParentTaxonomy="100">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" totalMonths="17" lastUsed="2018-07-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="3">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="RF" id="268" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="TELECOM" id="022904" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="RISK ANALYSIS" id="007090" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="3">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2015-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="17" ends="25" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="26" ends="30" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="31" ends="51" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="52" ends="57" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="58" ends="67" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="68" ends="73" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="74" ends="90" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2662</sov:ParsedTextLength>
+			<sov:ParseTime>234</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:222;POS-1,POS-2] No employer name was found for:  POS-1, POS-2. Every position in a resume should have an employer name.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:b2bb6eed-f6eb-4880-bb3b-419bf11da145</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>ZYIAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

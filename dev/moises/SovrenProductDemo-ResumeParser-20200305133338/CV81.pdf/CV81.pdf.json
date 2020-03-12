@@ -1,0 +1,837 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Subhankar Dawn",
+          "GivenName": "Subhankar",
+          "FamilyName": "Dawn"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Analysis, Solution Architecture, Core Java, Spring Boot, Spring Data",
+                  "looban Softwares pvt ltd"
+                ]
+              }
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "289675336"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Having 1.9 Years of Experience as a Software Engineer in the IT industry.\r\nHands on experience in Core Java.\r\nHands on experience in Spring Boot.\r\nHands on experience in Spring Data JPA.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Associate Java Developer",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "Implemented Controller Classes, Exposed and consumed restful web services in Spring, Written Spring service interfaces and their implementations",
+                "StartDate": {
+                  "YearMonth": "2018-03"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Mobile Applications",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Associate Java Developer"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "Transformation(Mileage Verification)",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Team Member",
+                "OrgName": {
+                  "OrganizationName": "Transformation(Mileage Verification)"
+                },
+                "Description": "Team Size: 7\r\nRole: Team Member\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=5f2   94910091173461c0904554f194c546&sid=3810263223&AT=1580681558\r\n2/2/20 23&13",
+                "StartDate": {
+                  "YearMonth": "2018-03"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Transformation Mileage Verification",
+                    "sov:NormalizedTitle": "Team Member"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Transformation Mileage Verification"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "insurer, agent and company",
+            "PositionHistory": [
+              {
+                "Title": "Implemented Controller Classes",
+                "OrgName": {
+                  "OrganizationName": "insurer, agent and company"
+                },
+                "Description": "Duration: March 2018 to March 2019\r\nEnvironment: Java, Spring boot, Spring batch, Spring Data JPA, Eclipse and DB2, MYSQL\r\n\r\nDescription:\r\nIt is an insurance project (batch application) that verifies the annual mileage of vehicle for the insurer, agent and company.\r\nThe platform functions as a \"Physical to Digital\" Transformation layer by keeping digital information about different physical\r\nobjects in the world.\r\nResponsibilities:\r\n\r\nImplemented Controller Classes.\r\nConsumed Restful and SOAP web services with spring boot.\r\nImplemented Commands and their validations.\r\nWritten Spring Service Interfaces and their implementations.\r\nWritten Spring DAO's and their implementations with Spring data JPA.\r\nWritten reader, processor and writer.",
+                "StartDate": {
+                  "YearMonth": "2018-03"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 82% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "insurer agent",
+                    "sov:NormalizedTitle": "Implemented Controller Classes"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "insurer agent"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Asansol Engineering College"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "WEST BENGAL"
+              ],
+              "Municipality": "Asansol"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2016"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2016"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from Asansol Engineering College (AEC) in 2016",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Asansol Engineering College"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Associate Software Engineer, Software Developer, Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement Analysis, Solution Architecture, Core Java, Spring Boot, Spring Data\r\nJPA, Maven, Postman, Restful Web Services\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 1-Feb-20\tLast Modified: 30-Jan-20\r\n289675336c3d42fb938b408348ec520a\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nJAVA\r\n\r\nWINDOWS\r\n\r\nApache Tomcat\r\n\r\nSpring\r\n\r\nRESTful Web Services\r\n\r\nMaven, Postman\r\n\r\nOracle\r\n\r\nEclipse"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tProficient"
+          },
+          {
+            "LanguageCode": "bn",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Bengali\tProficient"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Role: Team",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&13\r\n\r\n\r\nSubhankar Dawn\r\n\r\n\r\nAssociate Software Engineer seeking roles in Software Development, Application\r\nProgramming, Application Maintenance, Project Management, Requirement\r\nAnalysis, Solution Architecture, Core Java, Spring Boot, Spring Data\r\nJPA, Maven, Postman, Restful Web Services\r\n\r\n\r\nCurrent Designation: Associate Java Developer\tTotal Experience: 1 Year(s) 9 Month(s)\r\nCurrent Company: looban Softwares pvt ltd\tNotice Period: Currently Serving Notice Period\r\nCurrent Location: Bengaluru / Bangalore\tHighest Degree: B.Tech/B.E. [Computers]\r\nPref. Location: Bengaluru / Bangalore\r\nFunctional Area: IT Software - Application Programming /\r\nMaintenance\r\nRole: Software Developer\r\nIndustry: IT-Software/Software Services\r\nMarital Status: Single/unmarried\r\nKey Skills: Associate Software Engineer, Software Developer, Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement Analysis, Solution Architecture, Core Java, Spring Boot, Spring Data\r\nJPA, Maven, Postman, Restful Web Services\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 1-Feb-20\tLast Modified: 30-Jan-20\r\n289675336c3d42fb938b408348ec520a\r\n\r\n\r\nSummary\r\nHaving 1.9 Years of Experience as a Software Engineer in the IT industry.\r\nHands on experience in Core Java.\r\nHands on experience in Spring Boot.\r\nHands on experience in Spring Data JPA.\r\n\r\n\r\nWork Experience\r\nlooban Softwares pvt ltd as Associate Java Developer\r\nMar 2018 to Till Date\r\nImplemented Controller Classes, Exposed and consumed restful web services in Spring, Written Spring service interfaces\r\nand their implementations\r\n\r\n\r\nLOBAAN SOFTWARES PVT LTD., as Associate Software Engineer -Java\r\nMar 2018 to Dec 2019\r\nProject\r\n\r\nTitle: Transformation(Mileage Verification)\r\nTeam Size: 7\r\nRole: Team Member\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=5f2   94910091173461c0904554f194c546&sid=3810263223&AT=1580681558\r\n2/2/20 23&13\r\n\r\n\r\nDuration: March 2018 to March 2019\r\nEnvironment: Java, Spring boot, Spring batch, Spring Data JPA, Eclipse and DB2, MYSQL\r\n\r\nDescription:\r\nIt is an insurance project (batch application) that verifies the annual mileage of vehicle for the insurer, agent and company.\r\nThe platform functions as a \"Physical to Digital\" Transformation layer by keeping digital information about different physical\r\nobjects in the world.\r\nResponsibilities:\r\n\r\nImplemented Controller Classes.\r\nConsumed Restful and SOAP web services with spring boot.\r\nImplemented Commands and their validations.\r\nWritten Spring Service Interfaces and their implementations.\r\nWritten Spring DAO's and their implementations with Spring data JPA.\r\nWritten reader, processor and writer.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from Asansol Engineering College (AEC) in 2016\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nJAVA\r\n\r\nWINDOWS\r\n\r\nApache Tomcat\r\n\r\nSpring\r\n\r\nRESTful Web Services\r\n\r\nMaven, Postman\r\n\r\nOracle\r\n\r\nEclipse\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tProficient\r\n\r\nHindi\tProficient\r\n\r\nBengali\tProficient\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: OBC - non-creamy\tJob Type: Permanent\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=5f2   94910091173461c0904554f194c546&sid=3810263223&AT=1580681558\r\n2/2/20 23&13\r\n\r\n\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=5f2   94910091173461c0904554f194c546&sid=3810263223&AT=1580681558\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore",
+          "sov:WillingToRelocate": "No",
+          "sov:VisaStatus": "Category: OBC - non-creamy"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Subhankar Dawn's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Sales (mostly Entry Level). Subhankar Dawn's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "24",
+          "sov:AverageMonthsPerEmployer": "8",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "86",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "46",
+                        "@percentOfParentTaxonomy": "53",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-03-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "RESTFUL WEB SERVICES",
+                            "@id": "5520591",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SOAP",
+                            "@id": "5520605",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "APPLICATION PROGRAMMING",
+                            "@id": "021658",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REQUIREMENT ANALYSIS",
+                            "@id": "022962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2019-12-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "WEB SERVICES",
+                            "@id": "011022",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "DB2",
+                            "@id": "015075",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "DB2",
+                            "@id": "5530738",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "SOAP",
+                            "@id": "008187",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAVEN",
+                            "@id": "2510001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Closing and Processing",
+                        "@id": "114",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESSOR",
+                            "@id": "023636",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESSOR",
+                            "@id": "005575",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "21",
+              "@ends": "31",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "32",
+              "@ends": "38",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "39",
+              "@ends": "74",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "75",
+              "@ends": "78",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "79",
+              "@ends": "98",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "99",
+              "@ends": "121",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "289675336c",
+              "289675336"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Subhankar Dawn"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=5f2"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Work Authorization\r\nCategory: OBC - non-creamy",
+              "Current Location: Bengaluru / Bangalore",
+              "Pref. Location: Bengaluru / Bangalore",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3379",
+        "sov:ParseTime": "437",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:981e2f75-f97e-443f-878b-b09cab4b0882",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "tfr+//////8="
+      }
+    }
+  }
+}

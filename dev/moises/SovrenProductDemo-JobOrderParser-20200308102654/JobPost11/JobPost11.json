@@ -1,0 +1,604 @@
+{
+  "SovrenData": {
+    "@xml:lang": "en",
+    "DocumentLanguage": "en",
+    "CurrentJobIsMgmt": "false",
+    "HighestManagementScore": "0",
+    "ManagementLevel": "none",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+      "MainJobTitle": "Junior Data Scientist M/F",
+      "JobTitle": [
+        "Junior Data Scientist M/F (6 months)",
+        "Junior Data Scientist",
+        "Data Scientist M/F"
+      ]
+    },
+    "EmployerNames": {
+      "MainEmployerName": "Series B funding",
+      "EmployerName": [
+        "Series B funding",
+        "our Paris office"
+      ]
+    },
+    "LanguageCodes": {
+      "LanguageCode": [
+        "en",
+        "zh",
+        "de",
+        "sv",
+        "pt"
+      ]
+    },
+    "CurrentLocation": {
+      "Municipality": "Houston",
+      "Region": "TX",
+      "CountryCode": "US"
+    },
+    "PayRate": {
+      "@amount": "1.00",
+      "@currency": "UNK",
+      "@unit": "month",
+      "#text": "1"
+    },
+    "TypeOfSource": "stJobOrder",
+    "SourceText": "assionate about tech? Interested in Energy? Come work for Kayrros, a fast-growing start-up using artificial intelligence to transform the world’s biggest industry.\r\n\r\nKayrros is headquartered in Paris, with offices in New York, Houston, London, and Singapore. By working for Kayrros, you will join an energetic team of 140 people, with diverse professional backgrounds—from data science and petroleum engineering to sales and marketing—and over 15 different nationalities and 10 spoken languages.\r\n\r\nOur team of energy experts and tech wizards are working to bring transparency to the global energy market. We employ innovative technologies, like satellite imagery processing and artificial intelligence, to capture and analyse data across the energy sector. Combined with our expert analysis, we give our clients valuable information on global market movements to make better business decisions—whether that’s trading, investing or managing their operations.\r\n\r\nIn September 2018, Kayrros received €21M in Series B funding to continue breaking the boundaries of the energy market.\r\n\r\nInterested in operating at the intersection of energy and the data revolution? Get in touch!\r\n\r\nWe are currently recruiting for our Paris office,\r\n\r\na Junior Data Scientist M/F (6 months)\r\n\r\nData Scientists have a central role in Kayrros. Working in hand with the oil and gas analysts and the software engineers, they contribute to the whole pipeline of projects, including scoping projects, identifying and collecting data, constructing features, designing models, visualization, testing and improving product with clients.\r\n\r\nThey face two main challenges:\r\nThe diversity of data available (they have to combine many different sources of data: text data, satellite images, time series…)\r\nThe diversity of the problems (supervised, unsupervised…)\r\nAs a Junior Data Scientist, you will therefore have to:\r\nUnderstand energy markets data\r\nFormulate problems considering available data and value of information\r\nDesign, implement and test machine learning algorithms\r\nContinuously provide ideas to improve products and take part of all team decision.\r\nProfile\r\n\r\nThis is an ideal opportunity if you are looking for a six-month contract starting between January and May 2020, and you want to join a fast-growing start-up.\r\nYou have a strong background and are passionate about machine learning, statistics, operations research. You are very interested in various topics including deep learning, NLP, machine learning applied to time series, image and signal processing. You demonstrate experience in a least one of these areas\r\nYou have strong programming skills in Python, Machine Learning libraries, data visualization packages and data manipulation. Previous exposures to GitHub and R programming preferred, or additional languages like Julia\r\nYou are dynamic, curious and eager to learn about the energy industry\r\nYou can design and deliver working prototypes in a fast-paced environment and then put them into production with the help of software engineers\r\nYou can communicate clearly in English, including with non-technical people\r\nYou are willing to contribute actively and have a real impact to the company success\r\nWhy joining Kayrros?\r\nWe are a young, fast-growing tech company and are extremely passionate about what we do.\r\nWe are located in the WeWork building on Rue la Fayette, 75009 (free drinks, events and a vibrant atmosphere).\r\nYou will work with an international team and practice your English (or Chinese, German, Swedish, Portuguese...) on a day to day basis.\r\nRecruitment process\r\nSend your CV specifying the type of contract and your availability\r\nA phone interview (HR or Product Manager)\r\nA challenge (Data Challenge)\r\nA physical interview (Team member + Product Manager + RH)\r\nThe whole process will last one month at the maximum.\r\n\r\nJob Types: Full-time, Internship\r\n\r\nSalary: 1,700.00€ /month\r\n\r\nLanguage:\r\nEnglish (Preferred)",
+    "RevisionDate": "2020-03-08",
+    "ParserConfigurationString": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DigitalSignature": "6rIAAAAAAAA=",
+    "SkillsTaxonomyOutput": [
+      {
+        "@name": "Sovren",
+        "Taxonomy": [
+          {
+            "@name": "Information Technology",
+            "@id": "10",
+            "@percentOfOverall": 34.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Big Data",
+                "@id": "553",
+                "@percentOfOverall": 17.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "ARTIFICIAL INTELLIGENCE",
+                    "@id": "5530905",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "5530958",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DATA VISUALIZATION",
+                    "@id": "5530962",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "5531016",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "NLP",
+                        "@id": "5531030",
+                        "@existsInText": true,
+                        "@required": true
+                      }
+                    ],
+                    "@name": "NATURAL LANGUAGE PROCESSING",
+                    "@id": "5531029",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Machine Learning",
+                "@id": "720",
+                "@percentOfOverall": 7.0,
+                "@percentOfParentTaxonomy": 21.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "7200001",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DEEP LEARNING",
+                    "@id": "7200018",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "7200149",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Security",
+                "@id": "338",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 7.0,
+                "Skill": [
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "3380002",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Database",
+                "@id": "193",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 7.0,
+                "Skill": [
+                  {
+                    "@name": "DATA MANIPULATION",
+                    "@id": "014988",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Programming",
+                "@id": "204",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 7.0,
+                "Skill": [
+                  {
+                    "@name": "PYTHON",
+                    "@id": "006120",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Data Mining",
+                "@id": "192",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 7.0,
+                "Skill": [
+                  {
+                    "@name": "ARTIFICIAL INTELLIGENCE",
+                    "@id": "003449",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "User Experience",
+            "@id": "93",
+            "@percentOfOverall": 20.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Human Computer Interaction",
+                "@id": "561",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "PROTOTYPES",
+                        "@id": "5570037",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "PROTOTYPE",
+                    "@id": "5570036",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "User Research",
+                "@id": "558",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 12.0,
+                "Skill": [
+                  {
+                    "@name": "PROTOTYPES",
+                    "@id": "5570209",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Interactive Design",
+                "@id": "572",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 12.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570157",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Game Design",
+                "@id": "570",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 12.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570127",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Graphic Design",
+                "@id": "569",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 12.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570120",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Visual Design",
+                "@id": "565",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 12.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570073",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Motion Design",
+                "@id": "564",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 12.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570059",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Engineering",
+            "@id": "5",
+            "@percentOfOverall": 12.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Electrical",
+                "@id": "135",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "SIGNAL PROCESSING",
+                    "@id": "080884",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Process",
+                "@id": "143",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "SIGNAL PROCESSING",
+                    "@id": "080804",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Computer Hardware",
+                "@id": "144",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "SIGNAL PROCESSING",
+                    "@id": "080697",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Surveying",
+                "@id": "298",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "024338",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Chemical",
+                "@id": "132",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "PETROLEUM",
+                    "@id": "024136",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Finance",
+            "@id": "7",
+            "@percentOfOverall": 10.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Financial Planning & Analysis",
+                "@id": "235",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "TRADING",
+                    "@id": "080204",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Compliance",
+                "@id": "245",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "TRADING",
+                    "@id": "080179",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Other",
+                "@id": "243",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "017446",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Trading",
+                "@id": "239",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "TRADING",
+                    "@id": "009789",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Marketing",
+            "@id": "14",
+            "@percentOfOverall": 7.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Data & Analytics",
+                "@id": "588",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 33.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "1400075",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Brand Management",
+                "@id": "227",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 33.0,
+                "Skill": [
+                  {
+                    "@name": "PRODUCT MANAGER",
+                    "@id": "081160",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "General",
+                "@id": "249",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 33.0,
+                "Skill": [
+                  {
+                    "@name": "MARKETING",
+                    "@id": "021241",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Business Operations and General Business",
+            "@id": "34",
+            "@percentOfOverall": 7.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Management Activities or Functions",
+                "@id": "436",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 67.0,
+                "Skill": [
+                  {
+                    "@name": "OPERATIONS",
+                    "@id": "003875",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "TRADING",
+                    "@id": "022750",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "General Skills and Activities",
+                "@id": "437",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 33.0,
+                "Skill": [
+                  {
+                    "@name": "STATISTICS",
+                    "@id": "008585",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Petrochemical",
+            "@id": "44",
+            "@percentOfOverall": 5.0,
+            "Subtaxonomy": [
+              {
+                "@name": "General",
+                "@id": "444",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "PETROLEUM ENGINEERING",
+                    "@id": "004577",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "PETROLEUM",
+                    "@id": "024135",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Personal Attributes",
+            "@id": "90",
+            "@percentOfOverall": 2.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Attitude",
+                "@id": "528",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "SELF MOTIVATED",
+                    "@id": "007739",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Transmission & Distribution",
+            "@id": "45",
+            "@percentOfOverall": 2.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Transmission",
+                "@id": "326",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "PIPELINE",
+                    "@id": "004805",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

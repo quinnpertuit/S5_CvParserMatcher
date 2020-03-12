@@ -1,0 +1,662 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "VARSHA KINDRE",
+          "GivenName": "VARSHA",
+          "FamilyName": "KINDRE"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Navi Mumbai"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Specialist with more than 1.8 years of success in designing 3D maps and Navigation for Automated Vehicles in Information\r\nTechnology and Services. Also Completed Certification course of AWS Cloud Computing.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Here Technologies",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Earthscape, Map Editor",
+                "OrgName": {
+                  "OrganizationName": "Here Technologies"
+                },
+                "Description": "as Spatial Data specialist I\r\nJun 2018 to Till Date\r\nDevelopment of 3D Maps, which are primarily being used in premium vehicles such as AUDI, JAGUAR, BMW etc. For\r\nAutomated Driving and Driverless Car systems as well as in Mobile Applications.\r\nWorking on different workflows and tools internal to the company (Earthscape, Map Editor, Flow Metric, Flex Labeling, feature expansion, VMWARE, etc.)\r\nDigitize mapping database using required platform/tools as per defined process and Maintain performance report of team\r\nmembers and help them with their difficulties to increase their performance.\r\nPerforming quality checks on data inputs to test validity of data as per standards.\r\nMaintaining MDI board for projects and to keeping up the work with quality and doing update sessions regularly as per\r\nrequired growth in the performance.\r\nAchieving target on Time with Quality with the Team which created End products.",
+                "StartDate": {
+                  "YearMonth": "2018-06"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 41% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:NormalizedOrganizationName": "Here Technologies",
+                    "sov:NormalizedTitle": "Earthscape Map Editor",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Map Editor"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Here Technologies"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Mumbai University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Sc",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "information technology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Sc (information technology) from Mumbai University in 2017\r\n\r\nPG: NA (na) in 0",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "BSc",
+                    "sov:NormalizedDegreeType": "BSc"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Mumbai University"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Mumbai University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai"
+            },
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "information technology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "Post PG: BSC (information technology) from Mumbai University in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Mumbai University"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Spatial Data specialist-I, Solution Architect, Enterprise Architect, Web Services, Visual Studio, Web\r\nTechnologies, Cloud Computing, Mobile Applications, Technical Skills, Information Technology, Performance Reporting, SQL\r\nServer, Solution Architecture\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 4527fcf47516423a27\tLast Active: 1-Feb-20\tLast Modified: 1-Feb-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nASP.NET\t0 Year(s) 5 Month(s)\r\n\r\nSQL\t5 Month(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "mr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Marathi"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'11\r\n\r\n\r\nVARSHA KINDRE\r\n\r\n\r\nSpatial Data specialist-I seeking roles in Cloud Engineer, Cloud Computing, Aws\r\nServices, Elastic Compute Cloud, AWS Solution Architecture, Information\r\nTechnology, Performance Reporting, Technical architect, cloud architect, Cloud AWS,\r\nAWS DevOps\r\n\r\n\r\nCurrent Designation: Spatial Data specialist I\tTotal Experience: 1 Year(s) 7 Month(s)\r\nCurrent Company: Here Technologies\tNotice Period: 1 Month\r\nCurrent Location: Navi Mumbai\tHighest Degree: BSC [information technology]\r\nPref. Location: Mumbai, Navi Mumbai, Pune\r\nFunctional Area: IT Software - Application Programming /\r\nMaintenance\r\nRole: Solution Architect / Enterprise Architect\r\nIndustry: IT-Software/Software Services\r\nMarital Status: Single/unmarried\r\nKey Skills: Spatial Data specialist-I, Solution Architect, Enterprise Architect, Web Services, Visual Studio, Web\r\nTechnologies, Cloud Computing, Mobile Applications, Technical Skills, Information Technology, Performance Reporting, SQL\r\nServer, Solution Architecture\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 4527fcf47516423a27\tLast Active: 1-Feb-20\tLast Modified: 1-Feb-20\r\n\r\n\r\nSummary\r\nSpecialist with more than 1.8 years of success in designing 3D maps and Navigation for Automated Vehicles in Information\r\nTechnology and Services. Also Completed Certification course of AWS Cloud Computing.\r\n\r\n\r\nWork Experience\r\nHere Technologies as Spatial Data specialist I\r\nJun 2018 to Till Date\r\nDevelopment of 3D Maps, which are primarily being used in premium vehicles such as AUDI, JAGUAR, BMW etc. For\r\nAutomated Driving and Driverless Car systems as well as in Mobile Applications.\r\nWorking on different workflows and tools internal to the company (Earthscape, Map Editor, Flow Metric, Flex Labeling,\r\nfeature expansion, VMWARE, etc.)\r\nDigitize mapping database using required platform/tools as per defined process and Maintain performance report of team\r\nmembers and help them with their difficulties to increase their performance.\r\nPerforming quality checks on data inputs to test validity of data as per standards.\r\nMaintaining MDI board for projects and to keeping up the work with quality and doing update sessions regularly as per\r\nrequired growth in the performance.\r\nAchieving target on Time with Quality with the Team which created End products.\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=a4e   0415219092d5e0c1b4a550f504e1c6&sid=3810263223&AT=1580667056\r\n2/2/20 19'11\r\n\r\n\r\nEducation\r\nUG: B.Sc (information technology) from Mumbai University in 2017\r\n\r\nPG: NA (na) in 0\r\n\r\nPost PG: BSC (information technology) from Mumbai University in 2017\r\n\r\nOther Qualifications/Certifications/Programs:\r\nasp.net certification from javaspice in 2017\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nASP.NET\t0 Year(s) 5 Month(s)\r\n\r\nSQL\t5 Month(s)\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nMarathi\r\n\r\nHindi\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=a4e   0415219092d5e0c1b4a550f504e1c6&sid=3810263223&AT=1580667056\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Navi Mumbai",
+          "sov:PreferredLocation": "Mumbai, Navi Mumbai, Pune",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Category: General"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "VARSHA KINDRE's experience appears to be mostly concentrated in Information Technology (mostly Database) and slightly concentrated in Engineering (mostly Surveying). VARSHA KINDRE's experience appears to be entry level, with 20 months of experience.",
+          "sov:MonthsOfWorkExperience": "20",
+          "sov:AverageMonthsPerEmployer": "20",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "46",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "19",
+                        "@percentOfParentTaxonomy": "41",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "16",
+                        "@percentOfParentTaxonomy": "34",
+                        "sov:Skill": [
+                          {
+                            "@name": "VMWARE",
+                            "@id": "026285",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASP",
+                            "@id": "004324",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MS ASP",
+                            "@id": "025409",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ASP.NET",
+                                "@id": "004334",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in CERTIFICATIONS; SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "WEB SERVICES",
+                            "@id": "011022",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VISUAL STUDIO",
+                                "@id": "010645",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "ENTERPRISE ARCHITECT",
+                            "@id": "016666",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "17",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "17",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TOPO",
+                            "@id": "023035",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MAPPING",
+                                "@id": "021224",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Light Technical/Trades/Skilled Labor",
+                    "@id": "27",
+                    "@percentOfOverall": "16",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "293",
+                        "@percentOfOverall": "16",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MDI",
+                            "@id": "021413",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "16",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "16",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUALITY CHECKS",
+                            "@id": "006233",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2017-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "21",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "35",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "36",
+              "@ends": "54",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "55",
+              "@ends": "61",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "62",
+              "@ends": "65",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "66",
+              "@ends": "73",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "74",
+              "@ends": "90",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "VARSHA KINDRE"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=a4e"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Mumbai, Navi Mumbai, Pune",
+              "Work Authorization\r\nCategory: General",
+              "Current Location: Navi Mumbai",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3096",
+        "sov:ParseTime": "296",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:eb1606c2-da8a-4b73-8c20-5ab5451a6c33",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "JXcAAAAAAAA="
+      }
+    }
+  }
+}

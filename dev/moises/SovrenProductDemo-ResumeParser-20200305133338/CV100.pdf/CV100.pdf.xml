@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Ardhendu Sekhar Dash</FormattedName>
+				<GivenName>Ardhendu</GivenName>
+				<MiddleName>Sekhar</MiddleName>
+				<FamilyName>Dash</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Functional Area: IT Software - Embedded /EDA /VLSI /ASIC</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Result-oriented Professional with 1.5 years of experience in Embedded Software Development, Embedded Design, Embedded
+Testing, Firmware Development.Analyzing and enhancing efficiency, stability of system. Having good experience in writing test
+cases based on requirement. good experience in C, Python, linux and data structure.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Atop Technology</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Embedded Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Atop Technology</OrganizationName>
+					</OrgName>
+					<Description>1. Worked on protocols like Modbus in API devlopment.
+2.Experience in Xilinx FPGA processor-based software development by using Xilinx SDK.
+3.Good knowledge on IRIG-B time synchronization
+4.Worked on SPI and UART communication protocols.
+5.Worked on debug tools such as JTAG.
+6.Worked on BRAM.
+7.Sound knowledge on SOC.
+8. Hands on experience in computer vision.</Description>
+					<StartDate>
+						<YearMonth>2018-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Engineering → Software and Tools</CategoryCode>
+						<Comments>Engineering describes 46% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="X">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Atop Technology</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Embedded Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Atop Technology</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Siksha O Anusandhan University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeMajor>
+						<Name>Electronics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2020-02-02</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2023</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>https://freesearch.naukri.com/preview/printResume?uname=97f   01b0500543a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681711
+2/2/20 23&amp;17
+
+
+UG: B.Tech/B.E. (Electronics/Telecommunication) from Siksha O Anusandhan University in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>false</sov:Graduated>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Siksha O Anusandhan University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>SIKSHA O ANUSANDHAN UNIVERSITY</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Electronics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: M.Tech (Electronics/Telecommunication) from SIKSHA O ANUSANDHAN UNIVERSITY in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>SIKSHA O ANUSANDHAN UNIVERSITY</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Professional Development Course in Embedded System Design</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: embedded software development, embedded testing, data structures, shell scripting, linux, sdk, keil, embedded
+c, ARM Processor, Python, Firmware Development, PWM
+
+Verified: Phone Number |	Email - id
+
+
+ID: 08437ecb4b290a6629	Last Active: 2-Feb-20	Last Modified: 27-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Eclipse
+
+SDK (2018.1), Keil
+
+Mac OS X, Windows, Ubuntu
+
+LaTeX, Pack Office	2 Year(s)
+
+C	2019	2 Year(s)
+
+Linux	1 Year(s) 5 Month(s)
+
+Shell Scripting
+
+Data Structures	2019	1 Year(s) 0 Month(s)
+
+Python	2.7	2019	1 Year(s) 0 Month(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Expert</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Expert</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>or</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Oriya	Expert</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;17
+
+
+Ardhendu Sekhar Dash
+
+
+Proven experience as embedded tester, embedded developer and firmware
+developer.Knowledge and experience in ARM processor.posses good knowledge on
+Embedded C, data structure, linux, python, Image Processing, pwm, communication
+protocol UART and SPI.
+
+
+Current Designation: Embedded Software Engineer	Total Experience: 1 Year(s) 5 Month(s)
+Current Company: Atop Technology	Notice Period: 1 Month
+Current Location: Bengaluru / Bangalore	Highest Degree: M.Tech
+[Electronics/Telecommunication]
+Pref. Location: Bengaluru / Bangalore, Hyderabad
+Functional Area: IT Software - Embedded /EDA /VLSI /ASIC
+/Chip Des.
+Role: Software Developer
+Industry: Semiconductors/Electronics
+Marital Status: Single/unmarried
+Key Skills: embedded software development, embedded testing, data structures, shell scripting, linux, sdk, keil, embedded
+c, ARM Processor, Python, Firmware Development, PWM
+
+Verified: Phone Number |	Email - id
+
+
+ID: 08437ecb4b290a6629	Last Active: 2-Feb-20	Last Modified: 27-Jan-20
+
+
+Summary
+Result-oriented Professional with 1.5 years of experience in Embedded Software Development, Embedded Design, Embedded
+Testing, Firmware Development.Analyzing and enhancing efficiency, stability of system. Having good experience in writing test
+cases based on requirement. good experience in C, Python, linux and data structure.
+
+
+Work Experience
+Atop Technology as Embedded Software Engineer
+Dec 2018 to Till Date
+1. Worked on protocols like Modbus in API devlopment.
+2.Experience in Xilinx FPGA processor-based software development by using Xilinx SDK.
+3.Good knowledge on IRIG-B time synchronization
+4.Worked on SPI and UART communication protocols.
+5.Worked on debug tools such as JTAG.
+6.Worked on BRAM.
+7.Sound knowledge on SOC.
+8. Hands on experience in computer vision.
+
+
+Education
+
+https://freesearch.naukri.com/preview/printResume?uname=97f   01b0500543a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681711
+2/2/20 23&amp;17
+
+
+UG: B.Tech/B.E. (Electronics/Telecommunication) from Siksha O Anusandhan University in 2018
+
+PG: M.Tech (Electronics/Telecommunication) from SIKSHA O ANUSANDHAN UNIVERSITY in 2018
+
+Other Qualifications/Certifications/Programs:
+Professional Development Course in Embedded System Design
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Eclipse
+
+SDK (2018.1), Keil
+
+Mac OS X, Windows, Ubuntu
+
+LaTeX, Pack Office	2 Year(s)
+
+C	2019	2 Year(s)
+
+Linux	1 Year(s) 5 Month(s)
+
+Shell Scripting
+
+Data Structures	2019	1 Year(s) 0 Month(s)
+
+Python	2.7	2019	1 Year(s) 0 Month(s)
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Expert
+
+Hindi	Expert
+
+Oriya	Expert
+
+
+Projects
+Project Title: PWM Pulse Generation for IRIG-B
+Client: Product Development
+Nature of Employment: Full Time	Duration: Sep 2019 - Dec 2019
+Role: Programmer	Onsite / Offsite: Offsite
+Team Size: 2
+Skill Used: embedded c
+Project Details: Projects Worked On
+
+Description: IRIG-B frame consist of 100 pps (pulse per second) having time information in B.C.D. format.
+Each pulse is of 10ms duration. The reference and position identifier is of 8ms duration, Bit 1 is of 5ms
+duration and Bit 0 is of 2ms duration for generating pwm pulse i have used TTC(Triple Timer Counter).
+Role: Designing and writing code to generate pwm waveform.
+Hardware used: Xilinx Zynq Processor and Oscilloscope
+Team Size: 2
+
+
+https://freesearch.naukri.com/preview/printResume?uname=97f   01b0500543a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681711
+2/2/20 23&amp;17
+
+
+Project Title: Modbus Protocol device Development
+Client: Product Development
+Nature of Employment: Full Time	Duration: Dec 2018 - Aug 2019
+Role: Programmer	Onsite / Offsite: Offsite
+Team Size: 3
+Skill Used: Linux, C
+Project Details: Xilinx Zynq processor-based module loaded with Modbus server firmware. Module used to receive Modbus
+data and store it in a memory (Block RAM). This data shall be shared with another processor via UART/SPI. The processor
+shall receive the data and do further processing. API calls and memory mapping information shall be provided so that other
+processor can get data from the memory via UART/SPI interface. By collecting the data, the processor can use it for further
+applications.
+Role: Speed Example coding, Interface document creation, Reading and understanding the Test cases, Testing and validating
+the Module, Test report creation. Processor: Xilinx Zynq Processor and TI AM3359 Processor
+Team Size: 3
+
+Project Title: Face Detection Using Boosted Cascade Approach
+Client: Final year Project
+Nature of Employment: Full Time	Duration: Aug 2017 - Apr 2018
+Role: Programmer	Onsite / Offsite: Offsite
+Team Size: 2
+Skill Used: PythonOpencv
+Project Details: Viola-Jones objection detection approach is used to detect faces in video sequences. Here we train the
+boosted cascade classifier using only the frontal faces. The method for face recognition process has two phases training and
+detecting. In training phase, grayscale frontal face images from Yale database and non-face images has been used. In
+detection phase real time video has taken from webcam to detect frontal face and eye blinks.
+Role: Preparing Design and Test Description Documents, Application coding.
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=97f   01b0500543a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681711
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Bengaluru / Bangalore</sov:CurrentLocation>
+				<sov:PreferredLocation>Bengaluru / Bangalore, Hyderabad</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Ardhendu Sekhar Dash's experience appears to be somewhat concentrated in Engineering (mostly Computer Hardware) and somewhat concentrated in Information Technology (mostly Programming). Ardhendu Sekhar Dash's experience appears to be entry level, with 15 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>15</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>15</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="34">
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="18" percentOfParentTaxonomy="51">
+								<sov:Skill name="EMBEDDED SOFTWARE" id="023202" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="FIRMWARE" id="080764" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JTAG" id="080659" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="REAL TIME" id="022816" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SOC" id="008188" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SPI" id="1007274" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="WRITING TEST" id="025103" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="XILINX" id="080677" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Software and Tools" id="310" percentOfOverall="13" percentOfParentTaxonomy="38">
+								<sov:Skill name="ARM" id="5000218" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="FIRMWARE" id="080303" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SPI" id="5000228" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="UART" id="5000231" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="XILINX" id="080275" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1" childrenTotalMonths="15" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="XILINX FPGA" id="011474" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Circuits" id="266" percentOfOverall="2" percentOfParentTaxonomy="7">
+								<sov:Skill name="FPGA" id="024896" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="JTAG" id="080593" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Optical" id="141" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="COMPUTER VISION" id="014117" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="TOPO" id="023035" existsInText="false">
+									<sov:ChildSkill name="MAPPING" id="021224" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="29">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="17" percentOfParentTaxonomy="60">
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="CODING" id="013739" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="EMBEDDED C" id="016161" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="EMBEDDED SOFTWARE" id="081196" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="REAL TIME" id="081198" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SCRIPTING" id="024873" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false" childrenTotalMonths="15" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Embedded and Realtime" id="340" percentOfOverall="7" percentOfParentTaxonomy="24">
+								<sov:Skill name="EMBEDDED SOFTWARE" id="081183" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="REAL TIME" id="081185" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compiler &amp; Runtime" id="719" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="FIELD PROGRAMMABLE GATE ARRAY" id="7190021" existsInText="false" childrenTotalMonths="15" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="FPGA" id="7190022" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="1" percentOfParentTaxonomy="4">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JTAG" id="027128" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SHELL SCRIPTING" id="007925" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="FIRMWARE" id="022819" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="REAL TIME" id="081189" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA STRUCTURES" id="6180000" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA STRUCTURE" id="5530961" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Hardware Engineering" id="29" percentOfOverall="13">
+							<sov:Subtaxonomy name="Firmware Engineering" id="730" percentOfOverall="8" percentOfParentTaxonomy="60">
+								<sov:Skill name="SPI" id="5000121" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="UART" id="5000124" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Test Engineering" id="714" percentOfOverall="5" percentOfParentTaxonomy="40">
+								<sov:Skill name="DEBUG" id="5000017" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="OSCILLOSCOPE" id="5000028" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SPI" id="5000026" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="7">
+							<sov:Subtaxonomy name="Closing and Processing" id="114" percentOfOverall="7" percentOfParentTaxonomy="100">
+								<sov:Skill name="PROCESSOR" id="023636" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="7">
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="7" percentOfParentTaxonomy="100">
+								<sov:Skill name="PROCESSOR" id="005575" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="5">
+							<sov:Subtaxonomy name="Non-Nuclear Power Misc" id="924" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="API" id="021195" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="FPGA" id="017936" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="3">
+							<sov:Subtaxonomy name="Skilled" id="323" percentOfOverall="2" percentOfParentTaxonomy="61">
+								<sov:Skill name="TELECOMMUNICATION" id="022284" existsInText="true" totalMonths="15" lastUsed="2023-01-01" whereFound="Found in EDUCATION; DEG-1; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Hardware" id="319" percentOfOverall="1" percentOfParentTaxonomy="39">
+								<sov:Skill name="FPGA" id="017935" existsInText="true" totalMonths="15" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="OSCILLOSCOPE" id="026342" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="55">
+								<sov:Skill name="UG" id="010087" existsInText="true" totalMonths="15" lastUsed="2023-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="358" percentOfOverall="0" percentOfParentTaxonomy="45">
+								<sov:Skill name="CASCADE" id="024424" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="0">
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="PRODUCT DEVELOPMENT" id="1400022" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Brand Management" id="227" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="PRODUCT DEVELOPMENT" id="005612" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="OSCILLOSCOPE" id="081038" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Electronic" id="294" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="OSCILLOSCOPE" id="081025" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Mac" id="300" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAC" id="020979" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="MAC OS" id="0209793" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEST CASES" id="009422" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="22" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="36" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="37" ends="49" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="50" ends="59" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="60" ends="63" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="64" ends="85" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="86" ends="95" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="96" ends="151" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Ardhendu Sekhar Dash</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=97f</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Bengaluru / Bangalore, Hyderabad</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>5435</sov:ParsedTextLength>
+			<sov:ParseTime>375</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;7] The following section in the resume contains more content than the work history and education sections combined: 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:528ba03a-c37b-4d02-b359-6811f8d0bdc1</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>Azn///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

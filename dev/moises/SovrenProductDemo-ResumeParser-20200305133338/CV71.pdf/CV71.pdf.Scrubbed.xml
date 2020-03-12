@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Result-oriented Professional with over 01 years of experience in Data Science, Networking Operations, Digital Marketing, Deep
+Learning, Data Pre-processing, Time-series Forecasting, Project Management, Data Analysis, Python, R, Java</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Deep Learning (CNN)</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>DATA SCIENTIST</Title>
+					<OrgName>
+						<OrganizationName>EJYLE TECHNOLOGIES</OrganizationName>
+					</OrgName>
+					<Description>Worked in Data Preprocessing, Time-series Forecasting, Deep Learning (CNN), NLP, Digital Marketing Tools.</Description>
+					<StartDate>
+						<YearMonth>2018-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 39% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>EJYLE TECHNOLOGIES</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>DATA SCIENTIST</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Deep Learning CNN</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Amrita School of Engineering</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bangalore</Municipality>
+				</PostalAddress>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: M.Tech (Computers) from Amrita School of Engineering, Bangalore in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Amrita School of Engineering</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Adhiyamaan College of Engineering</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>TAMIL NADU</Region>
+					<Municipality>Hosur</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computers) from Adhiyamaan College of Engineering, Hosur in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Adhiyamaan College of Engineering</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Scientist, Data Analyst, Data Science, Networking Operations, Digital Marketing, Deep Learning, Data Pre-
+processing, Time-series Forecasting, Project Management, Data Analysis, Python, R, Java
+
+Verified: Phone Number |	Email - id
+
+
+ID: 501c8af02a69633284	Last Active: 2-Feb-20	Last Modified: 1-Feb-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     5465d014f4b1100190211475e5e0c6&amp;sid=3810263223&amp;AT=1580681409
+2/2/20 23&amp;10
+
+
+Python, R, Java, SQL</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>ta</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Tamil</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>kn</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Kannada</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;10
+
+
+   ~~~~~  
+
+
+Data Scientist seeking roles in Data Science, Networking Operations, Digital
+Marketing, Deep Learning, Data Pre-processing, Time-series Forecasting, Project
+Management, Data Analysis, Python, R, Java
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Total Experience:    ~~~~~~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: M.Tech [Computers]
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Data Scientist, Data Analyst, Data Science, Networking Operations, Digital Marketing, Deep Learning, Data Pre-
+processing, Time-series Forecasting, Project Management, Data Analysis, Python, R, Java
+
+Verified: Phone Number |	Email - id
+
+
+ID: 501c8af02a69633284	Last Active: 2-Feb-20	Last Modified: 1-Feb-20
+
+
+Summary
+Result-oriented Professional with over 01 years of experience in Data Science, Networking Operations, Digital Marketing, Deep
+Learning, Data Pre-processing, Time-series Forecasting, Project Management, Data Analysis, Python, R, Java
+
+
+Work Experience
+EJYLE TECHNOLOGIES as DATA SCIENTIST
+Aug 2018 to Oct 2019
+Worked in Data Preprocessing, Time-series Forecasting, Deep Learning (CNN), NLP, Digital Marketing Tools.
+
+
+Education
+UG: B.Tech/B.E. (Computers) from Adhiyamaan College of Engineering, Hosur in 2017
+
+PG: M.Tech (Computers) from Amrita School of Engineering, Bangalore in 2019
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     5465d014f4b1100190211475e5e0c6&amp;sid=3810263223&amp;AT=1580681409
+2/2/20 23&amp;10
+
+
+Python, R, Java, SQL
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+Tamil
+
+Kannada
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     5465d014f4b1100190211475e5e0c6&amp;sid=3810263223&amp;AT=1580681409
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~  's experience appears to be somewhat concentrated in Marketing (mostly Advertising) and somewhat concentrated in Finance (mostly Accounting).    ~~~~~  's experience appears to be entry level, with 14 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>14</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>14</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="39">
+							<sov:Subtaxonomy name="Advertising" id="595" percentOfOverall="13" percentOfParentTaxonomy="33">
+								<sov:Skill name="DIGITAL CAMPAIGN" id="1400380" existsInText="false" childrenTotalMonths="14" childrenLastUsed="2019-10-01">
+									<sov:ChildSkill name="DIGITAL MARKETING" id="1400381" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="12" percentOfParentTaxonomy="32">
+								<sov:Skill name="DIGITAL MARKETING" id="1400390" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="12" percentOfParentTaxonomy="32">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="25">
+							<sov:Subtaxonomy name="Accounting" id="705" percentOfOverall="12" percentOfParentTaxonomy="50">
+								<sov:Skill name="FORECASTING" id="7000318" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="12" percentOfParentTaxonomy="50">
+								<sov:Skill name="FORECASTING" id="023164" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="22">
+							<sov:Subtaxonomy name="Financial" id="350" percentOfOverall="12" percentOfParentTaxonomy="55">
+								<sov:Skill name="TIME-SERIES" id="009618" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="5" percentOfParentTaxonomy="25">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="NATURAL LANGUAGE PROCESSING" id="5531029" existsInText="false" childrenTotalMonths="14" childrenLastUsed="2019-10-01">
+									<sov:ChildSkill name="NLP" id="5531030" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="1" percentOfParentTaxonomy="6">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="1" percentOfParentTaxonomy="6">
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DEEP LEARNING" id="7200018" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="NETWORKING" id="3490044" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="14">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="13" percentOfParentTaxonomy="95">
+								<sov:Skill name="FORECASTING" id="017857" existsInText="true" totalMonths="14" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="17" ends="25" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="26" ends="30" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="31" ends="36" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="37" ends="42" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="43" ends="53" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="54" ends="72" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2018</sov:ParsedTextLength>
+			<sov:ParseTime>203</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;5] The following section in the resume contains more content than the work history and education sections combined: 'Languages Known'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:81fa50aa-f00b-4b06-8452-95101fc0086d</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>w6r///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

@@ -1,0 +1,1445 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Rajendra Panda",
+          "GivenName": "Rajendra",
+          "FamilyName": "Panda"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Bengaluru / Bangalore",
+                  "1 Year(s) 6 Month(s)",
+                  "Bengaluru / Bangalore, Hyderabad, Pune"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Result-oriented Professional with 1 years of experience in Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement Analysis, Solution Architecture, Java\r\nProgramming, AWS, Azure, DevOps, JavaScript, JQUERY, Python, Big Data, Hadoop, C, C++, C#, X HTML, SQL, JAVA.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Alstom Company",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Alstom Company"
+                },
+                "Description": "OnBoardsystemofSCMTRailway forSoftwareIntegration\r\nClient:-Alstom Company\r\n?Validationoftechnicaldocumentation(Requirementsspecification, SoftwareArchitectureand DetailDesigndocuments, SafetyConcepts, TechnicalsafetyReports, TestSpecificationsand Reports, User manuals).\r\n?SoftwareVerification, ValidationandTestingofasoftwareproduct.\r\nAnalysisandexecutionofsystemtests.\r\nCheckingcompliancewiththerelevantstandards.(CENELECEN:50128-2011).\r\nPerformedbyFunctionalTesting.\r\nTest strategy, test system integration, and plan definition, write or review test specification, lead test execution, review and approve test reports.\r\nTo formalize anomalies if any, to organize review to analyze anomalies and to request modifications if required.\r\n?To carryout regression tests after anomalies correction.\r\nTestIntegrationPerformedinRTRTTool.\r\nProgramminginADALanguage.\r\n\r\nMaster's Degree Thesis Title is Software Integration Test for Railway Control Systems.\r\n\r\nDevelopment of GATEWAYTB HTTP SERVER PROTOCOL for 2nd GENERATION RADIO\r\nBLOCK CENTRE (RBC2G) ON C#.\r\nClient:-RFI Company (Protocol and related document is Ansaldo STS Company)\r\n1. ThenetworkprotocolusedbytheGatewayTBapplication(fromversion2.5.0.0)toexchange information with external\r\napplications about the simulated trains and the state of the line.\r\n2. The HTTP protocol is a request/response protocol. Once the TCP/IP connection is established, a client application\r\nsends a request to the server application (GatewayTB) a then waits for the response. In the request message, the client,\r\naccordingly to the HTTP protocol, sends the HTTP version it can manage; the behavior of the server depends on such\r\nversion: if the client requested HTTP 1.0 then the server, as soon as it has sent the response, closes the connection; if the client requested HTTP 1.1, the server, after sending the response, waits for a new request on the same connection until a\r\nconfigured timeout (since the last request) elapses or the client itself closes the connection.\r\n3.: thefirstpartis in HTML format allowing any\r\ninternet browser to show the data; the second part is in XML format and can be easily parsed by a personalized client\r\napplication. C# libraries to build parser.\r\n4. #Programming language in class library by\r\nusing Visual Studio 2017.",
+                "StartDate": {
+                  "Year": "2003"
+                },
+                "EndDate": {
+                  "AnyDate": "2020-02-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 60% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Alstom Company"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "SQL Developer",
+                "OrgName": {
+                  "OrganizationName": "Gleo Technology Pvt. Ltd"
+                },
+                "Description": "1. The job role is SQL developer providing raw data for analysis purposes to the sales and marketing team of the company.\r\n2. Responsible for designing advanced SQL queries, procedure, cursor, triggers, batch files.\r\n3. PL-SQL (Triggers & Procedures) is written for updating the data into the database to update the reporting purpose\r\ntables.\r\n4. Updating prices, tax structure into the database on request for the sales operation team.",
+                "StartDate": {
+                  "YearMonth": "2014-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2015-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 46% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Gleo Technology",
+                    "sov:NormalizedTitle": "SQL Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Alstom Company"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "PQE Group",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "IT Network Infrastructure Engineer",
+                "OrgName": {
+                  "OrganizationName": "PQE Group"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2018-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "PQE Group",
+                    "sov:NormalizedTitle": "IT Network Infrastructure Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "PQE Group"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Accrosian Soft Solution Pvt. Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "WordPress Developer (Freelancer)",
+                "OrgName": {
+                  "OrganizationName": "Accrosian Soft Solution Pvt. Ltd"
+                },
+                "Description": "Collaborate with design and Front end and Back end programming teams to concept, build, test and launch dynamic websites per industry best practices.\r\nWork closely with other web developers to ensure the client's marketing goals and objectives are\r\nbeing understood and met within established timelines and with the highest level of quality.\r\nExpert with WordPress CMS.\r\nWorking in an E-Commerce Agile environment.\r\nCoding in a WordPress environment and develop and/or update code for themes and plugins.\r\nModify existing code as needed.\r\nCoding of custom WordPress theme and template files using HTML, CSS.",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 56% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Accrosian Soft Solution",
+                    "sov:NormalizedTitle": "WordPress Developer Freelancer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "WordPress Developer",
+                        "(Freelancer)",
+                        "Freelancer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Accrosian Soft Solution"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "AKKA Technologies",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Verification & Validation Engineer",
+                "OrgName": {
+                  "OrganizationName": "AKKA Technologies"
+                },
+                "Description": "https://freesearch.naukri.com/preview/printResume?uname=d3d   4200130a6116050c500d5440564c6&sid=3810263223&AT=1580666203",
+                "StartDate": {
+                  "YearMonth": "2018-01"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "AKKA Technologies",
+                    "sov:NormalizedTitle": "Verification AND Validation Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "AKKA Technologies"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "University of Bologna"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Telecommunication Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: MS/M.Sc(Science) (Telecommunication Engineering) from University of Bologna in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "University of Bologna"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Electronics/Telecommunication) from Institution of Electronics and Telecommunication\r\nEngineers, New delhi in 2014",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Tech Architect, Software Development, Application Programming, Application Maintenance, Project\r\nManagement, Requirement Analysis, Solution Architecture, Java\r\nProgramming, AWS, Azure, DevOps, JavaScript, JQUERY, Python, Big Data, Hadoop, C, C++, C#, X HTML, SQL, JAVA\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 15a74c1a3b49751d58\tLast Active: 31-Jan-20\tLast Modified: 29-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nHTML\t2015\t8 Year(s) 0 Month(s)\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=d3d   4200130a6116050c500d5440564c6&sid=3810263223&AT=1580666203\r\n2/2/20 19'03\r\n\r\n\r\nC, C++\t2015\t2 Year(s) 0 Month(s)\r\n\r\nXHTML\t2012\t0 Year(s) 0 Month(s)\r\n\r\nJavaScript\r\n\r\nJQUERY\r\n\r\nPHP\r\n\r\nASP.NET\r\n\r\nCSS\r\n\r\nADO.NET\r\n\r\nVISUAL STUDIO\t2018\t1 Year(s) 0 Month(s)\r\n\r\nVB.NET, MVC"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tProficient"
+          },
+          {
+            "LanguageCode": "te",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Telugu\tExpert"
+          },
+          {
+            "LanguageCode": "it",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Italian\tBeginner"
+          },
+          {
+            "LanguageCode": "or",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Oriya\tProficient"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'03\r\n\r\n\r\nRajendra Panda\r\n\r\n\r\nSeeking Roles in Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement Analysis, Solution Architecture, Java\r\nProgramming, AWS, Azure, DevOps, JavaScript, JQUERY, Python, Big\r\nData, Hadoop, C, C++, C#, X HTML, SQL, JAVA,\r\n\r\n\r\nCurrent Location: Bengaluru / Bangalore\tTotal Experience: 1 Year(s) 6 Month(s)\r\nPref. Location: Bengaluru / Bangalore, Hyderabad, Pune\tNotice Period: 15 Days or less\r\nFunctional Area: IT Software - Application Programming /\tHighest Degree: MS/M.Sc(Science) [Telecommunication\r\nMaintenance\tEngineering]\r\nRole: Tech Architect\r\nIndustry: IT-Software/Software Services\r\nMarital Status: Single/unmarried\r\nKey Skills: Tech Architect, Software Development, Application Programming, Application Maintenance, Project\r\nManagement, Requirement Analysis, Solution Architecture, Java\r\nProgramming, AWS, Azure, DevOps, JavaScript, JQUERY, Python, Big Data, Hadoop, C, C++, C#, X HTML, SQL, JAVA\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 15a74c1a3b49751d58\tLast Active: 31-Jan-20\tLast Modified: 29-Jan-20\r\n\r\n\r\nSummary\r\nResult-oriented Professional with 1 years of experience in Software Development, Application Programming, Application\r\nMaintenance, Project Management, Requirement Analysis, Solution Architecture, Java\r\nProgramming, AWS, Azure, DevOps, JavaScript, JQUERY, Python, Big Data, Hadoop, C, C++, C#, X HTML, SQL, JAVA.\r\n\r\n\r\nWork Experience\r\nPQE Group as IT Network Infrastructure Engineer\r\nNov 2018 to May 2019\r\n\r\nAccrosian Soft Solution Pvt. Ltd. as WordPress Developer (Freelancer)\r\nApr 2018 to Apr 2019\r\nCollaborate with design and Front end and Back end programming teams to concept, build, test\r\nand launch dynamic websites per industry best practices.\r\nWork closely with other web developers to ensure the client's marketing goals and objectives are\r\nbeing understood and met within established timelines and with the highest level of quality.\r\nExpert with WordPress CMS.\r\nWorking in an E-Commerce Agile environment.\r\nCoding in a WordPress environment and develop and/or update code for themes and plugins.\r\nModify existing code as needed.\r\nCoding of custom WordPress theme and template files using HTML, CSS.\r\n\r\n\r\nAKKA Technologies as Verification & Validation Engineer\r\nJan 2018 to Jul 2018\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=d3d   4200130a6116050c500d5440564c6&sid=3810263223&AT=1580666203\r\n2/2/20 19'03\r\n\r\n\r\nOnBoardsystemofSCMTRailway forSoftwareIntegration\r\nClient:-Alstom Company\r\n?Validationoftechnicaldocumentation(Requirementsspecification, SoftwareArchitectureand\r\nDetailDesigndocuments, SafetyConcepts, TechnicalsafetyReports, TestSpecificationsand Reports, User manuals).\r\n?SoftwareVerification, ValidationandTestingofasoftwareproduct.\r\nAnalysisandexecutionofsystemtests.\r\nCheckingcompliancewiththerelevantstandards.(CENELECEN:50128-2011).\r\nPerformedbyFunctionalTesting.\r\nTest strategy, test system integration, and plan definition, write or review test specification, lead test execution, review\r\nand approve test reports.\r\nTo formalize anomalies if any, to organize review to analyze anomalies and to request modifications if required.\r\n?To carryout regression tests after anomalies correction.\r\nTestIntegrationPerformedinRTRTTool.\r\nProgramminginADALanguage.\r\n\r\nMaster's Degree Thesis Title is Software Integration Test for Railway Control Systems.\r\n\r\nDevelopment of GATEWAYTB HTTP SERVER PROTOCOL for 2nd GENERATION RADIO\r\nBLOCK CENTRE (RBC2G) ON C#.\r\nClient:-RFI Company (Protocol and related document is Ansaldo STS Company)\r\n1. ThenetworkprotocolusedbytheGatewayTBapplication(fromversion2.5.0.0)toexchange information with external\r\napplications about the simulated trains and the state of the line.\r\n2. The HTTP protocol is a request/response protocol. Once the TCP/IP connection is established, a client application\r\nsends a request to the server application (GatewayTB) a then waits for the response. In the request message, the client,\r\naccordingly to the HTTP protocol, sends the HTTP version it can manage; the behavior of the server depends on such\r\nversion: if the client requested HTTP 1.0 then the server, as soon as it has sent the response, closes the connection; if the\r\nclient requested HTTP 1.1, the server, after sending the response, waits for a new request on the same connection until a\r\nconfigured timeout (since the last request) elapses or the client itself closes the connection.\r\n3.: thefirstpartis in HTML format allowing any\r\ninternet browser to show the data; the second part is in XML format and can be easily parsed by a personalized client\r\napplication. C# libraries to build parser.\r\n4. #Programming language in class library by\r\nusing Visual Studio 2017.\r\n\r\n\r\nGleo Technology Pvt. Ltd., as SQL Developer\r\nAug 2014 to Apr 2015\r\n1. The job role is SQL developer providing raw data for analysis purposes to the sales and marketing team of the\r\ncompany.\r\n2. Responsible for designing advanced SQL queries, procedure, cursor, triggers, batch files.\r\n3. PL-SQL (Triggers & Procedures) is written for updating the data into the database to update the reporting purpose\r\ntables.\r\n4. Updating prices, tax structure into the database on request for the sales operation team.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from Institution of Electronics and Telecommunication\r\nEngineers, New delhi in 2014\r\n\r\nPG: MS/M.Sc(Science) (Telecommunication Engineering) from University of Bologna in 2018\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nHTML\t2015\t8 Year(s) 0 Month(s)\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=d3d   4200130a6116050c500d5440564c6&sid=3810263223&AT=1580666203\r\n2/2/20 19'03\r\n\r\n\r\nC, C++\t2015\t2 Year(s) 0 Month(s)\r\n\r\nXHTML\t2012\t0 Year(s) 0 Month(s)\r\n\r\nJavaScript\r\n\r\nJQUERY\r\n\r\nPHP\r\n\r\nASP.NET\r\n\r\nCSS\r\n\r\nADO.NET\r\n\r\nVISUAL STUDIO\t2018\t1 Year(s) 0 Month(s)\r\n\r\nVB.NET, MVC\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tProficient\r\n\r\nHindi\tProficient\r\n\r\nTelugu\tExpert\r\n\r\nItalian\tBeginner\r\n\r\nOriya\tProficient\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tUS Work Status: Need H1 Visa\r\nPhysically Challenged: No\tCountries: India, Netherlands, Germany\r\nJob Type: Permanent / Temporary\r\nEmployment Status: Full Time, Part Time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=d3d   4200130a6116050c500d5440564c6&sid=3810263223&AT=1580666203\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore, Hyderabad, Pune",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Category: General"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Rajendra Panda's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Engineering (mostly Plant). Rajendra Panda has 16 years of work experience.",
+          "sov:MonthsOfWorkExperience": "197",
+          "sov:AverageMonthsPerEmployer": "49",
+          "sov:FulltimeDirectHirePredictiveIndex": "99",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "67",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "45",
+                        "@percentOfParentTaxonomy": "67",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "193",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VISUAL STUDIO",
+                                "@id": "010645",
+                                "@existsInText": "true",
+                                "@totalMonths": "193",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "APPLICATION PROGRAMMING",
+                            "@id": "021658",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "BACK END",
+                            "@id": "025118",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "BATCH FILES",
+                            "@id": "010477",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "C#",
+                            "@id": "012275",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "Hadoop",
+                            "@id": "1004744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-4"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "REQUIREMENT ANALYSIS",
+                            "@id": "022962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SOFTWARE INTEGRATION",
+                            "@id": "023540",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4",
+                            "@childrenTotalMonths": "193",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE INTEGRATION TEST",
+                                "@id": "008225",
+                                "@existsInText": "true",
+                                "@totalMonths": "193",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SYSTEM INTEGRATION",
+                            "@id": "009089",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "VB.NET",
+                            "@id": "010435",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "XML",
+                            "@id": "011476",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "TCP",
+                            "@id": "1980003",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "TCP/IP",
+                            "@id": "1980004",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "HTTP",
+                            "@id": "019117",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "TCP/IP",
+                            "@id": "009204",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEV OPS",
+                            "@id": "0146073",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DEVOPS",
+                                "@id": "0146074",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "TCP/IP",
+                            "@id": "3490043",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADO",
+                            "@id": "013357",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2015-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2015-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS ADO",
+                            "@id": "025411",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ADO.NET",
+                                "@id": "013369",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "SQL QUERIES",
+                            "@id": "3404001",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2015-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASP",
+                            "@id": "004324",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "MS ASP",
+                            "@id": "025409",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ASP.NET",
+                                "@id": "004334",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTENT MANAGEMENT SYSTEM",
+                            "@id": "5530931",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2019-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CMS",
+                                "@id": "5530932",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2019-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "5530761",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMS",
+                            "@id": "013609",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "13",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Plant",
+                        "@id": "142",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTROL SYSTEMS",
+                            "@id": "080825",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Circuits",
+                        "@id": "266",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTROL SYSTEMS",
+                            "@id": "080621",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTROL SYSTEMS",
+                            "@id": "080355",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "RF",
+                        "@id": "268",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "RFI",
+                            "@id": "007051",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "263",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "VALIDATION ENGINEER",
+                            "@id": "010397",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2018-07-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "70",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "193",
+                            "@childrenLastUsed": "2020-02-02",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@totalMonths": "193",
+                                "@lastUsed": "2020-02-02",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "WORDPRESS",
+                            "@id": "3391111",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Information Architect",
+                        "@id": "567",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRONT END",
+                            "@id": "5570300",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Human Computer Interaction",
+                        "@id": "561",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRONT END",
+                            "@id": "5570217",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Process Control",
+                        "@id": "207",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "96",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTROL SYSTEMS",
+                            "@id": "022458",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Construction Non-Laborer",
+                    "@id": "22",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Transportation",
+                        "@id": "388",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "RAILWAY",
+                            "@id": "023040",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST REPORTS",
+                            "@id": "009460",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100"
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "HADOOP",
+                            "@id": "1400328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BEST PRACTICES",
+                            "@id": "011365",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2019-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Power Related",
+                        "@id": "925",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALSTOM",
+                            "@id": "018319",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "19",
+              "@ends": "28",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "29",
+              "@ends": "34",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "35",
+              "@ends": "103",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "104",
+              "@ends": "110",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "111",
+              "@ends": "140",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "141",
+              "@ends": "163",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "50128-2011"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Rajendra Panda"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=d3d"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Bengaluru / Bangalore, Hyderabad, Pune",
+              "Current Location: Bengaluru / Bangalore",
+              "Work Authorization\r\nCategory: General",
+              "Marital Status: Single",
+              "1 Year(s) 6 Month(s)"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "6280",
+        "sov:ParseTime": "687",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:221;POS-4] We could not find a job title for: POS-4. Every position in a resume should have a job title.",
+                    "[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:79e3311f-2051-45b5-8bf3-d79d62ab185f",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "dmsBAAAAAAA="
+      }
+    }
+  }
+}

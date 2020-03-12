@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>UTTAR PRADESH</Region>
+					<Municipality>Noida</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>A focused professional with experience in Data Analytics, Portfolio Management, Risk Analysis, Quantitative Research, Data
+Mining, Business Intelligence, Data Modeling, Project Management, Marketing Analysis, Stakeholder Management, Business
+Generation, Impact Analysis, SAS</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>BSR &amp; Co</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Analyst - Data Analytics</Title>
+					<OrgName>
+						<OrganizationName>BSR &amp; Co</OrganizationName>
+					</OrgName>
+					<Description>Learnings
+Assistance in preparation of transfer pricing compliances, including transfer pricing reports, Form
+3CEB, Master File, Country by Country report and related litigation work for client.
+Learning - Excellent Excel and Presentation skills. Working under narrow timeline during peak season.
+Direct interaction with clientele.</Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Finance → Tax</CategoryCode>
+						<Comments>Finance describes 20% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>BSR</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Analyst Data Analytics</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Analyst</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>BSR</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Amity University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.A</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Economics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.A (Economics) from Amity University in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Amity University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Analyst, Data Analyst, Data Analytics, Risk Analysis, Quantitative Research, Data Mining, Business
+Intelligence, Data Modeling, Project Management, Marketing Analysis, Impact Analysis
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 30-Jan-20	Last Modified: 30-Jan-20
+ac514b27ca83415dbb826141078d5d46
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft Office
+
+Power Point presentation</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Expert</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Expert</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>de</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>German	Proficient</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Conferred with "Rising Star" award, for exemplary and dedicated work by B S R &amp; Co. LLP</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Conferred with "Rising Star" award, for exemplary and dedicated work by B S R &amp; Co. LLP,
+India.
+Professional Degree in foreign business language- German.
+Successfully published research paper on 'IMPACT OF WATER SUPPLY ON ECONOMIC
+GROWTH - CASE STUDY OF INDIA'.
+Successfully organized seminar on " Impact of Policies and Functioning of the APEX Financial
+Institutions of the Economic and Financial Development of India"; October 19-20, 2015
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     51809540e211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666759
+2/2/20 19'09
+
+
+Successfully organized "National Conference on Sustainable Development In India: Economic
+Issues and policy Initiatives"; March 03-04, 2016.
+Successfully organized 'National Conference on Shaping India 2020-30: Sustainable Development
+and Socio Economic Perspective &amp; Challenges'; March 23-24, 2017.
+Successfully organized 'National Conference on Leveraging SDG's To Drive Socio- Economic
+Development: Mission 2030".; March 22-23, 2018
+Volunteered for Blood Donation Camp organized by ROTARY BLOOD BANK.
+Volunteered for Adopt a Tree 2016 Campaign, organized by WWF-India</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'09
+
+
+   ~~~~~~~~~~  
+
+
+Executive seeking roles in Data Analytics, Portfolio Management, Risk
+Analysis, Quantitative Research, Business Intelligence, Data Modeling, Project
+Management, Marketing Analysis, Stakeholder Management, Impact Analysis, Wealth
+Management
+
+
+Current Designation: Analyst - Data Analytics	Total Experience: 1 Year(s) 8 Month(s)
+Current Company: BSR &amp; Co.	Highest Degree: B.A [Economics]
+   ~~~~~~~~~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: Strategy /Management Consulting Firms
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Analyst, Data Analyst, Data Analytics, Risk Analysis, Quantitative Research, Data Mining, Business
+Intelligence, Data Modeling, Project Management, Marketing Analysis, Impact Analysis
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 30-Jan-20	Last Modified: 30-Jan-20
+ac514b27ca83415dbb826141078d5d46
+
+
+Summary
+A focused professional with experience in Data Analytics, Portfolio Management, Risk Analysis, Quantitative Research, Data
+Mining, Business Intelligence, Data Modeling, Project Management, Marketing Analysis, Stakeholder Management, Business
+Generation, Impact Analysis, SAS
+
+
+Work Experience
+BSR &amp; Co. as Analyst - Data Analytics
+Jun 2018 to Till Date
+Learnings
+Assistance in preparation of transfer pricing compliances, including transfer pricing reports, Form
+3CEB, Master File, Country by Country report and related litigation work for client.
+Learning - Excellent Excel and Presentation skills. Working under narrow timeline during peak season.
+Direct interaction with clientele.
+
+Achievements
+Conferred with "Rising Star" award, for exemplary and dedicated work by B S R &amp; Co. LLP,
+India.
+Professional Degree in foreign business language- German.
+Successfully published research paper on 'IMPACT OF WATER SUPPLY ON ECONOMIC
+GROWTH - CASE STUDY OF INDIA'.
+Successfully organized seminar on " Impact of Policies and Functioning of the APEX Financial
+Institutions of the Economic and Financial Development of India"; October 19-20, 2015
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     51809540e211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666759
+2/2/20 19'09
+
+
+Successfully organized "National Conference on Sustainable Development In India: Economic
+Issues and policy Initiatives"; March 03-04, 2016.
+Successfully organized 'National Conference on Shaping India 2020-30: Sustainable Development
+and Socio Economic Perspective &amp; Challenges'; March 23-24, 2017.
+Successfully organized 'National Conference on Leveraging SDG's To Drive Socio- Economic
+Development: Mission 2030".; March 22-23, 2018
+Volunteered for Blood Donation Camp organized by ROTARY BLOOD BANK.
+Volunteered for Adopt a Tree 2016 Campaign, organized by WWF-India.
+
+
+Education
+UG: B.A (Economics) from Amity University in 2018
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft Office
+
+Power Point presentation
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Expert
+
+Hindi	Expert
+
+German	Proficient
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~  	Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     51809540e211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666759
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~  's experience appears to be somewhat concentrated in Information Technology (mostly Big Data) and somewhat concentrated in Marketing (mostly Data &amp; Analytics).    ~~~~~~~~~~  's experience appears to be entry level, with 20 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>20</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>20</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="34">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="28" percentOfParentTaxonomy="84">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="RISK ANALYSIS" id="5531055" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="2" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATA MODELING" id="01503802" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Telephony" id="347" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="APEX" id="026854" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA MODELING" id="024098" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="SAS" id="5551185" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="SAS" id="5540979" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="341" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="SAS" id="007445" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="31">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="28" percentOfParentTaxonomy="91">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="SAS" id="1400078" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="1" percentOfParentTaxonomy="4">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="021245" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="1400096" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="1400009" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="9">
+							<sov:Subtaxonomy name="Tax" id="702" percentOfOverall="5" percentOfParentTaxonomy="53">
+								<sov:Skill name="TRANSFER PRICING" id="7000012" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="2" percentOfParentTaxonomy="18">
+								<sov:Skill name="QUANTITATIVE" id="022510" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="RISK ANALYSIS" id="007091" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="1" percentOfParentTaxonomy="9">
+								<sov:Skill name="DATA MODELING" id="024099" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="7000125" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Real Estate &amp; Facilities" id="710" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000109" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000026" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Treasury" id="246" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000007" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="5">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="5">
+							<sov:Subtaxonomy name="Litigation" id="400" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="LITIGATION" id="022593" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="5">
+							<sov:Subtaxonomy name="Budget Related" id="516" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="PRICING" id="005394" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="5">
+							<sov:Subtaxonomy name="Aptitudes" id="532" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="PRESENTATION SKILLS" id="005353" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="4">
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="1" percentOfParentTaxonomy="36">
+								<sov:Skill name="Serial Attached SCSI" id="1007286" existsInText="false">
+									<sov:ChildSkill name="SAS" id="100728601" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Water, Wastewater, Soil, Hydrology" id="296" percentOfOverall="1" percentOfParentTaxonomy="21">
+								<sov:Skill name="WATER SUPPLY" id="010901" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="1" percentOfParentTaxonomy="21">
+								<sov:Skill name="RISK ANALYSIS" id="007090" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Process" id="143" percentOfOverall="1" percentOfParentTaxonomy="21">
+								<sov:Skill name="QUANTITATIVE" id="006272" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="SAS" id="9000114" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="1" percentOfParentTaxonomy="64">
+								<sov:Skill name="DATA MODELING" id="014996" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="36">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Nursing" id="99" percentOfOverall="1">
+							<sov:Subtaxonomy name="Blood and Circulatory" id="425" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="BLOOD BANK" id="026688" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Clinical" id="28" percentOfOverall="1">
+							<sov:Subtaxonomy name="Other" id="277" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="BLOOD BANK" id="026687" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="35" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="36" ends="44" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="45" ends="68" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">Achievements</sov:Section>
+				<sov:Section starts="69" ends="72" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="73" ends="80" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="81" ends="97" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>3318</sov:ParsedTextLength>
+			<sov:ParseTime>265</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;3,6] Each of the following sections in the resume contain more content than the work history and education sections combined: 'Achievements', 'Languages Known'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:a441f414-648d-4952-93d2-e953da3f57c1</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>G4wGAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

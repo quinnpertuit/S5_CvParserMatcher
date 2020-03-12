@@ -1,0 +1,895 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Dipesh Kumar Barai, M.Sc. in Statistics, Skilled in Data Science, Python, Machine Learning, Deep Learning",
+          "GivenName": "Dipesh",
+          "MiddleName": "Kumar",
+          "FamilyName": "Barai",
+          "Affix": [
+            {
+              "@type": "qualification",
+              "#text": "M.Sc. in Statistics"
+            },
+            {
+              "@type": "qualification",
+              "#text": "Skilled in Data Science"
+            },
+            {
+              "@type": "qualification",
+              "#text": "Python"
+            },
+            {
+              "@type": "qualification",
+              "#text": "Machine Learning"
+            },
+            {
+              "@type": "qualification",
+              "#text": "Deep Learning"
+            }
+          ]
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Bengaluru / Bangalore",
+                  "0 Year(s) 0 Month(s)"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "I have completed my Master's degree in statistics also have completed some of the online courses in Data Science, Machine\r\nLearning. I want to implement my skills and learn more about Data Science. Even though I am freshers, I assure you that I will\r\ngive my best and work to my full potential.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Affirmative Action",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Affirmative Action"
+                },
+                "Description": "Work Authorization\r\nhttps://freesearch.naukri.com/preview/printResume?uname=ed8   14018585879061742504d1d421e056&sid=3810263223&AT=1580681420\r\n2/2/20 23&11\r\n\r\n\r\nCategory: OBC - non-creamy\tCountries: India\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=ed8   4018585879061742504d1d421e056&sid=3810263223&AT=1580681420\r\nde 3",
+                "StartDate": {
+                  "Year": "2011"
+                },
+                "EndDate": {
+                  "AnyDate": "2020-02-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Affirmative Action"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Affirmative Action"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Data Science",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "Fresher Trainee",
+                "OrgName": {
+                  "OrganizationName": "Data Science"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2019-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2020-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Data Science",
+                    "sov:NormalizedTitle": "Fresher Trainee"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Data Science"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Visva-Bharati University",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Asst. Prof",
+                "OrgName": {
+                  "OrganizationName": "Visva-Bharati University"
+                },
+                "Description": "Project Title: A RANDOMIZED RESPONSE BASED OPINION POLL BEFORE LOKSABHA ELECTION 2019\r\nClient: Mr. Soumalya Mukhopadhyay, Asst. Prof. Visva-Bharati University",
+                "StartDate": {
+                  "Year": "2019"
+                },
+                "EndDate": {
+                  "Year": "2019"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Visva Bharati University",
+                    "sov:NormalizedTitle": "Assistant Prof",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Asst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Visva Bharati University"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "InsAnalytics",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Mr. Goutam Das, CEO & CHIEF DATA SCIENTIST",
+                "OrgName": {
+                  "OrganizationName": "InsAnalytics"
+                },
+                "Description": "Onsite / Offsite: Offsite\r\nProject Details: Using the ML algorithm we predict the household price.",
+                "StartDate": {
+                  "YearMonth": "2019-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-11"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Engineering → General Engineering",
+                    "Comments": "Engineering describes 50% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior Executive (President, C-level)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "InsAnalytics",
+                    "sov:NormalizedTitle": "Mr Goutam Das CEO AND CHIEF DATA SCIENTIST",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Goutam Das, CEO & CHIEF DATA SCIENTIST",
+                        "CEO & CHIEF DATA SCIENTIST"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "InsAnalytics"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Autonomous",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Moumita Roy, Asst. Prof",
+                "OrgName": {
+                  "OrganizationName": "Autonomous"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "WEST BENGAL"
+                      ],
+                      "Municipality": "Midnapore"
+                    }
+                  }
+                ],
+                "Description": "Onsite / Offsite: Offsite\r\nProject Details: Through this project, I can able to know the consistency of the player. How well the player performed.",
+                "StartDate": {
+                  "YearMonth": "2017-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Autonomous",
+                    "sov:NormalizedTitle": "Moumita Roy Assistant Prof",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Moumita Roy, Asst",
+                        "Asst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Autonomous"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Visva Bharti University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "WEST BENGAL"
+              ],
+              "Municipality": "Birbhum"
+            },
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Statistics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "PG: MS/M.Sc(Science) (Statistics) from Visva Bharti University, Birbhum in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Visva Bharti University"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Vidyasagar University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Sc",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Statistics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Sc (Statistics) from Vidyasagar University in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "BSc",
+                    "sov:NormalizedDegreeType": "BSc"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Vidyasagar University"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Computer\r\nVision, Regression, Time Series Analysis, Logistic Regression, Predictive Modeling, Cluster Analysis, Statistical\r\nAnalysis, Python, Tableau, R, Statistics\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 3dde536429203ab509\tLast Active: 2-Feb-20\tLast Modified: 30-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython\t3\t2020\t0 Year(s) 6 Month(s)\r\n\r\nTABLEAU\tPublic   2020\t0 Year(s) 6 Month(s)\r\n\r\nR\t3.6.2\t2020\t2 Year(s) 0 Month(s)\r\n\r\nC\t18\t2019\t1 Year(s) 0 Month(s)\r\n\r\nPandas, Numpy, Keras\r\n\r\nMicrosoft Office\r\n\r\nWINDOWS"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tProficient"
+          },
+          {
+            "LanguageCode": "bn",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Bengali\tExpert"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&11\r\n\r\n\r\nDipesh Kumar Barai\r\n\r\n\r\nM.Sc. in Statistics, Skilled in Data Science, Python, Machine Learning, Deep Learning,\r\nComputer Vision and NLP. Good understanding of ML/DL algorithms. Self-motivated,\r\nproactive and Excellent communication skills. Can work well in a team.\r\n\r\n\r\nCurrent Location: Bengaluru / Bangalore\tTotal Experience: 0 Year(s) 0 Month(s)\r\nPref. Location: Bengaluru / Bangalore\tNotice Period: 15 Days or less\r\nFunctional Area: Analytics & Business Intelligence\tHighest Degree: MS/M.Sc(Science) [Statistics]\r\nRole: Data Analyst\r\nIndustry: KPO / Research /Analytics\r\nMarital Status: Single/unmarried\r\nKey Skills: Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Computer\r\nVision, Regression, Time Series Analysis, Logistic Regression, Predictive Modeling, Cluster Analysis, Statistical\r\nAnalysis, Python, Tableau, R, Statistics\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 3dde536429203ab509\tLast Active: 2-Feb-20\tLast Modified: 30-Jan-20\r\n\r\n\r\nSummary\r\nI have completed my Master's degree in statistics also have completed some of the online courses in Data Science, Machine\r\nLearning. I want to implement my skills and learn more about Data Science. Even though I am freshers, I assure you that I will\r\ngive my best and work to my full potential.\r\n\r\n\r\nWork Experience\r\nData Science as Fresher Trainee\r\nAug 2019 to Jan 2020\r\n\r\n\r\nEducation\r\nUG: B.Sc (Statistics) from Vidyasagar University in 2017\r\n\r\nPG: MS/M.Sc(Science) (Statistics) from Visva Bharti University, Birbhum in 2019\r\n\r\nOther Qualifications/Certifications/Programs:\r\nMachine Learning with Python\r\nIntegrated Course on Data Science Using Python\r\nMachine Learning, Hands-On Python in Data Science\r\nData Scientist\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=ed8   14018585879061742504d1d421e056&sid=3810263223&AT=1580681420\r\n2/2/20 23&11\r\n\r\n\r\nDeep Learning, Hands-On Python in Data Science\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython\t3\t2020\t0 Year(s) 6 Month(s)\r\n\r\nTABLEAU\tPublic   2020\t0 Year(s) 6 Month(s)\r\n\r\nR\t3.6.2\t2020\t2 Year(s) 0 Month(s)\r\n\r\nC\t18\t2019\t1 Year(s) 0 Month(s)\r\n\r\nPandas, Numpy, Keras\r\n\r\nMicrosoft Office\r\n\r\nWINDOWS\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tProficient\r\n\r\nHindi\tProficient\r\n\r\nBengali\tExpert\r\n\r\n\r\nProjects\r\nProject Title: Household Price Analysis\r\nClient: Mr. Goutam Das, CEO & CHIEF DATA SCIENTIST (InsAnalytics)\r\nNature of Employment: Full Time\tDuration: Aug 2019 - Nov 2019\r\nOnsite / Offsite: Offsite\r\nProject Details: Using the ML algorithm we predict the household price.\r\n\r\nProject Title: A RANDOMIZED RESPONSE BASED OPINION POLL BEFORE LOKSABHA ELECTION 2019\r\nClient: Mr. Soumalya Mukhopadhyay, Asst. Prof. Visva-Bharati University\r\nNature of Employment: Full Time\tDuration: Jan 2019 - Jul 2019\r\nOnsite / Offsite: Offsite\r\nProject Details: Using the Randomized Response Technique we predict the election result before the election process.\r\n\r\nProject Title: PERFORMANCE ASSESMENT OF BATSMEN & BOWLERS IN ONEDAY CRICKET\r\nClient: Ms. Moumita Roy, Asst. Prof. Midnapore College (Autonomous)\r\nNature of Employment: Full Time\tDuration: Apr 2017 - Jun 2017\r\nOnsite / Offsite: Offsite\r\nProject Details: Through this project, I can able to know the consistency of the player. How well the player performed.\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=ed8   14018585879061742504d1d421e056&sid=3810263223&AT=1580681420\r\n2/2/20 23&11\r\n\r\n\r\nCategory: OBC - non-creamy\tCountries: India\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=ed8   4018585879061742504d1d421e056&sid=3810263223&AT=1580681420\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore",
+          "sov:WillingToRelocate": "No"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Dipesh Kumar Barai's experience appears to be mostly concentrated in Information Technology (mostly Programming) and somewhat concentrated in Business Operations and General Business (mostly General Skills and Activities). Dipesh Kumar Barai has 8 years of work experience.",
+          "sov:MonthsOfWorkExperience": "101",
+          "sov:AverageMonthsPerEmployer": "20",
+          "sov:FulltimeDirectHirePredictiveIndex": "40",
+          "sov:MonthsOfManagementExperience": "3",
+          "sov:HighestManagementScore": "100",
+          "sov:ExecutiveType": "general",
+          "sov:ManagementStory": "Starting on 8/1/2019, the candidate held the following executive-level management position for 3 months:\r\n\tTitle: Mr. Goutam Das, CEO & CHIEF DATA SCIENTIST for InsAnalytics",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "51",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "18",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2019-11-01",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "NATURAL",
+                            "@id": "003276",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "KERAS",
+                                "@id": "3391124",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "NUMPY",
+                                "@id": "3391118",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "PANDAS",
+                                "@id": "3391116",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "14",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "DAS",
+                            "@id": "5551108",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2019-11-01",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTIFICIAL INTELLIGENCE",
+                            "@id": "5530905",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS"
+                          },
+                          {
+                            "@name": "NATURAL LANGUAGE PROCESSING",
+                            "@id": "5531029",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PREDICTIVE MODELING",
+                            "@id": "5531047",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "DEEP LEARNING",
+                            "@id": "7200018",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS"
+                          },
+                          {
+                            "@name": "LOGISTIC REGRESSION",
+                            "@id": "7200039",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "TABLEAU SOFTWARE",
+                            "@id": "5540985",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TABLEAU",
+                                "@id": "55409852",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTIFICIAL INTELLIGENCE",
+                            "@id": "003449",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "45",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "45",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICS",
+                            "@id": "008585",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; SKILLS; SUMMARY; DEG-1; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2017-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "17",
+              "@ends": "26",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "27",
+              "@ends": "32",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "33",
+              "@ends": "37",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "38",
+              "@ends": "42",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "43",
+              "@ends": "56",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "57",
+              "@ends": "74",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "75",
+              "@ends": "84",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "85",
+              "@ends": "117",
+              "@sectionType": "PROJECT_HEADERS",
+              "#text": "Projects"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Dipesh Kumar Barai",
+              "Dipesh Kumar Barai\r\n\r\n\r\nM.Sc. in Statistics, Skilled in Data Science, Python, Machine Learning, Deep Learning",
+              "M.Sc. in Statistics, Skilled in Data Science, Python, Machine Learning, Deep Learning,"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=ed8"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Current Location: Bengaluru / Bangalore",
+              "Pref. Location: Bengaluru / Bangalore",
+              "Marital Status: Single",
+              "0 Year(s) 0 Month(s)"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3670",
+        "sov:ParseTime": "453",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:303;4,5,7] Each of the following sections in the resume contain more content than the work history and education sections combined: 'Qualifications/Certifications/Programs:', 'IT Skills', 'Projects'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:221;POS-5] We could not find a job title for: POS-5. Every position in a resume should have a job title."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:c3526339-8804-47fa-bca0-cf4b7185acb8",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "19D///////8="
+      }
+    }
+  }
+}

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <ManagementLevel>none</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <EmployerNames>
+    <MainEmployerName>International Union of Railways</MainEmployerName>
+    <EmployerName>International Union of Railways</EmployerName>
+  </EmployerNames>
+  <LanguageCodes>
+    <LanguageCode>en</LanguageCode>
+    <LanguageCode>fr</LanguageCode>
+  </LanguageCodes>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>Master's degree</DegreeName>
+    </Degree>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>MSc</DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>masters</RequiredDegree>
+  <SourceText>DYNAMIC MEASUREMENTS TO MONITOR THE TRACK QUALITY WITHIN THE INTERNATIONAL PROJECT HARMOTRACK (UIC)
+
+Introduction :
+
+The monitoring of the track quality is a major concern for SNCF Réseau: a true guarantee of the running quality and railway safety. Nowadays, maintenance process is mainly based on the measurement of track defects (geometry) through various dedicated measuring systems (such as IRIS320, Mauzin car etc.). Maintenance standards based on the measure of the track geometry defects come from several decades of experience. However, they represent the less direct indicator of danger and require specific vehicles for the track assessment. This is why, new cheaper devices like accelerometers can become really interesting since they permit to carry out a fast verification of the track quality considering extra phenomena not included in European standards.
+
+For this reason, SNCF Réseau set up an international cooperative work to study and harmonize the use of accelerometers devices worldwide through UIC (International Union of Railways).
+
+Thus, the aim of this internship is to perform a technical study with the large amount of data accessible by SNCF Réseau. This work will be carried out in collaboration with international railway experts, to tackle the problem of use of accelerometers sensors.
+
+Responsabilities :
+
+Analysis of the previous work already done during the last year. This includes the study of the literature and the Harmotrack project reports, in order to be able to be in touch with international experts;
+Machine learning studies on accelerometers data that come from various devices and vehicles (IRIS320, portable accelerometers, smartphones etc.) in order to produce classification and/or regression model of track geometrical default detection. This phase of the internship requires:
+
+Computer science fundamentals and Programming
+Advanced knowledge in probability and statistics
+Data modelling and model evaluation
+Applying modern machine learning algorithms and libraries.
+An important synthesis work is required by the end of the internship, to assure the project continuity.
+
+
+Profil recherché
+
+Master’s degree student in Engineering;
+
+Compétences et Qualités souhaitées
+
+Master’s degree student in Engineering
+Good knowledge of Python programming, including datasciences packages (Pandas, Seaborn, Scikit-learn, Keras, TensorFlow, XGBoost, etc.). Matlab equivalent skills would be a plus.
+Basic knowledge of signal processing.
+Excellent analytical skills including statistics on MSc level
+Excellent organizational skills
+Pro-active, enthusiastic and critical towards representativeness and accuracy of results
+Able to work with minimal supervision
+Good communication skills (English B2 level). Proficiency in French would be an advantage
+Excellent interpersonal skills and a strong work ethic
+Flexible, able to work under tight deadlines.</SourceText>
+  <RevisionDate>2020-03-08</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>uqT+//////8=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="35">
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="17" percentOfParentTaxonomy="50">
+          <Skill name="PYTHON" id="006120" existsInText="true" required="true">
+            <ChildSkill name="PANDAS" id="3391116" existsInText="true" required="true" />
+            <ChildSkill name="TENSORFLOW" id="3391117" existsInText="true" required="true" />
+            <ChildSkill name="KERAS" id="3391124" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Machine Learning" id="720" percentOfOverall="4" percentOfParentTaxonomy="12">
+          <Skill name="MACHINE LEARNING" id="7200149" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="4" percentOfParentTaxonomy="12">
+          <Skill name="MACHINE LEARNING" id="5531016" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Security" id="338" percentOfOverall="4" percentOfParentTaxonomy="12">
+          <Skill name="MACHINE LEARNING" id="3380002" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="4" percentOfParentTaxonomy="12">
+          <Skill name="MATLAB" id="021346" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Engineering" id="5" percentOfOverall="35">
+        <Subtaxonomy name="Process" id="143" percentOfOverall="9" percentOfParentTaxonomy="25">
+          <Skill name="SIGNAL PROCESSING" id="080804" existsInText="true" required="true" />
+          <Skill name="SENSORS" id="080807" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="9" percentOfParentTaxonomy="25">
+          <Skill name="SIGNAL PROCESSING" id="080697" existsInText="true" required="true" />
+          <Skill name="SENSORS" id="080737" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Electrical" id="135" percentOfOverall="4" percentOfParentTaxonomy="12">
+          <Skill name="SIGNAL PROCESSING" id="080884" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="General Engineering" id="307" percentOfOverall="4" percentOfParentTaxonomy="12">
+          <Skill name="SENSORS" id="080467" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Surveying" id="298" percentOfOverall="4" percentOfParentTaxonomy="12">
+          <Skill name="ALGORITHMS" id="024338" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Software and Tools" id="310" percentOfOverall="4" percentOfParentTaxonomy="12">
+          <Skill name="MATLAB" id="024275" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Personal Attributes" id="90" percentOfOverall="13">
+        <Subtaxonomy name="Aptitudes" id="532" percentOfOverall="13" percentOfParentTaxonomy="100">
+          <Skill name="ORGANIZATIONAL SKILLS" id="022714" existsInText="true" required="true">
+            <ChildSkill name="EXCELLENT ORGANIZATIONAL SKILLS" id="017014" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Manufacturing" id="13" percentOfOverall="9">
+        <Subtaxonomy name="Equipment" id="364" percentOfOverall="4" percentOfParentTaxonomy="50">
+          <Skill name="MAINTENANCE" id="022116" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Process Control" id="207" percentOfOverall="4" percentOfParentTaxonomy="50">
+          <Skill name="SENSORS" id="007774" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Construction Non-Laborer" id="22" percentOfOverall="4">
+        <Subtaxonomy name="Transportation" id="388" percentOfOverall="4" percentOfParentTaxonomy="100">
+          <Skill name="RAILWAY" id="023040" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="4">
+        <Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="4" percentOfParentTaxonomy="100">
+          <Skill name="STATISTICS" id="008585" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Ashish Grover</FormattedName>
+				<GivenName>Ashish</GivenName>
+				<FamilyName>Grover</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Ghaziabad</Region>
+					<Municipality>Gurgaon</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Medical-MS/MD [Bio-Chemistry]</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Over 1 years experience in Clinical Data Management, Clinical Research, Clinical Analysis, Research &amp; Development,
+Biotechnology, Pharmacovigilance, Clinical Trials, Principal Investigator, Laboratory Testing, ICH-GCP</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Sun Pharmaceutical Industries</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Entry Operator</Title>
+					<OrgName>
+						<OrganizationName>Sun Pharmaceutical Industries</OrganizationName>
+					</OrgName>
+					<Description>Clinical Research</Description>
+					<StartDate>
+						<YearMonth>2018-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Clinical → Research</CategoryCode>
+						<Comments>Clinical describes 50% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Sun Pharmaceutical Industries</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Entry Operator</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Sun Pharmaceutical Industries</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Sun Pharmaceutical</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Clinical Research Data Entry Operator in Clinical Data Management</Title>
+					<OrgName>
+						<OrganizationName>Sun Pharmaceutical</OrganizationName>
+					</OrgName>
+					<Description>KEY RESPONSIBILITIES
+To coordinate with Principal Investigator to help ensure that clinical research and related activities are performed.
+To coordinate monitoring visit
+EC Submission.
+Completion of Paper CRF &amp; e-CRF.
+Drug dispensing and Maintain the accountability Log.
+Arrange for prescribed laboratory tests, specialist referrals, and diagnostic procedures.
+Source Document.
+Daily Record minimum, actual, &amp; maximum temperature of IP in monitoring temperature log sheet.
+EC communications that includes notifications of the protocol amendment, protocol deviations, investigator brochure etc.
+Tracking the status of all study activities.</Description>
+					<StartDate>
+						<YearMonth>2019-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-12</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Clinical → Research</CategoryCode>
+						<Comments>Clinical describes 47% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Sun Pharmaceutical</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Clinical Research Data Entry Operator in Clinical Data Management</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Clinical Research Data Entry Operator</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Sun Pharmaceutical</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Sir Ganga Ram Hospital</EmployerOrgName>
+				<PositionHistory positionType="internship">
+					<Title>Trainee -Clinical Research</Title>
+					<OrgName>
+						<OrganizationName>Sir Ganga Ram Hospital</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Sir Ganga Ram Hospital</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Trainee Clinical Research</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Trainee</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Sir Ganga Ram Hospital</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Medical-MS</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: Medical-MS/MD (Bio-Chemistry) from All India Management Association (AIMA) in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Maharishi Dayanand University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>HARYANA</Region>
+					<Municipality>Rohtak</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Bio-Chemistry/Bio-Technology</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Bio-Chemistry/Bio-Technology) from Maharishi Dayanand University (MDU), Rohtak in 2016</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Maharishi Dayanand University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Diploma In Clinical Research</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Clinical Research Associate</Name>
+				<Id>2</Id>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Clinical Research Data Entry Operator, Clinical Research Associate/Scientist, Clinical Data
+Management, Clinical Research, Clinical Analysis, Research &amp; Development, Biotechnology, Pharmacovigilance, Clinical
+Trials, Principal Investigator, Laboratory Testing
+
+Verified: Phone Number |	Email - id
+
+
+ID: 303c3e51163ae85c54	Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+MS OFFICE
+
+Internet, Documents Scanning</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'13
+
+
+Ashish Grover
+
+
+Clinical Research Data Entry Operator seeking assignment in Clinical Data
+Management, Clinical Research, Clinical Analysis, Research &amp; Development,
+Biotechnology, Pharmacovigilance, Clinical Trials, Principal Investigator, Laboratory
+Testing, ICH-GCP
+
+
+Current Designation: Data Entry Operator	Total Experience: 1 Year(s) 5 Month(s)
+Current Company: Sun Pharmaceutical Industries	Notice Period: 15 Days or less
+Current Location: Gurgaon	Highest Degree: Medical-MS/MD [Bio-Chemistry]
+Pref. Location: Delhi / NCR, Gurgaon, Ghaziabad
+Functional Area: Pharma / Biotech / Healthcare / Medical / R&amp;D
+Role: Clinical Research Associate/Scientist
+Industry: Pharma/Biotech/Clinical Research
+Marital Status: Single/unmarried
+Key Skills: Clinical Research Data Entry Operator, Clinical Research Associate/Scientist, Clinical Data
+Management, Clinical Research, Clinical Analysis, Research &amp; Development, Biotechnology, Pharmacovigilance, Clinical
+Trials, Principal Investigator, Laboratory Testing
+
+Verified: Phone Number |	Email - id
+
+
+ID: 303c3e51163ae85c54	Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+
+
+Summary
+Over 1 years experience in Clinical Data Management, Clinical Research, Clinical Analysis, Research &amp; Development,
+Biotechnology, Pharmacovigilance, Clinical Trials, Principal Investigator, Laboratory Testing, ICH-GCP
+
+
+Work Experience
+Sun Pharmaceutical as Clinical Research Data Entry Operator in Clinical Data Management
+Apr 2019 to Dec 2019
+KEY RESPONSIBILITIES
+To coordinate with Principal Investigator to help ensure that clinical research and related activities are performed.
+To coordinate monitoring visit
+EC Submission.
+Completion of Paper CRF &amp; e-CRF.
+Drug dispensing and Maintain the accountability Log.
+Arrange for prescribed laboratory tests, specialist referrals, and diagnostic procedures.
+Source Document.
+Daily Record minimum, actual, &amp; maximum temperature of IP in monitoring temperature log sheet.
+EC communications that includes notifications of the protocol amendment, protocol deviations, investigator brochure etc.
+Tracking the status of all study activities.
+
+
+Sir Ganga Ram Hospital as Trainee -Clinical Research
+Jul 2018 to Apr 2019
+
+
+https://freesearch.naukri.com/preview/printResume?uname=79a   1a5c08503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580667074
+2/2/20 19'13
+
+
+Sun Pharmaceutical Industries as Data Entry Operator
+Jan 2018 to Till Date
+Clinical Research
+
+
+Education
+UG: B.Tech/B.E. (Bio-Chemistry/Bio-Technology) from Maharishi Dayanand University (MDU), Rohtak in 2016
+
+PG: Medical-MS/MD (Bio-Chemistry) from All India Management Association (AIMA) in 2017
+
+Other Qualifications/Certifications/Programs:
+Diploma In Clinical Research
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+MS OFFICE
+
+Internet, Documents Scanning
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=79a   1a5c08503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580667074
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Gurgaon</sov:CurrentLocation>
+				<sov:PreferredLocation>Delhi / NCR, Gurgaon, Ghaziabad</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Physically Challenged: No</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Ashish Grover's experience appears to be mostly concentrated in Clinical (mostly Research) and somewhat concentrated in Scientific (mostly Clinical). Ashish Grover's experience appears to be lower-to-mid level, with about 2 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>27</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>9</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>33</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Clinical" id="28" percentOfOverall="45">
+							<sov:Subtaxonomy name="Research" id="274" percentOfOverall="38" percentOfParentTaxonomy="85">
+								<sov:Skill name="CLINICAL RESEARCH" id="023153" existsInText="true" totalMonths="25" lastUsed="2020-02-03" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Admin" id="272" percentOfOverall="4" percentOfParentTaxonomy="9">
+								<sov:Skill name="CLINICAL DATA MANAGEMENT" id="013455" existsInText="true" totalMonths="8" lastUsed="2019-12-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Tests and Functions" id="276" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="LABORATORY" id="022541" existsInText="true" totalMonths="8" lastUsed="2019-12-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="277" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="CLINICAL TRIALS" id="022818" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="CRF" id="014637" existsInText="true" totalMonths="8" lastUsed="2019-12-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="GCP" id="018185" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="ICH" id="019467" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Scientific" id="15" percentOfOverall="41">
+							<sov:Subtaxonomy name="Clinical" id="375" percentOfOverall="40" percentOfParentTaxonomy="98">
+								<sov:Skill name="CLINICAL RESEARCH" id="013493" existsInText="true" totalMonths="25" lastUsed="2020-02-03" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="LABORATORY" id="022540" existsInText="true" totalMonths="8" lastUsed="2019-12-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Chemical" id="377" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="CHEMISTRY" id="022877" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-1; DEG-2"></sov:Skill>
+								<sov:Skill name="GCP" id="018186" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Pharma" id="372" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CLINICAL TRIALS" id="022817" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="PHARMACOVIGILANCE" id="004647" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Bio" id="373" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="BIOTECHNOLOGY" id="011657" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="7">
+							<sov:Subtaxonomy name="Document-centric" id="109" percentOfOverall="7" percentOfParentTaxonomy="99">
+								<sov:Skill name="DATA ENTRY" id="014123" existsInText="true" totalMonths="25" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1; POS-3"></sov:Skill>
+								<sov:Skill name="ENTRY OPERATOR" id="016677" existsInText="true" totalMonths="25" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Admin" id="113" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="SCANNING" id="007478" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="3">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="2" percentOfParentTaxonomy="69">
+								<sov:Skill name="DATA MANAGEMENT" id="5530951" existsInText="true" totalMonths="8" lastUsed="2019-12-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="1" percentOfParentTaxonomy="25">
+								<sov:Skill name="CONDITIONAL RANDOM FIELD" id="7200014" existsInText="false" childrenTotalMonths="8" childrenLastUsed="2019-12-01">
+									<sov:ChildSkill name="CRF" id="7200015" existsInText="true" totalMonths="8" lastUsed="2019-12-01" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="SUN" id="008895" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="MS OFFICE" id="022137" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Industrial" id="137" percentOfOverall="2" percentOfParentTaxonomy="78">
+								<sov:Skill name="LABORATORY" id="022542" existsInText="true" totalMonths="8" lastUsed="2019-12-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Chemical" id="132" percentOfOverall="1" percentOfParentTaxonomy="22">
+								<sov:Skill name="CHEMISTRY" id="013028" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-1; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="false">
+									<sov:ChildSkill name="MS OFFICE" id="022136" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="0">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2016-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="34" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="35" ends="63" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="64" ends="68" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="69" ends="72" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="73" ends="80" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="81" ends="95" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Ashish Grover</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=79a</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Delhi / NCR, Gurgaon, Ghaziabad</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Physically Challenged: No</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Gurgaon</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>3115</sov:ParsedTextLength>
+			<sov:ParseTime>437</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:22d71cf0-c31a-4ac9-b014-328980c9c344</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>mU////////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

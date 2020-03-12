@@ -1,0 +1,1157 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "WEST BENGAL"
+              ],
+              "Municipality": "Kolkata"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Efficiently utilize the skills acquired through 1+ Years of work experience in SAP End user, Support in Implementation Projects\r\nfrom a reputed company. I want to grow progressively in the field of SAP Functional\r\n* Understanding on procure to pay cycle\r\n* Global settings: Material type, material group, number range assignment.\r\n* Master data: Material Master Data, Vendor material data creation, Info record creation, source list.\r\n* Configuring of PR, RFQ, PO, outline agreements and Release Strategy for PR, RFQ, PO, outline agreements.\r\n* Configuring release procedure for PR and PO with classification.\r\n* Knowledge on SAP standard procurement process like procurement direct material, consumable material, services.\r\n* Special Procurement process for subcontracting, Consignment, Pipeline materials and Stock Transfer.\r\n* Inventory management process (Goods Receipts, Goods Issues, Stock Transfers and Transfer Postings).\r\n* Integration of FI-MM functional Modules of a Business Module.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Livelihood System",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "@currentEmployer": "true",
+                "Title": "SAP MM Support Consultant",
+                "OrgName": {
+                  "OrganizationName": "Livelihood System"
+                },
+                "Description": "Project: TATA STEEL (SAP CLIENT SUPPORT)",
+                "StartDate": {
+                  "YearMonth": "2019-07"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Call Center or Help Desk or Customer Service → Customer Facing",
+                    "Comments": "Call Center or Help Desk or Customer Service describes 33% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "Livelihood System",
+                    "sov:NormalizedTitle": "SAP MM Support Consultant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Livelihood System"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Tata Steel Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "@currentEmployer": "true",
+                "Title": "SAP MM Support Consultant",
+                "OrgName": {
+                  "OrganizationName": "Tata Steel Ltd"
+                },
+                "Description": "a0c570048635e4c52481d460e560c6&sid=3810263223&AT=1580681973\r\n2/2/20 23&20\r\n\r\n\r\nJob Responsibilities\r\nCalls which are logged by user:\r\n\r\nMM related issue\r\no Memo, challan, PR, RO, SES Creation through easy buy issue\r\no MIGO Screen Issues.\r\no IV Screen Issues.\r\no Creation of CAPA document.",
+                "StartDate": {
+                  "YearMonth": "2019-07"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Hardware Engineering → New Product Integration",
+                    "Comments": "Hardware Engineering describes 89% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "Tata Steel",
+                    "sov:NormalizedTitle": "SAP MM Support Consultant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Tata Steel"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Sudisa Foundry pvt ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "SAP MM Trainee",
+                "OrgName": {
+                  "OrganizationName": "Sudisa Foundry pvt ltd"
+                },
+                "Description": "Brief: Implementation project\r\n\r\n\r\nJob Responsibilities\r\n* Involved in design, configuration, testing and re-engineering of various functionalities in MM modules.\r\n* Involved in defining Requirements, Configuration, Integration, testing and training to end user..\r\n* Created Material master records, functional location, equipment using SAP LTMC.\r\n* BOM Creation According to material and maintained Master recepie.\r\n* Configured Vendor/Customer Master Data and Create Bank Key and maintain in BP.\r\n* Involved in the Integration of SAP FI-MM Modules\r\n* Prepared User manual documents for transaction code used by key and super users.\r\n* Involved actively with Cross-Functional team members to solve some production issues.\r\n* Create New GL Account, Asset Creation.\r\n* Investigate repetitive issues and take necessary remedial action\r\n* Preparation of CAPA document",
+                "StartDate": {
+                  "YearMonth": "2019-02"
+                },
+                "EndDate": {
+                  "AnyDate": "2019-07-16"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Hardware Engineering → New Product Integration",
+                    "Comments": "Hardware Engineering describes 29% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Sudisa Foundry",
+                    "sov:NormalizedTitle": "SAP MM Trainee"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Sudisa Foundry"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Sudisa Foundary Pvt Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "SAP MM Trainee",
+                "OrgName": {
+                  "OrganizationName": "Sudisa Foundary Pvt Ltd"
+                },
+                "Description": "Project: SUDISA FOUNDARY PVT LTD",
+                "StartDate": {
+                  "YearMonth": "2019-02"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Sudisa Foundary",
+                    "sov:NormalizedTitle": "SAP MM Trainee"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Sudisa Foundary"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Paul Infotech Solutions",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "OrgName": {
+                  "OrganizationName": "Paul Infotech Solutions"
+                },
+                "Description": "Project: PAUL INFOTECH SOLUTIONS\r\nRole: SAP MM Support\r\nType: Support Project",
+                "StartDate": {
+                  "YearMonth": "2018-05"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → ERP and CRM",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Paul Infotech Solutions"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Paul Infotech Solutions"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Ausican Commodities Pty Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "OrgName": {
+                  "OrganizationName": "Ausican Commodities Pty Ltd"
+                },
+                "Description": "Duration:: May 2018 to Jan 2019\r\n\r\n\r\nRoles and Responsibilities\r\n* Preparation of CAPA document.\r\n* Day to Day incident handling and user Support in production environment by maintain service Call.",
+                "StartDate": {
+                  "YearMonth": "2018-05"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Hardware Engineering → New Product Integration",
+                    "Comments": "Hardware Engineering describes 60% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Ausican Commodities"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Ausican Commodities"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "balasore college of enginnering and technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from balasore college of enginnering and technology in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "balasore college of enginnering and technology"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "CAPA",
+            "Id": "1",
+            "Description": "certification; matched to list"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: SAP MM Support Consultant, ERP Consultant, SAP Implementation, Configuration Management, Requirements\r\nGathering, Gap Analysis, System Integration, Master Data Management, Procurement, Stock Transfer, Inventory\r\nControl, General Leader Accounting, SAP ABAP\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 6b2e7b923bc883f602\tLast Active: 1-Feb-20\tLast Modified: 27-Jan-20\r\n\r\n\r\nIT Skills\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     0c570048635e4c52481d460e560c6&sid=3810263223&AT=1580681973\r\n2/2/20 23&20\r\n\r\n\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nSAP MM\r\n\r\nSAP FICO/COPA\r\n\r\nSAP ABAP, Java, HTML. CSS\tSap\t2019\t1 Year(s) 8 Month(s)\r\nh4hana"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&20\r\n\r\n\r\n   ~~~~~~~~~~~~  \r\n\r\n\r\nSAP MM Support Consultant seeking roles in SAP Implementation, Configuration\r\nManagement, Requirements Gathering, Gap Analysis, System Integration, Master Data\r\nManagement, Procurement, Stock Transfer, Inventory Control, General Leader\r\nAccounting, SAP ABAP\r\n\r\n\r\nCurrent Designation: SAP MM Support Consultant\tTotal Experience: 1 Year(s) 8 Month(s)\r\nCurrent Company: Livelihood System\tNotice Period: 1 Month\r\n   ~~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree: B.Tech/B.E. [Computers]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: IT Software - ERP / CRM\r\nRole: ERP Consultant\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: SAP MM Support Consultant, ERP Consultant, SAP Implementation, Configuration Management, Requirements\r\nGathering, Gap Analysis, System Integration, Master Data Management, Procurement, Stock Transfer, Inventory\r\nControl, General Leader Accounting, SAP ABAP\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 6b2e7b923bc883f602\tLast Active: 1-Feb-20\tLast Modified: 27-Jan-20\r\n\r\n\r\nSummary\r\nEfficiently utilize the skills acquired through 1+ Years of work experience in SAP End user, Support in Implementation Projects\r\nfrom a reputed company. I want to grow progressively in the field of SAP Functional\r\n* Understanding on procure to pay cycle\r\n* Global settings: Material type, material group, number range assignment.\r\n* Master data: Material Master Data, Vendor material data creation, Info record creation, source list.\r\n* Configuring of PR, RFQ, PO, outline agreements and Release Strategy for PR, RFQ, PO, outline agreements.\r\n* Configuring release procedure for PR and PO with classification.\r\n* Knowledge on SAP standard procurement process like procurement direct material, consumable material, services.\r\n* Special Procurement process for subcontracting, Consignment, Pipeline materials and Stock Transfer.\r\n* Inventory management process (Goods Receipts, Goods Issues, Stock Transfers and Transfer Postings).\r\n* Integration of FI-MM functional Modules of a Business Module.\r\n\r\n\r\nWork Experience\r\nLivelihood System as SAP MM Support Consultant\r\nJul 2019 to Till Date\r\nProject: TATA STEEL (SAP CLIENT SUPPORT)\r\n\r\nRole: SAP MM Support Consultant\r\nType: Support Project\r\nClient: Tata Steel Ltd.\r\nDuration:: July 2019 to Till Date\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a0c570048635e4c52481d460e560c6&sid=3810263223&AT=1580681973\r\n2/2/20 23&20\r\n\r\n\r\nJob Responsibilities\r\n\r\nCalls which are logged by user:\r\n\r\nMM related issue\r\no Memo, challan, PR, RO, SES Creation through easy buy issue\r\no MIGO Screen Issues.\r\no IV Screen Issues.\r\no Creation of CAPA document.\r\n\r\n\r\nSudisa Foundary Pvt Ltd as SAP MM Trainee\r\nFeb 2019 to Jul 2019\r\nProject: SUDISA FOUNDARY PVT LTD\r\n\r\nRole: SAP MM Trainee\r\nType: Implementation\r\nClient: Sudisa Foundry pvt ltd\r\nDuration: Feburary2019 to 16th July 2019\r\nBrief: Implementation project\r\n\r\n\r\nJob Responsibilities\r\n* Involved in design, configuration, testing and re-engineering of various functionalities in MM modules.\r\n* Involved in defining Requirements, Configuration, Integration, testing and training to end user..\r\n* Created Material master records, functional location, equipment using SAP LTMC.\r\n* BOM Creation According to material and maintained Master recepie.\r\n* Configured Vendor/Customer Master Data and Create Bank Key and maintain in BP.\r\n* Involved in the Integration of SAP FI-MM Modules\r\n* Prepared User manual documents for transaction code used by key and super users.\r\n* Involved actively with Cross-Functional team members to solve some production issues.\r\n* Create New GL Account, Asset Creation.\r\n* Investigate repetitive issues and take necessary remedial action\r\n* Preparation of CAPA document\r\n\r\n\r\nPaul Infotech Solutions as SAP MM Support\r\nMay 2018 to Jan 2019\r\nProject: PAUL INFOTECH SOLUTIONS\r\nRole: SAP MM Support\r\nType: Support Project\r\nClient: Ausican Commodities Pty Ltd\r\nDuration:: May 2018 to Jan 2019\r\n\r\n\r\nRoles and Responsibilities\r\n* Preparation of CAPA document.\r\n* Day to Day incident handling and user Support in production environment by maintain service Call.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from balasore college of enginnering and technology in 2017\r\n\r\n\r\nIT Skills\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     0c570048635e4c52481d460e560c6&sid=3810263223&AT=1580681973\r\n2/2/20 23&20\r\n\r\n\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nSAP MM\r\n\r\nSAP FICO/COPA\r\n\r\nSAP ABAP, Java, HTML. CSS\tSap\t2019\t1 Year(s) 8 Month(s)\r\nh4hana\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\noriya\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~  \tCountries: India\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     0c570048635e4c52481d460e560c6&sid=3810263223&AT=1580681973\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly ERP and CRM) and slightly concentrated in Hardware Engineering (mostly New Product Integration).    ~~~~~~~~~~~~  's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "24",
+          "sov:AverageMonthsPerEmployer": "4",
+          "sov:FulltimeDirectHirePredictiveIndex": "15",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "73",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "69",
+                        "@percentOfParentTaxonomy": "95",
+                        "sov:Skill": [
+                          {
+                            "@name": "ABAP",
+                            "@id": "026645",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "ERP",
+                            "@id": "016891",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SAP",
+                            "@id": "007436",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEFINING REQUIREMENTS",
+                            "@id": "015143",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-07-16",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SYSTEM INTEGRATION",
+                            "@id": "009089",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "RE-ENGINEERING",
+                            "@id": "006660",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-07-16",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MANAGEMENT",
+                            "@id": "5530951",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "ENTERPRISE RESOURCE PLANNING",
+                            "@id": "5530983",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ERP",
+                                "@id": "5530984",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MASTER DATA MANAGEMENT",
+                            "@id": "5531023",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "022159",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CONFIGURATION MANAGEMENT",
+                                "@id": "014175",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "GAP ANALYSIS",
+                            "@id": "018087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Hardware Engineering",
+                    "@id": "29",
+                    "@percentOfOverall": "14",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "New Product Integration",
+                        "@id": "716",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CORRECTIVE AND PREVENTIVE ACTION",
+                            "@id": "5000083",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "21",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CAPA",
+                                "@id": "5000084",
+                                "@existsInText": "true",
+                                "@totalMonths": "21",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-2; POS-4; POS-6"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Design for X",
+                        "@id": "715",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CORRECTIVE AND PREVENTIVE ACTION",
+                            "@id": "5000056",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "21",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CAPA",
+                                "@id": "5000057",
+                                "@existsInText": "true",
+                                "@totalMonths": "21",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-2; POS-4; POS-6"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNTING",
+                            "@id": "7000036",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "BOM",
+                            "@id": "7000312",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-07-16",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internal Audit",
+                        "@id": "706",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNTING",
+                            "@id": "7000058",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "BOM",
+                            "@id": "7000067",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-07-16",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLIENT SUPPORT",
+                            "@id": "013444",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "GL",
+                            "@id": "018438",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-07-16",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Credit and Underwriting",
+                        "@id": "240",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "FICO",
+                            "@id": "017361",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMMODITIES",
+                            "@id": "013970",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "6",
+                            "@childrenLastUsed": "2019-07-16",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@totalMonths": "6",
+                                "@lastUsed": "2019-07-16",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-4"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Environmental",
+                        "@id": "136",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "REMEDIAL ACTION",
+                            "@id": "024606",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-07-16",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "362",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCTION ENVIRONMENT",
+                            "@id": "024327",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Non-Skilled Labor",
+                    "@id": "11",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Construction Labor",
+                        "@id": "304",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCTION ENVIRONMENT",
+                            "@id": "024326",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "80",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          },
+                          {
+                            "@name": "EMPLOYEE RESOURCE GROUP",
+                            "@id": "9000074",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ERP",
+                                "@id": "9000075",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Public Relations",
+                        "@id": "224",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PUBLIC RELATIONS",
+                            "@id": "023378",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "PR",
+                                "@id": "005288",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Purchasing",
+                        "@id": "458",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "39",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCUREMENT",
+                            "@id": "7270001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Inventory",
+                        "@id": "459",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "39",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVENTORY",
+                            "@id": "020086",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "ERP",
+                            "@id": "016892",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookkeeping",
+                        "@id": "944",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNTING",
+                            "@id": "022499",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "GL",
+                            "@id": "018439",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-07-16",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Transmission & Distribution",
+                    "@id": "45",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Transmission",
+                        "@id": "326",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PIPELINE",
+                            "@id": "004805",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "43",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "44",
+              "@ends": "108",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "109",
+              "@ends": "112",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "113",
+              "@ends": "128",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "129",
+              "@ends": "146",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "4814",
+        "sov:ParseTime": "406",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:221;POS-5,POS-6] We could not find a job title for: POS-5, POS-6. Every position in a resume should have a job title."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:27703576-dcc3-4aca-aa4c-3a983e2d067b",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "emn9//////8="
+      }
+    }
+  }
+}

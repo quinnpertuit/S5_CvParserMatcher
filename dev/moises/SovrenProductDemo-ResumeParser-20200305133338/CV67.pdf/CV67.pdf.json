@@ -1,0 +1,1079 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "B.V. Surendra Bhargava",
+          "GivenName": "B.V.",
+          "MiddleName": "Surendra",
+          "FamilyName": "Bhargava"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Hyderabad / Secunderabad",
+                  "0 Year(s) 0 Month(s)"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Result-oriented fresher professional with knowledge of Data Analysis, Data Analytics, Business Analysis, Requirement\r\nGathering, Machine Learning, Deep Learning, Business Analytics, Statistical Analysis, Data Science, Python, SQL, Tableau",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Sreenidhi Institute Of Science And Technology",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Sreenidhi Institute Of Science And Technology"
+                },
+                "Description": "Dec 2019\r\nOnsite / Offsite: Offsite\r\nProject Details: It is a project to identify various objects where it can detect and identify objects instantly.\r\nApplied YOLO alogorithm and utilized Tensorflow framework to this dataset and achieved an accuracy of\r\n88%.\r\n\r\nProject Title: Neural Style Transfer",
+                "StartDate": {
+                  "YearMonth": "2019-12"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 54% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Sreenidhi Institute Of Science And Technology"
+                  }
+                }
+              },
+              {
+                "OrgName": {
+                  "OrganizationName": "Sreenidhi Institute Of Science And Technology"
+                },
+                "Description": "Onsite / Offsite: Offsite\r\nProject Details: It is a project where one digital image adopts the visual style of another image.\r\nUtilised Tensorflow framework and with appropriate metrics achieved low cost and generated better looking\r\nimages.\r\n\r\nProject Title: Fraud Detection in Online Payments",
+                "StartDate": {
+                  "YearMonth": "2019-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 28% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Sreenidhi Institute Of Science And Technology"
+                  }
+                }
+              },
+              {
+                "OrgName": {
+                  "OrganizationName": "Sreenidhi Institute Of Science And Technology"
+                },
+                "Description": "Onsite / Offsite: Offsite\r\nProject Details: Predicting the house price when attributes relating to construction, surroundings and interior of the house are\r\ngiven. Applied different regression algorithms and performed thorough data preparation and feature extraction, building a\r\ngeneralized model using necessary metrics.\r\nUtilized Linear Regression algorithm and Regularization techniques Lasso, Ridge and Elasti-Net regression and achieved an\r\naccuracy of 80%.\r\n\r\nProject Title: Employee Attrition Rate Analysis",
+                "StartDate": {
+                  "YearMonth": "2019-10"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-11"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Machine Learning",
+                    "Comments": "Information Technology describes 40% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Sreenidhi Institute Of Science And Technology"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Sreenidhi Institute Of Science And Technology"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "SreeNidhi Institute of science Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Electronics/Telecommunication) from SreeNidhi Institute of science Technology in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "SreeNidhi Institute of science Technology"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Great Lakes Institute of Management"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "PG: Data science engineering (Data science engineering) from Great Lakes Institute of Management (GLIM) in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Great Lakes Institute of Management"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "PGP DSE (Data Science Engineering)",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Fresher, Data Analysis, Data Analytics, Business Analysis, Requirement Gathering, Machine Learning, Deep\r\nLearning, Business Analytics, Statistical Analysis, Data Science, Python, SQL, Tableau\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 31-Jan-20\r\ne11c2be448d64d0c92350faba213e8ac\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMACHINE LEARNING\r\n\r\nDeep learning\r\n\r\nStatistical Analysis\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=e51   855565205280a5400134f17425c4c6&sid=3810263223&AT=1580681123\r\n2/2/20 23&09\r\n\r\n\r\nPython\r\n\r\nSQL\r\n\r\nTABLEAU"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "te",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Telugu\tExpert"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tExpert"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&09\r\n\r\n\r\nB.V.Surendra Bhargava\r\n\r\n\r\nFresher seeking roles in Data Analysis, Data Analytics, Business Analysis,\r\nRequirement Gathering, Machine Learning, Deep Learning, Business\r\nAnalytics, Statistical Analysis, Data Science, Python, SQL, Tableau\r\n\r\n\r\nCurrent Location: Hyderabad / Secunderabad\tTotal Experience: 0 Year(s) 0 Month(s)\r\nPref. Location: Bengaluru / Bangalore, Delhi / NCR, Mumbai\tHighest Degree: Data science engineering [Data\r\nscience engineering]\r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Fresher\r\nIndustry: Fresher/Trainee\r\nMarital Status: Single/unmarried\r\nKey Skills: Fresher, Data Analysis, Data Analytics, Business Analysis, Requirement Gathering, Machine Learning, Deep\r\nLearning, Business Analytics, Statistical Analysis, Data Science, Python, SQL, Tableau\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 31-Jan-20\r\ne11c2be448d64d0c92350faba213e8ac\r\n\r\n\r\nSummary\r\nResult-oriented fresher professional with knowledge of Data Analysis, Data Analytics, Business Analysis, Requirement\r\nGathering, Machine Learning, Deep Learning, Business Analytics, Statistical Analysis, Data Science, Python, SQL, Tableau\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from SreeNidhi Institute of science Technology in 2019\r\n\r\nPG: Data science engineering (Data science engineering) from Great Lakes Institute of Management (GLIM) in 2019\r\n\r\nOther Qualifications/Certifications/Programs:\r\nPGP DSE (Data Science Engineering)\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMACHINE LEARNING\r\n\r\nDeep learning\r\n\r\nStatistical Analysis\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=e51   855565205280a5400134f17425c4c6&sid=3810263223&AT=1580681123\r\n2/2/20 23&09\r\n\r\n\r\nPython\r\n\r\nSQL\r\n\r\nTABLEAU\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nTelugu\tExpert\r\n\r\nHindi\tExpert\r\n\r\nEnglish\tProficient\r\n\r\n\r\nProjects\r\nProject Title: Object Detection using YOLO\r\nClient: Sreenidhi Institute Of Science And Technology\r\nNature of Employment: Full Time\tDuration: Dec 2019 - Dec 2019\r\nOnsite / Offsite: Offsite\r\nProject Details: It is a project to identify various objects where it can detect and identify objects instantly.\r\nApplied YOLO alogorithm and utilized Tensorflow framework to this dataset and achieved an accuracy of\r\n88%.\r\n\r\nProject Title: Neural Style Transfer\r\nClient: Sreenidhi Institute Of Science And Technology\r\nNature of Employment: Full Time\tDuration: Nov 2019 - Dec 2019\r\nOnsite / Offsite: Offsite\r\nProject Details: It is a project where one digital image adopts the visual style of another image.\r\nUtilised Tensorflow framework and with appropriate metrics achieved low cost and generated better looking\r\nimages.\r\n\r\nProject Title: Fraud Detection in Online Payments\r\nClient: Sreenidhi Institute Of Science And Technology\r\nNature of Employment: Full Time\tDuration: Nov 2019 - Nov 2019\r\nOnsite / Offsite: Offsite\r\nProject Details: It is a Project based on Anomaly Detection. This includes modelling past credit card transactions and then\r\nidentify whether a new transaction is fraudulent or not.\r\nApplied machine learning and deep learning techniques, improved the model accuracy and achieved an accuracy of 99%\r\n\r\nProject Title: Predicting USA House Price\r\nClient: Sreenidhi Institute Of Science And Technology\r\nNature of Employment: Full Time\tDuration: Oct 2019 - Nov 2019\r\nOnsite / Offsite: Offsite\r\nProject Details: Predicting the house price when attributes relating to construction, surroundings and interior of the house are\r\ngiven. Applied different regression algorithms and performed thorough data preparation and feature extraction, building a\r\ngeneralized model using necessary metrics.\r\nUtilized Linear Regression algorithm and Regularization techniques Lasso, Ridge and Elasti-Net regression and achieved an\r\naccuracy of 80%.\r\n\r\nProject Title: Employee Attrition Rate Analysis\r\nClient: Sreenidhi Institute Of Science And Technology\r\nNature of Employment: Full Time\tDuration: Oct 2019 - Oct 2019\r\nOnsite / Offsite: Offsite\r\nProject Details: It is a project based on predicting the attrition rate to assist the HRs and identifying the employees that could\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=e51   855565205280a5400134f17425c4c6&sid=3810263223&AT=1580681123\r\n2/2/20 23&09\r\n\r\n\r\nleave the organization beforehand so as to take measures that prevent it from happening.\r\nUtilized Logistic regression, Nai?ve bayes, Decision tree, Support Vector Machine, Ensemble techniques Random forest\r\nalgorithm, Gradient boosting, Adaboost, XGboost, catboost algorithms.\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tUS Work Status: Need H1 Visa\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=e51   855565205280a5400134f17425c4c6&sid=3810263223&AT=1580681123\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Hyderabad / Secunderabad",
+          "sov:PreferredLocation": "Bengaluru / Bangalore, Delhi / NCR, Mumbai",
+          "sov:WillingToRelocate": "Yes"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "B.V. Surendra Bhargava's experience appears to be mostly concentrated in Information Technology (mostly Machine Learning) and slightly concentrated in Marketing (mostly Data & Analytics). B.V. Surendra Bhargava's experience appears to be entry level, with 3 months of experience.",
+          "sov:MonthsOfWorkExperience": "3",
+          "sov:AverageMonthsPerEmployer": "3",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "51",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "22",
+                        "@percentOfParentTaxonomy": "44",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANOMALY DETECTION",
+                            "@id": "7200003",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "BOOSTING",
+                            "@id": "7200082",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in CERTIFICATIONS; EDUCATION; SKILLS; SUMMARY; DEG-2"
+                          },
+                          {
+                            "@name": "DEEP LEARNING",
+                            "@id": "7200018",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "LINEAR REGRESSION",
+                            "@id": "7200037",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "LOGISTIC REGRESSION",
+                            "@id": "7200039",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "RANDOM FOREST",
+                            "@id": "7200053",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "SUPPORT VECTOR MACHINE",
+                            "@id": "7200063",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "18",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in CERTIFICATIONS; EDUCATION; SKILLS; SUMMARY; DEG-2"
+                          },
+                          {
+                            "@name": "DSE",
+                            "@id": "5530743",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY",
+                            "@childrenTotalMonths": "1",
+                            "@childrenLastUsed": "2019-12-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TENSORFLOW",
+                                "@id": "3391117",
+                                "@existsInText": "true",
+                                "@totalMonths": "1",
+                                "@lastUsed": "2019-12-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "TABLEAU SOFTWARE",
+                            "@id": "5540985",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TABLEAU",
+                                "@id": "55409852",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "18",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "18",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in CERTIFICATIONS; EDUCATION; SKILLS; SUMMARY; DEG-2"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "1400072",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022227",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "METRICS",
+                            "@id": "021737",
+                            "@existsInText": "true",
+                            "@totalMonths": "2",
+                            "@lastUsed": "2019-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008576",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "54",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022552",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "022186",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "62",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008574",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Retail",
+                        "@id": "280",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT CARD",
+                            "@id": "023235",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Securities",
+                        "@id": "236",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT CARD",
+                            "@id": "023234",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Credit and Underwriting",
+                        "@id": "240",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "014614",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Accounts Payable",
+                        "@id": "933",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "PAYMENTS",
+                            "@id": "004363",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounts Receivable",
+                        "@id": "940",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022226",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Knowledge and Learning Management",
+                    "@id": "92",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Knowledge and Learning Management",
+                        "@id": "903",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "NEURAL",
+                            "@id": "200040",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DIGITAL IMAGE",
+                            "@id": "024117",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-12-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "47",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "9000111",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "024469",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Modeling",
+                        "@id": "501",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008575",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "18",
+              "@ends": "27",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "28",
+              "@ends": "32",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "33",
+              "@ends": "37",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "38",
+              "@ends": "41",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "42",
+              "@ends": "62",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "63",
+              "@ends": "72",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "73",
+              "@ends": "131",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Projects"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "B.V.Surendra Bhargava"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=e51"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Mumbai",
+              "Current Location: Hyderabad / Secunderabad",
+              "Marital Status: Single",
+              "0 Year(s) 0 Month(s)"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "4782",
+        "sov:ParseTime": "1001",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:221;POS-1,POS-2,POS-3] We could not find a job title for: POS-1, POS-2, POS-3. Every position in a resume should have a job title."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,3] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:6e0d9e79-f3fc-45ef-a30c-9649e6c716c2",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "TIT///////8="
+      }
+    }
+  }
+}

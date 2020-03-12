@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <ManagementLevel>none</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <EmployerNames>
+    <MainEmployerName>Mission</MainEmployerName>
+  </EmployerNames>
+  <LanguageCodes>
+    <LanguageCode>fr</LanguageCode>
+    <LanguageCode>en</LanguageCode>
+  </LanguageCodes>
+  <Education>
+    <Degree>
+      <DegreeType>doctorate</DegreeType>
+      <DegreeName>PhD</DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>doctorate</RequiredDegree>
+  <SourceText>okad is a young company with a strong focus on business intelligence. Mathematics and statistics are the heart of our technology.
+
+Mission
+Lokad is offering the unique opportunity to start working over very large datasets such as sales data, cash flows, call volumes, ...
+
+The internship or PhD could be focused on:
+developing new statistical models to forecast massively concurrent time-series.
+developing new algorithms to distribute statistical learning algorithms over computational grids.
+The internship can be followed by a PhD in Computer Science (*) at Lokad after your internship.
+
+(*) The PhD is co-directed by Lokad and a French university. More details on about the Thèse CIFRE (in French).
+
+Profile
+We do not expect you to have much programming experience, although, the more the better. We are looking for top notch mathematicians who are willing to acquire the skills that will let them turn their ideas into industrial-strength software. At Lokad, you will be provided the necessary training to achieve this.
+Excellent academic track in mathematics and / or statistics.
+Excellent command of written and spoken English.
+The position is in our office in Paris intramuros.
+The duration of the internship is 3 to 9 months.
+Salary depends on the experience.
+
+Application
+If you are interested by Lokad, you can apply by sending your resume to contact@lokad.com. Please attach your resume as a plain text, Word, PDF or HTML file. In your email, please shortly explain why you think you would be a good fit for this job. If you have a website, please send us the URL.</SourceText>
+  <RevisionDate>2020-03-08</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>kbH+//////8=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="33">
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="8" percentOfParentTaxonomy="25">
+          <Skill name="DATASETS" id="5530959" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="8" percentOfParentTaxonomy="25">
+          <Skill name="HTML" id="019115" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Financial" id="350" percentOfOverall="8" percentOfParentTaxonomy="25">
+          <Skill name="TIME-SERIES" id="009618" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="8" percentOfParentTaxonomy="25">
+          <Skill name="PDF" id="004489" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Common End-user Software" id="0" percentOfOverall="33">
+        <Subtaxonomy name="Core Office" id="108" percentOfOverall="33" percentOfParentTaxonomy="100">
+          <Skill name="ACROBAT" id="012099" existsInText="false" required="false">
+            <ChildSkill name="PDF" id="004488" existsInText="true" required="false" />
+          </Skill>
+          <Skill name="MICROSOFT WORD" id="022961" existsInText="false" required="false">
+            <ChildSkill name="WORD" id="002379" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Finance" id="7" percentOfOverall="17">
+        <Subtaxonomy name="Operations" id="237" percentOfOverall="8" percentOfParentTaxonomy="50">
+          <Skill name="BUSINESS INTELLIGENCE" id="7000125" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Other" id="243" percentOfOverall="8" percentOfParentTaxonomy="50">
+          <Skill name="ALGORITHMS" id="017446" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="17">
+        <Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="8" percentOfParentTaxonomy="50">
+          <Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="8" percentOfParentTaxonomy="50">
+          <Skill name="STATISTICS" id="008585" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

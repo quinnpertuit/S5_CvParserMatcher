@@ -1,0 +1,1020 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "AMIT KUMAR",
+          "GivenName": "AMIT",
+          "FamilyName": "KUMAR"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Functional Area: Analytics & Business Intelligence"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "A competent professional with 2 years of experience in Data Analysis.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "AIG",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Senior Analyst (Data Analysis)",
+                "OrgName": {
+                  "OrganizationName": "AIG"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2017-11"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "AIG",
+                    "sov:NormalizedTitle": "Senior Analyst Data Analysis",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Analyst",
+                        "Analyst (Data Analysis)",
+                        "Analyst"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Senior Analyst",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2019-03"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "AIG",
+                    "sov:NormalizedTitle": "Senior Analyst",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Analyst"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Analyst",
+                "OrgName": {
+                  "OrganizationName": "Data Cleaning"
+                },
+                "Description": "Achievements/Tasks:\r\nData Cleaning: Cleaning Raw data using Python and Insurance\r\nBusiness domain Knowledge. Data Modeling: Model the cleaned Data using Various\r\nRegression Techniques. Result Analysis: Analysis of Modeled Result. Result\r\ncomparison. providing detailed Analysis to Stakeholders/Underwriters",
+                "StartDate": {
+                  "YearMonth": "2017-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Data Cleaning",
+                    "sov:NormalizedTitle": "Analyst"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "AIG"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "International Institute of Information Technology (IIIT)"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bangalore"
+            },
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG Diploma",
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2020"
+                    }
+                  }
+                ],
+                "Comments": "PG: PG Diploma (Data Science) from International Institute of Information Technology (IIIT), Bangalore in 2020",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:Graduated": "false",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "International Institute of Information Technology IIIT"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "JSS ACADEMY OF TECHNICAL EDUCATION"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics and Instrumentation Engineering"
+                    ]
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Electronics and Instrumentation Engineering) from JSS ACADEMY OF TECHNICAL EDUCATION in\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=5df   1515b0e583a4454405a4d5f0b02546&sid=3810263223&AT=1580667054\r\n2/2/20 19'11",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "JSS ACADEMY OF TECHNICAL EDUCATION"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Senior Analyst, Data Analyst, Data Analysis, Data Cleansing, Data Modeling, Regression Analysis, Time Series\r\nAnalysis, Statistical Analysis, Requirement Analysis, Data Extraction, Data Quality, Stakeholder Management, Data\r\nVisualization, SQL, Python, SVM\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 6e6724485032c58035\tLast Active: 1-Feb-20\tLast Modified: 31-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nSQL\r\n\r\nPython\r\n\r\nEXCEL\r\n\r\nSVM"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'11\r\n\r\n\r\nAMIT KUMAR\r\n\r\n\r\nSenior Analyst seeking roles in Data Analysis, Data Cleansing, Data\r\nModeling, Regression Analysis, Time Series Analysis, Statistical Analysis, Requirement\r\nAnalysis, Data Extraction, Data Quality, Stakeholder Management, Data\r\nVisualization, SQL, Python, SVM\r\n\r\n\r\nCurrent Designation: Senior Analyst (Data Analysis)\tTotal Experience: 2 Year(s) 0 Month(s)\r\nCurrent Company: AIG\tNotice Period: 1 Month\r\nCurrent Location: Bengaluru / Bangalore\tHighest Degree: PG Diploma [Data Science]\r\nPref. Location: Bengaluru / Bangalore\r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: Insurance\r\nMarital Status: Single/unmarried\r\nKey Skills: Senior Analyst, Data Analyst, Data Analysis, Data Cleansing, Data Modeling, Regression Analysis, Time Series\r\nAnalysis, Statistical Analysis, Requirement Analysis, Data Extraction, Data Quality, Stakeholder Management, Data\r\nVisualization, SQL, Python, SVM\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 6e6724485032c58035\tLast Active: 1-Feb-20\tLast Modified: 31-Jan-20\r\n\r\n\r\nSummary\r\nA competent professional with 2 years of experience in Data Analysis.\r\n\r\n\r\nWork Experience\r\nAIG as Senior Analyst (Data Analysis)\r\nNov 2017 to Till Date\r\n03/2019 - Present - Senior Analyst\r\n11/2017 - 02/2019 - Analyst\r\nAchievements/Tasks:\r\nData Cleaning: Cleaning Raw data using Python and Insurance\r\nBusiness domain Knowledge. Data Modeling: Model the cleaned Data using Various\r\nRegression Techniques. Result Analysis: Analysis of Modeled Result. Result\r\ncomparison. providing detailed Analysis to\r\nStakeholders/Underwriters\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Electronics and Instrumentation Engineering) from JSS ACADEMY OF TECHNICAL EDUCATION in\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=5df   1515b0e583a4454405a4d5f0b02546&sid=3810263223&AT=1580667054\r\n2/2/20 19'11\r\n\r\n\r\n2016\r\n\r\nPG: PG Diploma (Data Science) from International Institute of Information Technology (IIIT), Bangalore in 2020\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nSQL\r\n\r\nPython\r\n\r\nEXCEL\r\n\r\nSVM\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=5df   515b0e583a4454405a4d5f0b02546&sid=3810263223&AT=1580667054\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore",
+          "sov:WillingToRelocate": "No",
+          "sov:VisaStatus": "Category: General"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "AMIT KUMAR's experience appears to be somewhat concentrated in Information Technology (mostly Database) and slightly concentrated in Business Operations and General Business (mostly General Skills and Activities). AMIT KUMAR's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "28",
+          "sov:AverageMonthsPerEmployer": "28",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "44",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "20",
+                        "@percentOfParentTaxonomy": "45",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@totalMonths": "27",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA CLEANING",
+                            "@id": "014973",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "16",
+                            "@childrenLastUsed": "2019-02-28",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA MODELING",
+                                "@id": "01503802",
+                                "@existsInText": "true",
+                                "@totalMonths": "16",
+                                "@lastUsed": "2019-02-28",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2019-02-28",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "REQUIREMENT ANALYSIS",
+                            "@id": "022962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MODELING",
+                            "@id": "024098",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2019-02-28",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "REGRESSION ANALYSIS",
+                            "@id": "7200135",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SUPPORT VECTOR MACHINE",
+                            "@id": "7200063",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SVM",
+                                "@id": "7200064",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA CLEANSING",
+                            "@id": "5530943",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "JSS",
+                            "@id": "339043",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA QUALITY",
+                            "@id": "015002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "19",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "19",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@totalMonths": "27",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DATA MODELING",
+                            "@id": "014996",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2019-02-28",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008576",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "16",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "16",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "27",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@totalMonths": "27",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "1400072",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Modeling",
+                        "@id": "501",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MODELING",
+                            "@id": "024100",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2019-02-28",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008575",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "95",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MODELING",
+                            "@id": "024099",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2019-02-28",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "008574",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "44",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080537",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "022186",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080363",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080270",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "60",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CLEANSING",
+                            "@id": "9000118",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA EXTRACTION",
+                            "@id": "9000117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "STATISTICAL ANALYSIS",
+                            "@id": "9000111",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Interactive Design",
+                        "@id": "572",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570157",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570127",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Visual Design",
+                        "@id": "565",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570073",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Motion Design",
+                        "@id": "564",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570059",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Nuclear Power Misc",
+                        "@id": "924",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "081113",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Power Related",
+                        "@id": "925",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "081107",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "33",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "34",
+              "@ends": "46",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "47",
+              "@ends": "59",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "60",
+              "@ends": "71",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "72",
+              "@ends": "86",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "AMIT KUMAR"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=5df"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Current Location: Bengaluru / Bangalore",
+              "Pref. Location: Bengaluru / Bangalore",
+              "Work Authorization\r\nCategory: General",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2347",
+        "sov:ParseTime": "359",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:222;POS-2] No employer name was found for:  POS-2. Every position in a resume should have an employer name."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:e7c8ebcb-dedd-462e-98b2-8eb874d31532",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "MZIAAAAAAAA="
+      }
+    }
+  }
+}

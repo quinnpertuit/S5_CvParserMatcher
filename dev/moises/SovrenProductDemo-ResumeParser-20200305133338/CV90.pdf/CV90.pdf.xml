@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>PRATIBHA SAMAR MEHTA</FormattedName>
+				<GivenName>PRATIBHA</GivenName>
+				<MiddleName>SAMAR</MiddleName>
+				<FamilyName>MEHTA</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>GUJARAT</Region>
+					<Municipality>Ahmedabad</Municipality>
+					<DeliveryAddress>
+						<AddressLine>CA [CA]</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Trained Core Banking professional with an 01 years of experience skilled in Proficient in interfacing with clients for
+understanding their requirements, suggesting most viable solutions and cultivating relations for customer retention &amp; securing
+business. Knowledge about risk management; adopting a performance-oriented assessment of the effective risk situation to
+support value-based business management as well as help the organization in development of an optimal strategy and taking
+right entrepreneurial decisions.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Singhi &amp; Co</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Assistant Manager - Finance &amp; Accounts</Title>
+					<OrgName>
+						<OrganizationName>Singhi &amp; Co</OrganizationName>
+					</OrgName>
+					<Description>Corporate Loan Financing &amp; Project Financing
+Income Analysis &amp; Financial Analysis
+CMA Data preparation with Projections
+Assisted in requirements with regard to IPO
+Finalization of Final Accounts with Tax Audit Report</Description>
+					<StartDate>
+						<YearMonth>2019-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Finance → Accounting</CategoryCode>
+						<Comments>Finance describes 73% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Singhi</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Assistant Manager Finance AND Accounts</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Assistant Manager</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Singhi</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>SRG Housing Finance Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Assistant Manager - Finance &amp; Accounts</Title>
+					<OrgName>
+						<OrganizationName>SRG Housing Finance Limited</OrganizationName>
+					</OrgName>
+					<Description>Key role in implementation of Receiving Process
+Assisted in preparation of SOP
+
+https://freesearch.naukri.com/preview/printResume?uname=702   5180a0558211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681576
+2/2/20 23&amp;14
+
+
+Providing Training to new account personnel of company
+Final Checking of Customers files before disbursement.
+Checking of defaulters list &amp; due date bulk receiving.
+Preparation of No objection Certificate &amp; checking of Originals</Description>
+					<StartDate>
+						<YearMonth>2018-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Sales → General</CategoryCode>
+						<Comments>Sales describes 25% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>SRG Housing Finance</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Assistant Manager Finance AND Accounts</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>SRG Housing Finance</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Riddhi Siddhi Group</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Assistant Manager - Finance &amp; Accounts</Title>
+					<OrgName>
+						<OrganizationName>Riddhi Siddhi Group</OrganizationName>
+					</OrgName>
+					<Description>CMA data preparation and Project Financing Reports
+Handling Income Tax assessment &amp; appeals
+Balance Sheet Preparation
+CARE Rating (Document Preparation)
+Checking and Submission of TDS Return</Description>
+					<StartDate>
+						<YearMonth>2018-02</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Finance → Accounting</CategoryCode>
+						<Comments>Finance describes 43% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Riddhi Siddhi Group</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Assistant Manager Finance AND Accounts</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Riddhi Siddhi Group</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Institute of Chartered Accountant of India (ICAI)</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: CA (CA) from Institute of Chartered Accountant of India (ICAI) in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Institute of Chartered Accountant of India ICAI</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Mohanlal sukhadia University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Com</DegreeName>
+					<DegreeDate>
+						<Year>2012</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Commerce</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2012</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Com (Commerce) from Mohanlal sukhadia University in 2012</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Mohanlal sukhadia University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Chartered Accountant</Name>
+				<Id>1</Id>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Assistant Manager, Accounts Manager, Finance, Accounting, Project Financing, Loan Operations, Financial
+Analysis, Financial Planning, Accounts Finalisation, Sop Preparation, Data Processing, Tax Audit, Audit Report, TDS
+Return, Balance Sheet Analysis
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 30-Jan-20	Last Modified: 30-Jan-20
+0c2ec655ede2491f9c1af9a17de1592f
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+MS OFFICE
+
+Tally ERP, Compu Tax, Spectrum
+
+SRG SFL software</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;14
+
+
+PRATIBHA SAMAR MEHTA
+
+
+Assistant Manager seeking roles in Finance, Accounting, Project Financing, Loan
+Operations, Financial Analysis, Financial Planning, Accounts Finalisation, Sop
+Preparation, Data Processing, Tax Audit, Audit Report, TDS Return, Balance Sheet
+Analysis
+
+
+Current Designation: Assistant Manager - Finance &amp; Accounts	Total Experience: 2 Year(s) 0 Month(s)
+Current Company: Singhi &amp; Co., Chartered Accountants	Notice Period: Currently Serving Notice Period
+Current Location: Ahmedabad	Highest Degree: CA [CA]
+Pref. Location: Ahmedabad, Gandhinagar
+Functional Area: Accounts / Finance / Tax / CS / Audit
+Role: Accounts Mgr
+Industry: Accounting/Finance
+Marital Status: Married
+Key Skills: Assistant Manager, Accounts Manager, Finance, Accounting, Project Financing, Loan Operations, Financial
+Analysis, Financial Planning, Accounts Finalisation, Sop Preparation, Data Processing, Tax Audit, Audit Report, TDS
+Return, Balance Sheet Analysis
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 30-Jan-20	Last Modified: 30-Jan-20
+0c2ec655ede2491f9c1af9a17de1592f
+
+
+Summary
+Trained Core Banking professional with an 01 years of experience skilled in Proficient in interfacing with clients for
+understanding their requirements, suggesting most viable solutions and cultivating relations for customer retention &amp; securing
+business. Knowledge about risk management; adopting a performance-oriented assessment of the effective risk situation to
+support value-based business management as well as help the organization in development of an optimal strategy and taking
+right entrepreneurial decisions.
+
+
+Work Experience
+Singhi &amp; Co., Chartered Accountants as Assistant Manager - Finance &amp; Accounts
+May 2019 to Till Date
+Corporate Loan Financing &amp; Project Financing
+Income Analysis &amp; Financial Analysis
+CMA Data preparation with Projections
+Assisted in requirements with regard to IPO
+Finalization of Final Accounts with Tax Audit Report
+
+
+SRG Housing Finance Limited as Assistant Manager - Finance &amp; Accounts
+Aug 2018 to Apr 2019
+Key role in implementation of Receiving Process
+Assisted in preparation of SOP
+
+https://freesearch.naukri.com/preview/printResume?uname=702   5180a0558211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681576
+2/2/20 23&amp;14
+
+
+Providing Training to new account personnel of company
+Final Checking of Customers files before disbursement.
+Checking of defaulters list &amp; due date bulk receiving.
+Preparation of No objection Certificate &amp; checking of Originals
+
+
+Riddhi Siddhi Group as Assistant Manager - Finance &amp; Accounts
+Feb 2018 to Aug 2018
+CMA data preparation and Project Financing Reports
+Handling Income Tax assessment &amp; appeals
+Balance Sheet Preparation
+CARE Rating (Document Preparation)
+Checking and Submission of TDS Return
+
+
+Education
+UG: B.Com (Commerce) from Mohanlal sukhadia University in 2012
+
+PG: CA (CA) from Institute of Chartered Accountant of India (ICAI) in 2017
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+MS OFFICE
+
+Tally ERP, Compu Tax, Spectrum
+
+SRG SFL software
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=702   5180a0558211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681576
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Married</sov:MaritalStatus>
+				<sov:CurrentLocation>Ahmedabad</sov:CurrentLocation>
+				<sov:PreferredLocation>Ahmedabad, Gandhinagar</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>PRATIBHA SAMAR MEHTA's experience appears to be mostly concentrated in Finance (mostly Other) and slightly concentrated in Degreed Accounting (mostly Other). PRATIBHA SAMAR MEHTA's experience appears to be lower-to-mid level, with about 2 years of experience, with several years tenure in management, including a low-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>25</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>8</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>25</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a low-level management role: Assistant Manager - Finance &amp; Accounts
+Starting on 5/1/2019, the candidate held the following low-level management position for 10 months:
+	Title: Assistant Manager - Finance &amp; Accounts for Singhi &amp; Co
+Starting on 8/1/2018, the candidate held the following low-level management position for 9 months:
+	Title: Assistant Manager - Finance &amp; Accounts for SRG Housing Finance Limited
+Starting on 2/1/2018, the candidate held the following low-level management position for 6 months:
+	Title: Assistant Manager - Finance &amp; Accounts for Riddhi Siddhi Group</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="60">
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="26" percentOfParentTaxonomy="43">
+								<sov:Skill name="BANKING LOAN" id="024055" existsInText="false">
+									<sov:ChildSkill name="LOAN OPERATIONS" id="020860" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="FINANCE" id="023147" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="FINANCIAL PLANNING" id="017471" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="7" percentOfParentTaxonomy="12">
+								<sov:Skill name="AUDIT" id="005583" existsInText="true" totalMonths="10" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DISBURSEMENT" id="015486" existsInText="true" totalMonths="9" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="STRATEGIC PLANNING" id="023034" existsInText="false">
+									<sov:ChildSkill name="FINANCIAL PLANNING" id="017493" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting" id="705" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="ACCOUNTING" id="7000036" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="CMA" id="7000301" existsInText="true" totalMonths="16" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internal Audit" id="706" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="ACCOUNTING" id="7000058" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="CMA" id="7000054" existsInText="true" totalMonths="16" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Tax" id="702" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="TAX AUDIT" id="7000018" existsInText="true" totalMonths="10" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Lending" id="234" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="CMA" id="013566" existsInText="true" totalMonths="16" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="3" percentOfParentTaxonomy="5">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080203" existsInText="true" totalMonths="10" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TRADING" id="080204" existsInText="false">
+									<sov:ChildSkill name="RISK MANAGEMENT" id="007100" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Investor Relations" id="704" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="IPO" id="7000030" existsInText="true" totalMonths="10" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Securities" id="236" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080196" existsInText="true" totalMonths="10" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="ACCOUNTANT" id="005727" existsInText="true" lastUsed="2017-01-01" whereFound="Found in CERTIFICATIONS; EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="18">
+							<sov:Subtaxonomy name="Other" id="256" percentOfOverall="4" percentOfParentTaxonomy="24">
+								<sov:Skill name="CMA" id="013567" existsInText="true" totalMonths="16" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="962" percentOfOverall="4" percentOfParentTaxonomy="24">
+								<sov:Skill name="BALANCE SHEET" id="009828" existsInText="true" totalMonths="6" lastUsed="2018-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Auditing" id="942" percentOfOverall="4" percentOfParentTaxonomy="24">
+								<sov:Skill name="AUDIT" id="005584" existsInText="true" totalMonths="10" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounts Payable" id="933" percentOfOverall="2" percentOfParentTaxonomy="14">
+								<sov:Skill name="DISBURSEMENT" id="015485" existsInText="true" totalMonths="9" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="CPA" id="950" percentOfOverall="2" percentOfParentTaxonomy="12">
+								<sov:Skill name="ACCOUNTANT" id="025800" existsInText="true" lastUsed="2017-01-01" whereFound="Found in CERTIFICATIONS; EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Bookkeeping" id="944" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="ACCOUNTING" id="022499" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="9">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="4" percentOfParentTaxonomy="50">
+								<sov:Skill name="TDS" id="009217" existsInText="true" totalMonths="6" lastUsed="2018-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="4" percentOfParentTaxonomy="50">
+								<sov:Skill name="TDS" id="009216" existsInText="true" totalMonths="6" lastUsed="2018-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="5">
+							<sov:Subtaxonomy name="Account Management" id="104" percentOfOverall="3" percentOfParentTaxonomy="52">
+								<sov:Skill name="ACCOUNTS MANAGER" id="030238" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="2" percentOfParentTaxonomy="48"></sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="4">
+							<sov:Subtaxonomy name="General" id="430" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="SOP" id="008381" existsInText="true" totalMonths="9" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="1">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="ENTERPRISE RESOURCE PLANNING" id="5530983" existsInText="false">
+									<sov:ChildSkill name="ERP" id="5530984" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="ERP" id="016891" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Tally" id="195001" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="MS OFFICE" id="022137" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="80">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+								<sov:Skill name="EMPLOYEE RESOURCE GROUP" id="9000074" existsInText="false">
+									<sov:ChildSkill name="ERP" id="9000075" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="TRADING" id="022750" existsInText="false">
+									<sov:ChildSkill name="RISK MANAGEMENT" id="007099" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="false">
+									<sov:ChildSkill name="MS OFFICE" id="022136" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="0">
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS MANAGEMENT" id="1400092" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="0">
+							<sov:Subtaxonomy name="Management and Management Tasks" id="519" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS MANAGEMENT" id="012212" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2012-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="38" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="39" ends="72" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="73" ends="78" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="79" ends="88" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="89" ends="103" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>PRATIBHA SAMAR MEHTA</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=702</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Ahmedabad, Gandhinagar</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Ahmedabad</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Married</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>3372</sov:ParsedTextLength>
+			<sov:ParseTime>312</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:72cde37a-1b99-4884-a647-edce5415613e</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>J/z+//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

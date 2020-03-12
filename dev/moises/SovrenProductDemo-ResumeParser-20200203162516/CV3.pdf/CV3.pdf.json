@@ -1,0 +1,792 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Akshata Kulkarni",
+          "GivenName": "Akshata",
+          "FamilyName": "Kulkarni"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Pune",
+                  "0 Year(s) 0 Month(s)",
+                  "Bengaluru / Bangalore, Mumbai, Pune"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "A skilled individual having capability to create software systems using Salesforce and CRM\r\nAn IBM JAVA Certified Professional having hands-on experience on developing and designing database\r\nmanagement systems according to requirements\r\nSkills to develop software solutions by studying information needs, conferring with users, studying systems\r\nflow, data usage, and work processes; possess practical knowledge on working with Apex, Python, C, C++,\r\nJavaScript (Basics) and HTML\r\nUnderstanding of Software Development Lifecycle (SDLC) right from requirement analysis, documentation\r\n(functional specifications, technical design), coding and testing (preparation of test cases along with\r\nimplementation) to maintenance of proposed applications\r\nGained exposure in understanding process requirements and providing use cases for business, functional &\r\ntechnical requirements\r\nExcellent communication and presentation skills; worked as a team player and coordinated with team members",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Doctors",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Doctors"
+                },
+                "Description": "Onsite / Offsite: Offsite",
+                "StartDate": {
+                  "YearMonth": "2017-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Doctors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Doctors"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Zeal Education Society's Dnyanganga Institute"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Pune"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from Zeal Education Society's Dnyanganga Institute of Career Empowerment & Research,\r\nPune in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Zeal Education Societys Dnyanganga Institute"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: salesforce.com, salesforce, visualforce, apex, triggers, c, oops, python, machine learning, software\r\ndevelopment, mysql database administration, core java\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 27-Jan-20\tLast Modified: 27-Jan-20\r\n313ac36218c74e00bb8668fce14f967f\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=fbbe   7084e110061544c1001011702154e6&sid=3810263223&AT=1580666273\r\n2/2/20 19'03\r\n\r\n\r\nC, C++, Java, Apex\r\n\r\nPython (Basics)\r\n\r\nJavaScript (Basics)\r\n\r\nHTML\r\n\r\nSQL, MySQL\r\n\r\nOracle Server"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "ENGLISH"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "HINDI"
+          },
+          {
+            "LanguageCode": "mr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Marathi"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'03\r\n\r\n\r\nAkshata Kulkarni\r\n\r\n\r\nFresher seeking roles in Salesforce, Software Development, Database\r\nAdministration, Software Designing, Requirement Gathering, CRM\r\nImplementation, Apex, Python, C, C++, java\r\n\r\n\r\nCurrent Location: Pune\tTotal Experience: 0 Year(s) 0 Month(s)\r\nPref. Location: Bengaluru / Bangalore, Mumbai, Pune\tHighest Degree: B.Tech/B.E. [Computers]\r\nFunctional Area: IT Software - ERP / CRM\r\nRole: Fresher\r\nIndustry: Fresher/Trainee\r\nMarital Status: Single/unmarried\r\nKey Skills: salesforce.com, salesforce, visualforce, apex, triggers, c, oops, python, machine learning, software\r\ndevelopment, mysql database administration, core java\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 27-Jan-20\tLast Modified: 27-Jan-20\r\n313ac36218c74e00bb8668fce14f967f\r\n\r\n\r\nSummary\r\nA skilled individual having capability to create software systems using Salesforce and CRM\r\nAn IBM JAVA Certified Professional having hands-on experience on developing and designing database\r\nmanagement systems according to requirements\r\nSkills to develop software solutions by studying information needs, conferring with users, studying systems\r\nflow, data usage, and work processes; possess practical knowledge on working with Apex, Python, C, C++,\r\nJavaScript (Basics) and HTML\r\nUnderstanding of Software Development Lifecycle (SDLC) right from requirement analysis, documentation\r\n(functional specifications, technical design), coding and testing (preparation of test cases along with\r\nimplementation) to maintenance of proposed applications\r\nGained exposure in understanding process requirements and providing use cases for business, functional &\r\ntechnical requirements\r\nExcellent communication and presentation skills; worked as a team player and coordinated with team members\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from Zeal Education Society's Dnyanganga Institute of Career Empowerment & Research,\r\nPune in 2019\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=fbbe   7084e110061544c1001011702154e6&sid=3810263223&AT=1580666273\r\n2/2/20 19'03\r\n\r\n\r\nC, C++, Java, Apex\r\n\r\nPython (Basics)\r\n\r\nJavaScript (Basics)\r\n\r\nHTML\r\n\r\nSQL, MySQL\r\n\r\nOracle Server\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nENGLISH\r\n\r\nHINDI\r\n\r\nMarathi\r\n\r\n\r\nProjects\r\nProject Title: Disease Information System\r\nClient: Doctors\r\nNature of Employment: Full Time\tDuration: Aug 2017 - Dec 2017\r\nOnsite / Offsite: Offsite\r\nProject Details: Developed a MySQL and JAVA based system, wherein the user would enter the symptoms and system would\r\nfetch the details from database and showcase the related disease, medicines and nearby hospitals.\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=fbbe   7084e110061544c1001011702154e6&sid=3810263223&AT=1580666273\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Pune",
+          "sov:PreferredLocation": "Bengaluru / Bangalore, Mumbai, Pune",
+          "sov:WillingToRelocate": "Yes"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Akshata Kulkarni's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Human Resources (mostly Talent Sourcing). Akshata Kulkarni's experience appears to be entry level, with 4 months of experience.",
+          "sov:MonthsOfWorkExperience": "4",
+          "sov:AverageMonthsPerEmployer": "4",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "70",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "21",
+                        "@percentOfParentTaxonomy": "30",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE ADMINISTRATION",
+                            "@id": "015028",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "20",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "REQUIREMENT ANALYSIS",
+                            "@id": "022962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "SDLC",
+                            "@id": "025956",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "TECHNICAL DESIGN",
+                            "@id": "025754",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "USE CASES",
+                            "@id": "010312",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Telephony",
+                        "@id": "347",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "APEX",
+                            "@id": "026854",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "SALESFORCE.COM",
+                            "@id": "5500380",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "CRM",
+                            "@id": "014101",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Talent Sourcing",
+                        "@id": "583",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "60",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER RELATIONSHIP MANAGEMENT",
+                            "@id": "9000267",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CRM",
+                                "@id": "9000268",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTATION",
+                            "@id": "022620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "TECHNICAL REQUIREMENTS",
+                            "@id": "009262",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "WRITING FUNCTIONAL",
+                            "@id": "022114",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "FUNCTIONAL SPECIFICATIONS",
+                                "@id": "0114002",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM PLAYER",
+                            "@id": "026529",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Aptitudes",
+                        "@id": "532",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRESENTATION SKILLS",
+                            "@id": "005353",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Call Center or Help Desk or Customer Service",
+                    "@id": "46",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management",
+                        "@id": "131",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "WRITING FUNCTIONAL",
+                            "@id": "022115",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "FUNCTIONAL SPECIFICATIONS",
+                                "@id": "0114022",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST CASES",
+                            "@id": "009422",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "17",
+              "@ends": "26",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "27",
+              "@ends": "41",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "42",
+              "@ends": "46",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "47",
+              "@ends": "67",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "68",
+              "@ends": "77",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "78",
+              "@ends": "82",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Projects"
+            },
+            {
+              "@starts": "83",
+              "@ends": "93",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Project Details"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Akshata Kulkarni"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=fbbe",
+              "salesforce.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Bengaluru / Bangalore, Mumbai, Pune",
+              "Marital Status: Single",
+              "Current Location: Pune",
+              "0 Year(s) 0 Month(s)"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2887",
+        "sov:ParseTime": "375",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS,WORK HISTORY] The following section types appear multiple times in the resume: SKILLS (2 occurrences), WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.",
+                    "[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,6] The following sections do not have the header on a separate line: 'Key Skills', 'Project Details'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:8e04f720-f38f-42c3-9f43-8f9cd17856cd",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "6jf///////8="
+      }
+    }
+  }
+}

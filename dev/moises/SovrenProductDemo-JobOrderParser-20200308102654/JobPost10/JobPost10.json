@@ -1,0 +1,651 @@
+{
+  "SovrenData": {
+    "@xml:lang": "en",
+    "DocumentLanguage": "en",
+    "CurrentJobIsMgmt": "false",
+    "HighestManagementScore": "0",
+    "ManagementLevel": "none",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+      "MainJobTitle": "Internship starting date",
+      "JobTitle": [
+        "Internship"
+      ]
+    },
+    "EmployerNames": {
+      "MainEmployerName": "Data Science and Machine Learning! A",
+      "EmployerName": [
+        "Institute of Complex Systems",
+        "National Center",
+        "Scientific Research",
+        "Scientific Research (CNRS)",
+        "Institut des Systèmes Complexes de Paris",
+        "Multivac Data Science Lab",
+        "Master in Statistics or Data Sciences",
+        "Statistics or Data Sciences",
+        "Data Sciences"
+      ]
+    },
+    "SchoolNames": {
+      "SchoolName": [
+        "Institute of Complex Systems (ISC-PIF)",
+        "National Center for Scientific Research",
+        "Institute of Complex Systems",
+        "Institut des Systèmes Complexes",
+        "institute is facilitating access to skills",
+        "Institut des Systèmes Complexes de Paris",
+        "National Center for Scientific Research (CNRS)"
+      ]
+    },
+    "CurrentLocation": {
+      "Municipality": "Paris",
+      "PostalCode": "75013",
+      "CountryCode": "FR"
+    },
+    "Education": {
+      "Degree": [
+        {
+          "DegreeType": "masters",
+          "DegreeName": "Bac + 5"
+        },
+        {
+          "DegreeType": "masters",
+          "DegreeName": "Master in Statistics or Data Sciences"
+        }
+      ]
+    },
+    "RequiredDegree": "masters",
+    "TypeOfSource": "stJobOrder",
+    "SourceText": "We are looking for students who are interested in Data Science and Machine Learning! A great opportunity to work with cutting-edge technologies and billions of data. You will be working on Multivac Platform developed at ISCPF : our platform is one of the biggest academic repositories with over 15 billion documents hosted across 80 servers on dedicated servers and cloud services.\r\n\r\nDiploma required : Bac + 5 in a quantitative field (applied mathematics, statistics, computing…)\r\nInternship starting date : Flexible\r\nDuration : 2 – 6 month\r\nSalary policy : the internship is paid according to the legal wage rates (approx. 560€/month)\r\n\r\nAbout the Institute of Complex Systems (ISC-PIF)\r\nInterface between disciplines, but also between research organisations and higher education, the ISC-PIF is a place dedicated to the development of innovative and interdisciplinary research on complex systems. Since 2005, the institute is facilitating access to skills, trainings, work areas and pooled research resources based on high performance computing and big data. The institute is a unit of the National Center for Scientific Research (CNRS), one of the largest french research organisation.\r\n\r\nAddress :\r\nInstitut des Systèmes Complexes de Paris 113 rue Nationale 75013 Paris\r\n\r\nAbout the internship\r\n\r\nDescription :\r\nYou will be working on Multivac Platform developed at ISCPIF. Multivac Platform is one of the biggest academic repositories with over 75 billion documents hosted across 100 servers on dedicated servers and cloud services. The datasets contain metadata from published scientific papers and social networks with wide range of topics. Multivac platform is meant as an interface between researchers and Big Data, especially in domain of NLP and text mining. It offers services such as comprehensive dashboards that enable scientists to explore and discover facts with a wider overview on large-scale data through visualisations. It also offers API access that allows researchers to exploit this huge architecture and computation without any prior technical knowledge. In addition, Multivac Data Science Lab offers interactive notebooks over Apache Hadoop/Spark cluster in private Cloud.\r\n\r\nWhy Multivac Platform :\r\nMultivac Platform is built by cutting-edge technologies such as:\r\n\r\nLarge-scale databases (MongoDB and Redis with over 12 billion documents)\r\nSearch engine clusters (Elasticsearch/Kibana with over 6 billion documents)\r\nDistributed computations and real-time processing (RabbitMQ, NodeJS, etc.)\r\nCloudera Hadoop 2.0 with interactive Spark notebooks (HDFS, YARN, Apache Spark, Apache Hive, Apache HBase, Apache Zeppelin, Hue, etc.)\r\nCloud services (OpenStack)\r\nYou get to learn all about these new technologies and have access to Multivac Data Science Lab. Multivac Platform hosts over 14 billion data with over 50 million data everyday.\r\n\r\nMultivac Data Science Lab\r\n\r\nRequirements :\r\nMaster in Statistics or Data Sciences\r\nBasic knowledge of Machine Learning Algorithms\r\nBasic knowledge of Scala, Python or R\r\nBasic knowledge of text mining in social networks\r\nInterest in NLP tasks and Graph analytics\r\n(Bonus) Experience with Twitter datasets and other REST API services\r\n(Bonus) Experience with Apache Spark or any other Hadoop components\r\n(Bonus) Experience with a Deep Learning library (BigDL, Tensor Flow …)\r\n\r\nResponsibilities (two or more) :\r\nWork on un-supervised learning algorithms for topic detection\r\nWork on supervised learning algorithms for classifications and predictions\r\nDevelop and optimise our existing LDA implementations\r\nImplement algorithms to perform NLP tasks such as clustering, topic detections, etc. (StanfordCoreNLP)\r\nImplement algorithms to improve sentimental analysis and mentions clustering\r\nImplement methods of automatic detection of opinions in Tweets\r\nImplement methods of keyword extractions in scientific publications",
+    "RevisionDate": "2020-03-08",
+    "ParserConfigurationString": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DigitalSignature": "yeQAAAAAAAA=",
+    "SkillsTaxonomyOutput": [
+      {
+        "@name": "Sovren",
+        "Taxonomy": [
+          {
+            "@name": "Information Technology",
+            "@id": "10",
+            "@percentOfOverall": 82.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Big Data",
+                "@id": "553",
+                "@percentOfOverall": 37.0,
+                "@percentOfParentTaxonomy": 45.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "HDFS",
+                        "@id": "553070902",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "APACHE HADOOP HDFS",
+                    "@id": "5530709",
+                    "@existsInText": false,
+                    "@required": false
+                  },
+                  {
+                    "@name": "APACHE HBASE",
+                    "@id": "5530716",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "ELASTICSEARCH",
+                    "@id": "5530744",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "HADOOP",
+                    "@id": "5530761",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "HBASE",
+                    "@id": "5530766",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "MONGODB",
+                    "@id": "5530805",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "REDIS",
+                    "@id": "5530835",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "CLUSTERING",
+                    "@id": "5530921",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "5530958",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DATASETS",
+                    "@id": "5530959",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "HIGH PERFORMANCE COMPUTING",
+                    "@id": "5530999",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "LDA",
+                        "@id": "5531007",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "LATENT DIRICHLET ALLOCATION",
+                    "@id": "5531006",
+                    "@existsInText": false,
+                    "@required": false
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "5531016",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "METADATA",
+                    "@id": "5531026",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "NLP",
+                        "@id": "5531030",
+                        "@existsInText": true,
+                        "@required": true
+                      }
+                    ],
+                    "@name": "NATURAL LANGUAGE PROCESSING",
+                    "@id": "5531029",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Machine Learning",
+                "@id": "720",
+                "@percentOfOverall": 12.0,
+                "@percentOfParentTaxonomy": 14.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "7200001",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DEEP LEARNING",
+                    "@id": "7200018",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "LDA",
+                        "@id": "7200036",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "LINEAR DISCRIMINANT ANALYSIS",
+                    "@id": "7200035",
+                    "@existsInText": false,
+                    "@required": false
+                  },
+                  {
+                    "@name": "SUPERVISED LEARNING",
+                    "@id": "7200062",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "7200149",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Programming",
+                "@id": "204",
+                "@percentOfOverall": 12.0,
+                "@percentOfParentTaxonomy": 14.0,
+                "Skill": [
+                  {
+                    "@name": "PYTHON",
+                    "@id": "006120",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "API",
+                    "@id": "021194",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "Hadoop",
+                    "@id": "1004744",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "HBase",
+                    "@id": "1004747",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "HDFS",
+                    "@id": "1004748",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "Hive",
+                    "@id": "1004749",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "APACHE SPARK",
+                    "@id": "3391146",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Distributed Systems",
+                "@id": "718",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 4.0,
+                "Skill": [
+                  {
+                    "@name": "LARGE-SCALE",
+                    "@id": "7180008",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "REST",
+                    "@id": "7180010",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Enterprise Storage",
+                "@id": "555",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "CLUSTERING",
+                    "@id": "5551333",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Gaming",
+                "@id": "551",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "SCALA",
+                    "@id": "5510135",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Cloud Computing",
+                "@id": "550",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "MONGODB",
+                    "@id": "5500361",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Operations, Monitoring and Software Management",
+                "@id": "349",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "CLUSTERING",
+                    "@id": "3490022",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Security",
+                "@id": "338",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "3380002",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Protocols and Standards",
+                "@id": "253",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "REAL-TIME",
+                    "@id": "081190",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Embedded and Realtime",
+                "@id": "340",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "REAL-TIME",
+                    "@id": "081186",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Internet",
+                "@id": "196",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "SEARCH ENGINE",
+                    "@id": "024268",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "UNIX and LINUX",
+                "@id": "203",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "APACHE",
+                    "@id": "021093",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Network",
+                "@id": "198",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "CLUSTERING",
+                    "@id": "013564",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Multimedia",
+                "@id": "351",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 2.0,
+                "Skill": [
+                  {
+                    "@name": "SCALA",
+                    "@id": "007474",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Engineering",
+            "@id": "5",
+            "@percentOfOverall": 8.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Computer Hardware",
+                "@id": "144",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "REAL-TIME",
+                    "@id": "080770",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "General Engineering",
+                "@id": "307",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "REAL-TIME",
+                    "@id": "080509",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Air and Aerospace",
+                "@id": "311",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "APACHE",
+                    "@id": "025565",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Surveying",
+                "@id": "298",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "024338",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Process",
+                "@id": "143",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "QUANTITATIVE",
+                    "@id": "006272",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Marketing",
+            "@id": "14",
+            "@percentOfOverall": 3.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Data & Analytics",
+                "@id": "588",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "1400075",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "HADOOP",
+                    "@id": "1400328",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Finance",
+            "@id": "7",
+            "@percentOfOverall": 3.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Financial Planning & Analysis",
+                "@id": "235",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "QUANTITATIVE",
+                    "@id": "022510",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Other",
+                "@id": "243",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "017446",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "User Experience",
+            "@id": "93",
+            "@percentOfOverall": 2.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Industrial Design",
+                "@id": "566",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "ARCHITECTURE",
+                    "@id": "5570085",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Business Operations and General Business",
+            "@id": "34",
+            "@percentOfOverall": 2.0,
+            "Subtaxonomy": [
+              {
+                "@name": "General Skills and Activities",
+                "@id": "437",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "STATISTICS",
+                    "@id": "008585",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

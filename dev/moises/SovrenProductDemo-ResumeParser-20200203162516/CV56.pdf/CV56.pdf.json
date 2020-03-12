@@ -1,0 +1,774 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Sourav Sengupta",
+          "GivenName": "Sourav",
+          "FamilyName": "Sengupta"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "WEST BENGAL"
+              ],
+              "Municipality": "Kolkata",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Management, Core Java, Data Structures, Algorithms, Oracle, SQL, PL/SQL, Informatica",
+                  "PowerCenter",
+                  "Cognizant Technologies Solutions"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "I have more than 2 years of experience in developing Informatica MDM solutions and is having a firm grip over core JAVA,\r\nPLSQL, SQL. I am also a passionate coder with good knowledge in Data Structures & Algorithms. Other languages that I have\r\nused while coding is mainly C & C++.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Cognizant Technologies Solutions",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Programmer Analyst",
+                "OrgName": {
+                  "OrganizationName": "Cognizant Technologies Solutions"
+                },
+                "Description": "Informatica MDM developer",
+                "StartDate": {
+                  "YearMonth": "2017-11"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Cognizant Technologies Solutions",
+                    "sov:NormalizedTitle": "Programmer Analyst"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Cognizant Technologies Solutions"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Cognizant Technology Solutions",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Cognizant Technology Solutions"
+                },
+                "Description": "I was trained during this period of time in Informatica ETL and SQL(Oracle).\r\nTechnology used - Oracle (SQL), PLSQL.\r\nTools used - Informatica PowerCenter",
+                "StartDate": {
+                  "Year": "2004"
+                },
+                "EndDate": {
+                  "AnyDate": "2020-02-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Cognizant Technology Solutions"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Programmer Analyst - Informatica MDM developer",
+                "OrgName": {
+                  "OrganizationName": "Cognizant Technology Solutions"
+                },
+                "Description": "to Nov 2017\r\nWorking as an Informatica MDM Developer for a leading global pharma company. Here I have contributed in developing a\r\nGlobal Customer Management which will create a unique ID for Individual/Organizations which will then be used by\r\ndownstream for various purposes. Alongside I have also worked in Global Product Master whose goal was to produce\r\nunique product ID and maintain the hierarchy of products. Here, I have learned to configure HUB (tables, mappings, M/M & validation rules, HM), SIF APIs, JAVA/DB User Exits, IDD etc. Also had to perform activities like data loading, data\r\nremediation, service restart etc. on an adhoc basis.\r\nTechnology used - Java 8, Oracle (SQL), PLSQL, JBOSS.\r\nTools used - Informatica MDM, Informatica PowerCenter",
+                "StartDate": {
+                  "YearMonth": "2017-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-11"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 78% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Cognizant Technology Solutions",
+                    "sov:NormalizedTitle": "Programmer Analyst Informatica MDM developer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Programmer Analyst",
+                        "Informatica MDM developer",
+                        "developer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Cognizant Technology Solutions"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "Programmer Analyst Trainee",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "https://freesearch.naukri.com/preview/printResume?uname=ba2   e5c0d564a10011600154146540d526&sid=3810263223&AT=1580680998",
+                "StartDate": {
+                  "YearMonth": "2017-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Programmer Analyst Trainee"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Institute of Engineering and Management"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Information Technology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Information Technology) from Institute of Engineering and Management in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Institute of Engineering and Management"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Programmer Analyst, Software Developer, Informatica MDM, Master Data Management, Core Java, Data\r\nStructures, Algorithms, Oracle, SQL, PL/SQL, Informatica PowerCenter, Data Warehouse\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 0f8586704be4f0d113\tLast Active: 31-Jan-20\tLast Modified: 31-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nJava, SQL\t2 Year(s)\r\n\r\nPL/SQL\t2 Year(s)\r\n\r\nC, C++\r\n\r\nData structure, Algorithm\t4 Year(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tExpert"
+          },
+          {
+            "LanguageCode": "bn",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Bengali\tExpert"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&04\r\n\r\n\r\nSourav Sengupta\r\n\r\n\r\nProgrammer Analyst seeking developer roles in Informatica MDM, Master Data\r\nManagement, Core Java, Data Structures, Algorithms, Oracle, SQL, PL/SQL, Informatica\r\nPowerCenter\r\n\r\n\r\nCurrent Designation: Programmer Analyst\tTotal Experience: 2 Year(s) 0 Month(s)\r\nCurrent Company: Cognizant Technologies Solutions\tNotice Period: 15 Days or less\r\nCurrent Location: Kolkata\tHighest Degree: B.Tech/B.E. [Information Technology]\r\nPref. Location: Bengaluru / Bangalore, Pune, Kolkata\r\nFunctional Area: IT Software - DBA / Datawarehousing\r\nRole: Software Developer\r\nIndustry: IT-Software/Software Services\r\nMarital Status: Single/unmarried\r\nKey Skills: Programmer Analyst, Software Developer, Informatica MDM, Master Data Management, Core Java, Data\r\nStructures, Algorithms, Oracle, SQL, PL/SQL, Informatica PowerCenter, Data Warehouse\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 0f8586704be4f0d113\tLast Active: 31-Jan-20\tLast Modified: 31-Jan-20\r\n\r\n\r\nSummary\r\nI have more than 2 years of experience in developing Informatica MDM solutions and is having a firm grip over core JAVA,\r\nPLSQL, SQL. I am also a passionate coder with good knowledge in Data Structures & Algorithms. Other languages that I have\r\nused while coding is mainly C & C++.\r\n\r\n\r\nWork Experience\r\nCognizant Technologies Solutions as Programmer Analyst\r\nNov 2017 to Till Date\r\nInformatica MDM developer\r\n\r\n\r\nCognizant Technology Solutions as Programmer Analyst - Informatica MDM developer\r\nNov 2017 to Nov 2017\r\nWorking as an Informatica MDM Developer for a leading global pharma company. Here I have contributed in developing a\r\nGlobal Customer Management which will create a unique ID for Individual/Organizations which will then be used by\r\ndownstream for various purposes. Alongside I have also worked in Global Product Master whose goal was to produce\r\nunique product ID and maintain the hierarchy of products. Here, I have learned to configure HUB (tables, mappings, M/M\r\n& validation rules, HM), SIF APIs, JAVA/DB User Exits, IDD etc. Also had to perform activities like data loading, data\r\nremediation, service restart etc. on an adhoc basis.\r\nTechnology used - Java 8, Oracle (SQL), PLSQL, JBOSS.\r\nTools used - Informatica MDM, Informatica PowerCenter\r\n\r\nProgrammer Analyst Trainee Nov 2017 - Dec 2018\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=ba2   e5c0d564a10011600154146540d526&sid=3810263223&AT=1580680998\r\n2/2/20 23&04\r\n\r\n\r\nCognizant Technology Solutions\r\nI was trained during this period of time in Informatica ETL and SQL(Oracle).\r\nTechnology used - Oracle (SQL), PLSQL.\r\nTools used - Informatica PowerCenter\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Information Technology) from Institute of Engineering and Management in 2017\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nJava, SQL\t2 Year(s)\r\n\r\nPL/SQL\t2 Year(s)\r\n\r\nC, C++\r\n\r\nData structure, Algorithm\t4 Year(s)\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tExpert\r\n\r\nBengali\tExpert\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=ba2   5c0d564a10011600154146540d526&sid=3810263223&AT=1580680998\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Kolkata",
+          "sov:PreferredLocation": "Bengaluru / Bangalore, Pune, Kolkata",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Physically Challenged: No"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Sourav Sengupta's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Engineering (mostly Environmental). Sourav Sengupta has 15 years of work experience.",
+          "sov:MonthsOfWorkExperience": "184",
+          "sov:AverageMonthsPerEmployer": "61",
+          "sov:FulltimeDirectHirePredictiveIndex": "82",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "99",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "27",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MANAGEMENT",
+                            "@id": "5530951",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA STRUCTURE",
+                            "@id": "5530961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "ETL",
+                            "@id": "5530987",
+                            "@existsInText": "true",
+                            "@totalMonths": "181",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "INFORMATICA",
+                            "@id": "5530776",
+                            "@existsInText": "true",
+                            "@totalMonths": "181",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-4"
+                          },
+                          {
+                            "@name": "JBOSS",
+                            "@id": "5530783",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "MASTER DATA MANAGEMENT",
+                            "@id": "5531023",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "@childrenTotalMonths": "27",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MDM",
+                                "@id": "5531024",
+                                "@existsInText": "true",
+                                "@totalMonths": "27",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "22",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "INFORMATICA",
+                            "@id": "5540928",
+                            "@existsInText": "true",
+                            "@totalMonths": "181",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "22",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "INFORMATICA",
+                            "@id": "019770",
+                            "@existsInText": "true",
+                            "@totalMonths": "181",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "19",
+                        "@percentOfParentTaxonomy": "19",
+                        "sov:Skill": [
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@totalMonths": "181",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2; POS-4"
+                          },
+                          {
+                            "@name": "PL/SQL",
+                            "@id": "004871",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "181",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Middleware and Integration",
+                        "@id": "345",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "ETL",
+                            "@id": "016965",
+                            "@existsInText": "true",
+                            "@totalMonths": "181",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "POWERCENTER",
+                            "@id": "005242",
+                            "@existsInText": "true",
+                            "@totalMonths": "181",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-11-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "JBOSS",
+                            "@id": "020279",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA WAREHOUSE",
+                            "@id": "022439",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Environmental",
+                        "@id": "136",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "66",
+                        "sov:Skill": [
+                          {
+                            "@name": "REMEDIATION",
+                            "@id": "022420",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022552",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "19",
+              "@ends": "27",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "28",
+              "@ends": "33",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "34",
+              "@ends": "62",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "63",
+              "@ends": "66",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "67",
+              "@ends": "78",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "79",
+              "@ends": "93",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Sourav Sengupta"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=ba2"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Bengaluru / Bangalore, Pune, Kolkata",
+              "Work Authorization\r\nPhysically Challenged: No",
+              "Current Location: Kolkata",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3153",
+        "sov:ParseTime": "281",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:221;POS-4] We could not find a job title for: POS-4. Every position in a resume should have a job title.",
+                    "[Sovren:222;POS-3] No employer name was found for:  POS-3. Every position in a resume should have an employer name."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:f1fd6acb-19df-466e-9926-647c1f9b1ebc",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "b37///////8="
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+DYNAMIC MEASUREMENTS TO MONITOR THE TRACK QUALITY WITHIN THE INTERNATIONAL PROJECT HARMOTRACK (UIC) 
+
+Introduction : 
+
+The monitoring of the track quality is a major concern for SNCF Réseau: a true guarantee of the running quality and railway safety. Nowadays, maintenance process is mainly based on the measurement of track defects (geometry) through various dedicated measuring systems (such as IRIS320, Mauzin car etc.). Maintenance standards based on the measure of the track geometry defects come from several decades of experience. However, they represent the less direct indicator of danger and require specific vehicles for the track assessment. This is why, new cheaper devices like accelerometers can become really interesting since they permit to carry out a fast verification of the track quality considering extra phenomena not included in European standards. 
+
+For this reason, SNCF Réseau set up an international cooperative work to study and harmonize the use of accelerometers devices worldwide through UIC (International Union of Railways). 
+
+Thus, the aim of this internship is to perform a technical study with the large amount of data accessible by SNCF Réseau. This work will be carried out in collaboration with international railway experts, to tackle the problem of use of accelerometers sensors. 
+
+Responsabilities : 
+
+Analysis of the previous work already done during the last year. This includes the study of the literature and the Harmotrack project reports, in order to be able to be in touch with international experts; 
+Machine learning studies on accelerometers data that come from various devices and vehicles (IRIS320, portable accelerometers, smartphones etc.) in order to produce classification and/or regression model of track geometrical default detection. This phase of the internship requires: 
+
+Computer science fundamentals and Programming 
+Advanced knowledge in probability and statistics 
+Data modelling and model evaluation 
+Applying modern machine learning algorithms and libraries. 
+An important synthesis work is required by the end of the internship, to assure the project continuity.
+
+
+
+Profil recherché
+
+Master’s degree student in Engineering;
+
+Compétences et Qualités souhaitées
+
+Master’s degree student in Engineering
+Good knowledge of Python programming, including datasciences packages (Pandas, Seaborn, Scikit-learn, Keras, TensorFlow, XGBoost, etc.). Matlab equivalent skills would be a plus. 
+Basic knowledge of signal processing. 
+Excellent analytical skills including statistics on MSc level
+Excellent organizational skills
+Pro-active, enthusiastic and critical towards representativeness and accuracy of results
+Able to work with minimal supervision
+Good communication skills (English B2 level). Proficiency in French would be an advantage
+Excellent interpersonal skills and a strong work ethic
+Flexible, able to work under tight deadlines.

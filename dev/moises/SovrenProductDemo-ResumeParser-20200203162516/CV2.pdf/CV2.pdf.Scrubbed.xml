@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Result-oriented Professional with over 1 years of experience in Database Development, SQL Server, Stored Procedures.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>KJ Systems India Pvt ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>SQLServer Developer</Title>
+					<OrgName>
+						<OrganizationName>KJ Systems India Pvt ltd</OrganizationName>
+					</OrgName>
+					<Description>we used to maintain the Hospital data and perform operations on the data</Description>
+					<StartDate>
+						<YearMonth>2018-11</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Business Operations and General Business → Management Activities or Functions</CategoryCode>
+						<Comments>Business Operations and General Business describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>KJ Systems India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>SQLServer Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>SQLServer Developer</Title>
+					<OrgName>
+						<OrganizationName>kJ Systems India Pvt ltd</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-11</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>kJ Systems India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>SQLServer Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>KJ Systems India</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Jawaharlal Nehru Technological University (JNTU)</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science and Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computer Science and Engineering) from Jawaharlal Nehru Technological University (JNTU) in 2017
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     05e1848512d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580666207</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Jawaharlal Nehru Technological University JNTU</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Database Programmer, Database Development, Performance Tuning, SQL Server, Stored Procedures
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 30-Jan-20
+e48bd86145fa47d9a8be788afb42249b
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+SQL Server</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>te</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Telugu</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'03
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+
+Database Programmer seeking roles in Database Development, SQL Server, Stored
+Procedures, joins, performance
+
+
+Current Designation: SQLServer Developer	Total Experience: 1 Year(s) 1 Month(s)
+Current Company: kJ Systems India Pvt ltd	Notice Period:    ~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: B.Tech/B.E. [Computer Science and
+Engineering]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: IT Software - DBA / Datawarehousing
+Role: Software Developer
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Database Programmer, Database Development, Performance Tuning, SQL Server, Stored Procedures
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 30-Jan-20
+e48bd86145fa47d9a8be788afb42249b
+
+
+Summary
+Result-oriented Professional with over 1 years of experience in Database Development, SQL Server, Stored Procedures.
+
+
+Work Experience
+KJ Systems India Pvt ltd as SQLServer Developer
+Nov 2018 to Nov 2019
+we used to maintain the Hospital data and perform operations on the data
+
+
+kJ Systems India Pvt ltd as SQLServer Developer
+Nov 2018 to Till Date
+
+
+Education
+UG: B.Tech/B.E. (Computer Science and Engineering) from Jawaharlal Nehru Technological University (JNTU) in 2017
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     05e1848512d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580666207
+2/2/20 19'03
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+SQL Server
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Telugu
+
+
+Projects
+Project Title: EHR YOUR WAY
+Client: USA hospitals
+Nature of Employment: Full Time	Duration: Nov 2018 - Nov 2019
+Project Location: Vijayawada	Onsite / Offsite: Onsite
+Role: Programmer	Team Size: 5
+Skill Used: Joins Stored Procedures views indexes
+Role Description: Database Programmer used to maintain data in the module and perform operations on it
+Project Details: we used to handle and patient complete data and hospital data also
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     05e1848512d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580666207
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  's experience appears to be mostly concentrated in Business Operations and General Business (mostly Management Activities or Functions) and somewhat concentrated in Information Technology (mostly Database).    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  's experience appears to be entry level, with 16 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>16</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>16</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="52">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="52" percentOfParentTaxonomy="100">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="12" lastUsed="2019-11-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="37">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="31" percentOfParentTaxonomy="85">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="STORED PROCEDURES" id="008661" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB DATABASE" id="023811" existsInText="false">
+									<sov:ChildSkill name="DATABASE DEVELOPMENT" id="015033" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="6" percentOfParentTaxonomy="15">
+								<sov:Skill name="ELECTRONIC HEALTH RECORDS" id="5530980" existsInText="false">
+									<sov:ChildSkill name="EHR" id="5530981" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="5">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="3">
+							<sov:Subtaxonomy name="Accounting" id="932" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTAIN DATA" id="024047" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="2">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="1">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="PERFORMANCE TUNING" id="004550" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="19" ends="27" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="28" ends="31" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="32" ends="41" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="42" ends="49" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="50" ends="55" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="56" ends="63" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="64" ends="81" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2289</sov:ParsedTextLength>
+			<sov:ParseTime>203</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:e9a57b7c-64db-4faf-9134-3efc9fbb2f83</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>SjYBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

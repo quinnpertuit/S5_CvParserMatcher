@@ -1,0 +1,1677 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Devanshi Mittalbhai Jhaveri",
+          "GivenName": "Devanshi",
+          "MiddleName": "Mittalbhai",
+          "FamilyName": "Jhaveri"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "MBA/PGDM [Marketing]"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "An MBA (Telecom Management, Marketing & Finance) and Engineer in the field of Electronics & Communication with\r\nexperience in the field of Enterprise Asset Management, Change Impact Assessment, Data Analytics, Telecom Business\r\nProcess Modelling & Transformation, Risk assessment in telecom domain and Internal Process Audit in healthcare domain\r\nOperational knowledge in various MS Office applications like Excel, Power-point, Word, SAP & business intelligence tools like\r\nAlteryx & PowerBI\r\nAn effective team player with intension of gaining knowledge to sharpen already existing skills and competencies",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "EY",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "@currentEmployer": "true",
+                "Title": "Consultant",
+                "OrgName": {
+                  "OrganizationName": "EY"
+                },
+                "Description": "Consultant in Risk Advisory team - Telecom - Internal Audit",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Accounting",
+                    "Comments": "Finance describes 43% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "EY",
+                    "sov:NormalizedTitle": "Consultant"
+                  }
+                }
+              },
+              {
+                "@positionType": "contract",
+                "Title": "Consultant",
+                "OrgName": {
+                  "OrganizationName": "EY"
+                },
+                "Description": "to Apr 2018\r\nOrganisation",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "EY",
+                    "sov:NormalizedTitle": "Consultant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "EY"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Ernst & Young",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "@currentEmployer": "true",
+                "Title": "Consultant",
+                "OrgName": {
+                  "OrganizationName": "Ernst & Young"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "MAHARASHTRA"
+                      ],
+                      "Municipality": "Mumbai"
+                    }
+                  }
+                ],
+                "Description": "Grade 2 Projects Undertaken Key Deliverables & Learning Timeline\r\nCore Data Team Member (Off-site)\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&sid=3810263223&AT=1580681981\r\n2/2/20 23&20",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "Ernst AND Young",
+                    "sov:NormalizedTitle": "Consultant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Ernst AND Young"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Enterprise Asset Management",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Business Transformation Support Lead (On-Site)",
+                "OrgName": {
+                  "OrganizationName": "Enterprise Asset Management"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "Nashik"
+                      ],
+                      "Municipality": "Navi Mumbai"
+                    }
+                  }
+                ],
+                "Description": "Indore for a leading hospital chain in India\r\nProcesses covered:\r\n1. Procurement of Medical and Non-medical Supplies and Hospital Inventory Management\r\n2. In-patient & Out-Patient - Registration to Discharge cycle, Billing and Collection\r\n3. Medical & Non-medical transportation\r\nMethodology used:\r\n1. Identification of each sub-level process and discussion with relevant stakeholder\r\n2. Performing analytics on various data objects with the help of system level reports\r\n3. Listing various gaps based on process and system understanding\r\n4. Citing the risk impact and root cause\r\n5. Devised various corrective/preventive action plans\r\n6. Quantification of the cost and revenue impact",
+                "StartDate": {
+                  "YearMonth": "2018-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Purchasing, Procurement, Inventory Control, Supply Chain → Purchasing",
+                    "Comments": "Purchasing, Procurement, Inventory Control, Supply Chain describes 29% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Enterprise Asset Management",
+                    "sov:NormalizedTitle": "Business Transformation Support Lead On Site",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Business Transformation Support Lead"
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "OrgName": {
+                  "OrganizationName": "EAM"
+                },
+                "Description": "solution for one of the world's largest telecom players across Egypt assisting them to track their fixed assets from an acquire-to-retire stage\r\nKey Deliverables:\r\n1. Master Data Creation and Management:\r\nEnterprise Asset Management\r\nMapping of warehouse and site inventories with the new master database thereby assisting the migration activity\r\nPreparation of the Bill of Materials by taking input from various sources such as purchase orders and stock inventories of the client\r\nReconciliation of Asset inventories:\r\nAnalysed the financial reports such as the AUC and FAR of the client and performed their reconciliation with the warehouse and site inventories respectively\r\nthe data analysis, sanitization, streamlining, conjunction and presentation of data points from procurement, inventory and Network Operating Centre to make them sync with the new Asset management",
+                "StartDate": {
+                  "YearMonth": "2018-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-11"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Accounting",
+                    "Comments": "Finance describes 31% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:NormalizedOrganizationName": "EAM"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Enterprise Asset Management"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Symbiosis International (Deemed) University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "MBA/PGDM",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Marketing"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: MBA/PGDM (Marketing) from Symbiosis International (Deemed) University in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "MBA",
+                    "sov:NormalizedDegreeType": "MBA"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Symbiosis International Deemed University"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "gujarat technological university"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2015"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2015"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Electronics/Telecommunication) from gujarat technological university in 2015",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "gujarat technological university"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Consultant, System Admin, Asset Management, Process Audit, Change Management, Risk\r\nManagement, Business Planning, Impact Assessment, Data Analytics, Network Management, Business Intelligence, Data\r\nAnalytics, Stakeholder Management, Root Cause Analysis, SAP\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 6999455265af717863\tLast Active: 31-Jan-20\tLast Modified: 31-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMicrosoft Office\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&sid=3810263223&AT=1580681981\r\n2/2/20 23&20"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          },
+          {
+            "LanguageCode": "gu",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Gujarati"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Core Data Team Member (Off-site)",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&20\r\n\r\n\r\nDevanshi Mittalbhai Jhaveri\r\n\r\n\r\nConsultant seeking roles in Asset Management, Process Audit, Change\r\nManagement, Risk Management, Business Planning, Impact Assessment, Data\r\nAnalytics, Network Management, Business Intelligence, Data Analytics, Stakeholder\r\nManagement, Root Cause Analysis, SAP\r\n\r\n\r\nCurrent Designation: Consultant\tTotal Experience: 1 Year(s) 7 Month(s)\r\nCurrent Company: EY\tNotice Period: More than 3 Months\r\nCurrent Location: Mumbai\tHighest Degree: MBA/PGDM [Marketing]\r\nPref. Location: Ahmedabad, Mumbai, Gandhinagar\r\nFunctional Area: Corporate Planning / Consulting\r\nRole: Sr Outside Consultant\r\nIndustry: Telcom/ISP\r\nMarital Status: Single/unmarried\r\nKey Skills: Consultant, System Admin, Asset Management, Process Audit, Change Management, Risk\r\nManagement, Business Planning, Impact Assessment, Data Analytics, Network Management, Business Intelligence, Data\r\nAnalytics, Stakeholder Management, Root Cause Analysis, SAP\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 6999455265af717863\tLast Active: 31-Jan-20\tLast Modified: 31-Jan-20\r\n\r\n\r\nSummary\r\nAn MBA (Telecom Management, Marketing & Finance) and Engineer in the field of Electronics & Communication with\r\nexperience in the field of Enterprise Asset Management, Change Impact Assessment, Data Analytics, Telecom Business\r\nProcess Modelling & Transformation, Risk assessment in telecom domain and Internal Process Audit in healthcare domain\r\nOperational knowledge in various MS Office applications like Excel, Power-point, Word, SAP & business intelligence tools like\r\nAlteryx & PowerBI\r\nAn effective team player with intension of gaining knowledge to sharpen already existing skills and competencies\r\n\r\n\r\nWork Experience\r\nEY as Consultant\r\nApr 2018 to Till Date\r\nConsultant in Risk Advisory team - Telecom - Internal Audit\r\n\r\n\r\nEY as Consultant\r\nApr 2018 to Apr 2018\r\nOrganisation\r\nErnst & Young, Mumbai\r\nApr 2018 - Present Team\r\nRisk Advisory, Internal Audit, Telecom Designation\r\nConsultant - Grade 2 Projects Undertaken Key Deliverables & Learning Timeline\r\nCore Data Team Member (Off-site)\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&sid=3810263223&AT=1580681981\r\n2/2/20 23&20\r\n\r\n\r\nApr 2018 - Nov 2018\r\n\r\nEnterprise Asset Management (EAM) solution for one of the world's largest telecom players across Egypt assisting them\r\nto track their fixed assets from an acquire-to-retire stage\r\nKey Deliverables:\r\n1. Master Data Creation and Management:\r\nEnterprise Asset Management\r\nMapping of warehouse and site inventories with the new master database thereby assisting the migration activity\r\nPreparation of the Bill of Materials by taking input from various sources such as purchase orders and stock inventories of\r\nthe client\r\nReconciliation of Asset inventories:\r\nAnalysed the financial reports such as the AUC and FAR of the client and performed their reconciliation with the\r\nwarehouse and site inventories respectively\r\nthe data analysis, sanitization, streamlining, conjunction and presentation of data points from procurement, inventory and\r\nNetwork Operating Centre to make them sync with the new Asset management\r\nBusiness Transformation Support Lead (On-Site)\r\nNov 2018 - May 2019\r\nEnterprise Asset Management (EAM) solution for one of the world's largest telecom players across Egypt assisting them\r\nto track their fixed assets from an acquire-to-retire stage\r\nIdentifying the key risks & re-engineer processes for risk transformation.\r\nEnsure the client's smooth transition to the EAM solution with respect to people and operational readiness\r\nAssessing the impact of the change coming from new solution by understanding the client's current asset management\r\npractices holistically and mapping them against the respective activities under the new solution\r\nManaging stakeholders across various functions viz Networks, SCM, Finance, Global MDM, etc., understanding their risks\r\n& challenges and recommending efficient solutions to mitigate these risks\r\nCentral SPOC for multiple functions across the client during the implementation phase\r\nExecuting Vendor on-boarding pertaining to the new EAM solution\r\nDelivered training as a part of the knowledge transfer and hand-holding of 40+ client stakeholders from different disciplines\r\non the SAP based EAM solution.\r\nPerformed internal process audit for 3 locations - Navi Mumbai, Nashik, Indore for a leading hospital chain in India\r\nProcesses covered:\r\n1. Procurement of Medical and Non-medical Supplies and Hospital Inventory Management\r\n2. In-patient & Out-Patient - Registration to Discharge cycle, Billing and Collection\r\n3. Medical & Non-medical transportation\r\nMethodology used:\r\n1. Identification of each sub-level process and discussion with relevant stakeholder\r\n2. Performing analytics on various data objects with the help of system level reports\r\n3. Listing various gaps based on process and system understanding\r\n4. Citing the risk impact and root cause\r\n5. Devised various corrective/preventive action plans\r\n6. Quantification of the cost and revenue impact\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from gujarat technological university in 2015\r\n\r\nPG: MBA/PGDM (Marketing) from Symbiosis International (Deemed) University in 2018\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMicrosoft Office\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&sid=3810263223&AT=1580681981\r\n2/2/20 23&20\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\nGujarati\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=0b2   043465f08211d4e58485f0f1207006&sid=3810263223&AT=1580681981\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Mumbai",
+          "sov:PreferredLocation": "Ahmedabad, Mumbai, Gandhinagar",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Category: General"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Devanshi Mittalbhai Jhaveri's experience appears to be somewhat concentrated in Finance (mostly Compliance) and slightly concentrated in Degreed Accounting (mostly Auditing). Devanshi Mittalbhai Jhaveri's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "26",
+          "sov:AverageMonthsPerEmployer": "8",
+          "sov:FulltimeDirectHirePredictiveIndex": "15",
+          "sov:MonthsOfManagementExperience": "6",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Starting on 11/1/2018, the candidate held the following low-level management position for 6 months:\r\n\tTitle: Business Transformation Support Lead (On-Site) for Enterprise Asset Management",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "31",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005583",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-3; POS-5"
+                          },
+                          {
+                            "@name": "RISK ASSESSMENT",
+                            "@id": "007092",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSET MANAGEMENT",
+                            "@id": "004809",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "FINANCE",
+                            "@id": "023147",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "BOM",
+                            "@id": "7000312",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "7",
+                            "@childrenLastUsed": "2018-11-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BILL OF MATERIALS",
+                                "@id": "7000313",
+                                "@existsInText": "true",
+                                "@totalMonths": "7",
+                                "@lastUsed": "2018-11-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "INTERNAL AUDIT",
+                            "@id": "7000215",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "COLLECTION",
+                            "@id": "013778",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "FIXED ASSETS",
+                            "@id": "017570",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "022800",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internal Audit",
+                        "@id": "706",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "BOM",
+                            "@id": "7000067",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "7",
+                            "@childrenLastUsed": "2018-11-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BILL OF MATERIALS",
+                                "@id": "7000068",
+                                "@existsInText": "true",
+                                "@totalMonths": "7",
+                                "@lastUsed": "2018-11-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Admin and Customer Service",
+                        "@id": "242",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTERNAL AUDIT",
+                            "@id": "026141",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL REPORTS",
+                            "@id": "022370",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MBA",
+                            "@id": "7000321",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; SUMMARY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "7000125",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "17",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Auditing",
+                        "@id": "942",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "72",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005584",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-3; POS-5",
+                            "@childrenTotalMonths": "23",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTERNAL AUDIT",
+                                "@id": "026140",
+                                "@existsInText": "true",
+                                "@totalMonths": "23",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in WORK HISTORY; POS-1; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting",
+                        "@id": "932",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "FIXED ASSETS",
+                            "@id": "024145",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reconciliations",
+                        "@id": "257",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "081000",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management",
+                        "@id": "960",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "080997",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "962",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL REPORTS",
+                            "@id": "017477",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "12",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "RF",
+                        "@id": "268",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "82",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOM",
+                            "@id": "022904",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1; POS-3; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "TOPO",
+                            "@id": "023035",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "13",
+                            "@childrenLastUsed": "2019-05-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MAPPING",
+                                "@id": "021224",
+                                "@existsInText": "true",
+                                "@totalMonths": "13",
+                                "@lastUsed": "2019-05-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROOT CAUSE ANALYSIS",
+                            "@id": "080477",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROOT CAUSE ANALYSIS",
+                            "@id": "080338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Environmental",
+                        "@id": "136",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK ASSESSMENT",
+                            "@id": "007095",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "30",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAP",
+                            "@id": "007436",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "7",
+                            "@childrenLastUsed": "2018-11-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "7",
+                                "@lastUsed": "2018-11-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MAPPING",
+                            "@id": "021223",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MASTER DATA MANAGEMENT",
+                            "@id": "5531023",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "6",
+                            "@childrenLastUsed": "2019-05-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MDM",
+                                "@id": "5531024",
+                                "@existsInText": "true",
+                                "@totalMonths": "6",
+                                "@lastUsed": "2019-05-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "022159",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SCM",
+                            "@id": "007546",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILLING",
+                            "@id": "022475",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "EAM",
+                            "@id": "015812",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MS OFFICE",
+                            "@id": "022137",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Standards, Protocols, Technologies",
+                        "@id": "317",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "98",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOM",
+                            "@id": "022903",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1; POS-3; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@lastUsed": "2015-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Purchasing",
+                        "@id": "458",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "61",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCUREMENT",
+                            "@id": "7270001",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "PURCHASE ORDERS",
+                            "@id": "006083",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Inventory",
+                        "@id": "459",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "39",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVENTORY",
+                            "@id": "020086",
+                            "@existsInText": "true",
+                            "@totalMonths": "13",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "45",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILL OF MATERIALS",
+                            "@id": "1400011",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "7",
+                            "@childrenLastUsed": "2018-11-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@totalMonths": "7",
+                                "@lastUsed": "2018-11-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; SUMMARY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS PLANNING",
+                            "@id": "1400329",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILLING",
+                            "@id": "011553",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "COLLECTION",
+                            "@id": "013779",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "022801",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "89",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "RECONCILIATION",
+                            "@id": "006624",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "012210",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "012977",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Billing and Collections",
+                        "@id": "110",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILLING",
+                            "@id": "022474",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "COLLECTION",
+                            "@id": "013780",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Environmental",
+                    "@id": "6",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Remediation, Mitigation, Cleanup, Removal",
+                        "@id": "332",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "SANITIZATION",
+                            "@id": "007435",
+                            "@existsInText": "true",
+                            "@totalMonths": "7",
+                            "@lastUsed": "2018-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Testing, Assessments, and Monitoring",
+                        "@id": "328",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK ASSESSMENT",
+                            "@id": "022564",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Hardware Engineering",
+                    "@id": "29",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Test Engineering",
+                        "@id": "714",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SYSTEM LEVEL",
+                            "@id": "5000015",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS OFFICE",
+                                "@id": "022136",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT WORD",
+                            "@id": "022961",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "WORD",
+                                "@id": "002379",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Organization Development",
+                        "@id": "581",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "9000213",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "HR Management",
+                        "@id": "579",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "9000169",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM PLAYER",
+                            "@id": "026529",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Healthcare Non-physician Non-nurse",
+                    "@id": "95",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Allied Health",
+                        "@id": "158",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "HEALTHCARE",
+                            "@id": "018806",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Modeling",
+                        "@id": "501",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESS MODELLING",
+                            "@id": "005534",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2015-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "38",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "39",
+              "@ends": "100",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "101",
+              "@ends": "106",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "107",
+              "@ends": "116",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "117",
+              "@ends": "133",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Devanshi Mittalbhai Jhaveri"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=0b2"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Ahmedabad, Mumbai, Gandhinagar",
+              "Work Authorization\r\nCategory: General",
+              "Current Location: Mumbai",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "5722",
+        "sov:ParseTime": "734",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:221;POS-4] We could not find a job title for: POS-4. Every position in a resume should have a job title."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:5d12195e-0d45-4767-92a7-cfa68e8f0767",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "jtD8//////8="
+      }
+    }
+  }
+}

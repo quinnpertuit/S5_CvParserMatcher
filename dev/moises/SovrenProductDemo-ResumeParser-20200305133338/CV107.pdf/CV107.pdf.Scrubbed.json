@@ -1,0 +1,1040 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "Gurgaon"
+              ],
+              "Municipality": "Noida"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Senior Research Analyst with 2+ years of work exposure in Data Analysis, Business Intelligence, Market Research, Strategy\r\nConsulting, Competitive Intelligence, Research Analysis, Strategic Management, Market Sizing, Business Development, Data\r\nAnalytics.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Contify",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Senior Research Analyst-Analytics",
+                "OrgName": {
+                  "OrganizationName": "Contify"
+                },
+                "Description": "Organize, analyze, synthesize and summarize data and information (includes information on financials, strategy, events, company executives, etc.) related to pharma and medical devices\r\nActively involved in client communication, scoping of project and user engagement activities\r\nCompetitive intelligence consulting and insights analysis for Pharmaceutical majors to analyze their competitive market for\r\ngenerics, Biosimilars, API's and Biologics in various therapeutic areas\r\nUtilize secondary research sources (in addition to Contify platform) as well as primary to gather information to be used to develop strategic consulting projects.",
+                "StartDate": {
+                  "YearMonth": "2019-03"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Clinical → Tests and Functions",
+                    "Comments": "Clinical describes 40% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Contify",
+                    "sov:NormalizedTitle": "Senior Research Analyst Analytics",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Research Analyst",
+                        "Research Analyst-Analytics",
+                        "Research Analyst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Contify"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "DelveInsight Market Research",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Business Analyst",
+                "OrgName": {
+                  "OrganizationName": "DelveInsight Market Research"
+                },
+                "Description": "Identification of target companies within the Pharmaceutical/Healthcare marketplace & identification of report specific\r\nindications through secondary research.\r\nActive role in report-specific client (based in the US, Europe and Asia-Pacific) communication targeted towards\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     81311424b61544c1001011702154e6&sid=3810263223&AT=1580681856\r\n2/2/20 23&18\r\n\r\n\r\nDelveInsight's services as well as assisting with business development RFPs and RFQs.\r\nActively handled consulting projects through Primary and Secondary research for major pharmaceutical giants (e.g. Clinical Trial Analysis and insights for Dry Eye Syndrome and Dravet Syndrome)\r\nPreparation of client specific presentations and proposals & implementing effective marketing strategies.",
+                "StartDate": {
+                  "YearMonth": "2016-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-08"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Sales → General",
+                    "Comments": "Sales describes 17% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "DelveInsight Market Research",
+                    "sov:NormalizedTitle": "Business Analyst"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "DelveInsight Market Research"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Biodiscovery Group Lifesciences",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "E-Trainer",
+                "OrgName": {
+                  "OrganizationName": "Biodiscovery Group Lifesciences"
+                },
+                "Description": "E-Workshops held on Next-Generation Sequencing Data Analysis (DNASeq & RNASeq), Molecular Dynamics and simulations.",
+                "StartDate": {
+                  "YearMonth": "2015-12"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Cloud Computing",
+                    "Comments": "Information Technology describes 41% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BK",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Biodiscovery Group Lifesciences",
+                    "sov:NormalizedTitle": "E Trainer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Biodiscovery Group Lifesciences"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Amity University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "MBA/PGDM",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Competitive Intelligence and Strategic Management"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "PG: MBA/PGDM (Competitive Intelligence and Strategic Management) from Amity University in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "MBA",
+                    "sov:NormalizedDegreeType": "MBA"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Amity University"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "AMITY Institute of Biotechnology"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "UTTAR PRADESH"
+              ],
+              "Municipality": "Noida"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2016"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2016"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (bioinformatics) from AMITY Institute of Biotechnology, Noida in 2016",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "AMITY Institute of Biotechnology"
+              }
+            }
+          }
+        ]
+      },
+      "SpeakingEventsHistory": {
+        "SpeakingEvent": [
+          {
+            "EventName": "",
+            "EventType": "conference",
+            "Description": "Preparation of client specific presentations and proposals & implementing effective marketing strategies"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Senior Research Analyst, Data Analysis, Business Intelligence, Market Research, Strategy\r\nConsulting, Competitive Intelligence, Research Analysis, Strategic Management, Market Sizing, Business Development, Data\r\nAnalytics, Primary Research, Secondary Research\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 12555f4f3c1398f463\tLast Active: 31-Jan-20\tLast Modified: 27-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nmicrosoft office - word, excel, powerpoi\r\n\r\nIBM SPSS\r\n\r\nR"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "fr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "French\tExpert"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&18\r\n\r\n\r\n   ~~~~~~~~~~~~~~~  \r\n\r\n\r\nSenior Research Analyst seeking assignment in Data Analysis, Business\r\nIntelligence, Market Research, Strategy Consulting, Competitive Intelligence, Research\r\nAnalysis, Strategic Management, Market Sizing, Business Development, Data Analytics\r\n\r\n\r\nCurrent Designation: Senior Research Analyst-Analytics\tTotal Experience: 2 Year(s) 0 Month(s)\r\nCurrent Company: Contify\tNotice Period: 15 Days or less\r\n   ~~~~~~~~~~~~~~~~~~  \tHighest Degree: MBA/PGDM [Competitive Intelligence\r\nand Strategic Management]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: KPO / Research /Analytics\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Senior Research Analyst, Data Analysis, Business Intelligence, Market Research, Strategy\r\nConsulting, Competitive Intelligence, Research Analysis, Strategic Management, Market Sizing, Business Development, Data\r\nAnalytics, Primary Research, Secondary Research\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 12555f4f3c1398f463\tLast Active: 31-Jan-20\tLast Modified: 27-Jan-20\r\n\r\n\r\nSummary\r\nSenior Research Analyst with 2+ years of work exposure in Data Analysis, Business Intelligence, Market Research, Strategy\r\nConsulting, Competitive Intelligence, Research Analysis, Strategic Management, Market Sizing, Business Development, Data\r\nAnalytics.\r\n\r\n\r\nWork Experience\r\nContify as Senior Research Analyst-Analytics\r\nMar 2019 to Till Date\r\nOrganize, analyze, synthesize and summarize data and information (includes information on financials, strategy, events,\r\ncompany executives, etc.) related to pharma and medical devices\r\nActively involved in client communication, scoping of project and user engagement activities\r\nCompetitive intelligence consulting and insights analysis for Pharmaceutical majors to analyze their competitive market for\r\ngenerics, Biosimilars, API's and Biologics in various therapeutic areas\r\nUtilize secondary research sources (in addition to Contify platform) as well as primary to gather information to be used to\r\ndevelop strategic consulting projects.\r\n\r\n\r\nDelveInsight Market Research as Business Analyst\r\nAug 2016 to Aug 2017\r\nIdentification of target companies within the Pharmaceutical/Healthcare marketplace & identification of report specific\r\nindications through secondary research.\r\nActive role in report-specific client (based in the US, Europe and Asia-Pacific) communication targeted towards\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     81311424b61544c1001011702154e6&sid=3810263223&AT=1580681856\r\n2/2/20 23&18\r\n\r\n\r\nDelveInsight's services as well as assisting with business development RFPs and RFQs.\r\nActively handled consulting projects through Primary and Secondary research for major pharmaceutical giants (e.g.\r\nClinical Trial Analysis and insights for Dry Eye Syndrome and Dravet Syndrome)\r\nPreparation of client specific presentations and proposals & implementing effective marketing strategies.\r\n\r\n\r\nBiodiscovery Group Lifesciences as E-Trainer\r\nDec 2015 to Mar 2016\r\nE-Workshops held on Next-Generation Sequencing Data Analysis (DNASeq & RNASeq), Molecular Dynamics and\r\nsimulations.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (bioinformatics) from AMITY Institute of Biotechnology, Noida in 2016\r\n\r\nPG: MBA/PGDM (Competitive Intelligence and Strategic Management) from Amity University in 2019\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nmicrosoft office - word, excel, powerpoi\r\n\r\nIBM SPSS\r\n\r\nR\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nbengali\tExpert\r\n\r\nenglish\tExpert\r\n\r\nFrench\tExpert\r\n\r\nhindi\tExpert\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~~~~~~~~~  \tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     81311424b61544c1001011702154e6&sid=3810263223&AT=1580681856\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~~~~~~~~  's experience appears to be somewhat concentrated in Human Resources (mostly Talent Sourcing) and slightly concentrated in Marketing (mostly Data & Analytics).    ~~~~~~~~~~~~~~~  's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "27",
+          "sov:AverageMonthsPerEmployer": "9",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "36",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Talent Sourcing",
+                        "@id": "583",
+                        "@percentOfOverall": "36",
+                        "@percentOfParentTaxonomy": "97",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMPETITIVE INTELLIGENCE",
+                            "@id": "9000260",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in EDUCATION; SKILLS; SUMMARY; WORK HISTORY; DEG-2; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SPSS",
+                            "@id": "9000110",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "66",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "3",
+                            "@childrenLastUsed": "2016-03-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@totalMonths": "3",
+                                "@lastUsed": "2016-03-01",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET RESEARCH",
+                            "@id": "1400326",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "PRIMARY RESEARCH",
+                            "@id": "1400063",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SPSS",
+                            "@id": "027121",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Clinical",
+                    "@id": "28",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Tests and Functions",
+                        "@id": "276",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "80",
+                        "sov:Skill": [
+                          {
+                            "@name": "MEDICAL DEVICES",
+                            "@id": "021544",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "THERAPEUTIC",
+                            "@id": "009509",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trials",
+                        "@id": "275",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLINICAL TRIAL",
+                            "@id": "013518",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "73",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2016-03-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT DYNAMICS",
+                            "@id": "5500351",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "3",
+                            "@childrenLastUsed": "2016-03-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DYNAMICS",
+                                "@id": "550035102",
+                                "@existsInText": "true",
+                                "@totalMonths": "3",
+                                "@lastUsed": "2016-03-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Scientific",
+                    "@id": "15",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bio",
+                        "@id": "373",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BIOINFORMATICS",
+                            "@id": "011620",
+                            "@existsInText": "true",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "BIOTECHNOLOGY",
+                            "@id": "011657",
+                            "@existsInText": "true",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Clinical",
+                        "@id": "375",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLINICAL TRIAL",
+                            "@id": "023224",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Basic",
+                        "@id": "376",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "SEQUENCING",
+                            "@id": "024764",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2016-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "91",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2016-03-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "012210",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS DEVELOPMENT",
+                            "@id": "023757",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "70",
+                        "sov:Skill": [
+                          {
+                            "@name": "MBA",
+                            "@id": "7000321",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "7000125",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Credit and Underwriting",
+                        "@id": "240",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "RESEARCH ANALYSIS",
+                            "@id": "006839",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mortgage",
+                        "@id": "233",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "SPSS",
+                            "@id": "027122",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Reporting",
+                        "@id": "962",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIALS",
+                            "@id": "017494",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Call Center or Help Desk or Customer Service",
+                    "@id": "46",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Customer Facing",
+                        "@id": "130",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLIENT COMMUNICATION",
+                            "@id": "013439",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "264",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SIMULATIONS",
+                            "@id": "008001",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2016-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SEQUENCING",
+                            "@id": "007785",
+                            "@existsInText": "true",
+                            "@totalMonths": "3",
+                            "@lastUsed": "2016-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Healthcare Non-physician Non-nurse",
+                    "@id": "95",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Allied Health",
+                        "@id": "158",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "HEALTHCARE",
+                            "@id": "018806",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Proposals and Related",
+                        "@id": "431",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROPOSALS",
+                            "@id": "005891",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MICROSOFT WORD",
+                            "@id": "022961",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "WORD",
+                                "@id": "002379",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "35",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "36",
+              "@ends": "69",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "70",
+              "@ends": "75",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "76",
+              "@ends": "85",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "86",
+              "@ends": "104",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "3794",
+        "sov:ParseTime": "468",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:5fd43c61-0ba5-4346-a8ef-0c3ca0bfa195",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "ac3+//////8="
+      }
+    }
+  }
+}

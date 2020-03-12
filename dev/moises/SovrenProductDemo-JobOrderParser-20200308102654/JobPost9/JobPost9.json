@@ -1,0 +1,294 @@
+{
+  "SovrenData": {
+    "@xml:lang": "en",
+    "DocumentLanguage": "en",
+    "CurrentJobIsMgmt": "false",
+    "HighestManagementScore": "0",
+    "ManagementLevel": "none",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+      "MainJobTitle": "Student"
+    },
+    "EmployerNames": {
+      "MainEmployerName": "Sao Paulo and New York. The Group",
+      "EmployerName": [
+        "Sao Paulo and New York. The Group",
+        "Choose My Company"
+      ]
+    },
+    "CurrentLocation": {
+      "Municipality": "Brussels",
+      "CountryCode": "BE"
+    },
+    "Education": {
+      "Degree": [
+        {
+          "DegreeType": "masters",
+          "DegreeName": "Master"
+        }
+      ]
+    },
+    "RequiredDegree": "masters",
+    "TypeOfSource": "stJobOrder",
+    "SourceText": "Founded in 2000, Beijaflore is an operational consulting firm specialising in digital strategy with an international presence and offices in Paris, Brussels, Rio de Janeiro, Sao Paulo and New York. The Group has brought together over 1,250 employees around a single mission: supporting companies in implementing their digital strategy.\r\nWith its Graphene Advisory entity, Beijaflore assists companies in the valuation of their data through Artificial Intelligence projects. By offering complete solutions, from the identification of use cases to the development of the solution and its deployment, Graphène Advisory brings companies to create their business of tomorrow. These solutions are based on Machine Learning and AI based on flexible, modular and scalable architectures called Big Data architectures.\r\n\r\nWould you like to join a multidisciplinary and complementary team that supports its clients in the realization of projects around AI and Machine Learning?\r\n\r\nWithin the R & D team, you will be in charge of defining and tagging Machine Learning algorithms and identifying their potential applications in different industries.\r\n\r\nYou will be more specifically responsible for:\r\nStudy the bibliography of Machine Learning’s algorithms, in order to understand the technical aspects\r\nUse / test algorithms and identify potential business applications\r\nStructure a Matrix Algorithms Vs Applications\r\nIn order to carry out your missions, you have the following skills:\r\nInitiation to Machine Learning and Descriptive Statistics\r\nInitiation to R / Python or Scala languages (or other programming language)\r\nStudent from a major engineering school, you follow a Master or a specialization in Data Science. You are autonomous, persevering and rigorous. You also enjoy teamwork. The quality of our internships has been rewarded by obtaining the Happy Trainees / Choose My Company label. Because we are committed to developing the potential of each student, we train you throughout your internship period in a hiring perspective.",
+    "RevisionDate": "2020-03-08",
+    "ParserConfigurationString": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DigitalSignature": "nrsAAAAAAAA=",
+    "SkillsTaxonomyOutput": [
+      {
+        "@name": "Sovren",
+        "Taxonomy": [
+          {
+            "@name": "Information Technology",
+            "@id": "10",
+            "@percentOfOverall": 71.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Big Data",
+                "@id": "553",
+                "@percentOfOverall": 18.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "ARTIFICIAL INTELLIGENCE",
+                    "@id": "5530905",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "5530958",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "5531016",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Machine Learning",
+                "@id": "720",
+                "@percentOfOverall": 12.0,
+                "@percentOfParentTaxonomy": 17.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "7200001",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "7200149",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Gaming",
+                "@id": "551",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 8.0,
+                "Skill": [
+                  {
+                    "@name": "SCALA",
+                    "@id": "5510135",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Security",
+                "@id": "338",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 8.0,
+                "Skill": [
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "3380002",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Config Deploy Upgrade Migrate",
+                "@id": "251",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 8.0,
+                "Skill": [
+                  {
+                    "@name": "DEPLOYMENT",
+                    "@id": "023631",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Architecture",
+                "@id": "201",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 8.0,
+                "Skill": [
+                  {
+                    "@name": "USE CASES",
+                    "@id": "010312",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Multimedia",
+                "@id": "351",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 8.0,
+                "Skill": [
+                  {
+                    "@name": "SCALA",
+                    "@id": "007474",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Programming",
+                "@id": "204",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 8.0,
+                "Skill": [
+                  {
+                    "@name": "PYTHON",
+                    "@id": "006120",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Data Mining",
+                "@id": "192",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 8.0,
+                "Skill": [
+                  {
+                    "@name": "ARTIFICIAL INTELLIGENCE",
+                    "@id": "003449",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Marketing",
+            "@id": "14",
+            "@percentOfOverall": 12.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Digital",
+                "@id": "599",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "DIGITAL STRATEGY",
+                    "@id": "1400259",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Data & Analytics",
+                "@id": "588",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "1400075",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Engineering",
+            "@id": "5",
+            "@percentOfOverall": 6.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Surveying",
+                "@id": "298",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "024338",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Finance",
+            "@id": "7",
+            "@percentOfOverall": 6.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Other",
+                "@id": "243",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "017446",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Business Operations and General Business",
+            "@id": "34",
+            "@percentOfOverall": 6.0,
+            "Subtaxonomy": [
+              {
+                "@name": "General Skills and Activities",
+                "@id": "437",
+                "@percentOfOverall": 6.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "STATISTICS",
+                    "@id": "008585",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
