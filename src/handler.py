@@ -2,6 +2,7 @@ from business.candidate import CandidateBusiness
 from business.job_post import JobPostBusiness
 from business.matching import Matcher
 from numpy import linalg as LA
+import services.lang_processing as lp
 
 import pymongo
 from pymongo import MongoClient
@@ -49,7 +50,10 @@ def OnetoOnematching(candidate_id, job_id):
     candidate_graph = candidatePipeline(candidate_id)
     job_graph = jobPipeline(job_id)
     matching = Matcher(candidate_graph,job_graph)
-    return matching.oneToOneMatch(candidate_graph,job_graph)
+    skills_match = matching.oneToOneMatch(candidate_graph,job_graph)
+    model = lp.getGloveModel(300)
+    culture_match = matching.getOneToOneCultureMatch(candidate_id, job_id, model, db['resumes_sovren'], db['jobs_sovren'])
+    return skills_match, culture_match
 
 
 def OnetoManymatching(candidate_id, job_id):
@@ -64,7 +68,12 @@ def OnetoManymatching(candidate_id, job_id):
 
 
 
+def runOneToOne():
+    skills_match, culture_match = OnetoOnematching('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc76')
+    print('==========================')
+    print(f'Skills Matching: {skills_match} %')
+    print(f'Culture Matching: {culture_match} %')
 
-# print('One to one matching of CV to the jobpost is ',OnetoOnematching('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc76'))
+runOneToOne()
 
-print('One to one matching of CV to the jobpost is ',OnetoManymatching(['5e60f5895a90883323e38bbc','5e60f5895a90883323e38bbc'],'5e64cbef837ba015d90abc76'))
+#print('One to one matching of CV to the jobpost is ',OnetoManymatching(['5e60f5895a90883323e38bbc','5e60f5895a90883323e38bbc'],'5e64cbef837ba015d90abc76'))

@@ -3,7 +3,8 @@ import networkx as nx
 from gensim.models import KeyedVectors
 from functools import reduce
 from typing import Any
-import helpers as hp
+import services.helpers as hp
+import services.lang_processing as lp
 import json
 
 NODE_DISTANCES = (3,4,5,6) # distance from origin to (main_node, antonym_node=child_of_main, term_nodes, terms=leaves)
@@ -78,3 +79,11 @@ def loadGraphFromFile(path:str):
   f = open(path)
   Gjson = json.load(f)
   return nx.node_link_graph(Gjson)
+
+def stringToCultureGraph(G: nx.DiGraph, w2vec_model:KeyedVectors, s:str, debug=False):
+  filtered_tokens, _ = lp.getFilteredTokensFromString(s)
+  culture_terms = getLeavesFromGraphImposingDistanceFromOrigin(G, 6)
+  to_study_terms, to_study_not_found = hp.getItemsContainedInListAndNot(filtered_tokens, w2vec_model.wv.vocab)
+  culture_terms, culture_not_found = hp.getItemsContainedInListAndNot(culture_terms, w2vec_model.wv.vocab)
+  calculateAllSimilaritiesFromListWithGraph(G, w2vec_model, to_study_terms, culture_terms, debug=debug)
+  return to_study_not_found, culture_not_found
