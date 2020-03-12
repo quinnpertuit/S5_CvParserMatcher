@@ -6,7 +6,6 @@ class Matcher:
     def __init__(self,G_candidate,G_jobPost):
         self.G_candidate = G_candidate
         self.G_jobPost = G_jobPost
-        return
     
     def oneToOneMatch(self, G_candidate, G_jobPost):
         ged=gm.GraphEditDistance(1,1,1,1) # all edit costs are equal to 1
@@ -22,3 +21,4 @@ class Matcher:
             matching_Score.append(LA.norm(ged.similarity(result)))
         # matchCVToJP
         return matching_Score
+

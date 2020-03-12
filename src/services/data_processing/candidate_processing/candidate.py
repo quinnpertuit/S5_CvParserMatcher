@@ -1,5 +1,6 @@
 import networkx as nx
 import classifier.classifier as classifier
+from fuzzywuzzy import process
 
 class CandidateDataProcessing:
     def __init__(self,workExpDescription):
@@ -16,7 +17,6 @@ class CandidateDataProcessing:
         generateSkillLink['explanation'] = result['explanation']
         return generateSkillLink
 
-    
     # definition of function 
     def generate_edges(self,graph): 
         edges = [] 
@@ -32,3 +32,14 @@ class CandidateDataProcessing:
         G2=nx.Graph()
         G2.add_edges_from(edges)
         return G2
+
+    def getNormalizedSchoolEducation(self):
+        school_dict = {'grand ecole' : 5, 'university': 4}
+        return
+
+    def getNormalizedDegreeEducation(self, dict_candidate_education):
+        degree_dict = {'master' : 5, 'msc': 5, 'Bac +5' : 5, 'bachelor':4, 'bac +4' : 4, 'B.Tech' : 4, 'B.E' :4}
+        highest = process.extractOne(dict_candidate_education['DegreeName'],degree_dict.keys())
+        return degree_dict[highest[0]]
+
+    

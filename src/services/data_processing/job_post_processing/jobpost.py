@@ -1,5 +1,6 @@
 import networkx as nx
 import classifier.classifier as classifier
+from fuzzywuzzy import process
 
 class JobDataProcessing:
     def __init__(self,workExpDescription):
@@ -32,3 +33,8 @@ class JobDataProcessing:
         G2=nx.Graph()
         G2.add_edges_from(edges)
         return G2
+
+    def getNormalizedDegreeEducation(self, dict_job_education):
+        degree_dict = {'master' : 5, 'msc': 5, 'Bac +5' : 5, 'bachelor':4, 'bac +4' : 4, 'B.Tech' : 4, 'B.E' :4}
+        highest = process.extractOne(dict_job_education['DegreeName']['DegreeName'],degree_dict.keys())
+        return degree_dict[highest[0]]
