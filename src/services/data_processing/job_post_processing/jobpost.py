@@ -1,7 +1,7 @@
 import networkx as nx
 import classifier.classifier as classifier
 
-class CandidateDataProcessing:
+class JobDataProcessing:
     def __init__(self,workExpDescription):
         self.workExpDescription =workExpDescription
         classifier.setup()
