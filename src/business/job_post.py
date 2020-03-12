@@ -8,13 +8,13 @@ class JobPostBusiness:
         self.file = file
 
     def upload(self,file):
-
         #below functionality has to be done by mosies
         #parseTheresume
         #insertIntoDatabase
         Job_data_extraction = JobDataExtraction(file)
         experience_description = Job_data_extraction.getJobExperience(file)
-        return experience_description
+        job_education_dict = Job_data_extraction.getJobEducation(file)
+        return experience_description,job_education_dict
 
     def getJobSkillGraph(self,exp_description):
         job_data_processing = JobDataProcessing(exp_description)
@@ -28,3 +28,7 @@ class JobPostBusiness:
         jp_string = jpde.getJobPostString(job_coll, o_id=candidate_id)
         _ = gt.stringToCultureGraph(G, model, jp_string)
         return G
+    
+    def getJobEducationDegree(self, job_education_dict):
+        job_data_processing = JobDataProcessing(job_education_dict)
+        return job_data_processing.getNormalizedDegreeEducation(job_education_dict) 
