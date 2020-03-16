@@ -1,0 +1,4 @@
+pymongo
+cso-classifier==2.3.3
+gensim
+progressbar2
