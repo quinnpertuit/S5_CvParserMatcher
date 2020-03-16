@@ -13,13 +13,13 @@ class Matcher:
         self.G_jobPost = G_jobPost
         self.culture_graph_path = '../graphs/culture_graph.json' 
     
-    def oneToOneMatch(self, G_candidate, G_jobPost):
+    def oneToOneAllSkillMatch(self, G_candidate, G_jobPost):
         ged=gm.GraphEditDistance(1,1,1,1) # all edit costs are equal to 1
         result=ged.compare([G_candidate,G_jobPost],None) 
         #description how much score is and why it got mactched
         return LA.norm(ged.similarity(result))
 
-    def onetoManyMatch(self, G_candidate, G_jobPost):
+    def onetoManyAllSkillMatch(self, G_candidate, G_jobPost):
         matching_Score=[]
         for graph in G_candidate:
             ged=gm.GraphEditDistance(1,1,1,1) # all edit costs are equal to 1
@@ -37,4 +37,12 @@ class Matcher:
         cv_vec = [ t[0] for k, t in dict_antonyms.items() ]
         jp_vec = [ t[1] for k, t in dict_antonyms.items() ]
         return 1 - hp.euclidean_distance(cv_vec, jp_vec) #1 better, 0 worst
+
+
+    def getRequiredSkillMatch(self,required_job_skill, candidate_skill):
+        j=0
+        for i in range(0,len(required_job_skill)):
+            if required_job_skill[i].lower() in candidate_skill:
+                j = j+1
+        return j/len(required_job_skill)
 

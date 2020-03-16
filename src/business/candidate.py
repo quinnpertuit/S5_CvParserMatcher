@@ -8,7 +8,7 @@ class CandidateBusiness:
     def __init__(self,file):
         self.file = file
 
-    def upload(self,file):
+    def download(self,file):
 
         #below functionality has to be done by mosies
         #parseTheresume
@@ -18,11 +18,15 @@ class CandidateBusiness:
         candidate_education_dict = Candidate_data_extraction.getCandidateEducation(file)
         return experience_description, candidate_education_dict
 
-    def getCandidateSkillGraph(self,exp_description):
+
+    def getCandidateSkillDict(self,exp_description):
         Candidate_data_processing = CandidateDataProcessing(exp_description)
         Candidate_skill_dict = Candidate_data_processing.getSkillOntoloies(exp_description)
-        skill_edges = Candidate_data_processing.generate_edges(Candidate_skill_dict['explanation'])
+        return Candidate_skill_dict
 
+    def getCandidateSkillGraph(self,Candidate_skill_dict):
+        Candidate_data_processing = CandidateDataProcessing(Candidate_skill_dict)
+        skill_edges = Candidate_data_processing.generate_edges(Candidate_skill_dict['explanation'])
         return Candidate_data_processing.generateSkillGraph(skill_edges)
 
     def getCandidateCultureEvaluatedGraph(self, candidate_id, graph_path, model, db_col):
@@ -36,7 +40,8 @@ class CandidateBusiness:
         Candidate_data_processing = CandidateDataProcessing(candidate_education_dict)
         return Candidate_data_processing.getNormalizedDegreeEducation(candidate_education_dict)
 
-
+    def getCandidateUnionSkill(self, candidate_education_dict):
+        return candidate_education_dict['union']
 
 
 
