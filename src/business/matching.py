@@ -46,3 +46,13 @@ class Matcher:
                 j = j+1
         return j/len(required_job_skill)
 
+    def educationDegreeMatch(self,jobDegree, candidateDegree):
+        if (jobDegree == candidateDegree):
+            print('The candidate degree matches to the job profile')
+        elif(jobDegree > candidateDegree):
+            print('The candidate degree doesn not matches to the job profile')
+        elif(jobDegree < candidateDegree):
+            print('The candidate degree overqualified matches to the job profile')
+
+    def DataScienceDomainMatch(self):
+        return

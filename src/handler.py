@@ -4,12 +4,6 @@ from business.matching import Matcher
 from numpy import linalg as LA
 import services.lang_processing as lp
 
-########################################################
-#test code directly from handler
-
-from services.data_extraction.job_post.jobpost import JobDataExtraction
-
-from services.data_processing.job_post_processing.jobpost import JobDataProcessing
 ##################################################
 
 
@@ -29,8 +23,8 @@ print(db.list_collection_names())
 # db_resumeSoveren = db['resumes_sovren']
 # recent_resume_post = db_resumeSoveren.find_one({ '_id': ObjectId('5e60f5895a90883323e38bbc') })
 
-db_jobSoveren = db['jobs_sovren']
-recent_job_post = db_jobSoveren.find_one({ '_id': ObjectId('5e64cbef837ba015d90abc78') })
+# db_jobSoveren = db['jobs_sovren']
+# recent_job_post = db_jobSoveren.find_one({ '_id': ObjectId('5e64cbef837ba015d90abc78') })
 
 
 def db_job(db_name,id):
@@ -58,13 +52,7 @@ def jobPipeline(job_id):
     return G4 ,degree_level,job_required_skill
 
 # candidatePipeline()
-def educationDegreeMatch(jobDegree, candidateDegree):
-    if (jobDegree == candidateDegree):
-        print('The candidate degree matches to the job profile')
-    elif(jobDegree > candidateDegree):
-        print('The candidate degree doesn not matches to the job profile')
-    elif(jobDegree < candidateDegree):
-        print('The candidate degree overqualified matches to the job profile')
+
 
 
 def OnetoOnematching(candidate_id, job_id):
@@ -74,9 +62,9 @@ def OnetoOnematching(candidate_id, job_id):
     matching = Matcher(candidate_graph,job_graph)
     skills_match = matching.oneToOneAllSkillMatch(candidate_graph,job_graph)
     required_skill_match = matching.getRequiredSkillMatch(job_required_skill,candidate_unique_skill)
-    # model = lp.getGloveModel(300)
-    # culture_match = matching.getOneToOneCultureMatch(candidate_id, job_id, model, db['resumes_sovren'], db['jobs_sovren'])
-    educationDegreeMatch(candidate_degree,job_degree)
+    model = lp.getGloveModel(300)
+    culture_match = matching.getOneToOneCultureMatch(candidate_id, job_id, model, db['resumes_sovren'], db['jobs_sovren'])
+    matching.educationDegreeMatch(candidate_degree,job_degree)
     return skills_match, culture_match, required_skill_match
 
 
@@ -88,7 +76,8 @@ def OnetoManymatching(candidate_id, job_id):
         candidateGraph.append(candidatePipeline(candidate_id[position]))
     matching = Matcher(candidateGraph,job_graph)
     return matching.onetoManyAllSkillMatch(candidateGraph,job_graph)
-print('One to one matching of CV to the jobpost is ',OnetoOnematching('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78'))
+
+# print('One to one matching of CV to the jobpost is ',OnetoOnematching('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78'))
 
 # print('One to one matching of CV to the jobpost is ',OnetoManymatching(['5e60f5895a90883323e38bbc','5e60f5895a90883323e38bbc'],'5e64cbef837ba015d90abc76'))
 
@@ -108,5 +97,3 @@ runOneToOne()
 
 
 # print('One to one matching of CV to the jobpost is ',OnetoManymatching(['5e60f5895a90883323e38bbc','5e60f5895a90883323e38bbc'],'5e64cbef837ba015d90abc76'))
-
-# jobPipeline('5e64cbef837ba015d90abc78')
