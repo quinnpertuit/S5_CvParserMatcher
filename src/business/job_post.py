@@ -7,7 +7,7 @@ class JobPostBusiness:
     def __init__(self,file):
         self.file = file
 
-    def upload(self,file):
+    def download(self,file):
         #below functionality has to be done by mosies
         #parseTheresume
         #insertIntoDatabase
@@ -18,7 +18,7 @@ class JobPostBusiness:
 
     def getJobSkillGraph(self,exp_description):
         job_data_processing = JobDataProcessing(exp_description)
-        job_skill_dict = job_data_processing.getSkillOntoloies(exp_description)
+        job_skill_dict = job_data_processing.getSkillOntoloies(exp_description)    
         skill_edges = job_data_processing.generate_edges(job_skill_dict['explanation'])
         return job_data_processing.generateSkillGraph(skill_edges)
 
@@ -32,3 +32,15 @@ class JobPostBusiness:
     def getJobEducationDegree(self, job_education_dict):
         job_data_processing = JobDataProcessing(job_education_dict)
         return job_data_processing.getNormalizedDegreeEducation(job_education_dict) 
+
+
+    def getJobRequiredSkill(self, file):
+        job_data_processing = JobDataProcessing(file)
+        required_skill =  job_data_processing.getJobSkills(file)
+        return required_skill['requiredSkill']
+
+
+    def getJobDesiredSkill(self, file):
+        job_data_processing = JobDataProcessing(file)
+        required_skill =  job_data_processing.getJobSkills(file)
+        return required_skill['desiredSkill']
