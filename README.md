@@ -41,6 +41,15 @@ cd S5_CvParserMatcher
 (sudo) pip(3) install r -requirements.txt
 ```
 
+## Usage
+
+Locate the terminal in the **src** folder and type: 
+```
+(inside **project_folder**/src/)
+python3 io_handler.py
+```
+Then, simply follow instructions :)
+
 
 
 

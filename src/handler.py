@@ -62,10 +62,10 @@ def OnetoOnematching(candidate_id, job_id):
     matching = Matcher(candidate_graph,job_graph)
     skills_match = matching.oneToOneAllSkillMatch(candidate_graph,job_graph)
     required_skill_match = matching.getRequiredSkillMatch(job_required_skill,candidate_unique_skill)
-    model = lp.getGloveModel(300)
-    culture_match = matching.getOneToOneCultureMatch(candidate_id, job_id, model, db['resumes_sovren'], db['jobs_sovren'])
-    matching.educationDegreeMatch(candidate_degree,job_degree)
-    return skills_match, culture_match, required_skill_match
+    #model = lp.getGloveModel(300)
+    #explained_culture_match, culture_match = matching.getOneToOneCultureMatch(candidate_id, job_id, model, db['resumes_sovren'], db['jobs_sovren'])
+    string_education_match, _, _ = matching.educationDegreeMatch(candidate_degree,job_degree)
+    return skills_match, culture_match, required_skill_match, string_education_match, ''
 
 
 
@@ -86,14 +86,17 @@ def OnetoManymatching(candidate_id, job_id):
 #education System
 
 
-def runOneToOne():
-    skills_match, culture_match, required_skill_match = OnetoOnematching('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78')
-    print('==========================')
+def runOneToOne(candidate_id, job_id, explainable=False):
+    skills_match, culture_match, required_skill_match, string_education_match, explained_culture_match = OnetoOnematching(candidate_id, job_id)
+    print('\n==========================')
+    print('\n======== RESULT ==========')
+    if explainable: print(explained_culture_match)
+    print(f'Overall Culture Matching: {culture_match} %')
+    print(string_education_match)
     print(f'OverAllSkills Matching: {skills_match} %')
-    print(f'Culture Matching: {culture_match} %')
     print(f'Required Skill Matching: {required_skill_match} %')
 
-runOneToOne()
+#runOneToOne('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78', True)
 
 
 # print('One to one matching of CV to the jobpost is ',OnetoManymatching(['5e60f5895a90883323e38bbc','5e60f5895a90883323e38bbc'],'5e64cbef837ba015d90abc76'))
