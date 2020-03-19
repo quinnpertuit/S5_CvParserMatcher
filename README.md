@@ -33,6 +33,10 @@ cd GMatch4py
 
 + Just in case that it don't exist or a revision should be made. After creation, put inside the src/graphs folder
 
+> Data science domain specific ontology is created with the help of protege (https://protege.stanford.edu/)
+
++ we modifed the code provided by CSO and implemented our ontology in order to create domain specific graph
+
 > finally, download project and install our requirements:
 
 ```
