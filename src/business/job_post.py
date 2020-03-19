@@ -16,11 +16,18 @@ class JobPostBusiness:
         job_education_dict = Job_data_extraction.getJobEducation(file)
         return experience_description,job_education_dict
 
-    def getJobSkillGraph(self,exp_description):
+
+    def getJobSkillDict(self,exp_description):
         job_data_processing = JobDataProcessing(exp_description)
-        job_skill_dict = job_data_processing.getSkillOntoloies(exp_description)    
+        job_skill_dict = job_data_processing.getSkillOntoloies(exp_description)
+        job_domain_skill_dict = job_data_processing.getDataScienceSkillOntoloies(exp_description)
+        return job_skill_dict,job_domain_skill_dict
+
+    def getJobSkillGraph(self,job_skill_dict):
+        job_data_processing = JobDataProcessing(job_skill_dict)
         skill_edges = job_data_processing.generate_edges(job_skill_dict['explanation'])
         return job_data_processing.generateSkillGraph(skill_edges)
+
 
     def getJobPostCultureEvaluatedGraph(self, candidate_id, graph_path, model, job_coll):
         G = gt.loadGraphFromFile(graph_path)

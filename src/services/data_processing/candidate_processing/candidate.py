@@ -1,5 +1,6 @@
 import networkx as nx
 import classifier.classifier as classifier
+from datasciencedomain.classifier import run_domain_classifier
 from fuzzywuzzy import process
 
 class CandidateDataProcessing:
@@ -16,6 +17,15 @@ class CandidateDataProcessing:
         generateSkillLink['union'] = result['union']
         generateSkillLink['explanation'] = result['explanation']
         return generateSkillLink
+
+    def getDataScienceSkillOntoloies(self,workExpDescription):
+        generateDataSkillLink = {}
+        prepareText = {'keywords':"data mining, computer science"}
+        prepareText['abstract']=workExpDescription
+        result = run_domain_classifier(prepareText, modules = "both", enhancement = "first", explanation = True)
+        generateDataSkillLink['union'] = result['union']
+        generateDataSkillLink['explanation'] = result['explanation']
+        return generateDataSkillLink
 
     # definition of function 
     def generate_edges(self,graph): 
@@ -41,5 +51,3 @@ class CandidateDataProcessing:
         degree_dict = {'master' : 5, 'msc': 5, 'Bac +5' : 5, 'bachelor':4, 'bac +4' : 4, 'B.Tech' : 4, 'B.E' :4}
         highest = process.extractOne(dict_candidate_education['DegreeName'],degree_dict.keys())
         return degree_dict[highest[0]]
-
-    

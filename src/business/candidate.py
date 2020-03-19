@@ -22,7 +22,8 @@ class CandidateBusiness:
     def getCandidateSkillDict(self,exp_description):
         Candidate_data_processing = CandidateDataProcessing(exp_description)
         Candidate_skill_dict = Candidate_data_processing.getSkillOntoloies(exp_description)
-        return Candidate_skill_dict
+        Candidate_domain_skill_dict = Candidate_data_processing.getDataScienceSkillOntoloies(exp_description)
+        return Candidate_skill_dict,Candidate_domain_skill_dict
 
     def getCandidateSkillGraph(self,Candidate_skill_dict):
         Candidate_data_processing = CandidateDataProcessing(Candidate_skill_dict)

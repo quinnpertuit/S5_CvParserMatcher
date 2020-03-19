@@ -1,6 +1,7 @@
 import networkx as nx
 import classifier.classifier as classifier
 from fuzzywuzzy import process
+from datasciencedomain.classifier import run_domain_classifier
 
 from services.data_extraction.job_post.jobpost import JobDataExtraction
 
@@ -18,6 +19,15 @@ class JobDataProcessing:
         generateSkillLink['union'] = result['union']
         generateSkillLink['explanation'] = result['explanation']
         return generateSkillLink
+
+    def getDataScienceSkillOntoloies(self,workExpDescription):
+        generateDataSkillLink = {}
+        prepareText = {'keywords':"data mining, computer science"}
+        prepareText['abstract']=workExpDescription
+        result = run_domain_classifier(prepareText, modules = "both", enhancement = "first", explanation = True)
+        generateDataSkillLink['union'] = result['union']
+        generateDataSkillLink['explanation'] = result['explanation']
+        return generateDataSkillLink
 
     
     # definition of function 
