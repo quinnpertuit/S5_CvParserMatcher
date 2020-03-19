@@ -5,6 +5,7 @@ from business.candidate import CandidateBusiness
 from business.job_post import JobPostBusiness
 import services.graph_treat as gt
 import services.helpers as hp
+from pprint import pprint as pp
 
 class Matcher:
 
@@ -50,9 +51,10 @@ class Matcher:
         G_cand = bs_c.getCandidateCultureEvaluatedGraph(candidate_id, built_path, model, cv_coll)
         G_jobp = bs_jp.getJobPostCultureEvaluatedGraph(job_post_id, built_path, model, job_coll)
         dict_antonyms = gt.getTwoGraphsAttributeInfo(G_cand, G_jobp, 6, 'similarity')
-        cv_vec = [ t[0] for k, t in dict_antonyms.items() ]
-        jp_vec = [ t[1] for k, t in dict_antonyms.items() ]
-        return 1 - hp.euclidean_distance(cv_vec, jp_vec) #1 better, 0 worst
+        explainable_string = "\nCulture match has been done with Word2Vec approach, so values mean how related the cultural terms are to CV ones.\n* For definitions, please, look up on article\n(<CV_to_Culture_similarity>, <Job_Posting_to_Culture_similarity>) <- <Cultural_aspect_evaluated>\n"
+        explainable_string += ''.join([ f"({round(t[0]*100, 2)}, {round(t[1]*100, 2)}) <- { ' '.join(k.split('_')) }\n" for k, t in dict_antonyms.items() ])
+        cv_vec, jp_vec = [ t[0] for k, t in dict_antonyms.items() ], [ t[1] for k, t in dict_antonyms.items() ]
+        return explainable_string, 1 - hp.euclideanDistance(cv_vec, jp_vec) #1 better, 0 worst
 
 
     def getRequiredSkillMatch(self,required_job_skill, candidate_skill):
@@ -63,10 +65,12 @@ class Matcher:
         return j/len(required_job_skill)
 
     def educationDegreeMatch(self,jobDegree, candidateDegree):
+        s = ''
         if (jobDegree == candidateDegree):
-            print('The candidate degree matches to the job profile')
+            s = 'The candidate degree matches to the job profile'
         elif(jobDegree > candidateDegree):
-            print('The candidate degree doesn not matches to the job profile')
+            s = 'The candidate degree does not matches to the job profile'
         elif(jobDegree < candidateDegree):
-            print('The candidate degree overqualified matches to the job profile')
+            s = 'The candidate degree overqualified matches to the job profile'
+        return s, jobDegree, candidateDegree
 

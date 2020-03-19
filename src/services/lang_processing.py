@@ -5,6 +5,8 @@ import re
 import os
 from gensim.scripts.glove2word2vec import glove2word2vec
 from gensim.models import KeyedVectors
+import threading
+import services.helpers as hp
 
 STOP_WORDS = set(stopwords.words('english'))
 
@@ -30,5 +32,12 @@ def getGloveModel(dim_n:int=300):
   glove_input_file = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), glove_input_file))
   word2vec_output_file = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), word2vec_output_file))
   if not os.path.isfile(word2vec_output_file): glove2word2vec(glove_input_file, word2vec_output_file)
-  return KeyedVectors.load_word2vec_format(word2vec_output_file, binary=False)
+  print(f"\n# ===================================\n#   Loading word2Vec Model of {dim_n} dimensions (it could take more than one minute)\n# ===================================\n")
+  finished_event = threading.Event()
+  progress_bar_thread = threading.Thread(target=hp.runProgressBar, args=(finished_event,))
+  progress_bar_thread.start()
+  model = KeyedVectors.load_word2vec_format(word2vec_output_file, binary=False)  
+  finished_event.set()
+  progress_bar_thread.join()
+  return model 
 
