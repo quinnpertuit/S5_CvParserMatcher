@@ -43,11 +43,14 @@ cd S5_CvParserMatcher
 
 ## Usage
 
-Locate the terminal in the **src** folder and type: 
+> Locate the terminal in the **src** folder and type: 
+
+*(inside **project_folder**/src/)*
+
 ```
-(inside **project_folder**/src/)
 python3 io_handler.py
 ```
+
 Then, simply follow instructions :)
 
 

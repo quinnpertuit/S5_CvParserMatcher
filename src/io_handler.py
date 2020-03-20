@@ -1,4 +1,4 @@
-from handler import runOneToOne, OnetoManymatching
+from handler import runOneToOne, OnetoManymatching, analysisAxes
 
 analysis_types = [ 
   {
@@ -37,7 +37,9 @@ def validateInputs(inputs, validations):
   return inputs
     
 def main():
+  # Greeting
   print('\nHello!! :) \nPlease, tell us what type of analysis you would like to do:')
+  # Type of Analysis
   print(getAnalysisTypesString())
   analysis_type_index = input('To choose an option, simply write the number: ')
   try:
@@ -47,11 +49,14 @@ def main():
   if analysis_type_index >= len(analysis_types) - 1: 
     print(f'-- Error: value not between 1 and {len(analysis_types)}')
     return
+  # Get inputs for analysis
   inputs = askForInputs(analysis_type_index)
   inputs = validateInputs(inputs, analysis_types[analysis_type_index]['input_validators'])
   if not inputs: return
   #printvals(*inputs)
-  analysis_types[analysis_type_index]['function'](*inputs)
+  # weigthed Calculation
+  # Run Analysis
+  res = analysis_types[analysis_type_index]['function'](*inputs)
 
 
 if __name__ == '__main__': 

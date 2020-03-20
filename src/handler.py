@@ -15,10 +15,9 @@ import networkx as nx
 
 
 client = MongoClient('mongodb+srv://user_imt:2020@s5resumesdb-ppukj.azure.mongodb.net/test')
-print(client.list_database_names())
+#print(client.list_database_names())
 db = client['db']
-print(db.list_collection_names())
-
+#print(db.list_collection_names())
 
 # db_resumeSoveren = db['resumes_sovren']
 # recent_resume_post = db_resumeSoveren.find_one({ '_id': ObjectId('5e60f5895a90883323e38bbc') })
@@ -26,6 +25,23 @@ print(db.list_collection_names())
 # db_jobSoveren = db['jobs_sovren']
 # recent_job_post = db_jobSoveren.find_one({ '_id': ObjectId('5e64cbef837ba015d90abc78') })
 
+
+analysisAxes = [
+    {
+        'name': 'Skills Match',
+        'weight': 1,
+        'key_name': 'skills_match',
+        'min': None,
+        'max': None,
+    },
+    {
+        'name': 'Culture Match',
+        'weight': 1,
+        'key_name': 'culture_match',
+        'min': -1,
+        'max': 1,
+    }
+]
 
 def db_job(db_name,id):
     db_Soveren = db[db_name]
@@ -56,7 +72,7 @@ def jobPipeline(job_id):
 
 
 def OnetoOnematching(candidate_id, job_id):
-    culture_match = None
+    culture_match, explained_culture_match = None, ''
     candidate_graph, candidate_degree,candidate_unique_skill = candidatePipeline(candidate_id)
     job_graph, job_degree,job_required_skill = jobPipeline(job_id)
     matching = Matcher(candidate_graph,job_graph)
@@ -65,7 +81,13 @@ def OnetoOnematching(candidate_id, job_id):
     #model = lp.getGloveModel(300)
     #explained_culture_match, culture_match = matching.getOneToOneCultureMatch(candidate_id, job_id, model, db['resumes_sovren'], db['jobs_sovren'])
     string_education_match, _, _ = matching.educationDegreeMatch(candidate_degree,job_degree)
-    return skills_match, culture_match, required_skill_match, string_education_match, ''
+    return {
+        'skills_match': skills_match,
+        'culture_match': culture_match,
+        'required_skill_match': required_skill_match, 
+        'string_education_match': string_education_match, 
+        'explained_culture_match': explained_culture_match,
+        }
 
 
 
@@ -87,14 +109,16 @@ def OnetoManymatching(candidate_id, job_id):
 
 
 def runOneToOne(candidate_id, job_id, explainable=False):
-    skills_match, culture_match, required_skill_match, string_education_match, explained_culture_match = OnetoOnematching(candidate_id, job_id)
+    otom_res = OnetoOnematching(candidate_id, job_id)
+    #skills_match, culture_match, required_skill_match, string_education_match, explained_culture_match = 
     print('\n==========================')
     print('\n======== RESULT ==========')
-    if explainable: print(explained_culture_match)
-    print(f'Overall Culture Matching: {culture_match} %')
-    print(string_education_match)
-    print(f'OverAllSkills Matching: {skills_match} %')
-    print(f'Required Skill Matching: {required_skill_match} %')
+    if explainable: print(otom_res['explained_culture_match'])
+    print(f"Overall Culture Matching: {otom_res['culture_match']} %")
+    print(otom_res['string_education_match'])
+    print(f"OverAllSkills Matching: {otom_res['skills_match']} %")
+    print(f"Required Skill Matching: {otom_res['required_skill_match']} %")
+    return otom_res
 
 #runOneToOne('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78', True)
 
