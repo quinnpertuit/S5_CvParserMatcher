@@ -2,6 +2,8 @@ import numpy as np
 from functools import reduce
 import re
 from math import sqrt
+import time
+import progressbar
 
 def getItemsContainedInListAndNot(candidates: list, list_to_compare: list) -> (list, list):
   found = []; not_found = []
@@ -28,5 +30,12 @@ def showAroundStrings(left:int, s:str, right:int, phrase:str, display:bool = Tru
 def calculateMeanOfListOfTuples(l: list, key, starting_value=0):
   return reduce(lambda acc, t: acc + t[key], l, starting_value) / len(l)
 
-def euclidean_distance(x,y):
+def euclideanDistance(x,y):
   return sqrt(sum(pow(a-b,2) for a, b in zip(x, y)))
+
+def runProgressBar(finished_event):
+  count, bar = 0, progressbar.ProgressBar(max_value=progressbar.UnknownLength)
+  while not finished_event.is_set():
+    bar.update(count)
+    finished_event.wait(0.1)
+    count += 1

@@ -76,3 +76,4 @@ class CandidateDataExtraction:
         summaries_string = " ".join(self.getSummaries(resumes))
         descriptions_string = self.getDescriptionsString(resumes)
         return summaries_string + " " + descriptions_string
+

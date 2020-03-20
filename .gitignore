@@ -3,3 +3,4 @@ data/*
 **/models/*
 **/graphs/*.png
 **/.ipynb_checkpoints/*
+/src/*.ipynb

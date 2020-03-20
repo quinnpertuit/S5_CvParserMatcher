@@ -33,6 +33,10 @@ cd GMatch4py
 
 + Just in case that it don't exist or a revision should be made. After creation, put inside the src/graphs folder
 
+> Data science domain specific ontology is created with the help of protege (https://protege.stanford.edu/)
+
++ we modifed the code provided by CSO and implemented our ontology in order to create domain specific graph
+
 > finally, download project and install our requirements:
 
 ```
@@ -40,6 +44,15 @@ git clone https://github.com/RudreshMishra/S5_CvParserMatcher.git
 cd S5_CvParserMatcher
 (sudo) pip(3) install r -requirements.txt
 ```
+
+## Usage
+
+Locate the terminal in the **src** folder and type: 
+```
+(inside **project_folder**/src/)
+python3 io_handler.py
+```
+Then, simply follow instructions :)
 
 
 
