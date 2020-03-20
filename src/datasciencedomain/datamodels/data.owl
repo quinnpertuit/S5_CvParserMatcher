@@ -1,0 +1,3272 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#"
+     xml:base="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#AdaBoost -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#AdaBoost">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Agnostic_Specifications -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Agnostic_Specifications">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Apriori_algorithm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Apriori_algorithm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Rule_System"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Arithmetic_Mean -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Arithmetic_Mean">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Back-Propagation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Back-Propagation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Neural_Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Boosting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Boosting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BootStrap_Sampling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BootStrap_Sampling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#C4.5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#C4.5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#C5.0 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#C5.0">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Cloud -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Cloud">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Cluster_Validity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Cluster_Validity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Clustering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Clustering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coefficient_of_variation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coefficient_of_variation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Conditional_Decision_Trees -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Conditional_Decision_Trees">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Confusion_Matrix -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Confusion_Matrix">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#DomainConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Cross_Validation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Cross_Validation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Cleaning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Cleaning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Prepration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Prepration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Visualization -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Visualization">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Databases -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Databases">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dataflow -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dataflow">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Pradigms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Stump -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Stump">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Learning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Learning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_belief_network -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_belief_network">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Distributed_ML_Libraries -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Distributed_ML_Libraries">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#DomainConcept -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#DomainConcept"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Eclat_algorithm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Eclat_algorithm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Rule_System"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Elastic_Net -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Elastic_Net">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regularization"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Gaussian_Naive_Bayes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Gaussian_Naive_Bayes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Hierarchical_Clustering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Hierarchical_Clustering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Clustering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Hive -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Hive">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Platforms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Hopfield_Network -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Hopfield_Network">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Neural_Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Implementation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Implementation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Operations -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Operations">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Standards -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Standards">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Instance_Based -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Instance_Based">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Interquartile_Range -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Interquartile_Range">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Kappa_Statistics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Kappa_Statistics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Linear_Discriminant_Analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Linear_Discriminant_Analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Logistic_Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Linear_Regression -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Linear_Regression">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Logistic_Regression -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Logistic_Regression">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#M5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#M5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Map_reduce -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Map_reduce">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Pradigms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mean -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mean">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mean_Absolute_Deviation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mean_Absolute_Deviation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mode -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mode">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Performance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Performance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multinomial_Naive_Bayes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multinomial_Naive_Bayes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multiple_Linear_Regression -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multiple_Linear_Regression">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Linear_Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Naive_Bayes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Naive_Bayes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Neural_Networks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Neural_Networks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Perceptron -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Perceptron">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Neural_Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Pig -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Pig">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Platforms"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Platforms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Platforms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Pradigms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Pradigms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Precision_and_Recall -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Precision_and_Recall">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Programming_Languages -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Programming_Languages">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Projection_Pursuit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Projection_Pursuit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Quadratic_Discriminant_Analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Quadratic_Discriminant_Analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Logistic_Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ROC_curves -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ROC_curves">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Random_Forest -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Random_Forest">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regression -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regression">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regularization -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regularization">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Resource_Managers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Resource_Managers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ridge_Regression -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ridge_Regression">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regularization"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Rule_System -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Rule_System">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Algorithm"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Sammon_Mapping -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Sammon_Mapping">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Sampling_Theory -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Sampling_Theory">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Sensitivity_and_Specificity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Sensitivity_and_Specificity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Model_Validation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Simple_Linear_Regression -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Simple_Linear_Regression">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Linear_Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Skewness_of_statistical_data -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Skewness_of_statistical_data">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#DomainConcept"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stacked_Auto_Encoders -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stacked_Auto_Encoders">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Standard_error_of_mean -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Standard_error_of_mean">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Science"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stepwise_Regression -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stepwise_Regression">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stochastic_Gradient_Descent -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stochastic_Gradient_Descent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Neural_Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Coreskills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#YARN -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#YARN">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Resource_Managers"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#adabas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#adabas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#agile -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#agile">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#amazon_web_services_aws -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#amazon_web_services_aws">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#analyst -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#analyst">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#apache_hadoop -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#apache_hadoop">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#apache_webserver -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#apache_webserver">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#application_support -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#application_support">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#architecture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#architecture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#arcsight -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#arcsight">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Operations"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#arcsite -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#arcsite">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Operations"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#as_400 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#as_400">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#asp -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#asp">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#asset -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#asset">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#avaya -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#avaya">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#bash -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#bash">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#basic_internet_skills -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#basic_internet_skills">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#big_data -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#big_data">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#broadband -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#broadband">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_objects -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_objects">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_process -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_process">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_requirements_documentation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_requirements_documentation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_solutions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_solutions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_systems_analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#business_systems_analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#capacity_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#capacity_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#certification_accreditation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#certification_accreditation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Standards"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#chef -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#chef">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cisco -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cisco">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cisco_routers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cisco_routers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#citrix -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#citrix">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#client -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#client">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#clustering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#clustering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cobol -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cobol">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cognos_impromptu -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cognos_impromptu">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#collaborate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#collaborate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#computer_Networking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#computer_Networking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#computer_engineering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#computer_engineering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Operations"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#computer_hardware_hardware_knowledge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#computer_hardware_hardware_knowledge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#computer_installation_and_setup -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#computer_installation_and_setup">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#configuration_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#configuration_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#content -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#content">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#correlation_coefficient -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#correlation_coefficient">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#counter_intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#counter_intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#covariance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#covariance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cryptography -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#cryptography">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Operations"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#crystal_reports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#crystal_reports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#customer -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#customer">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#customer_information_control_system_cics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#customer_information_control_system_cics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_architecture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_architecture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_integration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_integration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_migration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_migration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_modelling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_modelling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_structures -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_structures">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_visualisation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_visualisation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_warehousing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#data_warehousing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#database_administration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#database_administration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#database_design -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#database_design">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#db2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#db2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#department -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#department">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#development -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#development">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#disaster_recovery_planning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#disaster_recovery_planning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#document_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#document_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#domain -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#domain">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#domain_name_system_dns -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#domain_name_system_dns">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#dv_clearance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#dv_clearance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Implementation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#dv_level -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#dv_level">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#dynamic_host_configuration_protocol_dhcp -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#dynamic_host_configuration_protocol_dhcp">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#enterprise_software -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#enterprise_software">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#esql -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#esql">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ethernet -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ethernet">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#extensible_markup_language_xml -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#extensible_markup_language_xml">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#extensible_stylesheet_language_xsl -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#extensible_stylesheet_language_xsl">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#extraction_transformation_and_loading_etl -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#extraction_transformation_and_loading_etl">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#firewalls -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#firewalls">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#full_life_cycle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#full_life_cycle">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#function -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#function">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#geospatial_intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#geospatial_intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#global_system_for_mobile_communications_gsm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#global_system_for_mobile_communications_gsm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#hardware_and_software_configuration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#hardware_and_software_configuration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#help_desk_support -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#help_desk_support">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#hibernate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#hibernate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#human_intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#human_intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#hyper-v -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#hyper-v">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ibm_mq_series -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ibm_mq_series">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ibm_resource_access_control_facility_racf -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ibm_resource_access_control_facility_racf">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ibm_websphere -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ibm_websphere">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#icl_vme -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#icl_vme">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#imagery_intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#imagery_intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#informatica -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#informatica">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#information_architecture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#information_architecture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#information_assurance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#information_assurance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Implementation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#information_security -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#information_security">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Operations"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#information_systems -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#information_systems">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Standards"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#infrastructure -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#infrastructure">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#initiative -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#initiative">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#integrated_development_environment_ide -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#integrated_development_environment_ide">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#intelligence_analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#intelligence_analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#interest -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#interest">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#internet_hosting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#internet_hosting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#internet_service_provider_isp -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#internet_service_provider_isp">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#internet_services -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#internet_services">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#iso_iec_27001 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#iso_iec_27001">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Implementation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#it_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#it_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#it_recruiting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#it_recruiting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#it_strategy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#it_strategy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#it_support -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#it_support">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#itil -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#itil">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#java -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#java">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#java_message_service_jms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#java_message_service_jms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#java_server_pages_jsp -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#java_server_pages_jsp">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#jboss -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#jboss">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#jdbc -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#jdbc">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#job_control_language -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#job_control_language">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#job_control_language_jcl -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#job_control_language_jcl">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#junit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#junit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#k-Means -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#k-Means">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Clustering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#k-Medians -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#k-Medians">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Clustering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#kanban -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#kanban">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#lansa -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#lansa">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#lifecycle_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#lifecycle_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#linc -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#linc">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#linux -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#linux">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#lotus_notes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#lotus_notes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#macintosh_os -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#macintosh_os">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mainframe -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mainframe">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mainframe_systems -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mainframe_systems">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#median -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#median">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#member -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#member">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#methodology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#methodology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microfocus -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microfocus">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_access -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_access">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_c -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_c">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_crm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_crm">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_dynamics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_dynamics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_exchange -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_exchange">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_networking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_networking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_operating_systems -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_operating_systems">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_powershell -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_powershell">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_sharepoint -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_sharepoint">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_sql -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_sql">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_sql_server_integration_services_ssis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_sql_server_integration_services_ssis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_visio -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_visio">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_vista -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#microsoft_vista">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#middleware -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#middleware">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mongodb -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mongodb">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mqseries -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mqseries">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mvs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#mvs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_administration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_administration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_attached_storage_nas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_attached_storage_nas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_engineering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_engineering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_hardware -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_hardware">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_hardware_software_maintenance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_hardware_software_maintenance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_installation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_installation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_security -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_security">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_support -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#network_support">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#nosql -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#nosql">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#object_orientated_analysis_and_design_ooad -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#object_orientated_analysis_and_design_ooad">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#online_analytical_processing_olap -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#online_analytical_processing_olap">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#optimisation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#optimisation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#oracle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#oracle">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#oracle_business_intelligence_en-terprise_edition_obiee -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#oracle_business_intelligence_en-terprise_edition_obiee">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#oracle_pl_sql -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#oracle_pl_sql">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#os_400 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#os_400">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ospf -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ospf">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#overview -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#overview">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#partner -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#partner">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#perl -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#perl">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#phone_systems -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#phone_systems">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#postgresql -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#postgresql">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#powerbuilder -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#powerbuilder">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#practice -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#practice">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#prince2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#prince2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#printers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#printers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#pro_c -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#pro_c">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#problem_analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#problem_analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#process_testing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#process_testing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#product -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#product">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#program -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#program">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#project_planning_and_development_skills -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#project_planning_and_development_skills">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#puppet -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#puppet">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#python -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#python">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#qlikview -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#qlikview">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#quick_test_professional_qtp -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#quick_test_professional_qtp">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#raid -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#raid">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rapid_application_development -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rapid_application_development">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#red_hat_linux -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#red_hat_linux">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#relational_database_management_system_rdbms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#relational_database_management_system_rdbms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#relational_databases -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#relational_databases">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#requirements_analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#requirements_analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#resource -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#resource">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#responding_to_technical_questions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#responding_to_technical_questions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rexx -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rexx">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#role -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#role">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#SoftSkills"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rpg -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rpg">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rpg400 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rpg400">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rpg_iv -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#rpg_iv">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ruby -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ruby">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#scaling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#scaling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#scrum -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#scrum">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#security_implementation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#security_implementation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Security_Implementation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#servlets -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#servlets">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#shell_scripts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#shell_scripts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#signals_intelligence -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#signals_intelligence">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Intelligence"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#simple_moving_average -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#simple_moving_average">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#soap -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#soap">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_Testing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_Testing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_architecture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_architecture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_as_a_service_saas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_as_a_service_saas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_development -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_development">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_engineering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_engineering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_installation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_installation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_use_instruction -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#software_use_instruction">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#solaris -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#solaris">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#solution_architecture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#solution_architecture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#spring_framework -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#spring_framework">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sql -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sql">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sql_server -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sql_server">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sql_server_analysis_services_ssas -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sql_server_analysis_services_ssas">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sql_server_reporting_services_ssrs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sql_server_reporting_services_ssrs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ssl -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#ssl">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#staff_augmentation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#staff_augmentation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#structured_programming -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#structured_programming">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#struts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#struts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#switches -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#switches">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sybase -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#sybase">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#symantec_packages -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#symantec_packages">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#system_administration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#system_administration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#system_and_network_configuration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#system_and_network_configuration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#system_architecture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#system_architecture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_administration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_administration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_development -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_development">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_development_life_cycle_sdlc -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_development_life_cycle_sdlc">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_integration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_integration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_management -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#systems_management">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#t-test -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#t-test">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#technical_writing_editing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#technical_writing_editing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#test_director -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#test_director">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#tomcat -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#tomcat">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#trading_systems -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#trading_systems">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Data_Engineering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#transact-sql -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#transact-sql">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#transmission_control_protocol_internet_protocol_tcp_ip -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#transmission_control_protocol_internet_protocol_tcp_ip">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#troubleshooting_technical_issues -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#troubleshooting_technical_issues">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#uniface -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#uniface">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Legacy_Mainframe"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#unified_modelling_language_uml -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#unified_modelling_language_uml">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#unix -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#unix">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#unix_shell_scripting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#unix_shell_scripting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#user_acceptance_testing_uat -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#user_acceptance_testing_uat">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Business_Analysis_and_IT_Projects"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#vbscript -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#vbscript">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#version_control -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#version_control">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#video_conferencing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#video_conferencing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#virtual_private_networking_vpn -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#virtual_private_networking_vpn">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#virtual_storage_access_method_vsam -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#virtual_storage_access_method_vsam">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#visual_basic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#visual_basic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#BI_and_Datawarehousing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#visual_studio -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#visual_studio">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#vmware_esxi -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#vmware_esxi">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#web_servers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#web_servers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#weblogic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#weblogic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Servers_and_Middleware"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#wide_area_network_wan -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#wide_area_network_wan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#windows_server -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#windows_server">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#System_Administration"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#winrunner -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#winrunner">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mainframe_Programming"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#workstations -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#workstations">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#IT_Support"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#.net_programming -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#.net_programming">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#3g -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#3g">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Architectures/Frameworks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Architectures/Frameworks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Production"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Averaged_One-Dependence_Estimators_(AODE) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Averaged_One-Dependence_Estimators_(AODE)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian_Belief_Network_(BBN) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian_Belief_Network_(BBN)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian_Network_(BN) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian_Network_(BN)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bayesian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bessel’s_Interpolation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bessel’s_Interpolation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bootstrapped_Aggregation_(Bagging) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Bootstrapped_Aggregation_(Bagging)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Chi-squared_Automatic_Interaction_Detection_(CHAID) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Chi-squared_Automatic_Interaction_Detection_(CHAID)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Classification_and_Regression_Tree_(CART) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Classification_and_Regression_Tree_(CART)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Convolutional_Neural_Network_(CNN) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Convolutional_Neural_Network_(CNN)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Boltzmann_Machine_(DBM) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Boltzmann_Machine_(DBM)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Expectation_Maximisation_(EM) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Expectation_Maximisation_(EM)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Clustering"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Flexible_Discriminant_Analysis_(FDA) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Flexible_Discriminant_Analysis_(FDA)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Gradient_Boositng_Machines(GBM) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Gradient_Boositng_Machines(GBM)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Gradient_Boosted_Regression_Trees(CBRT) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Gradient_Boosted_Regression_Trees(CBRT)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Iterative_Dichotomiser_3_(ID3) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Iterative_Dichotomiser_3_(ID3)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Decision_Tree"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Vector_Quantization_(LVQ) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Learning_Vector_Quantization_(LVQ)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Instance_Based"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Least-Angle_Regression_(LARS) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Least-Angle_Regression_(LARS)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regularization"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Least_Absolute_Shrinkage_and_Selection_Operator_(LASSO) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Least_Absolute_Shrinkage_and_Selection_Operator_(LASSO)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regularization"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Linear_Discriminant_Analysis_(LDA) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Linear_Discriminant_Analysis_(LDA)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Locally_Estimated_Scatterplot_Smoothing_(LOESS) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Locally_Estimated_Scatterplot_Smoothing_(LOESS)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Locally_Weighted_Learning_(LWL) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Locally_Weighted_Learning_(LWL)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Instance_Based"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Long_Short-Term_Memory_Networks_(LSTMs) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Long_Short-Term_Memory_Networks_(LSTMs)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mixture_Discriminant_Analysis_(MDA) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Mixture_Discriminant_Analysis_(MDA)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multidimensional_Scaling_(MDS) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multidimensional_Scaling_(MDS)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multilayer_Perceptrons_(MLP) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multilayer_Perceptrons_(MLP)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Neural_Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multivariate_Adaptive_Regression_Splines_(MARS) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Multivariate_Adaptive_Regression_Splines_(MARS)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ordinary_Least_Squares_Regression_(OLSR) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ordinary_Least_Squares_Regression_(OLSR)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Regression"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Partial_Least_Squares_Regression_(PLSR) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Partial_Least_Squares_Regression_(PLSR)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Principal_Component_Analysis_(PCA) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Principal_Component_Analysis_(PCA)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Principal_Component_Regression_(PCR) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Principal_Component_Regression_(PCR)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Quadratic_Discriminant_Analysis_(QDA) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Quadratic_Discriminant_Analysis_(QDA)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Dimensionality_Reduction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Radial_Basis_Function_Network_(RBFN) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Radial_Basis_Function_Network_(RBFN)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Neural_Networks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Recurrent_Neural_Networks_(RNNs) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Recurrent_Neural_Networks_(RNNs)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Deep_Learning"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Self-Organizing_Map_(SOM) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Self-Organizing_Map_(SOM)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Instance_Based"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Spearman’s_Rank_Correlation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Spearman’s_Rank_Correlation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Statistics"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stacked_Generalization(Blending) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stacked_Generalization(Blending)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stacked_Generalization_(Stacking) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Stacked_Generalization_(Stacking)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Support_Vector_Machines_(SVM) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Support_Vector_Machines_(SVM)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Instance_Based"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Weighted_Average_(Blending) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Weighted_Average_(Blending)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Ensemble"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#c++ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#c++">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Software_Development"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#k-Nearest_Neighbor_(kNN) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#k-Nearest_Neighbor_(kNN)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rudresh/ontologies/2020/1/dataScience-ontology-8#Instance_Based"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

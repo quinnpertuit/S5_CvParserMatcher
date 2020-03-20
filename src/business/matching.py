@@ -11,7 +11,7 @@ from typing import List, Any, Tuple
 
 class Matcher:
 
-    def __init__(self,G_candidate,G_jobPost):
+    def __init__(self,G_candidate = None,G_jobPost =None):
         self.G_candidate = G_candidate
         self.G_jobPost = G_jobPost
         self.culture_graph_path = '../graphs/culture_graph.json' 
@@ -30,6 +30,22 @@ class Matcher:
             matching_Score.append(LA.norm(ged.similarity(result)))
         # matchCVToJP
         return matching_Score
+
+    def oneToOneDomainSkillMatch(self, G_candidate_domain, G_jobPost_domain):
+        ged=gm.GraphEditDistance(1,1,1,1) # all edit costs are equal to 1
+        result=ged.compare([G_candidate_domain,G_jobPost_domain],None) 
+        #description how much score is and why it got mactched
+        return LA.norm(ged.similarity(result))
+
+    def onetoManyDomainSkillMatch(self, G_candidate, G_jobPost):
+        matching_Score=[]
+        for graph in G_candidate:
+            ged=gm.GraphEditDistance(1,1,1,1) # all edit costs are equal to 1
+            result=ged.compare([graph,G_jobPost],None)
+            matching_Score.append(LA.norm(ged.similarity(result)))
+        # matchCVToJP
+        return matching_Score
+
 
     def getOneToOneCultureMatch(self, candidate_id, job_post_id, model, cv_coll, job_coll):
         bs_c, bs_jp = CandidateBusiness(None), JobPostBusiness(None)
