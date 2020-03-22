@@ -27,7 +27,7 @@ db = client['db']
 # db_jobSoveren = db['jobs_sovren']
 # recent_job_post = db_jobSoveren.find_one({ '_id': ObjectId('5e64cbef837ba015d90abc78') })
 
-word2VecDimensions = 300 # there are also files of 50, 100, 200, 300 dimensions (remainder: they should be inserted in the models folder)
+word2VecDimensions = 50 # there are also files of 50, 100, 200, 300 dimensions (remainder: they should be inserted in the models folder)
 analysisAxes = [
     {
         'name': 'Skills Match',
@@ -171,7 +171,7 @@ def runOneToOne(candidate_id, job_id, explainable=False):
 
 def runOneToMany(candidate_ids, job_id, weights, filterAxes=filterAxes, analysisAxes=analysisAxes):
     matches = OnetoManymatching(candidate_ids, job_id)
-    matches = pd.DataFrame(matches)
+    matches = pd.DataFrame(matches, index=candidate_ids)
     fsb = FilterSortBusiness()
     filter_key_names, analysis_key_names = [ a['key_name'] for a in filterAxes ], [ a['key_name'] for a in analysisAxes ]
     filter_matches, analysis_matches = matches[ filter_key_names ], matches[ analysis_key_names ]
