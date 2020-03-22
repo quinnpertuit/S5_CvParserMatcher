@@ -116,8 +116,8 @@ The next CVs were ignored completely due to Education Match considerations:
 []
 The classification of the CVs is the next one: 
 
-1    0.832857
-0    0.728012
+5e60f5895a90883323e38bbc    0.832857
+5e60f5895a90883323e38bc0    0.728012
 Name: MRValues, dtype: float64
 ```
 
