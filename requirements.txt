@@ -1,5 +1,5 @@
 pymongo
-cso-classifier==2.3.3
+#cso-classifier==2.3.3
 gensim
 progressbar2
 hurry.filesize==0.9

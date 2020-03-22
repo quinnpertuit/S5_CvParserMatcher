@@ -9,12 +9,13 @@ import services.lang_processing as lp
 
 import pymongo
 from pymongo import MongoClient
+import ssl
 from bson.objectid import ObjectId
 import numpy as np
 import networkx as nx
 
 
-client = MongoClient('mongodb+srv://user_imt:2020@s5resumesdb-ppukj.azure.mongodb.net/test')
+client = MongoClient('mongodb+srv://user_imt:2020@s5resumesdb-ppukj.azure.mongodb.net/test',ssl=True,ssl_cert_reqs=ssl.CERT_NONE)
 print(client.list_database_names())
 db = client['db']
 print(db.list_collection_names())
@@ -114,6 +115,6 @@ def runOneToOne(candidate_id, job_id, explainable=False):
     print(f'OverAllSkills Matching: {skills_match} %')
     print(f'Required Skill Matching: {required_skill_match} %')
 
-#runOneToOne('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78', True)
+runOneToOne('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78', True)
 
 # print('One to one matching of CV to the jobpost is ',OnetoManymatching(['5e60f5895a90883323e38bbc','5e60f5895a90883323e38bbc'],'5e64cbef837ba015d90abc76'))
