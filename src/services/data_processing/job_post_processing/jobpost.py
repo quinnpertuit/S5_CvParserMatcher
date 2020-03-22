@@ -8,7 +8,7 @@ from services.data_extraction.job_post.jobpost import JobDataExtraction
 class JobDataProcessing:
     def __init__(self,workExpDescription):
         self.workExpDescription =workExpDescription
-        classifier.setup()
+        #classifier.setup()
         return
 
     def getSkillOntoloies(self,workExpDescription):

@@ -7,7 +7,6 @@ import services.graph_treat as gt
 import services.helpers as hp
 from pprint import pprint as pp
 import numpy as np
-from typing import List, Any, Tuple
 
 class Matcher:
 
@@ -75,36 +74,6 @@ class Matcher:
         elif(jobDegree < candidateDegree):
             s = 'The candidate degree overqualified matches to the job profile'
         return s, jobDegree, candidateDegree
-
-    def MRSorting(self, values:List[List], weights:list, min_max:List[Tuple[int, int]]):
-        """
-        Adaptation of the Multi Criteria Majority Rule Sorting algorithm
-        
-        Patameters
-        ---------
-        values: the values of each axis calculated for all the desired CVs
-        weights: the weights assigned from the user for each of the axis
-        min_max: list of tuples containing the (minimum, maximum) values for each axis
-        """
-        values, weights, total_axes, sum_weights, majority_rule_values = np.matrix(values), np.array(weights), len(weights), sum(weights), []
-        if total_axes != len(min_max) or total_axes != values.shape[1]: 
-            print(f" --- Error: not expected sizes (weighs, min_max, values) ({total_axes}, {len(min_max)}, {values.shape[1]})")
-            return None
-        norm_weights = weights / sum_weights
-        for cv_matching_values in values:
-            mjv, norm = 0, 0
-            for v, w, (axe_min, axe_max) in zip(cv_matching_values, norm_weights, min_max):
-                print(v, w, axe_min, axe_max)
-                if not axe_min or not axe_max: # handle not known ranges
-                    axe_min = 0
-                    axe_max = v
-                normalized_v = (v - axe_min) / (axe_max - axe_min)
-                mjv += normalized_v * w
-                norm += w
-            print(mjv, norm)
-            majority_rule_values.append(mjv)
-        return majority_rule_values
-
 
     def DataScienceDomainMatch(self):
         return
