@@ -6,6 +6,7 @@ from business.job_post import JobPostBusiness
 import services.graph_treat as gt
 import services.helpers as hp
 from pprint import pprint as pp
+import numpy as np
 
 class Matcher:
 
@@ -74,3 +75,5 @@ class Matcher:
             s = 'The candidate degree overqualified matches to the job profile'
         return s, jobDegree, candidateDegree
 
+    def DataScienceDomainMatch(self):
+        return

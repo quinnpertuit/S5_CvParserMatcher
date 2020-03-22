@@ -3,6 +3,7 @@ from pymongo import MongoClient
 import configparser
 from bson.objectid import ObjectId
 import services.helpers as hp
+from typing import List
 
 MONGO_URL = 'mongodb+srv://user_imt:2020@s5resumesdb-ppukj.azure.mongodb.net/test'
 
@@ -57,7 +58,7 @@ class CandidateDataExtraction:
                     }]))
         return desc
     
-    def getSummaries(self, resumes: list) -> str:
+    def getSummaries(self, resumes: list) -> List[str]:
         return [ res['Resume']['StructuredXMLResume']['ExecutiveSummary'] for res in resumes ]
 
     def loadResumes(self):

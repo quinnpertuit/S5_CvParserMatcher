@@ -6,7 +6,7 @@ from fuzzywuzzy import process
 class CandidateDataProcessing:
     def __init__(self,workExpDescription):
         self.workExpDescription =workExpDescription
-        classifier.setup()
+        #classifier.setup()
         return
 
     def getSkillOntoloies(self,workExpDescription):
