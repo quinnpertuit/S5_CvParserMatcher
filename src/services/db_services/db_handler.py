@@ -42,11 +42,12 @@ class TrackingExecution:
 
         for i in range(len(self.inputs[0])):
             dict_cv = {
-                'id' : self.inputs[0][i],
+                'id' : self.outputs[1].index[i],
                 'domain_skills_match' : self.outputs[1]['domain_skills_match'][i],
                 'skills_match' : self.outputs[1]['skills_match'][i],
                 'required_skill_match' : self.outputs[1]['required_skill_match'][i],
-                'culture_match' : self.outputs[1]['culture_match'][i]
+                'culture_match' : self.outputs[1]['culture_match'][i],
+                'MRValues' : self.outputs[1]['MRValues'][i]
                 #'education_match': self.outputs[1]['education_match'][i] why education is not working?
                 }
             input_cvs.append(dict_cv)
