@@ -36,7 +36,7 @@ class JobDataExtraction:
 
     def getJobPostSkill(self ,jsonTaxanomy, Required = False):
         skill = []
-        for i in range(0,len(jsonTaxanomy)):
+        for i in range(0,len(jsonTaxanomy['Subtaxonomy'])):
             for j in range(0,len(jsonTaxanomy['Subtaxonomy'][i]['Skill'])):
                 dictSkill = jsonTaxanomy['Subtaxonomy'][i]['Skill'][j]
                 if dictSkill["@existsInText"]== True and dictSkill["@required"]== Required:

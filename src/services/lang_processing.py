@@ -17,6 +17,7 @@ def removeUnsuitableStringsFromList(l: list, stop_words:set= STOP_WORDS) -> (lis
     if re.search(r'[~=]', s) or re.search(r'^[’“”…]|[\.]+$', s): unwanted_tokens.append(s); continue # search for strange occurenes
     if re.search(r'[\d]+[a-z]+', s): unwanted_tokens.append(s); continue # remove the uuid-like strings
     m = re.search(r'^.*?([\w]+).*?$', s) # remove points from around
+    if not m: unwanted_tokens.append(s); continue
     s = m.group(1)
     if s in stop_words: unwanted_tokens.append(s); continue # check if it's in stop words
     new_tokens.append(s)
