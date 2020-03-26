@@ -1,4 +1,4 @@
-from handler import runOneToOne, runOneToMany, analysisAxes
+from handler import runOneToOne, runOneToMany, analysisAxes, runStoreExecution
 
 analysis_types = [ 
   {
@@ -94,17 +94,18 @@ def main():
   inputs = validateInputs(inputs, analysis_types[analysis_type_index]['input_validators'])
   if not inputs: return
 
-  # ask for weights
+  # ask for weights 
   weights = []
   if analysis_types[analysis_type_index]['majority_rule_sorting']: 
     print('\n--- WEIGHTS ---')
     weights = askForWeights(analysis_type_index)
+    if not weights: return
     inputs.append(weights)
   
   print("\n--- Thanks!, now, we'll start calculating ----")
   # Run Analysis
   res = analysis_types[analysis_type_index]['function'](*inputs)
-    
+  runStoreExecution(analysis_type_index,analysis_types[analysis_type_index],inputs,res)
 
 if __name__ == '__main__': 
   main()
