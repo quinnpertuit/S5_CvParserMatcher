@@ -5,7 +5,7 @@ from owlready2 import IRIS,get_ontology
 from datasciencedomain.config import Config
 
 
-get_ontology('src/datasciencedomain/datamodels/data.owl').load()
+get_ontology('datasciencedomain/datamodels/data.owl').load()
 
 
 class Ontology:

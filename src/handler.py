@@ -93,7 +93,7 @@ def candidatePipeline(candidate_id):
     return G3, G_candidate_domain,degree_level,candidate_unique_skill
 
 def jobPipeline(job_id):
-    recent_job_post = db_job('jobs_sovren',job_id)
+    recent_job_post = dict(db_job('jobs_sovren',job_id))
     job_post_business = JobPostBusiness(recent_job_post)
     job_post_jobdescription,job_education_dict = job_post_business.download(recent_job_post)
 
@@ -132,10 +132,12 @@ def OnetoOnematching(candidate_id, job_id):
 
 def OnetoManymatching(candidate_id, job_id):
     candidate_domain_graph_list, required_skill, candidate_graph_list, culture_match_list, education_match_list = [], [], [], [], []
+    print(f'job post id = {job_id}')
     job_graph, job_domian_graph,job_degree,job_required_skill = jobPipeline(job_id)
     matching = Matcher()
     model = lp.getGloveModel(word2VecDimensions)
     for position in range(len(candidate_id)):
+        print(f'candidate id = {candidate_id[position]}')
         candidate_graph, candidate_domian_graph,candidate_degree,candidate_unique_skill = candidatePipeline(candidate_id[position])
         candidate_graph_list.append(candidate_graph)
         candidate_domain_graph_list.append(candidate_domian_graph)
