@@ -5,3 +5,6 @@ s5_project_env/*
 **/graphs/*.png
 **/.ipynb_checkpoints/*
 /src/*.ipynb
+/dev/moises/Model
+/dev/moises/Sovren*
+/.vscode
