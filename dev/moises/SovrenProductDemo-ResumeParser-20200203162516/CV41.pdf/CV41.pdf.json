@@ -1,0 +1,733 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Shivam Sharma",
+          "GivenName": "Shivam",
+          "FamilyName": "Sharma"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Circle Of Life",
+                  "1 Month",
+                  "M.Tech [Other Engineering]"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Result Oriented Professional offering 1 year of industrial exposure in Machine\r\nLearning, Data Science, Data Analysis\r\n* Knowledge in Machine Learning, Statistical computation, Health care data\r\nanalysis, Parallel Computation in C",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Circle Of Life",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Data Scientist",
+                "OrgName": {
+                  "OrganizationName": "Circle Of Life"
+                },
+                "Description": "March'19 Data Scientist\r\nResponsibilities include:\r\n* Data analysis and ML model implementation in R and Python\r\n* Data engineering, providing assistance in product deployment\r\nand building new feature in the product.\r\n* Antibiotic Panel Prediction using recommendation system\r\n* Outlier Detection for Bacteria Prevalence\r\n* Trend-line analysis for detection of increase in antibiotic bug\r\nresistance\r\n* APIs and ETL implementation in Python\r\n\r\nJuly-2018 Industrial Thesis and Data Scientist Intern\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c19   e5c0c534f150f18021149465c0d586&sid=3810263223&AT=1580680852\r\n2/2/20 23&01\r\n\r\n\r\nResponsibilities include:\r\nTowards personalized antibiotic prescription in the management of urinary tract infection:\r\n* Analyzed large culture and patient demographic data in predicting\r\nsusceptibility of antibiotics\r\n* Implemented multinomial logit model for Etiological feature\r\ncorrelation with bacterial occurrence.\r\n* Antibiotic similarity detection using Cohen's kappa",
+                "StartDate": {
+                  "YearMonth": "2018-07"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 55% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Circle Of Life",
+                    "sov:NormalizedTitle": "Data Scientist"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Circle Of Life"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Indraprastha Institute of Information Technology Delhi"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "DELHI"
+              ],
+              "Municipality": "Delhi"
+            },
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Other Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "PG: M.Tech (Other Engineering) from Indraprastha Institute of Information Technology Delhi in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Indraprastha Institute of Information Technology Delhi"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Cluster Innovation Centre, Delhi University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "DELHI"
+              ],
+              "Municipality": "Delhi"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Information Technology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Information Technology) from Cluster Innovation Centre, Delhi University in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Delhi University"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Data Scientist, Data Analyst, Data Science, Data Analytics, Business Analytics, Business Process\r\nAutomation, Machine Learning, Data Modelling, Project Execution, Project Management, Product Strategy, Requirement\r\nGathering, Client Engagement, Python, R, C/C++, Java\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 30-Jan-20\tLast Modified: 30-Jan-20\r\n71954515915b4856889589f44e9851b6\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython, R, C/C++\t2019\t2 Year(s) 0 Month(s)\r\n\r\nJava, Matlab, SQL\t2019\t1 Year(s) 0 Month(s)\r\n\r\nGIT and JIRA\t2019\t1 Year(s) 0 Month(s)\r\n\r\nPostgreSQL, MySQL\t2019\t1 Year(s) 0 Month(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&01\r\n\r\n\r\nShivam Sharma\r\n\r\n\r\nData Scientist seeking roles in Data Science, Data Analytics, Business\r\nAnalytics, Business Process Automation, Machine Learning, Data Modelling, Project\r\nExecution, Project Management, Product Strategy, Requirement Gathering, Client\r\nEngagement, Python, R, C/C++\r\n\r\n\r\nCurrent Designation: Data Scientist\tTotal Experience: 1 Year(s) 4 Month(s)\r\nCurrent Company: Circle Of Life\tNotice Period: 1 Month\r\nCurrent Location: Noida\tHighest Degree: M.Tech [Other Engineering]\r\nPref. Location: Bengaluru / Bangalore, Delhi / NCR, Gurgaon\r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: Wellness / Fitness / Sports / Beauty\r\nMarital Status: Single/unmarried\r\nKey Skills: Data Scientist, Data Analyst, Data Science, Data Analytics, Business Analytics, Business Process\r\nAutomation, Machine Learning, Data Modelling, Project Execution, Project Management, Product Strategy, Requirement\r\nGathering, Client Engagement, Python, R, C/C++, Java\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 30-Jan-20\tLast Modified: 30-Jan-20\r\n71954515915b4856889589f44e9851b6\r\n\r\n\r\nSummary\r\nResult Oriented Professional offering 1 year of industrial exposure in Machine\r\nLearning, Data Science, Data Analysis\r\n* Knowledge in Machine Learning, Statistical computation, Health care data\r\nanalysis, Parallel Computation in C\r\n\r\n\r\nWork Experience\r\nCircle Of Life as Data Scientist\r\nJul 2018 to Till Date\r\nMarch'19 Data Scientist\r\nResponsibilities include:\r\n* Data analysis and ML model implementation in R and Python\r\n* Data engineering, providing assistance in product deployment\r\nand building new feature in the product.\r\n* Antibiotic Panel Prediction using recommendation system\r\n* Outlier Detection for Bacteria Prevalence\r\n* Trend-line analysis for detection of increase in antibiotic bug\r\nresistance\r\n* APIs and ETL implementation in Python\r\n\r\nJuly-2018 Industrial Thesis and Data Scientist Intern\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c19   e5c0c534f150f18021149465c0d586&sid=3810263223&AT=1580680852\r\n2/2/20 23&01\r\n\r\n\r\nResponsibilities include:\r\nTowards personalized antibiotic prescription in the management of\r\nurinary tract infection:\r\n* Analyzed large culture and patient demographic data in predicting\r\nsusceptibility of antibiotics\r\n* Implemented multinomial logit model for Etiological feature\r\ncorrelation with bacterial occurrence.\r\n* Antibiotic similarity detection using Cohen's kappa\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Information Technology) from Cluster Innovation Centre, Delhi University in 2017\r\n\r\nPG: M.Tech (Other Engineering) from Indraprastha Institute of Information Technology Delhi in 2019\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython, R, C/C++\t2019\t2 Year(s) 0 Month(s)\r\n\r\nJava, Matlab, SQL\t2019\t1 Year(s) 0 Month(s)\r\n\r\nGIT and JIRA\t2019\t1 Year(s) 0 Month(s)\r\n\r\nPostgreSQL, MySQL\t2019\t1 Year(s) 0 Month(s)\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c19   e5c0c534f150f18021149465c0d586&sid=3810263223&AT=1580680852\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Noida",
+          "sov:PreferredLocation": "Bengaluru / Bangalore, Delhi / NCR, Gurgaon",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Category: General"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Shivam Sharma's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Marketing (mostly Data & Analytics). Shivam Sharma's experience appears to be entry level, with 19 months of experience.",
+          "sov:MonthsOfWorkExperience": "19",
+          "sov:AverageMonthsPerEmployer": "19",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "69",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "16",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "ETL",
+                            "@id": "5530987",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "14",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "POSTGRESQL",
+                            "@id": "3391132",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "C/C++",
+                            "@id": "002371",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "Git",
+                            "@id": "1004755",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "JIRA",
+                            "@id": "2000006",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEPLOYMENT",
+                            "@id": "023631",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "021346",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Middleware and Integration",
+                        "@id": "345",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "ETL",
+                            "@id": "016965",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "14",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "14",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Scientific",
+                    "@id": "15",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bio",
+                        "@id": "373",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BACTERIA",
+                            "@id": "009669",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "BACTERIAL",
+                            "@id": "009686",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Basic",
+                        "@id": "376",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "021347",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Pharma",
+                        "@id": "372",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANTIBIOTIC",
+                            "@id": "025533",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2017-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "37",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "38",
+              "@ends": "68",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "69",
+              "@ends": "74",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "75",
+              "@ends": "86",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "87",
+              "@ends": "99",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Shivam Sharma"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=c19"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Gurgaon",
+              "Work Authorization\r\nCategory: General",
+              "Current Location: Noida",
+              "Marital Status: Single",
+              "1 Month"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3172",
+        "sov:ParseTime": "312",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:d4131f48-4fd7-4b21-9c05-72fd743aa600",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "qtr///////8="
+      }
+    }
+  }
+}

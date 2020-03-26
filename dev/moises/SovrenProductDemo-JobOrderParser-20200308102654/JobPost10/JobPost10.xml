@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ManagementLevel>none</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Internship starting date</MainJobTitle>
+    <JobTitle>Internship</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <MainEmployerName>Data Science and Machine Learning! A</MainEmployerName>
+    <EmployerName>Institute of Complex Systems</EmployerName>
+    <EmployerName>National Center</EmployerName>
+    <EmployerName>Scientific Research</EmployerName>
+    <EmployerName>Scientific Research (CNRS)</EmployerName>
+    <EmployerName>Institut des Systèmes Complexes de Paris</EmployerName>
+    <EmployerName>Multivac Data Science Lab</EmployerName>
+    <EmployerName>Master in Statistics or Data Sciences</EmployerName>
+    <EmployerName>Statistics or Data Sciences</EmployerName>
+    <EmployerName>Data Sciences</EmployerName>
+  </EmployerNames>
+  <SchoolNames>
+    <SchoolName>Institute of Complex Systems (ISC-PIF)</SchoolName>
+    <SchoolName>National Center for Scientific Research</SchoolName>
+    <SchoolName>Institute of Complex Systems</SchoolName>
+    <SchoolName>Institut des Systèmes Complexes</SchoolName>
+    <SchoolName>institute is facilitating access to skills</SchoolName>
+    <SchoolName>Institut des Systèmes Complexes de Paris</SchoolName>
+    <SchoolName>National Center for Scientific Research (CNRS)</SchoolName>
+  </SchoolNames>
+  <CurrentLocation>
+    <Municipality>Paris</Municipality>
+    <PostalCode>75013</PostalCode>
+    <CountryCode>FR</CountryCode>
+  </CurrentLocation>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>Bac + 5</DegreeName>
+    </Degree>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>Master in Statistics or Data Sciences</DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>masters</RequiredDegree>
+  <SourceText>We are looking for students who are interested in Data Science and Machine Learning! A great opportunity to work with cutting-edge technologies and billions of data. You will be working on Multivac Platform developed at ISCPF : our platform is one of the biggest academic repositories with over 15 billion documents hosted across 80 servers on dedicated servers and cloud services.
+
+Diploma required : Bac + 5 in a quantitative field (applied mathematics, statistics, computing…)
+Internship starting date : Flexible
+Duration : 2 – 6 month
+Salary policy : the internship is paid according to the legal wage rates (approx. 560€/month)
+
+About the Institute of Complex Systems (ISC-PIF)
+Interface between disciplines, but also between research organisations and higher education, the ISC-PIF is a place dedicated to the development of innovative and interdisciplinary research on complex systems. Since 2005, the institute is facilitating access to skills, trainings, work areas and pooled research resources based on high performance computing and big data. The institute is a unit of the National Center for Scientific Research (CNRS), one of the largest french research organisation.
+
+Address :
+Institut des Systèmes Complexes de Paris 113 rue Nationale 75013 Paris
+
+About the internship
+
+Description :
+You will be working on Multivac Platform developed at ISCPIF. Multivac Platform is one of the biggest academic repositories with over 75 billion documents hosted across 100 servers on dedicated servers and cloud services. The datasets contain metadata from published scientific papers and social networks with wide range of topics. Multivac platform is meant as an interface between researchers and Big Data, especially in domain of NLP and text mining. It offers services such as comprehensive dashboards that enable scientists to explore and discover facts with a wider overview on large-scale data through visualisations. It also offers API access that allows researchers to exploit this huge architecture and computation without any prior technical knowledge. In addition, Multivac Data Science Lab offers interactive notebooks over Apache Hadoop/Spark cluster in private Cloud.
+
+Why Multivac Platform :
+Multivac Platform is built by cutting-edge technologies such as:
+
+Large-scale databases (MongoDB and Redis with over 12 billion documents)
+Search engine clusters (Elasticsearch/Kibana with over 6 billion documents)
+Distributed computations and real-time processing (RabbitMQ, NodeJS, etc.)
+Cloudera Hadoop 2.0 with interactive Spark notebooks (HDFS, YARN, Apache Spark, Apache Hive, Apache HBase, Apache Zeppelin, Hue, etc.)
+Cloud services (OpenStack)
+You get to learn all about these new technologies and have access to Multivac Data Science Lab. Multivac Platform hosts over 14 billion data with over 50 million data everyday.
+
+Multivac Data Science Lab
+
+Requirements :
+Master in Statistics or Data Sciences
+Basic knowledge of Machine Learning Algorithms
+Basic knowledge of Scala, Python or R
+Basic knowledge of text mining in social networks
+Interest in NLP tasks and Graph analytics
+(Bonus) Experience with Twitter datasets and other REST API services
+(Bonus) Experience with Apache Spark or any other Hadoop components
+(Bonus) Experience with a Deep Learning library (BigDL, Tensor Flow …)
+
+Responsibilities (two or more) :
+Work on un-supervised learning algorithms for topic detection
+Work on supervised learning algorithms for classifications and predictions
+Develop and optimise our existing LDA implementations
+Implement algorithms to perform NLP tasks such as clustering, topic detections, etc. (StanfordCoreNLP)
+Implement algorithms to improve sentimental analysis and mentions clustering
+Implement methods of automatic detection of opinions in Tweets
+Implement methods of keyword extractions in scientific publications</SourceText>
+  <RevisionDate>2020-03-08</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>JBMCAAAAAAA=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="82">
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="37" percentOfParentTaxonomy="45">
+          <Skill name="APACHE HADOOP HDFS" id="5530709" existsInText="false" required="false">
+            <ChildSkill name="HDFS" id="553070902" existsInText="true" required="false" />
+          </Skill>
+          <Skill name="APACHE HBASE" id="5530716" existsInText="true" required="false" />
+          <Skill name="ELASTICSEARCH" id="5530744" existsInText="true" required="false" />
+          <Skill name="HADOOP" id="5530761" existsInText="true" required="false" />
+          <Skill name="HBASE" id="5530766" existsInText="true" required="false" />
+          <Skill name="MONGODB" id="5530805" existsInText="true" required="false" />
+          <Skill name="REDIS" id="5530835" existsInText="true" required="false" />
+          <Skill name="CLUSTERING" id="5530921" existsInText="true" required="false" />
+          <Skill name="DATA SCIENCE" id="5530958" existsInText="true" required="false" />
+          <Skill name="DATASETS" id="5530959" existsInText="true" required="true" />
+          <Skill name="HIGH PERFORMANCE COMPUTING" id="5530999" existsInText="true" required="false" />
+          <Skill name="LATENT DIRICHLET ALLOCATION" id="5531006" existsInText="false" required="false">
+            <ChildSkill name="LDA" id="5531007" existsInText="true" required="false" />
+          </Skill>
+          <Skill name="MACHINE LEARNING" id="5531016" existsInText="true" required="true" />
+          <Skill name="METADATA" id="5531026" existsInText="true" required="false" />
+          <Skill name="NATURAL LANGUAGE PROCESSING" id="5531029" existsInText="false" required="false">
+            <ChildSkill name="NLP" id="5531030" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Machine Learning" id="720" percentOfOverall="12" percentOfParentTaxonomy="14">
+          <Skill name="DATA SCIENCE" id="7200001" existsInText="true" required="false" />
+          <Skill name="DEEP LEARNING" id="7200018" existsInText="true" required="false" />
+          <Skill name="LINEAR DISCRIMINANT ANALYSIS" id="7200035" existsInText="false" required="false">
+            <ChildSkill name="LDA" id="7200036" existsInText="true" required="false" />
+          </Skill>
+          <Skill name="SUPERVISED LEARNING" id="7200062" existsInText="true" required="false" />
+          <Skill name="MACHINE LEARNING" id="7200149" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="12" percentOfParentTaxonomy="14">
+          <Skill name="PYTHON" id="006120" existsInText="true" required="true" />
+          <Skill name="API" id="021194" existsInText="true" required="true" />
+          <Skill name="Hadoop" id="1004744" existsInText="true" required="false" />
+          <Skill name="HBase" id="1004747" existsInText="true" required="false" />
+          <Skill name="HDFS" id="1004748" existsInText="true" required="false" />
+          <Skill name="Hive" id="1004749" existsInText="true" required="false" />
+          <Skill name="APACHE SPARK" id="3391146" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="3" percentOfParentTaxonomy="4">
+          <Skill name="LARGE-SCALE" id="7180008" existsInText="true" required="false" />
+          <Skill name="REST" id="7180010" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="CLUSTERING" id="5551333" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Gaming" id="551" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="SCALA" id="5510135" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="MONGODB" id="5500361" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="CLUSTERING" id="3490022" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Security" id="338" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="MACHINE LEARNING" id="3380002" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="REAL-TIME" id="081190" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Embedded and Realtime" id="340" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="REAL-TIME" id="081186" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Internet" id="196" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="SEARCH ENGINE" id="024268" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="APACHE" id="021093" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Network" id="198" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="CLUSTERING" id="013564" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Multimedia" id="351" percentOfOverall="2" percentOfParentTaxonomy="2">
+          <Skill name="SCALA" id="007474" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Engineering" id="5" percentOfOverall="8">
+        <Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="REAL-TIME" id="080770" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="REAL-TIME" id="080509" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="APACHE" id="025565" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="ALGORITHMS" id="024338" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Process" id="143" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="QUANTITATIVE" id="006272" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Marketing" id="14" percentOfOverall="3">
+        <Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="3" percentOfParentTaxonomy="100">
+          <Skill name="DATA SCIENCE" id="1400075" existsInText="true" required="false" />
+          <Skill name="HADOOP" id="1400328" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Finance" id="7" percentOfOverall="3">
+        <Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="2" percentOfParentTaxonomy="50">
+          <Skill name="QUANTITATIVE" id="022510" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Other" id="243" percentOfOverall="2" percentOfParentTaxonomy="50">
+          <Skill name="ALGORITHMS" id="017446" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="User Experience" id="93" percentOfOverall="2">
+        <Subtaxonomy name="Industrial Design" id="566" percentOfOverall="2" percentOfParentTaxonomy="100">
+          <Skill name="ARCHITECTURE" id="5570085" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="2">
+        <Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="2" percentOfParentTaxonomy="100">
+          <Skill name="STATISTICS" id="008585" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

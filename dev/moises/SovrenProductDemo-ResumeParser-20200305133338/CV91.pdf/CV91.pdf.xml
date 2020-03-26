@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>ABHISHEK KUMAR</FormattedName>
+				<GivenName>ABHISHEK</GivenName>
+				<FamilyName>KUMAR</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Functional Area: Analytics &amp; Business Intelligence</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Competent professional with over 1 year of experience in Data Analytics &amp; Business Intelligence with expertise in:
+o Developing software solutions, gathering requirements, providing used cases for business, functional &amp; technical
+requirements
+o Executing data mining, information extraction and classification using statistical and linguistic method
+o Analyzing information needs through a regular interaction with clients
+Exposure in documentation (functional specifications, technical design), coding and maintenance of proposed applications
+Insightful knowledge of utilizing data from diverse information systems to build tools and forecasting models that remarkably
+improve organizational decision-making capabilities
+Skilled in Big Data Analysis; established scalable, efficient, automated processes for large scale data analysis
+Merit of managing the entire gamut of Project management from inception to execution for Swarovski and Global Brands as
+a Project Lead</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Ipsos Research Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Analyst</Title>
+					<OrgName>
+						<OrganizationName>Ipsos Research Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description>Key Result Areas:
+Creating project plans in accordance with project management framework standards and procedures; identifying
+ongoing issues within project plans, in order to eliminate implementation issues, using Case Analysis, Gap Analysis, Test
+Plans, Surveys, and Questionnaire
+Studying and analysing business processes &amp; procedures and designed &amp; implementing automated business solutions
+
+
+https://freesearch.naukri.com/preview/printResume?uname=644   0c015948635e4c52481d460e560c6&amp;sid=3810263223&amp;AT=1580681694
+2/2/20 23&amp;15
+
+
+for clients in the industry
+Managing Data Analysis, Data Structures, Data Mapping, Data Validation and Data Visualization, Storage based on the business need
+Synthesizing &amp; communicating results to clients and internal teams and collaborating with client &amp; internal teams to implement solutions
+Structuring and shaping client engagements and solving complex client challenges
+Working closely with business and engineering teams to encourage statistical best practices with respect to experimental design, data capture and data analysis
+Performing value-added quantitative &amp; statistical analysis and providing recommendations to improve rules
+performance; identifying &amp; remediating any inconsistencies or gaps in data and metrics
+Guiding teams in collecting &amp; processing raw data in- coordination with modelling team to create high quality
+deliverables
+Administering the usage of SSIS in case of multiple files at FTP for the correct integration of all these files into a single
+table in SQL server
+
+Highlights:
+Worked as a Project Lead for:
+o Swarovski (11 Markets including USA, China, France, Australia and many more)
+o Global Brands (1 Market - US)</Description>
+					<StartDate>
+						<YearMonth>2018-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Database</CategoryCode>
+						<Comments>Information Technology describes 34% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Ipsos Research</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Ipsos Research</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Jadavpur University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Other Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Other Engineering) from Jadavpur University in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Jadavpur University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Analyst, Data Analytics, Business Intelligence, Statistical Analysis, Project Execution, Requirement
+Gathering, Data Mining, Big Data Analytics, Web Analytics, Data Warehousing, Data Visualization, Data Mapping, Gap
+Analysis, SQL Server, Python
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: Jan-Mar 2020	Last Modified: Jan-Mar 2020
+e5cbe038c4284a2a9386fa4a11bcf6ff
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+DATA WAREHOUSING
+
+SQL Server Management
+
+SQL Server Integration
+
+SQL, MS Excel and Python
+
+DATA MODELING
+
+Predictive Modeling</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;15
+
+
+ABHISHEK KUMAR
+
+
+Analyst, Seeking roles in Data Analytics, Business Intelligence, Statistical
+Analysis, Project Execution, Requirement Gathering, Data Mining, Big Data
+Analytics, Web Analytics, Data Warehousing, Data Visualization, Data Mapping, Gap
+Analysis, SQL Server, Python
+
+
+Current Designation: Analyst	Total Experience: 1 Year(s) 5 Month(s)
+Current Company: Ipsos Research Pvt. Ltd.	Notice Period: 2 Months
+Current Location: Bengaluru / Bangalore	Highest Degree: B.Tech/B.E. [Other Engineering]
+Pref. Location: Delhi, Bengaluru / Bangalore
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: KPO / Research /Analytics
+Marital Status: Single/unmarried
+Key Skills: Data Analyst, Data Analytics, Business Intelligence, Statistical Analysis, Project Execution, Requirement
+Gathering, Data Mining, Big Data Analytics, Web Analytics, Data Warehousing, Data Visualization, Data Mapping, Gap
+Analysis, SQL Server, Python
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: Jan-Mar 2020	Last Modified: Jan-Mar 2020
+e5cbe038c4284a2a9386fa4a11bcf6ff
+
+
+Summary
+Competent professional with over 1 year of experience in Data Analytics &amp; Business Intelligence with expertise in:
+o Developing software solutions, gathering requirements, providing used cases for business, functional &amp; technical
+requirements
+o Executing data mining, information extraction and classification using statistical and linguistic method
+o Analyzing information needs through a regular interaction with clients
+Exposure in documentation (functional specifications, technical design), coding and maintenance of proposed applications
+Insightful knowledge of utilizing data from diverse information systems to build tools and forecasting models that remarkably
+improve organizational decision-making capabilities
+Skilled in Big Data Analysis; established scalable, efficient, automated processes for large scale data analysis
+Merit of managing the entire gamut of Project management from inception to execution for Swarovski and Global Brands as
+a Project Lead
+
+
+Work Experience
+Ipsos Research Pvt. Ltd. as Analyst
+Aug 2018 to Till Date
+Key Result Areas:
+Creating project plans in accordance with project management framework standards and procedures; identifying
+ongoing issues within project plans, in order to eliminate implementation issues, using Case Analysis, Gap Analysis, Test
+Plans, Surveys, and Questionnaire
+Studying and analysing business processes &amp; procedures and designed &amp; implementing automated business solutions
+
+
+https://freesearch.naukri.com/preview/printResume?uname=644   0c015948635e4c52481d460e560c6&amp;sid=3810263223&amp;AT=1580681694
+2/2/20 23&amp;15
+
+
+for clients in the industry
+Managing Data Analysis, Data Structures, Data Mapping, Data Validation and Data Visualization, Storage based on the
+business need
+Synthesizing &amp; communicating results to clients and internal teams and collaborating with client &amp; internal teams to
+implement solutions
+Structuring and shaping client engagements and solving complex client challenges
+Working closely with business and engineering teams to encourage statistical best practices with respect to
+experimental design, data capture and data analysis
+Performing value-added quantitative &amp; statistical analysis and providing recommendations to improve rules
+performance; identifying &amp; remediating any inconsistencies or gaps in data and metrics
+Guiding teams in collecting &amp; processing raw data in- coordination with modelling team to create high quality
+deliverables
+Administering the usage of SSIS in case of multiple files at FTP for the correct integration of all these files into a single
+table in SQL server
+
+Highlights:
+Worked as a Project Lead for:
+o Swarovski (11 Markets including USA, China, France, Australia and many more)
+o Global Brands (1 Market - US)
+
+
+Education
+UG: B.Tech/B.E. (Other Engineering) from Jadavpur University in 2018
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+DATA WAREHOUSING
+
+SQL Server Management
+
+SQL Server Integration
+
+SQL, MS Excel and Python
+
+DATA MODELING
+
+Predictive Modeling
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=644   0c015948635e4c52481d460e560c6&amp;sid=3810263223&amp;AT=1580681694
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Bengaluru / Bangalore</sov:CurrentLocation>
+				<sov:PreferredLocation>Delhi, Bengaluru / Bangalore</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>ABHISHEK KUMAR's experience appears to be somewhat concentrated in Information Technology (mostly Database) and slightly concentrated in User Experience (mostly Web Design). ABHISHEK KUMAR's experience appears to be entry level, with 19 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>19</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>19</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="31">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="16" percentOfParentTaxonomy="50">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA MAPPING" id="014989" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATA MODELING" id="01503802" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MAPPING" id="021223" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="4" percentOfParentTaxonomy="13">
+								<sov:Skill name="BIG DATA ANALYTICS" id="5530909" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PREDICTIVE MODELING" id="5531047" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="3" percentOfParentTaxonomy="11">
+								<sov:Skill name="GAP ANALYSIS" id="018087" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PROJECT PLANS" id="026266" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="2" percentOfParentTaxonomy="7">
+								<sov:Skill name="DATA MODELING" id="024098" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="TECHNICAL DESIGN" id="025754" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="USE CASE" id="024596" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="CASE ANALYSIS" id="012592" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="2" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATA STRUCTURES" id="6180000" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="2" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATA VALIDATION" id="025857" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="2" percentOfParentTaxonomy="5">
+								<sov:Skill name="FTP" id="018004" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA WAREHOUSING" id="015020" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="CODING" id="013739" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="18">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="3" percentOfParentTaxonomy="17">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="3" percentOfParentTaxonomy="17">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="3" percentOfParentTaxonomy="17">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="3" percentOfParentTaxonomy="17">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="3" percentOfParentTaxonomy="17">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="3" percentOfParentTaxonomy="17">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="11">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="11" percentOfParentTaxonomy="96">
+								<sov:Skill name="BEST PRACTICES" id="011365" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA MODELING" id="014996" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA VALIDATION" id="025858" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="METRICS" id="021737" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008576" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="FORECASTING" id="017857" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="8">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="3" percentOfParentTaxonomy="40">
+								<sov:Skill name="TOPO" id="023035" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="MAPPING" id="021224" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="3" percentOfParentTaxonomy="38">
+								<sov:Skill name="STATISTICAL ANALYSIS" id="022186" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Process" id="143" percentOfOverall="2" percentOfParentTaxonomy="21">
+								<sov:Skill name="QUANTITATIVE" id="006272" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Design" id="134" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="TECHNICAL DESIGN" id="025755" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="7">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="7" percentOfParentTaxonomy="96">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="1400072" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="5">
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="3" percentOfParentTaxonomy="61">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="7000125" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008574" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="2" percentOfParentTaxonomy="31">
+								<sov:Skill name="QUANTITATIVE" id="022510" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting" id="705" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="FORECASTING" id="7000318" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="DATA MODELING" id="024099" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="FORECASTING" id="023164" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="5">
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="5" percentOfParentTaxonomy="94">
+								<sov:Skill name="DATA VALIDATION" id="9000104" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="9000111" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Scientific" id="15" percentOfOverall="5">
+							<sov:Subtaxonomy name="Basic" id="376" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXPERIMENTAL DESIGN" id="017067" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008573" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="3">
+							<sov:Subtaxonomy name="Software" id="931" percentOfOverall="3" percentOfParentTaxonomy="96">
+								<sov:Skill name="DATA VALIDATION" id="025856" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="GAP ANALYSIS" id="018086" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="PREDICTIVE MODELING" id="005332" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="3">
+							<sov:Subtaxonomy name="Modeling" id="501" percentOfOverall="3" percentOfParentTaxonomy="95">
+								<sov:Skill name="DATA MODELING" id="024100" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008575" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Planning and Estimating" id="502" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="FORECASTING" id="017858" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="2">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="DOCUMENTATION" id="022620" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="PROJECT PLANS" id="026267" existsInText="true" totalMonths="19" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="WRITING FUNCTIONAL" id="022114" existsInText="false">
+									<sov:ChildSkill name="FUNCTIONAL SPECIFICATIONS" id="0114002" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="MS EXCEL" id="002864" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Call Center or Help Desk or Customer Service" id="46" percentOfOverall="0">
+							<sov:Subtaxonomy name="Management" id="131" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="WRITING FUNCTIONAL" id="022115" existsInText="false">
+									<sov:ChildSkill name="FUNCTIONAL SPECIFICATIONS" id="0114022" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Translations and Language Work" id="91" percentOfOverall="0">
+							<sov:Subtaxonomy name="Semantics" id="902" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="LINGUISTIC" id="200010" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Repair" id="452" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022117" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="44" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="45" ends="79" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="80" ends="83" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="84" ends="99" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="100" ends="114" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>ABHISHEK KUMAR</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=644</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Delhi, Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>4427</sov:ParsedTextLength>
+			<sov:ParseTime>312</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:cd4ff9c1-d02c-499d-ae0c-8ffea0021ff1</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>8jMCAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

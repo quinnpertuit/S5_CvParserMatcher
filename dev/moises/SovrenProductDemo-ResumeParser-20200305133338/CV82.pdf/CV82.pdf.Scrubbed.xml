@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>2 Months experience in Software Development, Software Application Development, Project Management, Requirement
+Gathering, Software Design, Machine Learning, Software Engineering, Algorithms, Data
+Structures, Java, Python, PHP, C++, MATLAB, Open CV, WooCommerce</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Indian Institute Of Space Science And Technology</EmployerOrgName>
+				<PositionHistory positionType="internship">
+					<Title>Intern</Title>
+					<OrgName>
+						<OrganizationName>Indian Institute Of Space Science And Technology</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>UTTARAKHAND</Region>
+							<Municipality>Roorkee</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Designed a content based image retrieval system in MATLAB and presented my work in ?Computer Vision &amp; Image
+Processing Conference, 2016? at IIT Roorkee.
+Organizing Maps in Content-Based Image Classification. CVIP (1) 2016: 309-321</Description>
+					<StartDate>
+						<YearMonth>2015-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2015-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Engineering → Software and Tools</CategoryCode>
+						<Comments>Engineering describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Indian Institute Of Space Science And Technology</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Intern</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Indian Institute Of Space Science And Technology</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>NATIONAL INSTITUTE OF TECHNOLOGY</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science and Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computer Science and Engineering) from NATIONAL INSTITUTE OF TECHNOLOGY in 2016</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>NATIONAL INSTITUTE OF TECHNOLOGY</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<SpeakingEventsHistory>
+			<SpeakingEvent>
+				<EventName></EventName>
+				<EventType>conference</EventType>
+				<Description>proposed method has been compared with systems using k-means clustering for forming VLAD or BOF representations of an</Description>
+			</SpeakingEvent>
+		</SpeakingEventsHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Software Developer, Software Development, Software Application Development, Project
+Management, Requirement Gathering, Software Design, Machine Learning, Software Engineering, Algorithms, Data
+Structures, Java, Python, PHP, C++, MATLAB, Open CV, WooCommerce
+
+Verified: Phone Number |	Email - id
+
+
+ID: 0a764791040cf63e77	Last Active: 28-Jan-20	Last Modified: 28-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Java, Python, PHP, C++
+
+MATLAB, Open CV, WooCommerce
+
+Algorithms and Data Structures</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;13
+
+
+   ~~~~~~  
+
+
+seeking assignment in Software Development, Software Application
+Development, Project Management, Requirement Gathering, Software Design, Machine
+Learning, Software Engineering, Algorithms, Data
+Structures, Java, Python, PHP, C++, MATLAB, Open CV, WooCommerce
+
+
+   ~~~~~~~~~~~~~~~~~~  	Total Experience:    ~~~~~~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: B.Tech/B.E. [Computer Science and
+Engineering]
+Functional Area: IT Software - Application Programming /
+Maintenance
+Role: Software Developer
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Software Developer, Software Development, Software Application Development, Project
+Management, Requirement Gathering, Software Design, Machine Learning, Software Engineering, Algorithms, Data
+Structures, Java, Python, PHP, C++, MATLAB, Open CV, WooCommerce
+
+Verified: Phone Number |	Email - id
+
+
+ID: 0a764791040cf63e77	Last Active: 28-Jan-20	Last Modified: 28-Jan-20
+
+
+Summary
+2 Months experience in Software Development, Software Application Development, Project Management, Requirement
+Gathering, Software Design, Machine Learning, Software Engineering, Algorithms, Data
+Structures, Java, Python, PHP, C++, MATLAB, Open CV, WooCommerce
+
+
+Work Experience
+Indian Institute Of Space Science And Technology as Intern
+May 2015 to Jun 2015
+Designed a content based image retrieval system in MATLAB and presented my work in ?Computer Vision &amp; Image
+Processing Conference, 2016? at IIT Roorkee.
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Organizing Maps in Content-Based Image Classification. CVIP (1) 2016: 309-321
+
+
+Education
+UG: B.Tech/B.E. (Computer Science and Engineering) from NATIONAL INSTITUTE OF TECHNOLOGY in 2016
+
+Other Qualifications/Certifications/Programs:
+Machine learning by Stanford University on Coursera
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     c0d554e110015061946465901594e6&amp;sid=3810263223&amp;AT=1580681561
+2/2/20 23&amp;13
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Java, Python, PHP, C++
+
+MATLAB, Open CV, WooCommerce
+
+Algorithms and Data Structures
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Proficient
+
+
+Projects
+Project Title: Website Scraping
+Client: self
+Nature of Employment: Full Time	Duration: May 2019 - Jun 2019
+Project Location: Noida	Onsite / Offsite: Offsite
+Role: Programmer	Team Size: 1
+Skill Used: Python, Beautiful soup, Selenium
+Project Details: Scraped product details from Myntra, Flipkart, Nykaa and Amazon for price comparison across various
+websites using Beautiful soup and Selenium in Python.
+
+Project Title: Wikipedia Vandalism Detection
+Client: National Institute Of Technology Hamirpur
+Nature of Employment: Full Time	Duration: Jan 2016 - May 2016
+Project Location: National Institute Of Technology Hamirpur	Onsite / Offsite: Onsite
+Role: Programmer	Team Size: 3
+Skill Used: HTML, CSS, PHP, Python
+Project Details: Its a web portal, developed in Html-CSS, PHP and Python. First a database of Wikipedia edits labelled as
+good and bad edits is obtained. The system is trained using this database after calculating feature vectors for each page.
+Then for a given link, Wikipedia page is crawled. Values of all features are calculated from this page to convert the page to a
+feature vector. At last vandalism probability is calculated with the help of Bayesian Belief Network.
+
+Project Title: Product Feature Extraction And Opinion Determination
+Client: National Institute Of Technology Hamirpur
+Nature of Employment: Full Time	Duration: Jul 2015 - Dec 2015
+Project Location: National Institute Of Technology Hamirpur	Onsite / Offsite: Onsite
+Role: Programmer	Team Size: 3
+Skill Used: HTML, CSS, Python
+Project Details: Its a web portal, developed in Html, CSS and Python, which shows users opinion for every feature of the
+product. After crawling web-page, it determines the features with the help of "Mark Watsons FastTag part of speech tagger"
+algorithm and stores their positive and negative opinion, which is shown to the user.
+
+Project Title: Applicability of Self-Organizing Maps in Content-Based Image Classification
+Client: Indian Institute Of Space Science And Technology
+Nature of Employment: Part Time	Duration: May 2015 - Jun 2015
+Project Location: Indian Institute Of Space Science And	Onsite / Offsite: Onsite
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     c0d554e110015061946465901594e6&amp;sid=3810263223&amp;AT=1580681561
+2/2/20 23&amp;13
+
+
+Technology	Team Size: 1
+Role: Programmer
+Skill Used: MATLAB, Machine Learning, Self organising maps, k means clustering
+Role Description: Internship project
+Project Details:    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+It is an image classification tool developed in Matlab. Content-based image classification (CBIC) is a method to classify
+images from large databases into different categories, on the basis of image content. An efficient image representation is an
+important component of a CBIC system. In this paper, we demonstrate that Self-Organizing Maps (SOM)-based clustering
+can be used to form an efficient representation of an image for a CBIC system. The proposed method first extracts Scale-
+Invariant Feature Transform (SIFT) features from images. Then it uses SOM for clustering of descriptors and forming a Bag
+of Features (BOF) or Vector of Locally Aggregated Descriptors (VLAD) representation of image. The performance of
+proposed method has been compared with systems using k-means clustering for forming VLAD or BOF representations of an
+image and it was found to be better.
+
+Project Title: Face recognition
+Client: self
+Nature of Employment: Full Time	Duration: Apr 2015 - May 2015
+Onsite / Offsite: Offsite
+Skill Used: MATLAB, Machine Learning
+Project Details: Trained the system using images of each person from 10k US Adult Faces Database. Then recognized a
+random image from dataset using Principal Component Analysis.
+
+Project Title: Malignant Tumour Detection
+Client: Self
+Nature of Employment: Full Time	Duration: Feb 2015 - Apr 2015
+Role: Programmer	Onsite / Offsite: Offsite
+Team Size: 2
+Skill Used: MATLAB, Machine learning, Clustering Algorithms
+Project Details: Delineated the nodules from thyroid ultrasound images using Spatial Intuitionistic fuzzy C-mean (SIFCM)
+clustering and compared with spatial fuzzy C-mean (SFCM) clustering and intuitionistic fuzzy C-mean (IFCM) clustering.
+Then classified the tumours as benign or malignant.
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     c0d554e110015061946465901594e6&amp;sid=3810263223&amp;AT=1580681561
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Prebuilt Software) and somewhat concentrated in Engineering (mostly Software and Tools).    ~~~~~~  's experience appears to be entry level, with 1 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>1</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>1</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>1</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="63">
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="25" percentOfParentTaxonomy="39">
+								<sov:Skill name="MATLAB" id="021346" existsInText="true" totalMonths="1" lastUsed="2015-06-01" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="11" percentOfParentTaxonomy="17">
+								<sov:Skill name="ALGORITHM" id="022551" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="APPLICATION DEVELOPMENT" id="021556" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="B2B SOFTWARE" id="023446" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE ENGINEERING" id="008221" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="8" percentOfParentTaxonomy="13">
+								<sov:Skill name="K-MEANS" id="7200034" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in CERTIFICATIONS; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PRINCIPAL COMPONENT ANALYSIS" id="7200049" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SELF-ORGANIZING MAP" id="7200056" existsInText="false">
+									<sov:ChildSkill name="SOM" id="7200057" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="6" percentOfParentTaxonomy="10">
+								<sov:Skill name="BAYESIAN" id="5530908" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="CLUSTERING" id="5530921" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in CERTIFICATIONS; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in CERTIFICATIONS; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB PORTAL" id="011010" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="REQUIREMENT GATHERING" id="006830" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SOFTWARE DESIGN" id="025845" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CLUSTERING" id="5551333" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CLUSTERING" id="3490022" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="SELENIUM" id="2000001" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CLUSTERING" id="013564" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA STRUCTURES" id="6180000" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="33">
+							<sov:Subtaxonomy name="Software and Tools" id="310" percentOfOverall="25" percentOfParentTaxonomy="75">
+								<sov:Skill name="MATLAB" id="024275" existsInText="true" totalMonths="1" lastUsed="2015-06-01" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="3" percentOfParentTaxonomy="8">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="7">
+								<sov:Skill name="ALGORITHM" id="022552" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="ITS" id="020239" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SOFTWARE DESIGN" id="080405" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Optical" id="141" percentOfOverall="2" percentOfParentTaxonomy="7">
+								<sov:Skill name="COMPUTER VISION" id="014117" existsInText="true" totalMonths="1" lastUsed="2015-06-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Design" id="134" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="SOFTWARE DESIGN" id="080910" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="2">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="1">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="WORDPRESS" id="3391111" existsInText="false">
+									<sov:ChildSkill name="WOOCOMMERCE" id="3391112" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Nursing" id="99" percentOfOverall="1">
+							<sov:Subtaxonomy name="Techniques" id="457" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="ULTRASOUND" id="010145" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="1">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="SCRAPING" id="007556" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="35" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="36" ends="44" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="45" ends="47" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="48" ends="55" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="56" ends="65" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="66" ends="73" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="74" ends="154" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>6843</sov:ParsedTextLength>
+			<sov:ParseTime>390</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;7] The following section in the resume contains more content than the work history and education sections combined: 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:5491e253-0100-4720-89d9-0cfabf164680</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>b/L9//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

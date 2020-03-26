@@ -1,0 +1,833 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Karan C Gowda",
+          "GivenName": "Karan",
+          "MiddleName": "C",
+          "FamilyName": "Gowda"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Functional Area: IT Software - ERP / CRM"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "2 years of experience as Software Engineer.\r\nWorked on Data Migration from Legacy systems to SAP system using SAP LSMW.\r\nKnowledge of Programming in C, C++.\r\nExperience working in Agile (SCRUM) Development Environment.\r\nKnowledge of Data Structures and Algorithms.\r\nAbility to quickly learn and adapt to new technologies.\r\nAn effective communicator with excellent problem solving and client servicing skills.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Tech Mahindra India Private Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "SAP Data Migration Consultant",
+                "OrgName": {
+                  "OrganizationName": "Tech Mahindra India Private Ltd"
+                },
+                "Description": "https://freesearch.naukri.com/preview/printResume?uname=a09   e4e444510280a5400134f17425c4c6&sid=3810263223&AT=1580680992\r\n2/2/20 23&03",
+                "StartDate": {
+                  "Year": "2003"
+                },
+                "EndDate": {
+                  "AnyDate": "2020-02-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "Tech Mahindra India Private",
+                    "sov:NormalizedTitle": "SAP Data Migration Consultant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Tech Mahindra India Private"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Nestle",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "SAP Data Migration consultant",
+                "OrgName": {
+                  "OrganizationName": "Nestle"
+                },
+                "Description": "Designation: SAP Data Migration consultant.\r\nPROJECT SCOPE:\r\nNestle is a food manufacturing company which needs to have the data coming from all over the world in a single SAP\r\nclient. This project involved loading of the master data from different sources into the SAP using LSMW. The enterprise\r\nproject mainly concentrated on the data quality, data migration and also data integration.\r\nRESPONSIBILITIES:\r\nHad extensive experience in trouble shooting in resolving the defects and also loading the data in DEV, QA and PROD\r\nenvironments.\r\nWorked extensively on the entire tier two as well as tier one object. Worked extensively on material master and all tier two\r\nobjects which are corresponding with the tier1 object.\r\nWorked on best practices in order to push the data into SAP using IDOCS and BAPI.\r\nResolving issues raised via problem tickets by the users after analyzing and discussing the issue with the core team and upon approval from them, by developing and designing solution while continuing to ensure that it meets the business\r\nrequirements.\r\nResponsible for error analysis, research of the same and to provide corrective solutions and suggest preventive actions to avoid recurrence.\r\n\r\n\r\nTechMahindra as Software Engineer\r\nN/A to Till Date",
+                "StartDate": {
+                  "YearMonth": "2015-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 66% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "consultant",
+                    "sov:NormalizedOrganizationName": "Nestle",
+                    "sov:NormalizedTitle": "SAP Data Migration consultant",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "consultant"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Nestle"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "SAP",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Software Engineer",
+                "OrgName": {
+                  "OrganizationName": "SAP"
+                },
+                "Description": "data migration",
+                "StartDate": {
+                  "YearMonth": "2015-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "SAP",
+                    "sov:NormalizedTitle": "Software Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "SAP"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Visveswaraiah Technological University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2015"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2015"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computer Science) from Visveswaraiah Technological University (VTU) in 2015",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Visveswaraiah Technological University"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: SAP Data Migration Consultant, ERP Consultant, SAP Implementation, SAP Upgrade, SAP Support, SAP\r\nConsulting, SAP Project Management, Data Migration, Data Structures, Algorithms, SAP ECC, SAP LSMW, BAPI, SQL\r\nServer, HTML, CSS, JavaScript, C, C++\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 31-Jan-20\tLast Modified: 31-Jan-20\r\n1e84520b8c1045ffb6d4c4d255fb4089\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nC, C++\r\n\r\nSAP ERP\r\n\r\nSQL Server\r\n\r\nHTML, CSS, JAVASCRIPT"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          },
+          {
+            "LanguageCode": "kn",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Kannada"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&03\r\n\r\n\r\nKaran C Gowda\r\n\r\n\r\nSAP Data Migration Consultant, Seeking Roles in SAP Implementation, SAP\r\nUpgrade, SAP Support, SAP Consulting, SAP Project Management, Data\r\nMigration, DataStructures, Algorithms, SAP ECC, SAP\r\nLSMW, BAPI, SQL Server, HTML, CSS, JavaScript, C, C++\r\n\r\n\r\nCurrent Designation: Software Engineer\tTotal Experience: 1 Year(s) 9 Month(s)\r\nCurrent Company: TechMahindra\tNotice Period: 15 Days or less\r\nCurrent Location: Bengaluru / Bangalore\tHighest Degree: B.Tech/B.E. [Computer Science]\r\nPref. Location: Bengaluru / Bangalore\r\nFunctional Area: IT Software - ERP / CRM\r\nRole: ERP Consultant\r\nIndustry: IT-Software/Software Services\r\nMarital Status: Single/unmarried\r\nKey Skills: SAP Data Migration Consultant, ERP Consultant, SAP Implementation, SAP Upgrade, SAP Support, SAP\r\nConsulting, SAP Project Management, Data Migration, Data Structures, Algorithms, SAP ECC, SAP LSMW, BAPI, SQL\r\nServer, HTML, CSS, JavaScript, C, C++\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 31-Jan-20\tLast Modified: 31-Jan-20\r\n1e84520b8c1045ffb6d4c4d255fb4089\r\n\r\n\r\nSummary\r\n2 years of experience as Software Engineer.\r\nWorked on Data Migration from Legacy systems to SAP system using SAP LSMW.\r\nKnowledge of Programming in C, C++.\r\nExperience working in Agile (SCRUM) Development Environment.\r\nKnowledge of Data Structures and Algorithms.\r\nAbility to quickly learn and adapt to new technologies.\r\nAn effective communicator with excellent problem solving and client servicing skills.\r\n\r\n\r\nWork Experience\r\nTechMahindra as Software Engineer\r\nAug 2015 to May 2017\r\nSAP data migration\r\n\r\n\r\nTechMahindra as Software Engineer\r\nAug 2015 to May 2017\r\nSAP data migration\r\n\r\n\r\nTech Mahindra India Private Ltd, as SAP Data Migration Consultant\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=a09   e4e444510280a5400134f17425c4c6&sid=3810263223&AT=1580680992\r\n2/2/20 23&03\r\n\r\n\r\nAug 2015 to Jun 2017\r\nPROJECT PROFILE:\r\nProject Type: Support & Application Management.\r\nEnvironment: SAP R/3, ECC 6.0.\r\nClient: Nestle.\r\nDesignation: SAP Data Migration consultant.\r\nPROJECT SCOPE:\r\nNestle is a food manufacturing company which needs to have the data coming from all over the world in a single SAP\r\nclient. This project involved loading of the master data from different sources into the SAP using LSMW. The enterprise\r\nproject mainly concentrated on the data quality, data migration and also data integration.\r\nRESPONSIBILITIES:\r\nHad extensive experience in trouble shooting in resolving the defects and also loading the data in DEV, QA and PROD\r\nenvironments.\r\nWorked extensively on the entire tier two as well as tier one object. Worked extensively on material master and all tier two\r\nobjects which are corresponding with the tier1 object.\r\nWorked on best practices in order to push the data into SAP using IDOCS and BAPI.\r\nResolving issues raised via problem tickets by the users after analyzing and discussing the issue with the core team and\r\nupon approval from them, by developing and designing solution while continuing to ensure that it meets the business\r\nrequirements.\r\nResponsible for error analysis, research of the same and to provide corrective solutions and suggest preventive actions to\r\navoid recurrence.\r\n\r\n\r\nTechMahindra as Software Engineer\r\nN/A to Till Date\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computer Science) from Visveswaraiah Technological University (VTU) in 2015\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nC, C++\r\n\r\nSAP ERP\r\n\r\nSQL Server\r\n\r\nHTML, CSS, JAVASCRIPT\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\nKannada\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=a09   4e444510280a5400134f17425c4c6&sid=3810263223&AT=1580680992\r\n2/2/20 23&03\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: OBC - non-creamy\tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=a09   4e444510280a5400134f17425c4c6&sid=3810263223&AT=1580680992\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore",
+          "sov:WillingToRelocate": "No",
+          "sov:VisaStatus": "Category: OBC - non-creamy"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Karan C Gowda's experience appears to be strongly concentrated in Information Technology (mostly ERP and CRM) and slightly concentrated in User Experience (mostly Web Design). Karan C Gowda has 16 years of work experience.",
+          "sov:MonthsOfWorkExperience": "195",
+          "sov:AverageMonthsPerEmployer": "65",
+          "sov:FulltimeDirectHirePredictiveIndex": "32",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "98",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "32",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "BAPI",
+                            "@id": "010304",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2017-06-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "ERP",
+                            "@id": "016891",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SAP",
+                            "@id": "007436",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-3",
+                            "@childrenTotalMonths": "22",
+                            "@childrenLastUsed": "2017-06-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "R/3",
+                                "@id": "006324",
+                                "@existsInText": "true",
+                                "@totalMonths": "22",
+                                "@lastUsed": "2017-06-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "32",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA INTEGRATION",
+                            "@id": "5530949",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2017-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "DATA MIGRATION",
+                            "@id": "5530953",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "ENTERPRISE RESOURCE PLANNING",
+                            "@id": "5530983",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ERP",
+                                "@id": "5530984",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "31",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MIGRATION",
+                            "@id": "014990",
+                            "@existsInText": "true",
+                            "@totalMonths": "193",
+                            "@lastUsed": "2020-02-02",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2017-06-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA QUALITY",
+                            "@id": "015002",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2017-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "22",
+                            "@childrenLastUsed": "2017-06-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@totalMonths": "22",
+                                "@lastUsed": "2017-06-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BEST PRACTICES",
+                            "@id": "011365",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2017-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "PROBLEM SOLVING",
+                            "@id": "005482",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "362",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "FOOD MANUFACTURING",
+                            "@id": "017828",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2017-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "80",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          },
+                          {
+                            "@name": "EMPLOYEE RESOURCE GROUP",
+                            "@id": "9000074",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ERP",
+                                "@id": "9000075",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "QA",
+                            "@id": "006125",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2017-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "40",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "41",
+              "@ends": "84",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "85",
+              "@ends": "88",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "89",
+              "@ends": "100",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "101",
+              "@ends": "121",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Karan C Gowda"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=a09"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Work Authorization\r\nCategory: OBC - non-creamy",
+              "Current Location: Bengaluru / Bangalore",
+              "Pref. Location: Bengaluru / Bangalore",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3913",
+        "sov:ParseTime": "359",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:2095aac9-73fa-4a09-a689-39d684d2b624",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "W5j+//////8="
+      }
+    }
+  }
+}

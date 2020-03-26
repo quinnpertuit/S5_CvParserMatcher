@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ManagementLevel>none</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Student</MainJobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <MainEmployerName>Sao Paulo and New York. The Group</MainEmployerName>
+    <EmployerName>Sao Paulo and New York. The Group</EmployerName>
+    <EmployerName>Choose My Company</EmployerName>
+  </EmployerNames>
+  <CurrentLocation>
+    <Municipality>Brussels</Municipality>
+    <CountryCode>BE</CountryCode>
+  </CurrentLocation>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>Master</DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>masters</RequiredDegree>
+  <SourceText>Postulez
+
+Founded in 2000, Beijaflore is an operational consulting firm specialising in digital strategy with an international presence and offices in Paris, Brussels, Rio de Janeiro, Sao Paulo and New York. The Group has brought together over 1,250 employees around a single mission: supporting companies in implementing their digital strategy.
+With its Graphene Advisory entity, Beijaflore assists companies in the valuation of their data through Artificial Intelligence projects. By offering complete solutions, from the identification of use cases to the development of the solution and its deployment, Graphène Advisory brings companies to create their business of tomorrow. These solutions are based on Machine Learning and AI based on flexible, modular and scalable architectures called Big Data architectures. Semantic analysis and its many applications such as ChatBot has become a major issue for operational optimization of companies. Beyond these business applications, the semantic analysis reaches a maturity today allowing the interactions between the human and the artificial intelligence.
+
+Would you like to join a multidisciplinary and complementary team that supports its clients in the realization of projects around AI and Machine Learning?
+
+As part of the development of applied solutions such as sentiment and text analysis, you will be in charge of developing a semantic analysis engine based on three different methods and apply it to the context of market finance (support, research or decision support).
+
+You will be more specifically responsible for:
+Study the bibliography on new methods of analysis of texts and documents
+Identify three methods of semantic analysis (statistics, Neural network, …)
+Test and apply these methods in the area of market finance (yield curve, volatility curve).
+In order to carry out your missions, you have the following skills:
+Mastery of semantic analysis techniques and conversational agents
+Introduction to neural networks and unstructured data
+Mastery of Machine Learning methods (classification and clustering)
+Mastery of data science tools (R, Python, Scala)
+Student from a major engineering school, you follow a Master or a specialization in Data Science. You are autonomous, persevering and rigorous. You also enjoy teamwork. The quality of our internships has been rewarded by obtaining the Happy Trainees / Choose My Company label. Because we are committed to developing the potential of each student, we train you throughout your internship period in a hiring perspective.</SourceText>
+  <RevisionDate>2020-03-08</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>54UBAAAAAAA=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="65">
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="16" percentOfParentTaxonomy="25">
+          <Skill name="ARTIFICIAL INTELLIGENCE" id="5530905" existsInText="true" required="false" />
+          <Skill name="CLUSTERING" id="5530921" existsInText="true" required="false" />
+          <Skill name="DATA SCIENCE" id="5530958" existsInText="true" required="false" />
+          <Skill name="MACHINE LEARNING" id="5531016" existsInText="true" required="false" />
+          <Skill name="UNSTRUCTURED DATA" id="5531073" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Machine Learning" id="720" percentOfOverall="10" percentOfParentTaxonomy="15">
+          <Skill name="DATA SCIENCE" id="7200001" existsInText="true" required="false" />
+          <Skill name="NEURAL NETWORKS" id="7200042" existsInText="true" required="false" />
+          <Skill name="MACHINE LEARNING" id="7200149" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Compiler &amp; Runtime" id="719" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="SEMANTIC ANALYSIS" id="7190060" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="CLUSTERING" id="5551333" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Gaming" id="551" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="SCALA" id="5510135" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="CLUSTERING" id="3490022" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Security" id="338" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="MACHINE LEARNING" id="3380002" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="DEPLOYMENT" id="023631" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Reporting" id="341" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="DECISION SUPPORT" id="023179" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Network" id="198" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="CLUSTERING" id="013564" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Architecture" id="201" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="USE CASES" id="010312" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Multimedia" id="351" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="SCALA" id="007474" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="PYTHON" id="006120" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Data Mining" id="192" percentOfOverall="3" percentOfParentTaxonomy="5">
+          <Skill name="ARTIFICIAL INTELLIGENCE" id="003449" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="10">
+        <Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="10" percentOfParentTaxonomy="100">
+          <Skill name="NEURAL" id="200040" existsInText="true" required="false">
+            <ChildSkill name="NEURAL NETWORK" id="200038" existsInText="true" required="false" />
+            <ChildSkill name="NEURAL NETWORKS" id="200039" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Translations and Language Work" id="91" percentOfOverall="6">
+        <Subtaxonomy name="Semantics" id="902" percentOfOverall="6" percentOfParentTaxonomy="100">
+          <Skill name="SEMANTIC" id="200007" existsInText="true" required="false" />
+          <Skill name="SEMANTIC ANALYSIS" id="200008" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Marketing" id="14" percentOfOverall="6">
+        <Subtaxonomy name="Digital" id="599" percentOfOverall="3" percentOfParentTaxonomy="50">
+          <Skill name="DIGITAL STRATEGY" id="1400259" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="3" percentOfParentTaxonomy="50">
+          <Skill name="DATA SCIENCE" id="1400075" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Engineering" id="5" percentOfOverall="6">
+        <Subtaxonomy name="General Engineering" id="307" percentOfOverall="3" percentOfParentTaxonomy="50">
+          <Skill name="OPTIMIZATION" id="023295" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="3" percentOfParentTaxonomy="50">
+          <Skill name="NEURAL NETWORK" id="003431" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Finance" id="7" percentOfOverall="3">
+        <Subtaxonomy name="Other" id="243" percentOfOverall="3" percentOfParentTaxonomy="100">
+          <Skill name="FINANCE" id="023147" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="3">
+        <Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="3" percentOfParentTaxonomy="100">
+          <Skill name="STATISTICS" id="008585" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

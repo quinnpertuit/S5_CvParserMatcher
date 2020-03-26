@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Dipesh Kumar Barai, M.Sc. in Statistics, Skilled in Data Science, Python, Machine Learning, Deep Learning</FormattedName>
+				<GivenName>Dipesh</GivenName>
+				<MiddleName>Kumar</MiddleName>
+				<FamilyName>Barai</FamilyName>
+				<Affix type="qualification">M.Sc. in Statistics</Affix>
+				<Affix type="qualification">Skilled in Data Science</Affix>
+				<Affix type="qualification">Python</Affix>
+				<Affix type="qualification">Machine Learning</Affix>
+				<Affix type="qualification">Deep Learning</Affix>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Bengaluru / Bangalore</AddressLine>
+						<AddressLine>0 Year(s) 0 Month(s)</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>I have completed my Master's degree in statistics also have completed some of the online courses in Data Science, Machine
+Learning. I want to implement my skills and learn more about Data Science. Even though I am freshers, I assure you that I will
+give my best and work to my full potential.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Affirmative Action</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>Affirmative Action</OrganizationName>
+					</OrgName>
+					<Description>Work Authorization
+https://freesearch.naukri.com/preview/printResume?uname=ed8   14018585879061742504d1d421e056&amp;sid=3810263223&amp;AT=1580681420
+2/2/20 23&amp;11
+
+
+Category: OBC - non-creamy	Countries: India
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ed8   4018585879061742504d1d421e056&amp;sid=3810263223&amp;AT=1580681420
+de 3</Description>
+					<StartDate>
+						<Year>2011</Year>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2020-02-02</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Affirmative Action</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Affirmative Action</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Data Science</EmployerOrgName>
+				<PositionHistory positionType="internship">
+					<Title>Fresher Trainee</Title>
+					<OrgName>
+						<OrganizationName>Data Science</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2019-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2020-01</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Data Science</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Fresher Trainee</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Data Science</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Visva-Bharati University</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Asst. Prof</Title>
+					<OrgName>
+						<OrganizationName>Visva-Bharati University</OrganizationName>
+					</OrgName>
+					<Description>Project Title: A RANDOMIZED RESPONSE BASED OPINION POLL BEFORE LOKSABHA ELECTION 2019
+Client: Mr. Soumalya Mukhopadhyay, Asst. Prof. Visva-Bharati University</Description>
+					<StartDate>
+						<Year>2019</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2019</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SF">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Visva Bharati University</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Assistant Prof</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Asst</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Visva Bharati University</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>InsAnalytics</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Mr. Goutam Das, CEO &amp; CHIEF DATA SCIENTIST</Title>
+					<OrgName>
+						<OrganizationName>InsAnalytics</OrganizationName>
+					</OrgName>
+					<Description>Onsite / Offsite: Offsite
+Project Details: Using the ML algorithm we predict the household price.</Description>
+					<StartDate>
+						<YearMonth>2019-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Engineering → General Engineering</CategoryCode>
+						<Comments>Engineering describes 50% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior Executive (President, C-level)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>InsAnalytics</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Mr Goutam Das CEO AND CHIEF DATA SCIENTIST</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Goutam Das, CEO &amp; CHIEF DATA SCIENTIST</sov:Subtitle>
+								<sov:Subtitle>CEO &amp; CHIEF DATA SCIENTIST</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>InsAnalytics</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Autonomous</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Moumita Roy, Asst. Prof</Title>
+					<OrgName>
+						<OrganizationName>Autonomous</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>WEST BENGAL</Region>
+							<Municipality>Midnapore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Onsite / Offsite: Offsite
+Project Details: Through this project, I can able to know the consistency of the player. How well the player performed.</Description>
+					<StartDate>
+						<YearMonth>2017-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Autonomous</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Moumita Roy Assistant Prof</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Moumita Roy, Asst</sov:Subtitle>
+								<sov:Subtitle>Asst</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Autonomous</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Visva Bharti University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>WEST BENGAL</Region>
+					<Municipality>Birbhum</Municipality>
+				</PostalAddress>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Statistics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MS/M.Sc(Science) (Statistics) from Visva Bharti University, Birbhum in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Visva Bharti University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Vidyasagar University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Sc</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Statistics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Sc (Statistics) from Vidyasagar University in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>BSc</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>BSc</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Vidyasagar University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Computer
+Vision, Regression, Time Series Analysis, Logistic Regression, Predictive Modeling, Cluster Analysis, Statistical
+Analysis, Python, Tableau, R, Statistics
+
+Verified: Phone Number |	Email - id
+
+
+ID: 3dde536429203ab509	Last Active: 2-Feb-20	Last Modified: 30-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python	3	2020	0 Year(s) 6 Month(s)
+
+TABLEAU	Public   2020	0 Year(s) 6 Month(s)
+
+R	3.6.2	2020	2 Year(s) 0 Month(s)
+
+C	18	2019	1 Year(s) 0 Month(s)
+
+Pandas, Numpy, Keras
+
+Microsoft Office
+
+WINDOWS</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>bn</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Bengali	Expert</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;11
+
+
+Dipesh Kumar Barai
+
+
+M.Sc. in Statistics, Skilled in Data Science, Python, Machine Learning, Deep Learning,
+Computer Vision and NLP. Good understanding of ML/DL algorithms. Self-motivated,
+proactive and Excellent communication skills. Can work well in a team.
+
+
+Current Location: Bengaluru / Bangalore	Total Experience: 0 Year(s) 0 Month(s)
+Pref. Location: Bengaluru / Bangalore	Notice Period: 15 Days or less
+Functional Area: Analytics &amp; Business Intelligence	Highest Degree: MS/M.Sc(Science) [Statistics]
+Role: Data Analyst
+Industry: KPO / Research /Analytics
+Marital Status: Single/unmarried
+Key Skills: Data Science, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Computer
+Vision, Regression, Time Series Analysis, Logistic Regression, Predictive Modeling, Cluster Analysis, Statistical
+Analysis, Python, Tableau, R, Statistics
+
+Verified: Phone Number |	Email - id
+
+
+ID: 3dde536429203ab509	Last Active: 2-Feb-20	Last Modified: 30-Jan-20
+
+
+Summary
+I have completed my Master's degree in statistics also have completed some of the online courses in Data Science, Machine
+Learning. I want to implement my skills and learn more about Data Science. Even though I am freshers, I assure you that I will
+give my best and work to my full potential.
+
+
+Work Experience
+Data Science as Fresher Trainee
+Aug 2019 to Jan 2020
+
+
+Education
+UG: B.Sc (Statistics) from Vidyasagar University in 2017
+
+PG: MS/M.Sc(Science) (Statistics) from Visva Bharti University, Birbhum in 2019
+
+Other Qualifications/Certifications/Programs:
+Machine Learning with Python
+Integrated Course on Data Science Using Python
+Machine Learning, Hands-On Python in Data Science
+Data Scientist
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ed8   14018585879061742504d1d421e056&amp;sid=3810263223&amp;AT=1580681420
+2/2/20 23&amp;11
+
+
+Deep Learning, Hands-On Python in Data Science
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python	3	2020	0 Year(s) 6 Month(s)
+
+TABLEAU	Public   2020	0 Year(s) 6 Month(s)
+
+R	3.6.2	2020	2 Year(s) 0 Month(s)
+
+C	18	2019	1 Year(s) 0 Month(s)
+
+Pandas, Numpy, Keras
+
+Microsoft Office
+
+WINDOWS
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Proficient
+
+Bengali	Expert
+
+
+Projects
+Project Title: Household Price Analysis
+Client: Mr. Goutam Das, CEO &amp; CHIEF DATA SCIENTIST (InsAnalytics)
+Nature of Employment: Full Time	Duration: Aug 2019 - Nov 2019
+Onsite / Offsite: Offsite
+Project Details: Using the ML algorithm we predict the household price.
+
+Project Title: A RANDOMIZED RESPONSE BASED OPINION POLL BEFORE LOKSABHA ELECTION 2019
+Client: Mr. Soumalya Mukhopadhyay, Asst. Prof. Visva-Bharati University
+Nature of Employment: Full Time	Duration: Jan 2019 - Jul 2019
+Onsite / Offsite: Offsite
+Project Details: Using the Randomized Response Technique we predict the election result before the election process.
+
+Project Title: PERFORMANCE ASSESMENT OF BATSMEN &amp; BOWLERS IN ONEDAY CRICKET
+Client: Ms. Moumita Roy, Asst. Prof. Midnapore College (Autonomous)
+Nature of Employment: Full Time	Duration: Apr 2017 - Jun 2017
+Onsite / Offsite: Offsite
+Project Details: Through this project, I can able to know the consistency of the player. How well the player performed.
+
+
+Affirmative Action	Work Authorization
+
+https://freesearch.naukri.com/preview/printResume?uname=ed8   14018585879061742504d1d421e056&amp;sid=3810263223&amp;AT=1580681420
+2/2/20 23&amp;11
+
+
+Category: OBC - non-creamy	Countries: India
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ed8   4018585879061742504d1d421e056&amp;sid=3810263223&amp;AT=1580681420
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Bengaluru / Bangalore</sov:CurrentLocation>
+				<sov:PreferredLocation>Bengaluru / Bangalore</sov:PreferredLocation>
+				<sov:WillingToRelocate>No</sov:WillingToRelocate>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Dipesh Kumar Barai's experience appears to be mostly concentrated in Information Technology (mostly Programming) and somewhat concentrated in Business Operations and General Business (mostly General Skills and Activities). Dipesh Kumar Barai has 8 years of work experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>101</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>20</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>40</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>3</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>100</sov:HighestManagementScore>
+				<sov:ExecutiveType>general</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 8/1/2019, the candidate held the following executive-level management position for 3 months:
+	Title: Mr. Goutam Das, CEO &amp; CHIEF DATA SCIENTIST for InsAnalytics</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="51">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="18" percentOfParentTaxonomy="35">
+								<sov:Skill name="ALGORITHM" id="022551" existsInText="true" totalMonths="3" lastUsed="2019-11-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="NATURAL" id="003276" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS">
+									<sov:ChildSkill name="KERAS" id="3391124" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="NUMPY" id="3391118" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="PANDAS" id="3391116" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="14" percentOfParentTaxonomy="27">
+								<sov:Skill name="DAS" id="5551108" existsInText="true" totalMonths="3" lastUsed="2019-11-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="8" percentOfParentTaxonomy="16">
+								<sov:Skill name="ARTIFICIAL INTELLIGENCE" id="5530905" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+								<sov:Skill name="NATURAL LANGUAGE PROCESSING" id="5531029" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PREDICTIVE MODELING" id="5531047" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="7" percentOfParentTaxonomy="15">
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DEEP LEARNING" id="7200018" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+								<sov:Skill name="LOGISTIC REGRESSION" id="7200039" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="ARTIFICIAL INTELLIGENCE" id="003449" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="45">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="45" percentOfParentTaxonomy="100">
+								<sov:Skill name="STATISTICS" id="008585" existsInText="true" lastUsed="2019-01-01" whereFound="Found in EDUCATION; SKILLS; SUMMARY; DEG-1; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="3">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="1">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="1">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="17" ends="26" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="27" ends="32" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="33" ends="37" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="38" ends="42" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="43" ends="56" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="57" ends="74" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="75" ends="84" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="85" ends="117" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Dipesh Kumar Barai</sov:Name>
+					<sov:Name>Dipesh Kumar Barai
+
+
+M.Sc. in Statistics, Skilled in Data Science, Python, Machine Learning, Deep Learning</sov:Name>
+					<sov:Name>M.Sc. in Statistics, Skilled in Data Science, Python, Machine Learning, Deep Learning,</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=ed8</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Current Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Pref. Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+					<sov:OtherDatum>0 Year(s) 0 Month(s)</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>3670</sov:ParsedTextLength>
+			<sov:ParseTime>438</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;4,5,7] Each of the following sections in the resume contain more content than the work history and education sections combined: 'Qualifications/Certifications/Programs:', 'IT Skills', 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:221;POS-5] We could not find a job title for: POS-5. Every position in a resume should have a job title.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:588cc637-9cab-4d8b-9948-0934ab5c1e42</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>TRAAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

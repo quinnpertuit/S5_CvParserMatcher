@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>1+ Experienced Employed with a demonstrated history of working in the information technology
+and services industry. Skilled in Python (Programming Language), Django, Data Science, Data
+Analysis, Machine Learning, Statistics. Strong entrepreneurship professional with a Bachelor's
+Degree focused in BCA from Apex Institute of Management &amp; Science.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Self Employed</EmployerOrgName>
+				<PositionHistory positionType="contract" currentEmployer="true">
+					<Title>Freelancer</Title>
+					<OrgName>
+						<OrganizationName>Self Employed</OrganizationName>
+					</OrgName>
+					<Description>Web Development (python &amp; Django)
+GUI Development
+Data Extraction / ETl
+web Scraping</Description>
+					<StartDate>
+						<YearMonth>2019-02</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 79% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Self Employed</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Freelancer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Self Employed</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>AppBox Lab Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Jr. Software Developer</Title>
+					<OrgName>
+						<OrganizationName>AppBox Lab Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description>Designed the Web application using Python on the Django Web Framework pattern to make it
+extensible and flexible.
+Designed the Desktop application Using Python on Tkinter and SQLi.
+Developed scalable applications using Python.
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     04019455b2d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580681112
+2/2/20 23&amp;05
+
+
+Build all database mapping.
+Used data structures like directories, tuples, object-oriented class-based inheritance features for
+making.
+Wrote and executed various MYSQL database queries from python using Python-MySQL
+connector and MySQL dB package.
+Writing test cases and Reviewing test cases.</Description>
+					<StartDate>
+						<YearMonth>2017-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-01</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 57% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>AppBox Lab</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Junior Software Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>AppBox Lab</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Rajasthan University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>BCA</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: BCA (Computers) from Rajasthan University in 2017
+
+PG: Data Science (Data science) in 0</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Rajasthan University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: data analyst, data analysis, quantitative analysis, data science, data mining, data visualization, predictive
+modelling, statistical analysis, machine learning algorithms, linear regression, logistic
+regression, clustering, python, postgresql, mysql, pca, aws, r
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 2-Feb-20
+c36d35f972ef4451bb6e0a55a46d9766
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+EXCEL	2013	2018	2 Month(s)
+
+Python	v3.7	2018	1 Year(s) 4 Month(s)
+
+aws, linux	2018	1 Year(s) 4 Month(s)
+
+Data Structures	2 Month(s)
+
+ALGORITHMS	2 Month(s)
+
+MySQL	1 Year(s) 3 Month(s)
+
+PostgreSQL, MySQL</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Expert</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;05
+
+
+   ~~~~~~~~~~~~~~~~~  
+
+
+seeking roles in Data Analysis, Quantitative Analysis, Data Science, Data Mining, Data
+Visualization, Predictive Modelling, Statistical Analysis, Machine Learning
+Algorithms, Linear Regression, Logistic
+Regression, Clustering, Python, PostgreSQL, MySQL, AWS
+
+
+Current Designation: Freelancer	Total Experience: 1 Year(s) 2 Month(s)
+Current Company: Self Employed	Notice Period: 15 Days or less
+   ~~~~~~~~~~~~~~~~~~  	Highest Degree: Data Science [Data science]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: KPO / Research /Analytics
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: data analyst, data analysis, quantitative analysis, data science, data mining, data visualization, predictive
+modelling, statistical analysis, machine learning algorithms, linear regression, logistic
+regression, clustering, python, postgresql, mysql, pca, aws, r
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 2-Feb-20
+c36d35f972ef4451bb6e0a55a46d9766
+
+
+Summary
+1+ Experienced Employed with a demonstrated history of working in the information technology
+and services industry. Skilled in Python (Programming Language), Django, Data Science, Data
+Analysis, Machine Learning, Statistics. Strong entrepreneurship professional with a Bachelor's
+Degree focused in BCA from Apex Institute of Management &amp; Science.
+
+
+Work Experience
+Self Employed as Freelancer
+Feb 2019 to Till Date
+Web Development (python &amp; Django)
+GUI Development
+Data Extraction / ETl
+web Scraping
+
+
+AppBox Lab Pvt. Ltd. as Jr. Software Developer
+Dec 2017 to Jan 2019
+Designed the Web application using Python on the Django Web Framework pattern to make it
+extensible and flexible.
+Designed the Desktop application Using Python on Tkinter and SQLi.
+Developed scalable applications using Python.
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     04019455b2d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580681112
+2/2/20 23&amp;05
+
+
+Build all database mapping.
+Used data structures like directories, tuples, object-oriented class-based inheritance features for
+making.
+Wrote and executed various MYSQL database queries from python using Python-MySQL
+connector and MySQL dB package.
+Writing test cases and Reviewing test cases.
+
+
+Education
+UG: BCA (Computers) from Rajasthan University in 2017
+
+PG: Data Science (Data science) in 0
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+EXCEL	2013	2018	2 Month(s)
+
+Python	v3.7	2018	1 Year(s) 4 Month(s)
+
+aws, linux	2018	1 Year(s) 4 Month(s)
+
+Data Structures	2 Month(s)
+
+ALGORITHMS	2 Month(s)
+
+MySQL	1 Year(s) 3 Month(s)
+
+PostgreSQL, MySQL
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Expert
+
+
+Projects
+Project Title: BUG IN AMAZON
+Client: Open Packet
+Nature of Employment: Contractual	Duration: Dec 2018 - Dec 2018
+Project Location: bangalore	Onsite / Offsite: Offsite
+Role: Other	Team Size: 1
+Skill Used: Testing, Manual Testing, Web Testing, Browser Testing
+Project Details: Find Security Issue in Amazon website
+
+Project BUG REOPT EMAIL
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     04019455b2d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580681112
+2/2/20 23&amp;05
+
+
+Project Title: Project Data Manager
+Client: James P. Gunn
+Nature of Employment: Full Time	Duration: Oct 2018 - Oct 2018
+Project Location: bangalore	Onsite / Offsite: Offsite
+Role: Programmer	Team Size: 1
+Skill Used: Python, SQLite, Gui Development
+Role Description: Responsibility:-
+1) Create Front-end and Back-end program in python.
+2) Create GUI in python with Python Tkinter library.
+3) Create Database with Python Sqlite3 library.
+4) Create .Exe(executable) for Client.
+
+Project Details: Description:- Client want a private program to maintain customer data.
+with Add data, update data, search data, view all data,
+
+Tools:- Python, Sqlite3, Tkinter, Pyinstaller.
+
+Download File:-    ~~~~~~~~~~~~~~~~~~  
+
+Project Title: Web Scraping
+Client: Working As A Freelancer
+Nature of Employment: Full Time	Duration: Oct 2018 - Oct 2018
+Project Location: bangalore	Onsite / Offsite: Offsite
+Role: Programmer	Team Size: 1
+Skill Used: Python
+Role Description: Scraping Data from Different Web Site and Collecting Rich Info form all website
+Project Details: Scraping Data From Web site
+&gt; App developers
+&gt; CEO, California
+&gt; IT managers, Chicago
+&gt; Staffing leads
+
+Project Title: Employ Form
+Client: Martyn
+Nature of Employment: Full Time	Duration: Sep 2018 - Nov 2018
+Onsite / Offsite: Offsite
+Project Details: Create a Employ Form where employ can submit Daily work report and print out put in CSV.
+
+Tools: Django, Sqlite
+
+Role:- Backend web app Developer
+
+Project Title: LAN
+Client: Collage
+Nature of Employment: Full Time	Duration: Jun 2017 - Jun 2017
+Project Location: JAIPUR	Onsite / Offsite: Offsite
+Role: Network/System Administrator	Team Size: 2
+Skill Used: VLAN Configuration, IP Addressing, Subnetting, Switch Configuration, Cabling
+Role Description: Created a LAN network for college game
+Use Subnetting
+Configuration of Switch
+Used Ethernet cable and managed traffic on LAN
+Project Details: In this project, a small LAN project was created during college fest, which helped in managing quiz and game
+competition.
+
+Project Title:    ~~~~~~~~~~  
+Client: Collage
+Nature of Employment: Full Time	Duration: Nov 2016 - Apr 2017
+Project Location: JAIPUR	Onsite / Offsite: Offsite
+Role: Programmer	Team Size: 5
+Skill Used: Wordpress, PHP
+Role Description: Developed BBP for website
+User different payment gateways (Paypal, BTC, Paytm, Netbaking, Cash, Amazon
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     04019455b2d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580681112
+2/2/20 23&amp;05
+
+
+Gift and PS Gift Card)
+Managed traffic on website
+Established an Address Verification Team and created Client ID
+Project Details: Btccapital is bitcoin selling website and it based on C2C business, where customer sell bitcoin to another
+customer at a suitable price. As the price of bitcoin outside India is different and in India is different so this platform helped
+the customer to find better option.
+
+Project Title: PC Game
+Client: Collage
+Nature of Employment: Full Time	Duration: Sep 2016 - Feb 2017
+Project Location: JAIPUR	Onsite / Offsite: Offsite
+Role: Programmer	Team Size: 1
+Skill Used: Unity3D, Blender, C#
+Role Description: Designed 3D Crater and game environment in Blender
+Edited sound and Render environment in Unity3D
+Created script for game and players in C#
+Performed testing on the game
+Project Details: This project is about Survival Shoot, a third person shooting game in PC. It is a story of a boy who dreamt
+that his toys are fighting with each other and the main hero is sleeping baby toy who is fighting with enemy toy (elephant and
+bunny). It is a normal shooting game in 3D which is a continuous hitting and scorning game.
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Countries: India
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     04019455b2d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580681112
+de 4</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Light Technical/Trades/Skilled Labor (mostly Other).    ~~~~~~~~~~~~~~~~~  's experience appears to be lower-to-mid level, with about 2 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>27</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>13</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>25</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="79">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="43" percentOfParentTaxonomy="55">
+								<sov:Skill name="C#" id="012275" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DJANGO" id="3391160" existsInText="true" totalMonths="27" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="FRONT-END" id="017986" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="GUI" id="018626" existsInText="true" totalMonths="13" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="OBJECT-ORIENTED" id="023329" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY; POS-2" childrenTotalMonths="14" childrenLastUsed="2019-01-31">
+									<sov:ChildSkill name="TKINTER" id="3391122" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="WEB SCRAPING" id="3391142" existsInText="true" totalMonths="13" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="14" percentOfParentTaxonomy="18">
+								<sov:Skill name="DJANGO" id="5510043" existsInText="true" totalMonths="27" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="8" percentOfParentTaxonomy="9">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="14" childrenLastUsed="2019-01-31">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="POSTGRESQL" id="3391132" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQLITE" id="3391131" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="5" percentOfParentTaxonomy="6">
+								<sov:Skill name="GRAPHICAL USER INTERFACE" id="7310031" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="GUI" id="7310032" existsInText="true" totalMonths="13" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="CLUSTERING" id="5530921" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" whereFound="Found in EDUCATION; SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="ETL" id="5530987" existsInText="true" totalMonths="13" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="SEARCH DATA" id="5531057" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="DATA STRUCTURES" id="6180000" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Middleware and Integration" id="345" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="ETL" id="016965" existsInText="true" totalMonths="13" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" whereFound="Found in EDUCATION; SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="LINEAR REGRESSION" id="7200037" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CLUSTERING" id="3490022" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="VLAN" id="3490015" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CLUSTERING" id="013564" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="VLAN" id="010672" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Privacy and Data Security" id="556" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="VLAN" id="5551274" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SECURITY" id="022110" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ETHERNET" id="016959" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="WEB TESTING" id="011026" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Telephony" id="347" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APEX" id="026854" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CLUSTERING" id="5551333" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="4">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="SCRAPING" id="007556" existsInText="true" totalMonths="13" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="4">
+							<sov:Subtaxonomy name="General" id="430" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="WRITING TEST" id="025102" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="WRITING TEST CASES" id="011430" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="TOPO" id="023035" existsInText="false" childrenTotalMonths="14" childrenLastUsed="2019-01-31">
+									<sov:ChildSkill name="MAPPING" id="021224" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="1" percentOfParentTaxonomy="42">
+								<sov:Skill name="WRITING TEST" id="025103" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="STATISTICAL ANALYSIS" id="022186" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Process" id="143" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="QUANTITATIVE" id="006272" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="2">
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="2" percentOfParentTaxonomy="70">
+								<sov:Skill name="DATA EXTRACTION" id="9000117" existsInText="true" totalMonths="13" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="QUANTITATIVE ANALYSIS" id="9000112" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="9000111" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="10">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="10">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Recruitment &amp; Staffing" id="190" percentOfOverall="0" percentOfParentTaxonomy="10">
+								<sov:Skill name="STAFFING" id="008529" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="2">
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="0" percentOfParentTaxonomy="23">
+								<sov:Skill name="FRONT END DESIGN" id="5570111" existsInText="false">
+									<sov:ChildSkill name="FRONT-END" id="5570112" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="FRONT END" id="5570300" existsInText="false">
+									<sov:ChildSkill name="FRONT-END" id="5570301" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="FRONT END" id="5570217" existsInText="false">
+									<sov:ChildSkill name="FRONT-END" id="5570218" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="0" percentOfParentTaxonomy="11">
+								<sov:Skill name="WORDPRESS" id="3391111" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="1">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEST CASES" id="009422" existsInText="true" totalMonths="14" lastUsed="2019-01-31" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="1">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="1" percentOfParentTaxonomy="76">
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" whereFound="Found in EDUCATION; SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="1400072" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="0" percentOfParentTaxonomy="12">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="0" percentOfParentTaxonomy="12">
+								<sov:Skill name="QUANTITATIVE ANALYSIS" id="006273" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STAFFING" id="025724" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008576" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STATISTICS" id="008585" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="0">
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="QUANTITATIVE" id="022510" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="QUANTITATIVE ANALYSIS" id="006276" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="0" percentOfParentTaxonomy="25">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="25">
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008574" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="LAN" id="020490" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Installation" id="451" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CABLING" id="012354" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Non-Skilled Labor" id="11" percentOfOverall="0">
+							<sov:Subtaxonomy name="Construction Labor" id="303" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CABLING" id="012353" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="General" id="362" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BLENDER" id="011691" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="0">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="0" percentOfParentTaxonomy="100"></sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="0">
+							<sov:Subtaxonomy name="Cabling and Related" id="315" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CABLING" id="024364" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="37" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="38" ends="65" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="66" ends="71" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="72" ends="89" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="90" ends="97" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="98" ends="212" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>7259</sov:ParsedTextLength>
+			<sov:ParseTime>390</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;6] The following section in the resume contains more content than the work history and education sections combined: 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:775a4b0c-abf8-4e16-8a75-45602e7ea2f7</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>9bf///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

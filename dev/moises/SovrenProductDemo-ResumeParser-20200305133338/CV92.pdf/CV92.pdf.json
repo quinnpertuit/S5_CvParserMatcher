@@ -1,0 +1,682 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "RUSTAM SINGH GARG",
+          "GivenName": "RUSTAM",
+          "MiddleName": "SINGH",
+          "FamilyName": "GARG"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Functional Area: Analytics & Business Intelligence"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Result-oriented Professional with over 1 years of experience in Data Science, Artificial Intelligence, Big Data Analytics, Research\r\n& Development, Deep Learning, Logistic Regression, Linear regression, Multiple Regression, Data Analysis, Data Pre-\r\nprocessing, Data Visualization, Python, R, SQL",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Kochar Tech",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Junior Engineer",
+                "OrgName": {
+                  "OrganizationName": "Kochar Tech"
+                },
+                "Description": "I am currently handling dialog manager and workflow of chatbot. I have built dialog manager which supports multi\r\nconditioned response and slot-filling features.",
+                "StartDate": {
+                  "YearMonth": "2019-09"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Strategy and Planning → Workflow and Processes",
+                    "Comments": "Strategy and Planning describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BM",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Kochar Tech",
+                    "sov:NormalizedTitle": "Junior Engineer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Kochar Tech"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "ICET IT Solutions Pvt. Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Junior Data Scientist",
+                "OrgName": {
+                  "OrganizationName": "ICET IT Solutions Pvt. Ltd"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2018-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "ICET IT Solutions",
+                    "sov:NormalizedTitle": "Junior Data Scientist",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Data Scientist"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "ICET IT Solutions"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Punjab Technical University"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from Punjab Technical University in 2018\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=1fb7   e53541446280a5400134f17425c4c6&sid=3810263223&AT=1580681695\r\n2/2/20 23&15\r\n\r\n\r\nPG: in 0",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Punjab Technical University"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Junior Engineer, Data Analyst, Data Science, Artificial Intelligence, Big Data Analytics, Research &\r\nDevelopment, Deep Learning, Logistic Regression, Linear regression, Multiple Regression, Data Analysis, Data Pre-\r\nprocessing, Data Visualization, Python, R, SQL\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 1-Feb-20\r\n79fbdcd4a7c746edb7bf4294cdfb0d25"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tExpert"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&15\r\n\r\n\r\nRUSTAM SINGH GARG\r\n\r\n\r\nJunior Engineer seeking roles in Data Science, Artificial Intelligence, Big Data\r\nAnalytics, Research & Development, Deep Learning, Logistic Regression, Linear\r\nregression, Multiple Regression, Data Analysis, Data Pre-processing, Data\r\nVisualization, Python, R, SQL\r\n\r\n\r\nCurrent Designation: Junior Engineer\tTotal Experience: 1 Year(s) 1 Month(s)\r\nCurrent Company: Kochar Tech\tNotice Period: 2 Months\r\nCurrent Location: Bengaluru / Bangalore\tHighest Degree:\r\nPref. Location: Bengaluru / Bangalore, Delhi / NCR, Mumbai\r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: IT-Software/Software Services\r\nKey Skills: Junior Engineer, Data Analyst, Data Science, Artificial Intelligence, Big Data Analytics, Research &\r\nDevelopment, Deep Learning, Logistic Regression, Linear regression, Multiple Regression, Data Analysis, Data Pre-\r\nprocessing, Data Visualization, Python, R, SQL\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 1-Feb-20\r\n79fbdcd4a7c746edb7bf4294cdfb0d25\r\n\r\n\r\nSummary\r\nResult-oriented Professional with over 1 years of experience in Data Science, Artificial Intelligence, Big Data Analytics, Research\r\n& Development, Deep Learning, Logistic Regression, Linear regression, Multiple Regression, Data Analysis, Data Pre-\r\nprocessing, Data Visualization, Python, R, SQL\r\n\r\n\r\nWork Experience\r\nKochar Tech as Junior Engineer\r\nSep 2019 to Till Date\r\nI am currently handling dialog manager and workflow of chatbot. I have built dialog manager which supports multi\r\nconditioned response and slot-filling features.\r\n\r\n\r\nICET IT Solutions Pvt. Ltd. as Junior Data Scientist\r\nAug 2018 to May 2019\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from Punjab Technical University in 2018\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=1fb7   e53541446280a5400134f17425c4c6&sid=3810263223&AT=1580681695\r\n2/2/20 23&15\r\n\r\n\r\nPG: in 0\r\n\r\n\r\nLanguages Known\r\n\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tProficient\r\n\r\nHindi\tExpert\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: General\tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=1fb   e53541446280a5400134f17425c4c6&sid=3810263223&AT=1580681695\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore, Delhi / NCR, Mumbai",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Category: General"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "RUSTAM SINGH GARG's experience appears to be mostly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Strategy and Planning (mostly Workflow and Processes). RUSTAM SINGH GARG's experience appears to be entry level, with 15 months of experience.",
+          "sov:MonthsOfWorkExperience": "15",
+          "sov:AverageMonthsPerEmployer": "7",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "49",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "21",
+                        "@percentOfParentTaxonomy": "43",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTIFICIAL INTELLIGENCE",
+                            "@id": "5530905",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "BIG DATA ANALYTICS",
+                            "@id": "5530909",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA VISUALIZATION",
+                            "@id": "5530962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DEEP LEARNING",
+                            "@id": "7200018",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "LINEAR REGRESSION",
+                            "@id": "7200037",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "LOGISTIC REGRESSION",
+                            "@id": "7200039",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTIFICIAL INTELLIGENCE",
+                            "@id": "003449",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "19",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "19",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "WORKFLOW",
+                            "@id": "024213",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "16",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Interactive Design",
+                        "@id": "572",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570157",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570127",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Visual Design",
+                        "@id": "565",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570073",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Motion Design",
+                        "@id": "564",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570059",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "12",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "19",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "35",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "36",
+              "@ends": "46",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "47",
+              "@ends": "57",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "58",
+              "@ends": "73",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "RUSTAM SINGH GARG"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=1fb7"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Mumbai",
+              "Current Location: Bengaluru / Bangalore",
+              "Work Authorization\r\nCategory: General"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2245",
+        "sov:ParseTime": "203",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Key Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:e61ba8eb-0880-4a58-89fa-0669a4982f08",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "QDL///////8="
+      }
+    }
+  }
+}

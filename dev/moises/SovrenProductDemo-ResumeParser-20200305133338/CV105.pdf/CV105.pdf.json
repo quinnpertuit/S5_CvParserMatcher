@@ -1,0 +1,707 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "KRISHNENDU BASAK",
+          "GivenName": "KRISHNENDU",
+          "FamilyName": "BASAK"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Development, Requirement Gathering, Production Support, Unit",
+                  "Testing, Coding, Debugging, Spring Boot, Spring Jpa, Spring Data, Spring Mvc, Core"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Having 2 years of Experience in developing project using Core Java, and Spring Frameworks.\r\nGood knowledge in Data Structure and Multithreading.\r\nGood Implementation knowledge in Object Oriented Programming concepts.\r\nExperience in developing Rest based web services.\r\nPossess good communication and interpersonal skills.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Wipro Technologies ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Software Developer",
+                "OrgName": {
+                  "OrganizationName": "Wipro Technologies ltd"
+                },
+                "Description": "PROJECT:\r\nProject: Leading HealthCare Company in Switzerland\r\nLanguage Used: Core Java, SpringBoot, Spring Jpa, Spring Data, Restfull WebServices\r\nDatabase Layer: Cosmos DB\r\n\r\nDESCRIPTION OF THE PROJECT: Iconnect is a health Domain project basically meant to administer and link all the\r\nGateways in the market with the Central Gateway. It also provides information about all the IOT Instruments to the Gateways (i.e. the health status of the Instruments). It helps to create Entity, Admin, User and the Gateways. It also\r\nmonitors all the Admins and reports their activities to the Global Administrator.\r\n\r\nROLE: As a developer, I have worked on creation of gateways, fetching all the data's of the gateways, monitoring the\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=986   e580a4b1179465e401804435a0e176&sid=3810263223&AT=1580681853\r\n2/2/20 23&18\r\n\r\n\r\ncreation/updating/ deletion of the entities, gateways, instruments, listing all the instruments related to gateways and deleting it if they are not connected, validating presence of the user_ids, listing all the user, listing all the previous\r\nuploaded softwares, sending emails to Admins that should be concerned, deleting/ activating/deactivating the entity and written various test Case scenarios using mockito",
+                "StartDate": {
+                  "YearMonth": "2018-02"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 61% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Wipro Technologies",
+                    "sov:NormalizedTitle": "Software Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Wipro Technologies"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Haldia Institute of Technology"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "WEST BENGAL"
+              ],
+              "Municipality": "Haldia"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Electronics/Telecommunication) from Haldia Institute of Technology (HIT) in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Haldia Institute of Technology"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Software Developer, Data Structure, Algorithm, Requirement Gathering, MultiThreading, Unit\r\nTesting, Coding, Debugging, Spring Boot, Spring Jpa, Spring Data, Spring Mvc, Core\r\nJava, git, github, Intellij, Postman, Application Maintenance\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 0af4289a410cdb6316\tLast Active: 2-Feb-20\tLast Modified: 27-Jan-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nSpring BOOT, Spring JPA\t2019\t1 Year(s) 11 Month(s)\r\n\r\nSpring Data, Spring Mvc\t2019\t1 Year(s) 11 Month(s)\r\n\r\nRestfull WebServices, Core Java\t2019\t1 Year(s) 11 Month(s)\r\n\r\nAzure Cosmos DB, Oracle Sql\t2019\t1 Year(s) 11 Month(s)\r\n\r\ngit, github, Intellij, Postman\t2019\t1 Year(s) 11 Month(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tProficient"
+          },
+          {
+            "LanguageCode": "bn",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Bengali\tProficient"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&18\r\n\r\n\r\nKRISHNENDU BASAK\r\n\r\n\r\nCurrently in Notice Period and seeking job for Software Developer roles in Software\r\nDevelopment, Requirement Gathering, Production Support, Unit\r\nTesting, Coding, Debugging, Spring Boot, Spring Jpa, Spring Data, Spring Mvc, Core\r\nJava, git, github, Intellij, Postma\r\n\r\n\r\nCurrent Designation: Software Developer\tTotal Experience: 2 Year(s) 0 Month(s)\r\nCurrent Company: Wipro Technologies ltd.\tNotice Period: Currently Serving Notice Period\r\nCurrent Location: Bengaluru / Bangalore\tHighest Degree: B.Tech/B.E.\r\n[Electronics/Telecommunication]\r\nPref. Location: Bengaluru / Bangalore\r\nFunctional Area: IT Software - Application Programming /\r\nMaintenance\r\nRole: Software Developer\r\nIndustry: IT-Software/Software Services\r\nMarital Status: Single/unmarried\r\nKey Skills: Software Developer, Data Structure, Algorithm, Requirement Gathering, MultiThreading, Unit\r\nTesting, Coding, Debugging, Spring Boot, Spring Jpa, Spring Data, Spring Mvc, Core\r\nJava, git, github, Intellij, Postman, Application Maintenance\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 0af4289a410cdb6316\tLast Active: 2-Feb-20\tLast Modified: 27-Jan-20\r\n\r\n\r\nSummary\r\nHaving 2 years of Experience in developing project using Core Java, and Spring Frameworks.\r\nGood knowledge in Data Structure and Multithreading.\r\nGood Implementation knowledge in Object Oriented Programming concepts.\r\nExperience in developing Rest based web services.\r\nPossess good communication and interpersonal skills.\r\n\r\n\r\nWork Experience\r\nWipro Technologies ltd. as Software Developer\r\nFeb 2018 to Till Date\r\nPROJECT:\r\nProject: Leading HealthCare Company in Switzerland\r\nLanguage Used: Core Java, SpringBoot, Spring Jpa, Spring Data, Restfull WebServices\r\nDatabase Layer: Cosmos DB\r\n\r\nDESCRIPTION OF THE PROJECT: Iconnect is a health Domain project basically meant to administer and link all the\r\nGateways in the market with the Central Gateway. It also provides information about all the IOT Instruments to the\r\nGateways (i.e. the health status of the Instruments). It helps to create Entity, Admin, User and the Gateways. It also\r\nmonitors all the Admins and reports their activities to the Global Administrator.\r\n\r\nROLE: As a developer, I have worked on creation of gateways, fetching all the data's of the gateways, monitoring the\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=986   e580a4b1179465e401804435a0e176&sid=3810263223&AT=1580681853\r\n2/2/20 23&18\r\n\r\n\r\ncreation/updating/ deletion of the entities, gateways, instruments, listing all the instruments related to gateways and\r\ndeleting it if they are not connected, validating presence of the user_ids, listing all the user, listing all the previous\r\nuploaded softwares, sending emails to Admins that should be concerned, deleting/ activating/deactivating the entity and\r\nwritten various test Case scenarios using mockito\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from Haldia Institute of Technology (HIT) in 2017\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nSpring BOOT, Spring JPA\t2019\t1 Year(s) 11 Month(s)\r\n\r\nSpring Data, Spring Mvc\t2019\t1 Year(s) 11 Month(s)\r\n\r\nRestfull WebServices, Core Java\t2019\t1 Year(s) 11 Month(s)\r\n\r\nAzure Cosmos DB, Oracle Sql\t2019\t1 Year(s) 11 Month(s)\r\n\r\ngit, github, Intellij, Postman\t2019\t1 Year(s) 11 Month(s)\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tProficient\r\n\r\nHindi\tProficient\r\n\r\nBengali\tProficient\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nPhysically Challenged: No\tCountries: India\r\nJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=986   580a4b1179465e401804435a0e176&sid=3810263223&AT=1580681853\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore",
+          "sov:WillingToRelocate": "No",
+          "sov:VisaStatus": "Physically Challenged: No"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "KRISHNENDU BASAK's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in QA and QC (mostly Techniques). KRISHNENDU BASAK's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "25",
+          "sov:AverageMonthsPerEmployer": "25",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "79",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "55",
+                        "@percentOfParentTaxonomy": "70",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1",
+                            "@childrenTotalMonths": "25",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "25",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "25",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "25",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "OBJECT ORIENTED",
+                            "@id": "022453",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "OBJECT ORIENTED PROGRAMMING",
+                            "@id": "003618",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURE",
+                            "@id": "5530961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REST",
+                            "@id": "7180010",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRAMEWORKS",
+                            "@id": "017954",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB SERVICES",
+                            "@id": "011022",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST CASE",
+                            "@id": "024449",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Healthcare Non-physician Non-nurse",
+                    "@id": "95",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Allied Health",
+                        "@id": "158",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "HEALTHCARE",
+                            "@id": "018806",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "22",
+              "@ends": "31",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "32",
+              "@ends": "39",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "40",
+              "@ends": "65",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "66",
+              "@ends": "69",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "70",
+              "@ends": "83",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "84",
+              "@ends": "101",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "KRISHNENDU BASAK"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=986"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Work Authorization\r\nPhysically Challenged: No",
+              "Current Location: Bengaluru / Bangalore",
+              "Pref. Location: Bengaluru / Bangalore",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3625",
+        "sov:ParseTime": "328",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:53c42d12-6172-4f58-82aa-adc19d84ee94",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "2CoAAAAAAAA="
+      }
+    }
+  }
+}

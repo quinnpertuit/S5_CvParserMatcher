@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>BISWAJIT SAHU</FormattedName>
+				<GivenName>BISWAJIT</GivenName>
+				<FamilyName>SAHU</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Bengaluru / Bangalore</AddressLine>
+						<AddressLine>0 Year(s) 0 Month(s)</AddressLine>
+						<AddressLine>Bengaluru / Bangalore, Mumbai, Bhubaneshwar</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>A competent professional with 7 months of experience as Production Engineer (GET)
+Possess comprehensive knowledge of Machine Learning Algorithms, learning On-model Development and Deep Learning
+technologies to develop prototypes and analytic models
+Gained understanding of Research Design and Hypothesis Testing, Data Mining Techniques like GLM/Regression, Random
+Forest, Boosting, Trees, Text Mining and Social Network Analysis
+Technical expertise in Artificial Intelligence (AI), Data Science, Machine Learning (ML), Basics of NLP, Python, NumPy, Pandas
+with hands-on exposure
+Familiar with Data Visualization concepts using Matplotlib, Seaborn and Neural Networks
+Participated, arranged and coordinated the entire workshop activities and delivered training on the technology of Mercedes-
+Benz to the colleagues at the college
+Completed academic projects titled "Data Visualization" using Haberman Dataset, Quora Question Pairs, Donors Choose
+Dataset</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>APL Apollo Tube Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Production Engineer (GET)</Title>
+					<OrgName>
+						<OrganizationName>APL Apollo Tube Ltd</OrganizationName>
+					</OrgName>
+					<Description>Key Result Areas:
+Worked on DFT Technology; used FIVES OTO Mill Technology
+Supervised 3 mills as Floor Manager
+Managed teams with 25 members across 3 mills
+Met the production target of 100 tons in each mill Highlights:
+Recognized for achievement of the mill target by 100%
+Achieved 500 tons per day production target against actual target 300 tons per day across 3 mills twice during the tenure
+
+https://freesearch.naukri.com/preview/printResume?uname=3d3   5c00584c635e4c52481d460e560c6&amp;sid=3810263223&amp;AT=1580681572
+2/2/20 23&amp;14
+
+
+with the organization</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>3</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>APL Apollo Tube</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Production Engineer GET</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Production Engineer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>APL Apollo Tube</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>nalanda institute of technology</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Mechanical Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Mechanical Engineering) from nalanda institute of technology in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>nalanda institute of technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: machine learning, data science, design development, deep learning, artificial intelligence, data visualization,
+network analysis, python, natural language processing, numpy, pandas, scikit learn, NLP, Image Processing, Neural
+Networks, Statistical Modeling
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+d74b99053a0a4af2b6b5e310f2254ba3
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python	3.0	2020	0 Year(s) 10 Month(s)
+
+MACHINE LEARNING	2020	0 Year(s) 10 Month(s)
+
+Data Science	2020	0 Year(s) 10 Month(s)
+
+Deep learning	2020	0 Year(s) 10 Month(s)
+
+Artificial intelligence	2020	0 Year(s) 10 Month(s)
+
+NUMPY	2020	0 Year(s) 10 Month(s)
+
+Pandas	2020	0 Year(s) 10 Month(s)
+
+Scikit Learn	2020	0 Year(s) 10 Month(s)
+
+Seaborn	2020	0 Year(s) 10 Month(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Recognized for achievement of the mill target by 100</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;14
+
+
+BISWAJIT SAHU
+
+
+Production Engineer seeking roles in Machine Learning, Data Science, Design
+Development, Deep Learning, Artificial Intelligence, Data Visualization, Network
+Analysis, Python.
+
+
+Current Location: Bengaluru / Bangalore	Total Experience: 0 Year(s) 0 Month(s)
+Pref. Location: Bengaluru / Bangalore, Mumbai, Bhubaneshwar	Highest Degree: B.Tech/B.E. [Mechanical Engineering]
+Functional Area: IT Software - Application Programming /
+Maintenance
+Role: Software Developer
+Industry: IT-Software/Software Services
+Marital Status: Single/unmarried
+Key Skills: machine learning, data science, design development, deep learning, artificial intelligence, data visualization,
+network analysis, python, natural language processing, numpy, pandas, scikit learn, NLP, Image Processing, Neural
+Networks, Statistical Modeling
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+d74b99053a0a4af2b6b5e310f2254ba3
+
+
+Summary
+A competent professional with 7 months of experience as Production Engineer (GET)
+Possess comprehensive knowledge of Machine Learning Algorithms, learning On-model Development and Deep Learning
+technologies to develop prototypes and analytic models
+Gained understanding of Research Design and Hypothesis Testing, Data Mining Techniques like GLM/Regression, Random
+Forest, Boosting, Trees, Text Mining and Social Network Analysis
+Technical expertise in Artificial Intelligence (AI), Data Science, Machine Learning (ML), Basics of NLP, Python, NumPy, Pandas
+with hands-on exposure
+Familiar with Data Visualization concepts using Matplotlib, Seaborn and Neural Networks
+Participated, arranged and coordinated the entire workshop activities and delivered training on the technology of Mercedes-
+Benz to the colleagues at the college
+Completed academic projects titled "Data Visualization" using Haberman Dataset, Quora Question Pairs, Donors Choose
+Dataset
+
+
+Work Experience
+APL Apollo Tube Ltd. as Production Engineer (GET)
+Apr 2018 to Oct 2018
+Key Result Areas:
+Worked on DFT Technology; used FIVES OTO Mill Technology
+Supervised 3 mills as Floor Manager
+Managed teams with 25 members across 3 mills
+Met the production target of 100 tons in each mill Highlights:
+Recognized for achievement of the mill target by 100%
+Achieved 500 tons per day production target against actual target 300 tons per day across 3 mills twice during the tenure
+
+https://freesearch.naukri.com/preview/printResume?uname=3d3   5c00584c635e4c52481d460e560c6&amp;sid=3810263223&amp;AT=1580681572
+2/2/20 23&amp;14
+
+
+with the organization
+
+
+Education
+UG: B.Tech/B.E. (Mechanical Engineering) from nalanda institute of technology in 2018
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python	3.0	2020	0 Year(s) 10 Month(s)
+
+MACHINE LEARNING	2020	0 Year(s) 10 Month(s)
+
+Data Science	2020	0 Year(s) 10 Month(s)
+
+Deep learning	2020	0 Year(s) 10 Month(s)
+
+Artificial intelligence	2020	0 Year(s) 10 Month(s)
+
+NUMPY	2020	0 Year(s) 10 Month(s)
+
+Pandas	2020	0 Year(s) 10 Month(s)
+
+Scikit Learn	2020	0 Year(s) 10 Month(s)
+
+Seaborn	2020	0 Year(s) 10 Month(s)
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+Odia
+
+
+Projects
+Project Title: Donors Choose Dataset
+Client: Self Case Study
+Nature of Employment: Full Time	Duration: Nov 2019 - Jan 2020
+Project Location: Bangalore	Onsite / Offsite: Offsite
+Role: Programmer	Team Size: 1
+Skill Used: Python, Data Science, Machine Learning, Artificial Intelligence, Natural Language Processing, Neural Networks
+Project Details: Description: The project focused on developing the Machine Learning model for DonorsChoose.org. The
+objective was to capture, how to increase project-screening consistency through multiple volunteers to enhance teacher
+experience and concentrate volunteer time on those projects that are in need of the most help.
+
+Applied EDA, text pre-processing techniques such as stopwords removal, decontraction of the phrases including feature
+engineering techniques BoW, TF-IDF &amp; implemented Logistic Regression, Decision Tree, KNN, Naive Bayes, SVM to find out
+the best accomplishing model using ROC-AUC performance evaluation metric.
+
+https://freesearch.naukri.com/preview/printResume?uname=3d3   5c00584c635e4c52481d460e560c6&amp;sid=3810263223&amp;AT=1580681572
+2/2/20 23&amp;14
+
+
+Project Title: Quora Question Pairs
+Client: Self Case Study
+Nature of Employment: Full Time	Duration: Jul 2019 - Oct 2019
+Project Location: Bangalore	Onsite / Offsite: Offsite
+Role: Programmer	Team Size: 1
+Skill Used: Python, Data Science, Machine Learning, Natural Language Processing, Text Mining, Artificial Intelligence
+Role Description: Performed EDA and implemented BoW and TF-IDF for the feature engineering task. Employed SVM,
+XGBoost, Logistic Regression ML algorithms and observed XGBoost yielding good results for the Log-Loss performance
+metric.
+Project Details: Description: The report includes a deep analysis of finding a model using Machine Learning for Quora, which
+can deduct whether the asked question has been previously shared on the website or not. Performed EDA and implemented
+BoW and TF-IDF for the feature engineering task. Employed SVM, XGBoost, Logistic Regression ML algorithms and
+observed XGBoost yielding good results for the Log-Loss performance metric.
+
+Project Title: Visualization with Haberman Dataset
+Client: Self Case Study
+Nature of Employment: Full Time	Duration: Mar 2019 - Jun 2019
+Project Location: Bangalore	Onsite / Offsite: Offsite
+Role: Programmer	Team Size: 1
+Skill Used: Python, Machine Learning, Data Science
+Role Description: Roles and Responsibilities:
+Enacted EDA on the data. Concerning the outlier detection and visualization of the data distribution Box plot and violin plot
+techniques are adopted for this project.
+Project Details: Description:
+The report includes cases from research conducted at Billings Hospital, the University of Chicago during 1958-1970 on the
+recovery of patients who have undertaken breast cancer surgery.
+
+Enacted EDA on the data. Concerning the outlier detection and visualization of the data distribution Box plot and violin plot
+techniques are adopted for this project.
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=3d3   5c00584c635e4c52481d460e560c6&amp;sid=3810263223&amp;AT=1580681572
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Bengaluru / Bangalore</sov:CurrentLocation>
+				<sov:PreferredLocation>Bengaluru / Bangalore, Mumbai, Bhubaneshwar</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>BISWAJIT SAHU's experience appears to be mostly concentrated in Information Technology (mostly Big Data) and somewhat concentrated in Engineering (mostly Other). BISWAJIT SAHU's experience appears to be entry level, with 6 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>6</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>6</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="46">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="16" percentOfParentTaxonomy="34">
+								<sov:Skill name="ARTIFICIAL INTELLIGENCE" id="5530905" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="NATURAL LANGUAGE PROCESSING" id="5531029" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY">
+									<sov:ChildSkill name="NLP" id="5531030" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="13" percentOfParentTaxonomy="29">
+								<sov:Skill name="BOOSTING" id="7200082" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DEEP LEARNING" id="7200018" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="LOGISTIC REGRESSION" id="7200039" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="NEURAL NETWORKS" id="7200042" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SUPPORT VECTOR MACHINE" id="7200063" existsInText="false">
+									<sov:ChildSkill name="SVM" id="7200064" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="7" percentOfParentTaxonomy="15">
+								<sov:Skill name="NATURAL" id="003276" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY">
+									<sov:ChildSkill name="MATPLOTLIB" id="3391120" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+									<sov:ChildSkill name="NUMPY" id="3391118" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+									<sov:ChildSkill name="PANDAS" id="3391116" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="4" percentOfParentTaxonomy="8">
+								<sov:Skill name="ARTIFICIAL INTELLIGENCE" id="003449" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="3" percentOfParentTaxonomy="7">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="NETWORK ANALYSIS" id="025778" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mainframe" id="197" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="APL" id="021320" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="IMAGE PROCESSING" id="019541" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DESIGN DEVELOPMENT" id="015221" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="24">
+							<sov:Subtaxonomy name="Other" id="263" percentOfOverall="19" percentOfParentTaxonomy="81">
+								<sov:Skill name="PRODUCTION ENGINEER" id="005668" existsInText="true" totalMonths="6" lastUsed="2018-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="8">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="2" percentOfParentTaxonomy="7">
+								<sov:Skill name="DESIGN DEVELOPMENT" id="080797" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="EDA" id="015871" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Design" id="134" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DESIGN DEVELOPMENT" id="080953" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DESIGN DEVELOPMENT" id="080539" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="18">
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="3" percentOfParentTaxonomy="18">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="3" percentOfParentTaxonomy="18">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="3" percentOfParentTaxonomy="18">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="3" percentOfParentTaxonomy="18">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="3" percentOfParentTaxonomy="18">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="1" percentOfParentTaxonomy="6">
+								<sov:Skill name="PROTOTYPE" id="5570036" existsInText="false">
+									<sov:ChildSkill name="PROTOTYPES" id="5570037" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="PROTOTYPES" id="5570209" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="5">
+							<sov:Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="NEURAL" id="200040" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY">
+									<sov:ChildSkill name="NEURAL NETWORKS" id="200039" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="5">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="4" percentOfParentTaxonomy="77">
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="STATISTICAL MODELING" id="1400069" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="1" percentOfParentTaxonomy="11">
+								<sov:Skill name="STATISTICAL MODELING" id="1400099" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="1" percentOfParentTaxonomy="11">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="2">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Hardware Engineering" id="29" percentOfOverall="1">
+							<sov:Subtaxonomy name="Mechanical Engineering" id="733" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="MECHANICAL ENGINEERING" id="5000203" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="18" ends="28" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="29" ends="43" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="44" ends="61" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="62" ends="65" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="66" ends="87" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="88" ends="97" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="98" ends="154" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>BISWAJIT SAHU</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=3d3</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Bengaluru / Bangalore, Mumbai, Bhubaneshwar</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+					<sov:OtherDatum>0 Year(s) 0 Month(s)</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>6396</sov:ParsedTextLength>
+			<sov:ParseTime>515</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;6] The following section in the resume contains more content than the work history and education sections combined: 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:bd7cab83-4b48-4ac3-be61-998bbf841ebe</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>9dIBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

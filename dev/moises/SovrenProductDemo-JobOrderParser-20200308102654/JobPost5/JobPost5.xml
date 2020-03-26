@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ManagementLevel>none</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Joining Ipsos means choosing an exciting internship</MainJobTitle>
+    <JobTitle>means choosing an exciting internship</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <MainEmployerName>Treating different languages, even if those are limited</MainEmployerName>
+    <EmployerName>Treating different languages, even if those are limited</EmployerName>
+    <EmployerName>different languages, even if those are limited</EmployerName>
+    <EmployerName>even if those are limited</EmployerName>
+  </EmployerNames>
+  <LanguageCodes>
+    <LanguageCode>en</LanguageCode>
+    <LanguageCode>ar</LanguageCode>
+    <LanguageCode>zh</LanguageCode>
+  </LanguageCodes>
+  <CurrentLocation>
+    <Municipality>Paris</Municipality>
+    <CountryCode>FR</CountryCode>
+  </CurrentLocation>
+  <Education>
+    <Degree>
+      <DegreeType>masters</DegreeType>
+      <DegreeName>Master's</DegreeName>
+    </Degree>
+  </Education>
+  <RequiredDegree>masters</RequiredDegree>
+  <SourceText>About
+
+With more than 16.000 employees in 90 countries, Ipsos is one of the world’s leading research companies.
+
+Curious about people, markets, brands and society, Ipsos provides to its clients the necessary inspiration to make strategic decisions, thank to multiple innovative study methodologies related to Artificial Intelligence (Neurosciences, Eyetracking, Data processing related to Social Listening, …) enriching traditional study methodologies.
+
+Joining Ipsos means choosing an exciting internship at the heart of news issues, on multi-sectoral and a wide range of issues (marketing, advertising, media, politics, opinions, customer experience, employee commitment, …).
+
+Labeled Happy Trainees, Ipsos is one of the companies that take care of welcoming, coaching and managing their trainees and work-study trainees, who are hired under fixed-term and permanent contract in Ipsos in 50% of cases!
+
+Our integration and training courses will allow you to better apprehend the world of studies.
+
+Job Description
+
+The department of Social Intelligence and Analytics has a mission to bring forth the best of ideas among what people express spontaneously in surveys and on the web. Our team uses cutting-edge research models in artificial intelligence to analyze enormous quantities of text data, images and videos.
+Our work environment is open, flexible and convivial. You will work and grow in a multi-faceted international team, based in Paris and composed of Data Scientists, Natural Language Processing Engineers, and front-end and back-end developers.
+
+Your missions :
+AI development – Helping implement different algorithms of Machine Learning (including neural networks), both supervised and non-supervised, and applying them to unstructured data. Work on each aspect of the methodological development, be it on the selection process of the training data, the selection of the model to be applied or the validation of said model.
+Deploying the solutions – Once the research for a bespoke model is finished, deploying the model for production in partnership with specialists.
+Knowledge of data sources – Account for the wealth of information brought in by different sources of unstructured data available (text, image and video), whether they come from social networks or from surveys.
+Working on diverse languages – Treating different languages, even if those are limited in terms of linguistic resources, improving existing tools or develop and test new ones.
+Account for the cultural and linguistic particularities
+Preferred Experience
+Students from engineering school and/or pursuing a Master’s in either computational linguistics or Machine Learning. Previous projects or work experience in NLP is an asset.
+
+Skills :
+Natural Language Processing: one of the following fields: POS-tagging, parsing, translation, NER, Topic Modeling, text classification, sentiment analysis, word/sentence embeddings...
+Computer science: Python. Good knowledge of NLP tools and libraries (regexes, spaCy...) and/or of Machine learning libraries (scikit-learn, keras, tensorflow...) is an asset.
+Optional: R coding skills, usage of command line, IDE, Git and Cloud Platforms (GCP)
+English expertise required, and knowledge of Arabic and Chinese will be a real advantage.
+Additional Information
+Contract Type: Internship (6 month(s))
+Start Date: 06 April 2020
+Location: Paris, France (75013)
+Education Level: Fourth-Year University Level
+Experience: &lt; 6 months</SourceText>
+  <RevisionDate>2020-03-08</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>FUP///////8=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="41">
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="17" percentOfParentTaxonomy="42">
+          <Skill name="ARTIFICIAL INTELLIGENCE" id="5530905" existsInText="true" required="false" />
+          <Skill name="DATA SOURCES" id="5530960" existsInText="true" required="true" />
+          <Skill name="MACHINE LEARNING" id="5531016" existsInText="true" required="true" />
+          <Skill name="NATURAL LANGUAGE PROCESSING" id="5531029" existsInText="true" required="false">
+            <ChildSkill name="NLP" id="5531030" existsInText="true" required="true" />
+          </Skill>
+          <Skill name="SENTIMENT ANALYSIS" id="5531060" existsInText="true" required="false" />
+          <Skill name="UNSTRUCTURED DATA" id="5531073" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="13" percentOfParentTaxonomy="32">
+          <Skill name="NATURAL" id="003276" existsInText="true" required="false" />
+          <Skill name="PYTHON" id="006120" existsInText="true" required="false">
+            <ChildSkill name="TENSORFLOW" id="3391117" existsInText="true" required="true" />
+            <ChildSkill name="KERAS" id="3391124" existsInText="true" required="true" />
+          </Skill>
+          <Skill name="CODING" id="013739" existsInText="true" required="true" />
+          <Skill name="Git" id="1004755" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Machine Learning" id="720" percentOfOverall="4" percentOfParentTaxonomy="11">
+          <Skill name="NEURAL NETWORKS" id="7200042" existsInText="true" required="true" />
+          <Skill name="MACHINE LEARNING" id="7200149" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Compiler &amp; Runtime" id="719" percentOfOverall="2" percentOfParentTaxonomy="5">
+          <Skill name="PARSING" id="7190052" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Security" id="338" percentOfOverall="2" percentOfParentTaxonomy="5">
+          <Skill name="MACHINE LEARNING" id="3380002" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Data Mining" id="192" percentOfOverall="2" percentOfParentTaxonomy="5">
+          <Skill name="ARTIFICIAL INTELLIGENCE" id="003449" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="User Experience" id="93" percentOfOverall="20">
+        <Subtaxonomy name="Integration Design" id="568" percentOfOverall="7" percentOfParentTaxonomy="33">
+          <Skill name="FRONT END DESIGN" id="5570111" existsInText="false" required="false">
+            <ChildSkill name="FRONT-END" id="5570112" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Information Architect" id="567" percentOfOverall="4" percentOfParentTaxonomy="22">
+          <Skill name="FRONT END" id="5570300" existsInText="false" required="false">
+            <ChildSkill name="FRONT-END" id="5570301" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="4" percentOfParentTaxonomy="22">
+          <Skill name="FRONT END" id="5570217" existsInText="false" required="false">
+            <ChildSkill name="FRONT-END" id="5570218" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Web Design" id="571" percentOfOverall="4" percentOfParentTaxonomy="22">
+          <Skill name="INTEGRATOR" id="5570146" existsInText="false" required="false">
+            <ChildSkill name="INTEGRATION" id="5570147" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Marketing" id="14" percentOfOverall="11">
+        <Subtaxonomy name="Channel Management" id="226" percentOfOverall="7" percentOfParentTaxonomy="60">
+          <Skill name="POINT OF SALE" id="1400219" existsInText="false" required="false">
+            <ChildSkill name="POS" id="1400220" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Marketing Communications" id="592" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="ADVERTISING" id="1400153" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="General" id="249" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="MARKETING" id="021241" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="7">
+        <Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="7" percentOfParentTaxonomy="100">
+          <Skill name="NEURAL" id="200040" existsInText="true" required="true">
+            <ChildSkill name="NEURAL NETWORKS" id="200039" existsInText="true" required="true" />
+          </Skill>
+          <Skill name="COACHING" id="200053" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Translations and Language Work" id="91" percentOfOverall="4">
+        <Subtaxonomy name="Semantics" id="902" percentOfOverall="4" percentOfParentTaxonomy="100">
+          <Skill name="LINGUISTICS" id="200009" existsInText="true" required="false" />
+          <Skill name="LINGUISTIC" id="200010" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Common End-user Software" id="0" percentOfOverall="4">
+        <Subtaxonomy name="Core Office" id="108" percentOfOverall="4" percentOfParentTaxonomy="100">
+          <Skill name="MICROSOFT WORD" id="022961" existsInText="false" required="false">
+            <ChildSkill name="WORD" id="002379" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Scientific" id="15" percentOfOverall="4">
+        <Subtaxonomy name="Basic" id="376" percentOfOverall="2" percentOfParentTaxonomy="50">
+          <Skill name="LINGUISTICS" id="020793" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Chemical" id="377" percentOfOverall="2" percentOfParentTaxonomy="50">
+          <Skill name="GCP" id="018186" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Clinical" id="28" percentOfOverall="4">
+        <Subtaxonomy name="Other" id="277" percentOfOverall="2" percentOfParentTaxonomy="50">
+          <Skill name="GCP" id="018185" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Coding" id="270" percentOfOverall="2" percentOfParentTaxonomy="50">
+          <Skill name="CODING" id="013742" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Engineering" id="5" percentOfOverall="2">
+        <Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="100">
+          <Skill name="ALGORITHMS" id="024338" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Finance" id="7" percentOfOverall="2">
+        <Subtaxonomy name="Other" id="243" percentOfOverall="2" percentOfParentTaxonomy="100">
+          <Skill name="ALGORITHMS" id="017446" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

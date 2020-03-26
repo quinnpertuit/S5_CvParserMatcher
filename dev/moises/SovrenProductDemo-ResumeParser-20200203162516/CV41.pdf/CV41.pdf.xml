@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Shivam Sharma</FormattedName>
+				<GivenName>Shivam</GivenName>
+				<FamilyName>Sharma</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Circle Of Life</AddressLine>
+						<AddressLine>1 Month</AddressLine>
+						<AddressLine>M.Tech [Other Engineering]</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Result Oriented Professional offering 1 year of industrial exposure in Machine
+Learning, Data Science, Data Analysis
+* Knowledge in Machine Learning, Statistical computation, Health care data
+analysis, Parallel Computation in C</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Circle Of Life</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Scientist</Title>
+					<OrgName>
+						<OrganizationName>Circle Of Life</OrganizationName>
+					</OrgName>
+					<Description>March'19 Data Scientist
+Responsibilities include:
+* Data analysis and ML model implementation in R and Python
+* Data engineering, providing assistance in product deployment
+and building new feature in the product.
+* Antibiotic Panel Prediction using recommendation system
+* Outlier Detection for Bacteria Prevalence
+* Trend-line analysis for detection of increase in antibiotic bug
+resistance
+* APIs and ETL implementation in Python
+
+July-2018 Industrial Thesis and Data Scientist Intern
+
+https://freesearch.naukri.com/preview/printResume?uname=c19   e5c0c534f150f18021149465c0d586&amp;sid=3810263223&amp;AT=1580680852
+2/2/20 23&amp;01
+
+
+Responsibilities include:
+Towards personalized antibiotic prescription in the management of urinary tract infection:
+* Analyzed large culture and patient demographic data in predicting
+susceptibility of antibiotics
+* Implemented multinomial logit model for Etiological feature
+correlation with bacterial occurrence.
+* Antibiotic similarity detection using Cohen's kappa</Description>
+					<StartDate>
+						<YearMonth>2018-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 55% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Circle Of Life</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Scientist</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Circle Of Life</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Indraprastha Institute of Information Technology Delhi</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Other Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: M.Tech (Other Engineering) from Indraprastha Institute of Information Technology Delhi in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Indraprastha Institute of Information Technology Delhi</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Cluster Innovation Centre, Delhi University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Information Technology</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Information Technology) from Cluster Innovation Centre, Delhi University in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Delhi University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Scientist, Data Analyst, Data Science, Data Analytics, Business Analytics, Business Process
+Automation, Machine Learning, Data Modelling, Project Execution, Project Management, Product Strategy, Requirement
+Gathering, Client Engagement, Python, R, C/C++, Java
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 30-Jan-20	Last Modified: 30-Jan-20
+71954515915b4856889589f44e9851b6
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python, R, C/C++	2019	2 Year(s) 0 Month(s)
+
+Java, Matlab, SQL	2019	1 Year(s) 0 Month(s)
+
+GIT and JIRA	2019	1 Year(s) 0 Month(s)
+
+PostgreSQL, MySQL	2019	1 Year(s) 0 Month(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;01
+
+
+Shivam Sharma
+
+
+Data Scientist seeking roles in Data Science, Data Analytics, Business
+Analytics, Business Process Automation, Machine Learning, Data Modelling, Project
+Execution, Project Management, Product Strategy, Requirement Gathering, Client
+Engagement, Python, R, C/C++
+
+
+Current Designation: Data Scientist	Total Experience: 1 Year(s) 4 Month(s)
+Current Company: Circle Of Life	Notice Period: 1 Month
+Current Location: Noida	Highest Degree: M.Tech [Other Engineering]
+Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Gurgaon
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: Wellness / Fitness / Sports / Beauty
+Marital Status: Single/unmarried
+Key Skills: Data Scientist, Data Analyst, Data Science, Data Analytics, Business Analytics, Business Process
+Automation, Machine Learning, Data Modelling, Project Execution, Project Management, Product Strategy, Requirement
+Gathering, Client Engagement, Python, R, C/C++, Java
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 30-Jan-20	Last Modified: 30-Jan-20
+71954515915b4856889589f44e9851b6
+
+
+Summary
+Result Oriented Professional offering 1 year of industrial exposure in Machine
+Learning, Data Science, Data Analysis
+* Knowledge in Machine Learning, Statistical computation, Health care data
+analysis, Parallel Computation in C
+
+
+Work Experience
+Circle Of Life as Data Scientist
+Jul 2018 to Till Date
+March'19 Data Scientist
+Responsibilities include:
+* Data analysis and ML model implementation in R and Python
+* Data engineering, providing assistance in product deployment
+and building new feature in the product.
+* Antibiotic Panel Prediction using recommendation system
+* Outlier Detection for Bacteria Prevalence
+* Trend-line analysis for detection of increase in antibiotic bug
+resistance
+* APIs and ETL implementation in Python
+
+July-2018 Industrial Thesis and Data Scientist Intern
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c19   e5c0c534f150f18021149465c0d586&amp;sid=3810263223&amp;AT=1580680852
+2/2/20 23&amp;01
+
+
+Responsibilities include:
+Towards personalized antibiotic prescription in the management of
+urinary tract infection:
+* Analyzed large culture and patient demographic data in predicting
+susceptibility of antibiotics
+* Implemented multinomial logit model for Etiological feature
+correlation with bacterial occurrence.
+* Antibiotic similarity detection using Cohen's kappa
+
+
+Education
+UG: B.Tech/B.E. (Information Technology) from Cluster Innovation Centre, Delhi University in 2017
+
+PG: M.Tech (Other Engineering) from Indraprastha Institute of Information Technology Delhi in 2019
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python, R, C/C++	2019	2 Year(s) 0 Month(s)
+
+Java, Matlab, SQL	2019	1 Year(s) 0 Month(s)
+
+GIT and JIRA	2019	1 Year(s) 0 Month(s)
+
+PostgreSQL, MySQL	2019	1 Year(s) 0 Month(s)
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c19   e5c0c534f150f18021149465c0d586&amp;sid=3810263223&amp;AT=1580680852
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Noida</sov:CurrentLocation>
+				<sov:PreferredLocation>Bengaluru / Bangalore, Delhi / NCR, Gurgaon</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Shivam Sharma's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Marketing (mostly Data &amp; Analytics). Shivam Sharma's experience appears to be entry level, with 19 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>19</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>19</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="69">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="16" percentOfParentTaxonomy="24">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="ETL" id="5530987" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="14" percentOfParentTaxonomy="21">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="POSTGRESQL" id="3391132" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="12" percentOfParentTaxonomy="17">
+								<sov:Skill name="C/C++" id="002371" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="9" percentOfParentTaxonomy="13">
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="MATLAB" id="021346" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Middleware and Integration" id="345" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="ETL" id="016965" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="14">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="14" percentOfParentTaxonomy="100">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Scientific" id="15" percentOfOverall="10">
+							<sov:Subtaxonomy name="Bio" id="373" percentOfOverall="5" percentOfParentTaxonomy="50">
+								<sov:Skill name="BACTERIA" id="009669" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="BACTERIAL" id="009686" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Basic" id="376" percentOfOverall="2" percentOfParentTaxonomy="25">
+								<sov:Skill name="MATLAB" id="021347" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Pharma" id="372" percentOfOverall="2" percentOfParentTaxonomy="25">
+								<sov:Skill name="ANTIBIOTIC" id="025533" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="5">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="3">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="37" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="38" ends="68" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="69" ends="74" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="75" ends="86" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="87" ends="99" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Shivam Sharma</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=c19</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Gurgaon</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Noida</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+					<sov:OtherDatum>1 Month</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>3172</sov:ParsedTextLength>
+			<sov:ParseTime>312</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:76962d1f-b2e5-4ccd-98d0-7dbec6665139</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>zLL8//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

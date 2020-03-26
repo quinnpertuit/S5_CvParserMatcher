@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Ayusi Saha</FormattedName>
+				<GivenName>Ayusi</GivenName>
+				<FamilyName>Saha</FamilyName>
+			</PersonName>
+		</ContactInfo>
+		<ExecutiveSummary>Result-oriented Professional with 2 years of experience as hadoop developer in Database ingestion, Data Warehousing, Data
+Architecture, Data Modeling, Data Extraction, Business Intelligence, Performance Tuning, , Hive, Sqoop, Oracle, BitBucket.Also
+worked as java developer in Core Java, Kaka, MondoDb, NOSQL.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>ZS Associates</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>java developer</Title>
+					<OrgName>
+						<OrganizationName>ZS Associates</OrganizationName>
+					</OrgName>
+					<Description>Project Undertaken</Description>
+					<StartDate>
+						<YearMonth>2019-09</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>ZS Associates</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>java developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>EMR Cluster, CloudBerry, FileZilla, SQLWorkBench, ETL Tools like RDM, Azkaban Work Designer</Title>
+					<OrgName>
+						<OrganizationName>Pharmaceutical Domain</OrganizationName>
+					</OrgName>
+					<Description>Duration: September 2019   November 2019
+Description: Migration of Data from data sources like Iqvia, Veeva, Bitman, OneCustomer, NewTrans, Integrichain, PlanIT, to Hadoop using different frameworks like Azkaban Work Designer, Cloudberry, AWS services like S3 bucket, AWS Glue
+and data refresh on Tableau (HQ Fields) and MSTR Fields
+Languages/Tools: EMR Cluster, CloudBerry, FileZilla, SQLWorkBench, ETL Tools like RDM, Azkaban Work Designer,
+AWS Services like S3 Bucket, AWS Glue.
+
+Roles and Responsibilities:
+Actively participated in interaction with Technical Lead to fully understand the requirements of the project.
+Worked with s3 bucket to fetch the data for the data sources and oad it through Azkaban Work Designer.
+Used Agile methodology for all the development activities.
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ae3   849521844280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580681122</Description>
+					<StartDate>
+						<YearMonth>2019-09</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Pharmaceutical Domain</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>EMR Cluster CloudBerry FileZilla SQLWorkBench ETL Tools like RDM Azkaban Work Designer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>RDM, Azkaban Work Designer</sov:Subtitle>
+								<sov:Subtitle>Azkaban Work Designer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>ZS Associates</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>TATA Consultancy Services</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Java Developer &amp; Hadoop Developer</Title>
+					<OrgName>
+						<OrganizationName>TATA Consultancy Services</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<Year>2009</Year>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2020-02-02</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TF">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>TATA Consultancy Services</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Java Developer AND Hadoop Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>PNC Financial Services</OrganizationName>
+					</OrgName>
+					<Description>Description: Migration of Data from Bigdata to Hadoop using different frameworks like impala, Sqoop, hive using
+ingestions technique and Python Framework.
+Roles &amp; Responsibilities: Pulling data from source side to HDFS using database ingestion, mainframe ingestion &amp; file
+ingestion.
+Unit testing of the whole project Trouleshooting the Error.</Description>
+					<StartDate>
+						<YearMonth>2019-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>PNC Financial Services</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>PNC Financial Services</OrganizationName>
+					</OrgName>
+					<Description>Description: Migration of Data from Traditional Mainframe Systems to NOSQL(MongoDb) Database.
+Helps in Development of Producer and Consumer Code in Java using Kafka Technology for DataStreaming.
+Roles &amp; Responsibilites: Developing and enhancing the existing program as per client requirement.
+Unit testing of the whole project.
+Error resolution and discrepancies in existing program.
+Languages/Tools: IRAD, Java Maven project, Putty, WinSCP, Microservices, kafka, NOSQL(Mongodb)
+
+3) Project: BDH (Big Data Hadoop)</Description>
+					<StartDate>
+						<YearMonth>2018-09</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>PNC Financial Services</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>PNC Financial Services</OrganizationName>
+					</OrgName>
+					<Description>(Banking And Finance Domain)
+Duration: July 2018 - Sep 2018
+Description: In this, I have created the REST API header by using JSON Framework.RESTful applications use HTTP
+requests to POST (create), PUT (create and/or update), GET (e.g., make queries), and DELETE data. REST uses HTTP for all four CRUD
+(Create/Read/Update/Delete) operations and also uses ISO LINK.
+Roles &amp; Responsibilites: Developing program as per client requirement.
+Unit testing of the whole project.
+Enhancement and Updation with new task assigned.
+Languages/Tools: SwaggerHub- SmartBear
+
+2) Project: NOSQL MVP1</Description>
+					<StartDate>
+						<YearMonth>2018-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 78% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>PNC Financial Services</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>TATA Consultancy Services</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Institute of Technical Education and Research</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Instrumentation</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Instrumentation) from Institute of Technical Education and Research, Bhuvaneshwar in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Institute of Technical Education and Research</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Service Delivery Analyst, Software Developer, Database Administration, Data Warehousing, Data
+Architecture, Data Modeling, Data Extraction, Business Intelligence, Performance Tuning, Core
+Java, Kaka, MondoDb, NOSQL, Hive, Sqoop, Oracle, BitBucket, ETL Development
+
+Verified: Phone Number |	Email - id
+
+
+ID: 1197477a584b09df30	Last Active: 3-Feb-20	Last Modified: 1-Feb-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+IRAD, Putty, WinSCP
+
+FileZilla, SQLWorkBench
+
+Core Java, Kaka
+
+MondoDB
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ae3   849521844280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580681122
+2/2/20 23&amp;09
+
+
+Hive, Sqoop, Big Data
+
+Oracle
+
+Git, Bitbucket</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;09
+
+
+Ayusi Saha
+
+
+Service Delivery Analyst seeking roles in Database ingestion, Data Warehousing, Data
+Modeling, Data Extraction, Business Intelligence, Performance
+Tuning, Hive, Sqoop, Oracle, BitBucket.Also worked as java developer in Core
+Java, Kaka, Mongodb
+
+
+Current Designation: java developer	Total Experience: 2 Year(s) 0 Month(s)
+Current Company: ZS Associates	Notice Period: Currently Serving Notice Period
+Current Location: Pune	Highest Degree: B.Tech/B.E. [Instrumentation]
+Pref. Location: Pune
+Functional Area: IT Software - DBA / Datawarehousing
+Role: Software Developer
+Industry: IT-Software/Software Services
+Marital Status: Single/unmarried
+Key Skills: Service Delivery Analyst, Software Developer, Database Administration, Data Warehousing, Data
+Architecture, Data Modeling, Data Extraction, Business Intelligence, Performance Tuning, Core
+Java, Kaka, MondoDb, NOSQL, Hive, Sqoop, Oracle, BitBucket, ETL Development
+
+Verified: Phone Number |	Email - id
+
+
+ID: 1197477a584b09df30	Last Active: 3-Feb-20	Last Modified: 1-Feb-20
+
+
+Summary
+Result-oriented Professional with 2 years of experience as hadoop developer in Database ingestion, Data Warehousing, Data
+Architecture, Data Modeling, Data Extraction, Business Intelligence, Performance Tuning, , Hive, Sqoop, Oracle, BitBucket.Also
+worked as java developer in Core Java, Kaka, MondoDb, NOSQL.
+
+
+Work Experience
+ZS Associates as java developer
+Sep 2019 to Till Date
+Project Undertaken
+1) Project: Revo (Internal Project)
+Customer: Borehinger Illenghim (Pharmaceutical Domain)
+Duration: September 2019   November 2019
+Description: Migration of Data from data sources like Iqvia, Veeva, Bitman, OneCustomer, NewTrans, Integrichain, PlanIT,
+to Hadoop using different frameworks like Azkaban Work Designer, Cloudberry, AWS services like S3 bucket, AWS Glue
+and data refresh on Tableau (HQ Fields) and MSTR Fields
+Languages/Tools: EMR Cluster, CloudBerry, FileZilla, SQLWorkBench, ETL Tools like RDM, Azkaban Work Designer,
+AWS Services like S3 Bucket, AWS Glue.
+
+Roles and Responsibilities:
+Actively participated in interaction with Technical Lead to fully understand the requirements of the project.
+Worked with s3 bucket to fetch the data for the data sources and oad it through Azkaban Work Designer.
+Used Agile methodology for all the development activities.
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ae3   849521844280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580681122
+2/2/20 23&amp;09
+
+
+TATA Consultancy Services as Java Developer &amp; Hadoop Developer
+Mar 2018 to Sep 2019
+Project Undertaken
+1) Project: BIAN(Wave-1) and BIAN(Wave-2)
+Customer: PNC Financial Services (Banking And Finance Domain)
+Duration: July 2018 - Sep 2018
+Description: In this, I have created the REST API header by using JSON Framework.RESTful applications use HTTP
+requests to POST (create), PUT (create and/or update), GET (e.g., make queries), and DELETE data. REST uses HTTP
+for all four CRUD
+(Create/Read/Update/Delete) operations and also uses ISO LINK.
+Roles &amp; Responsibilites: Developing program as per client requirement.
+Unit testing of the whole project.
+Enhancement and Updation with new task assigned.
+Languages/Tools: SwaggerHub- SmartBear
+
+2) Project: NOSQL MVP1
+Customer: PNC Financial Services (Banking And Finance Domain) Duration: Sep 2018 - April 2019
+Description: Migration of Data from Traditional Mainframe Systems to NOSQL(MongoDb) Database.
+Helps in Development of Producer and Consumer Code in Java using Kafka Technology for DataStreaming.
+Roles &amp; Responsibilites: Developing and enhancing the existing program as per client requirement.
+Unit testing of the whole project.
+Error resolution and discrepancies in existing program.
+Languages/Tools: IRAD, Java Maven project, Putty, WinSCP, Microservices, kafka, NOSQL(Mongodb)
+
+3) Project: BDH (Big Data Hadoop)
+Customer: PNC Financial Services (Banking And Finance Domain) Duration: May 2019 - September 2019
+Description: Migration of Data from Bigdata to Hadoop using different frameworks like impala, Sqoop, hive using
+ingestions technique and Python Framework.
+Roles &amp; Responsibilities: Pulling data from source side to HDFS using database ingestion, mainframe ingestion &amp; file
+ingestion.
+Unit testing of the whole project Trouleshooting the Error.
+Languages/Tools: Winscp, putty, Hue frontend, CA7 Frontend
+
+Roles and Responsibilities:
+Actively participated in interaction with onsite team to fully understand the requirements of the object.   Involved in the
+documentation and development activities   Used GIT for the version control during development.
+Worked in three implementation projects.
+Understood the proper flow of the project.
+
+
+Education
+UG: B.Tech/B.E. (Instrumentation) from Institute of Technical Education and Research, Bhuvaneshwar in 2017
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+IRAD, Putty, WinSCP
+
+FileZilla, SQLWorkBench
+
+Core Java, Kaka
+
+MondoDB
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ae3   849521844280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580681122
+2/2/20 23&amp;09
+
+
+Hive, Sqoop, Big Data
+
+Oracle
+
+Git, Bitbucket
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ae3   849521844280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580681122
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Pune</sov:CurrentLocation>
+				<sov:PreferredLocation>Pune</sov:PreferredLocation>
+				<sov:WillingToRelocate>No</sov:WillingToRelocate>
+				<sov:VisaStatus>Physically Challenged: No</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Ayusi Saha's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Marketing (mostly Data &amp; Analytics). Ayusi Saha has 11 years of work experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>126</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>63</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>100</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="88">
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="30" percentOfParentTaxonomy="34">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="122" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-3; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="26" percentOfParentTaxonomy="30">
+								<sov:Skill name="APACHE HADOOP HDFS" id="5530709" existsInText="false" childrenTotalMonths="4" childrenLastUsed="2019-09-01">
+									<sov:ChildSkill name="HDFS" id="553070902" existsInText="true" totalMonths="4" lastUsed="2019-09-01" whereFound="Found in WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="APACHE HADOOP SQOOP" id="5530714" existsInText="false" childrenTotalMonths="4" childrenLastUsed="2019-09-01">
+									<sov:ChildSkill name="SQOOP" id="553071402" existsInText="true" totalMonths="4" lastUsed="2019-09-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DATA SOURCES" id="5530960" existsInText="true" totalMonths="2" lastUsed="2019-11-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="ETL" id="5530987" existsInText="true" totalMonths="2" lastUsed="2019-11-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="HADOOP" id="5530761" existsInText="true" totalMonths="121" lastUsed="2020-02-02" whereFound="Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="KAFKA" id="5531005" existsInText="true" totalMonths="7" lastUsed="2019-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" totalMonths="7" lastUsed="2019-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="NOSQL" id="5530812" existsInText="true" totalMonths="9" lastUsed="2019-04-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-4; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="19" percentOfParentTaxonomy="22">
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="2" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="Hadoop" id="1004744" existsInText="true" totalMonths="121" lastUsed="2020-02-02" whereFound="Found in SUMMARY; WORK HISTORY; POS-2; POS-3; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="HDFS" id="1004748" existsInText="true" totalMonths="4" lastUsed="2019-09-01" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+								<sov:Skill name="Hive" id="1004749" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="JSON" id="5520555" existsInText="true" totalMonths="2" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="4" lastUsed="2019-09-01" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="4" percentOfParentTaxonomy="4">
+								<sov:Skill name="DATABASE ADMINISTRATION" id="015028" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="11" childrenLastUsed="2019-09-01">
+									<sov:ChildSkill name="DATA MODELING" id="01503802" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="11" lastUsed="2019-09-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-5; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="UNIT TESTING" id="010254" existsInText="true" totalMonths="13" lastUsed="2019-09-01" whereFound="Found in WORK HISTORY; POS-4; POS-5; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Middleware and Integration" id="345" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="ETL" id="016965" existsInText="true" totalMonths="2" lastUsed="2019-11-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mainframe" id="197" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MAINFRAME" id="025745" existsInText="true" totalMonths="11" lastUsed="2019-09-01" whereFound="Found in WORK HISTORY; POS-5; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false" childrenTotalMonths="2" childrenLastUsed="2019-11-01">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" totalMonths="2" lastUsed="2019-11-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" totalMonths="7" lastUsed="2019-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="HTTP" id="019117" existsInText="true" totalMonths="2" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Privacy and Data Security" id="556" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="ISO" id="5551315" existsInText="true" totalMonths="2" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="EMR" id="016241" existsInText="true" totalMonths="2" lastUsed="2019-11-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MAVEN" id="2510001" existsInText="true" totalMonths="7" lastUsed="2019-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="REST" id="7180010" existsInText="true" totalMonths="2" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA MODELING" id="024098" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA WAREHOUSING" id="015020" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CA7" id="012312" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="VERSION CONTROL" id="024037" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="9">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="9" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="HADOOP" id="1400328" existsInText="true" totalMonths="121" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-5; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="1">
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="1" percentOfParentTaxonomy="82">
+								<sov:Skill name="DATA MODELING" id="024099" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="FINANCE" id="023147" existsInText="true" totalMonths="2" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="12">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="7000125" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Trading" id="239" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="FINANCIAL SERVICES" id="017478" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="1" percentOfParentTaxonomy="88">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="2" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="0" percentOfParentTaxonomy="13">
+								<sov:Skill name="DATA MODELING" id="014996" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="1">
+							<sov:Subtaxonomy name="Non-Nuclear Power Misc" id="924" percentOfOverall="1" percentOfParentTaxonomy="92">
+								<sov:Skill name="API" id="021195" existsInText="true" totalMonths="2" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="INSTRUMENTATION" id="081113" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Power Related" id="925" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="INSTRUMENTATION" id="081107" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="0" percentOfParentTaxonomy="47">
+								<sov:Skill name="DATA EXTRACTION" id="9000117" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="26">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="26">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="INSTRUMENTATION" id="080537" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="INSTRUMENTATION" id="080363" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="INSTRUMENTATION" id="080270" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="0">
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PERFORMANCE TUNING" id="004550" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="0">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="DOCUMENTATION" id="022620" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="35" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="36" ends="89" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="90" ends="98" sectionType="LANGUAGES">Languages</sov:Section>
+				<sov:Section starts="99" ends="102" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="103" ends="125" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="126" ends="140" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Ayusi Saha</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=ae3</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Work Authorization
+Physically Challenged: No</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Pune</sov:OtherDatum>
+					<sov:OtherDatum>Pref. Location: Pune</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>5421</sov:ParsedTextLength>
+			<sov:ParseTime>1531</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS,LANGUAGES] The following section types appear multiple times in the resume: SKILLS (2 occurrences), LANGUAGES (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:221;POS-6,POS-5,POS-4] We could not find a job title for: POS-6, POS-5, POS-4. Every position in a resume should have a job title.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:123;] Marital status should not be included in a resume (for most cultures).</sov:Information>
+							<sov:Information>[Sovren:151;0,3] The following sections do not have the header on a separate line: 'Key Skills', 'Languages'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:b7691351-ab33-469d-97f5-29b51aa064a7</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>zxAAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

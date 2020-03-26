@@ -1,0 +1,932 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Over 1 years experience in Data Analysis, Business Analysis, Business Intelligence, Call Center data, Data collection, Data\r\nSampling, Quantitative Analysis, Qualitative analysis, Machine Learning, Predictive Modeling, Natural Language\r\nProcessing, Python, SQL, DBMS",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "KRISHIFY",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Business Analyst",
+                "OrgName": {
+                  "OrganizationName": "KRISHIFY"
+                },
+                "Description": "Engaged for short-term pro-bono consulting projects using Kisan Call Center data on farmers\r\n* Developed a predictive model to identify problems faced by farmers regarding their crops sown for different months of the year\r\n* Created a manual for farmers in simplified language, detailing government schemes, document requirements and other\r\nsocial provisions so that farmers and other beneficiaries can avail benefits",
+                "StartDate": {
+                  "YearMonth": "2019-03"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "KRISHIFY",
+                    "sov:NormalizedTitle": "Business Analyst"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "KRISHIFY"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "TATA CONSULTANCY SERVICES",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "ASSISTANT SYSTEM TRAINEE",
+                "OrgName": {
+                  "OrganizationName": "TATA CONSULTANCY SERVICES"
+                },
+                "Description": "Conducted market analysis for supply chain unit of an EPC company and prepared reports to analyse supplier\r\nperformance\r\n* Designed inventory monitoring system with an interactive dashboard in excel",
+                "StartDate": {
+                  "YearMonth": "2014-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2014-11"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Purchasing, Procurement, Inventory Control, Supply Chain → Supply Chain",
+                    "Comments": "Purchasing, Procurement, Inventory Control, Supply Chain describes 40% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "TATA CONSULTANCY SERVICES",
+                    "sov:NormalizedTitle": "ASSISTANT SYSTEM TRAINEE"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "TATA CONSULTANCY SERVICES"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "NATIONAL INSTITUTE OF TECHNOLOGY"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "JHARKHAND"
+              ],
+              "Municipality": "JAMSHEDPUR"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Civil) from NATIONAL INSTITUTE OF TECHNOLOGY, JAMSHEDPUR, in 2014",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "NATIONAL INSTITUTE OF TECHNOLOGY"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Business Analyst, Data Analysis, Business Analysis, Business Intelligence, Call Center data, Data collection, Data\r\nSampling, Quantitative Analysis, Qualitative analysis, Machine Learning, Predictive Modeling, Natural Language\r\nProcessing, Python, SQL, DBMS\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 30-Jan-20\r\n03bd8788fea84454ab163922a37c1a8b\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMS Office tools-Excel, PowerPoint, Word\r\n\r\npython, sql"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tExpert"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&21\r\n\r\n\r\n   ~~~~~~~~  \r\n\r\n\r\nBusiness Analyst seeking assignment in Data Analysis, Business Analysis, Business\r\nIntelligence, Call Center data, Data collection, Data Sampling, Quantitative\r\nAnalysis, Qualitative analysis, Machine Learning, Predictive\r\nModeling, Python, SQL, DBMS\r\n\r\n\r\nCurrent Designation: Business Analyst\tTotal Experience: 1 Year(s) 3 Month(s)\r\nCurrent Company: KRISHIFY\tNotice Period: 15 Days or less\r\n   ~~~~~~~~~~~~~~~~~~  \tHighest Degree: B.Tech/B.E. [Civil]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Business Analyst\r\nIndustry: KPO / Research /Analytics\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Business Analyst, Data Analysis, Business Analysis, Business Intelligence, Call Center data, Data collection, Data\r\nSampling, Quantitative Analysis, Qualitative analysis, Machine Learning, Predictive Modeling, Natural Language\r\nProcessing, Python, SQL, DBMS\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 30-Jan-20\r\n03bd8788fea84454ab163922a37c1a8b\r\n\r\n\r\nSummary\r\nOver 1 years experience in Data Analysis, Business Analysis, Business Intelligence, Call Center data, Data collection, Data\r\nSampling, Quantitative Analysis, Qualitative analysis, Machine Learning, Predictive Modeling, Natural Language\r\nProcessing, Python, SQL, DBMS\r\n\r\n\r\nWork Experience\r\nKRISHIFY as Business Analyst\r\nMar 2019 to Till Date\r\nEngaged for short-term pro-bono consulting projects using Kisan Call Center data on farmers\r\n* Developed a predictive model to identify problems faced by farmers regarding their crops sown for different months of\r\nthe year\r\n* Created a manual for farmers in simplified language, detailing government schemes, document requirements and other\r\nsocial provisions so that farmers and other beneficiaries can avail benefits\r\n\r\n\r\nTATA CONSULTANCY SERVICES, as ASSISTANT SYSTEM TRAINEE\r\nJun 2014 to Nov 2014\r\nConducted market analysis for supply chain unit of an EPC company and prepared reports to analyse supplier\r\nperformance\r\n* Designed inventory monitoring system with an interactive dashboard in excel\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a434c0f0a635e4c52481d460e560c6&sid=3810263223&AT=1580681985\r\n2/2/20 23&21\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Civil) from NATIONAL INSTITUTE OF TECHNOLOGY, JAMSHEDPUR, in 2014\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMS Office tools-Excel, PowerPoint, Word\r\n\r\npython, sql\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tExpert\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~~~~~~~~~  \tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a434c0f0a635e4c52481d460e560c6&sid=3810263223&AT=1580681985\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~  's experience appears to be somewhat concentrated in Information Technology (mostly Big Data) and slightly concentrated in Finance (mostly Financial Planning & Analysis).    ~~~~~~~~  's experience appears to be entry level, with 17 months of experience.",
+          "sov:MonthsOfWorkExperience": "17",
+          "sov:AverageMonthsPerEmployer": "8",
+          "sov:FulltimeDirectHirePredictiveIndex": "25",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "27",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA COLLECTION",
+                            "@id": "5530944",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATABASE MANAGEMENT SYSTEM",
+                            "@id": "5530966",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DBMS",
+                                "@id": "5530967",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "PREDICTIVE MODELING",
+                            "@id": "5531047",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DBMS",
+                            "@id": "015077",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "NATURAL",
+                            "@id": "003276",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "MS OFFICE",
+                            "@id": "022137",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "16",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "73",
+                        "sov:Skill": [
+                          {
+                            "@name": "COLLECTION",
+                            "@id": "013778",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "022510",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "QUALITATIVE ANALYSIS",
+                                "@id": "0062762",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              },
+                              {
+                                "@name": "QUANTITATIVE ANALYSIS",
+                                "@id": "006276",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SUPPLY CHAIN",
+                            "@id": "7000144",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2014-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "7000125",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "51",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "30",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET ANALYSIS",
+                            "@id": "1400060",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2014-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE ANALYSIS",
+                            "@id": "006273",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "RF",
+                        "@id": "268",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "EPC",
+                            "@id": "016823",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2014-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "EPC",
+                            "@id": "016822",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2014-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Process",
+                        "@id": "143",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "006272",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS OFFICE",
+                                "@id": "022136",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT POWERPOINT",
+                            "@id": "023613",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "POWERPOINT",
+                                "@id": "021977",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT WORD",
+                            "@id": "022961",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "WORD",
+                                "@id": "002379",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Supply Chain",
+                        "@id": "461",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SUPPLY CHAIN",
+                            "@id": "022128",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2014-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Inventory",
+                        "@id": "459",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVENTORY",
+                            "@id": "020086",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2014-11-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "47",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE ANALYSIS",
+                            "@id": "9000112",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Environmental",
+                    "@id": "6",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Water",
+                        "@id": "330",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAMPLING",
+                            "@id": "022615",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Testing, Assessments, and Monitoring",
+                        "@id": "328",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA COLLECTION",
+                            "@id": "014976",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Special Events",
+                        "@id": "119",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUANTITATIVE",
+                            "@id": "022509",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Billing and Collections",
+                        "@id": "110",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "COLLECTION",
+                            "@id": "013780",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "012210",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PREDICTIVE MODELING",
+                            "@id": "005332",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SAMPLING",
+                            "@id": "007414",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "36",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "37",
+              "@ends": "57",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "58",
+              "@ends": "61",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "62",
+              "@ends": "69",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "70",
+              "@ends": "82",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "2755",
+        "sov:ParseTime": "281",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:e3b8c4ac-8761-4c3d-8b6e-a4ad56467116",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "tsn+//////8="
+      }
+    }
+  }
+}

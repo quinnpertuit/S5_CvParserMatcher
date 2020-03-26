@@ -16,6 +16,8 @@ class CandidateDataExtraction:
     
     def parseTheresume(self,document):
         #call the api and parse the Cv
+        #For now we are parsing manually
+        #-> link
         return
 
     def insertIntoDatabase(self,JsonObject):

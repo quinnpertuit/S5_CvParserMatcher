@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>CHANAKYA HARSHA</FormattedName>
+				<GivenName>CHANAKYA</GivenName>
+				<FamilyName>HARSHA</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Functional Area: Analytics &amp; Business Intelligence</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Certified Data Scientist, offering over 1 year of qualitative experience in working on large &amp; complex Data Science Projects to
+provide suitable solutions for varied business problems to the clients
+Proven skills in providing data-driven, action-oriented solutions to challenging business problems using data analytics and
+advanced data-driven methods
+Excels in collecting, analysing and processing complex data sets using advanced querying, visualization and analytics tools
+Forward-focused professional with talent in effectively liaising with globally distributed cross-functional teams &amp; enabling
+knowledge-sharing amongst them; problem-solver with strong communication, team-building and analytical skills</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Brontobyte Analytics</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>JUNIOR DATA SCIENTIST</Title>
+					<OrgName>
+						<OrganizationName>Brontobyte Analytics</OrganizationName>
+					</OrgName>
+					<Description>as Data Scientist
+Jun 2018 to Aug 2019
+Key Result Areas:
+Worked on Data Science &amp; Management Projects entailing collection of large &amp; complex datasets and performing
+several statistical tests to obtain useful information from raw data
+Assisted clients on large scale data and analytics using advanced statistical and machine learning models
+Architected and implemented analytics and visualization components for data analysis to predict relevant solutions
+Created and presented the results of data analysis to show the trends using R Language &amp; Python
+
+https://freesearch.naukri.com/preview/printResume?uname=09f   e5100491779465e401804435a0e176&amp;sid=3810263223&amp;AT=1580666510
+2/2/20 19'05
+
+
+Consulted with Trained Analysts to effectively access data &amp; optimize Tableau dashboards
+Maintained SQL scripts to create and populate tables in data warehouse for daily reporting across departments
+Facilitated functions such as Incident &amp; Change Management, created solution prototype, participated in technology
+selection, controlled solution development and also supported project management activities
+Reported overall status of the project to the client and senior management</Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 39% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Brontobyte Analytics</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>JUNIOR DATA SCIENTIST</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>DATA SCIENTIST</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Data Scientist</Title>
+					<OrgName>
+						<OrganizationName>BRONTOBYTE ANALYTICS</OrganizationName>
+					</OrgName>
+					<Description>Worked on collection of data sets, data mining, predictions, image processing related to data science in BRONTOBYTE
+ANALYTICS</Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Machine Learning</CategoryCode>
+						<Comments>Information Technology describes 55% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>BRONTOBYTE ANALYTICS</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Scientist</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Brontobyte Analytics</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>hindustan institute of technology and science</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Civil) from hindustan institute of technology and science in 2016
+
+PG: in 0</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>hindustan institute of technology and science</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Data Science Course</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Scientist, Data Analyst, Data Mining, Deep Learning, Data Visualization, Data Science, Artificial
+Intelligence, Incident Management, Data Engineering, Change Management, Statistical Analysis, Vendor
+Management, Tableau, R, Python, MySQL
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 1-Feb-20
+3ee50e5243034e86a744cb041c8aa110
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+R, Python, MySQL
+
+WINDOWS, LINUX</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>te</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Telugu</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>ta</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Tamil</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'05
+
+
+CHANAKYA HARSHA
+
+
+Data Scientist seeking roles in Data Mining, Deep Learning, Data Visualization, Data
+Science, Artificial Intelligence, Incident Management, Data Engineering, Change
+Management, Statistical Analysis, Vendor Management, Tableau, R, Python, MySQL
+
+
+Current Designation: JUNIOR DATA SCIENTIST	Total Experience: 1 Year(s) 2 Month(s)
+Current Company: BRONTOBYTE ANALYTICS	Notice Period: 15 Days or less
+Current Location: Hyderabad / Secunderabad	Highest Degree:
+Pref. Location: Bengaluru / Bangalore, Hyderabad, Pune
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: IT-Software/Software Services
+Marital Status: Single/unmarried
+Key Skills: Data Scientist, Data Analyst, Data Mining, Deep Learning, Data Visualization, Data Science, Artificial
+Intelligence, Incident Management, Data Engineering, Change Management, Statistical Analysis, Vendor
+Management, Tableau, R, Python, MySQL
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 1-Feb-20
+3ee50e5243034e86a744cb041c8aa110
+
+
+Summary
+Certified Data Scientist, offering over 1 year of qualitative experience in working on large &amp; complex Data Science Projects to
+provide suitable solutions for varied business problems to the clients
+Proven skills in providing data-driven, action-oriented solutions to challenging business problems using data analytics and
+advanced data-driven methods
+Excels in collecting, analysing and processing complex data sets using advanced querying, visualization and analytics tools
+Forward-focused professional with talent in effectively liaising with globally distributed cross-functional teams &amp; enabling
+knowledge-sharing amongst them; problem-solver with strong communication, team-building and analytical skills
+
+
+Work Experience
+BRONTOBYTE ANALYTICS as JUNIOR DATA SCIENTIST
+Jun 2018 to Till Date
+
+Brontobyte Analytics as Data Scientist
+Jun 2018 to Aug 2019
+Key Result Areas:
+Worked on Data Science &amp; Management Projects entailing collection of large &amp; complex datasets and performing
+several statistical tests to obtain useful information from raw data
+Assisted clients on large scale data and analytics using advanced statistical and machine learning models
+Architected and implemented analytics and visualization components for data analysis to predict relevant solutions
+Created and presented the results of data analysis to show the trends using R Language &amp; Python
+
+https://freesearch.naukri.com/preview/printResume?uname=09f   e5100491779465e401804435a0e176&amp;sid=3810263223&amp;AT=1580666510
+2/2/20 19'05
+
+
+Consulted with Trained Analysts to effectively access data &amp; optimize Tableau dashboards
+Maintained SQL scripts to create and populate tables in data warehouse for daily reporting across departments
+Facilitated functions such as Incident &amp; Change Management, created solution prototype, participated in technology
+selection, controlled solution development and also supported project management activities
+Reported overall status of the project to the client and senior management
+
+
+BRONTOBYTE ANALYTICS as Data Scientist
+Jun 2018 to Aug 2019
+Worked on collection of data sets, data mining, predictions, image processing related to data science in BRONTOBYTE
+ANALYTICS
+
+
+Education
+UG: B.Tech/B.E. (Civil) from hindustan institute of technology and science in 2016
+
+PG: in 0
+
+Other Qualifications/Certifications/Programs:
+Data Science Course
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+R, Python, MySQL
+
+WINDOWS, LINUX
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+Telugu
+
+Tamil
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=09f   e5100491779465e401804435a0e176&amp;sid=3810263223&amp;AT=1580666510
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Hyderabad / Secunderabad</sov:CurrentLocation>
+				<sov:PreferredLocation>Bengaluru / Bangalore, Hyderabad, Pune</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Physically Challenged: No</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>CHANAKYA HARSHA's experience appears to be mostly concentrated in Information Technology (mostly Big Data) and somewhat concentrated in User Experience (mostly Interactive Design). CHANAKYA HARSHA's experience appears to be entry level, with 20 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>20</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>20</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="48">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="17" percentOfParentTaxonomy="36">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" totalMonths="14" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATASETS" id="5530959" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="16" percentOfParentTaxonomy="33">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" totalMonths="14" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="DEEP LEARNING" id="7200018" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="3" percentOfParentTaxonomy="7">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" totalMonths="14" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DATA WAREHOUSE" id="022439" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="3" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="2" percentOfParentTaxonomy="5">
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="CHANGE MANAGEMENT" id="022159" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="IMAGE PROCESSING" id="019541" existsInText="true" totalMonths="14" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="25">
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="4" percentOfParentTaxonomy="15">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="4" percentOfParentTaxonomy="15">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="4" percentOfParentTaxonomy="15">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="4" percentOfParentTaxonomy="15">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="4" percentOfParentTaxonomy="15">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="PROTOTYPES" id="5570209" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="PROTOTYPE" id="5570210" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="PROTOTYPE" id="5570148" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="PROTOTYPE" id="5570107" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="PROTOTYPE" id="5570097" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="PROTOTYPE" id="5570036" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="16">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="14" percentOfParentTaxonomy="87">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="1400072" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="2" percentOfParentTaxonomy="13">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" totalMonths="14" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="5">
+							<sov:Subtaxonomy name="Organization Development" id="581" percentOfOverall="2" percentOfParentTaxonomy="46">
+								<sov:Skill name="CHANGE MANAGEMENT" id="9000213" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Management" id="579" percentOfOverall="2" percentOfParentTaxonomy="46">
+								<sov:Skill name="CHANGE MANAGEMENT" id="9000169" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="STATISTICAL ANALYSIS" id="9000111" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="3">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="2" percentOfParentTaxonomy="62">
+								<sov:Skill name="CHANGE MANAGEMENT" id="012977" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="1" percentOfParentTaxonomy="38">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008576" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="2">
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="2" percentOfParentTaxonomy="95">
+								<sov:Skill name="COLLECTION" id="013778" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008574" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Security" id="98" percentOfOverall="0">
+							<sov:Subtaxonomy name="Financial, Accounting and Processes" id="466" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="INCIDENT MANAGEMENT" id="019592" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="19" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="39" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="40" ends="69" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="70" ends="74" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="75" ends="78" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="79" ends="86" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="87" ends="105" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>CHANAKYA HARSHA</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=09f</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Bengaluru / Bangalore, Hyderabad, Pune</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Physically Challenged: No</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Hyderabad / Secunderabad</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>3839</sov:ParsedTextLength>
+			<sov:ParseTime>390</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:5b0b867e-8076-480d-8176-99100773eafb</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>a0IAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

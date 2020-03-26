@@ -1,0 +1,918 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "M Tech in CSE (Information Security) from NIT Bhopal with 8 months Internship Experience at SAP Labs where worked on Java\r\nstack base Micro-services which uses Hadoop HDFS, Hadoop MapReduce, Java etc Technology.\r\nHad 1.5 year Academic Experience as an Asst. Prof. in CSE department where I taught Data Structure, Algorithm, and\r\nProgramming language (i. e. Java, C).\r\nI have more than 75% throughout.\r\nActively looking for software Developer, software Engineer, R&D Engineer jobs.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Parul University",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Assistant Professor",
+                "OrgName": {
+                  "OrganizationName": "Parul University"
+                },
+                "Description": "Subject thought - C, JAVA, Compiler Design, CG, DSA.",
+                "StartDate": {
+                  "YearMonth": "2018-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Parul University",
+                    "sov:NormalizedTitle": "Assistant Professor"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Parul University"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "SAP Labs",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "Intern",
+                "OrgName": {
+                  "OrganizationName": "SAP Labs"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "I worked on the Project Catalog Management System (CMS) which is Java stack\r\nbase application. CMS is a Micro-Service which uses Java Stack base applications and utilize by Buyer(Procurement Solution)and Ariba Network for content management.I wrote some Java classes definition and Junit Test.",
+                "StartDate": {
+                  "YearMonth": "2017-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 79% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "SAP",
+                    "sov:NormalizedTitle": "Intern"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "SAP"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: M.Tech (Computers) from NIT BHOPAL in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Rajiv Gandhi Proudyogiki Vishwavidyalaya"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MADHYA PRADESH"
+              ],
+              "Municipality": "Bhopal"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2016"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2016"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal in 2016",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Rajiv Gandhi Proudyogiki Vishwavidyalaya"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "CERTIFICATE FOR COMPLETION OF C WORKSHOP",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "CERTIFICATE FOR COMPLETION OF CORE JAVA Training",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Inernship at SAP Labs",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "TudipTechstar coding competition(secure 5th Rank)",
+            "Id": "4",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: fresher, c, project management, database design, information security management, data structures, database\r\nmanagement system, algorithm, hadoop hdfs, hadoop mapreduce, c++, core java, junit, microservices\r\n\r\nVerified: Phone Number   \tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 31-Jan-20\r\n151bf23151644db4835a4ae0663bbbc6\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nC, C++, Core JAVA\tjava\t2019\t   ~~~~~~~~~~~~~~~  \r\n1.8\r\n\r\nJava, Hadoop HDFS,\t2018\t   ~~~~~~~~~~~~~~~  \r\n\r\nHadoop MapReduce.\t2018\t   ~~~~~~~~~~~~~~~  \r\n\r\nData Structures\r\n\r\nALGORITHM\r\n\r\ndbms"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tExpert"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tExpert"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&12\r\n\r\n\r\n   ~~~~~~~  \r\n\r\n\r\nM.Tech in CSE from NIT Bhopal   8 month Internship with SAP Labs|worked on Java\r\nstack base Micro-services   Expertise in C, Data\r\nStructure, Algorithm, DBMS, Hadoop, Java etc|Looking for Software Developer/Engineer,\r\nR&D Engineer job.\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tTotal Experience:    ~~~~~~~~~~~~~~~  \r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tNotice Period: 15 Days or less\r\nFunctional Area: IT Software - Application Programming /\tHighest Degree: M.Tech [Computers]\r\nMaintenance\r\nRole: Software Developer\r\nIndustry: IT-Software/Software Services\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: fresher, c, project management, database design, information security management, data structures, database\r\nmanagement system, algorithm, hadoop hdfs, hadoop mapreduce, c++, core java, junit, microservices\r\n\r\nVerified: Phone Number   \tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 31-Jan-20\r\n151bf23151644db4835a4ae0663bbbc6\r\n\r\n\r\nSummary\r\nM Tech in CSE (Information Security) from NIT Bhopal with 8 months Internship Experience at SAP Labs where worked on Java\r\nstack base Micro-services which uses Hadoop HDFS, Hadoop MapReduce, Java etc Technology.\r\nHad 1.5 year Academic Experience as an Asst. Prof. in CSE department where I taught Data Structure, Algorithm, and\r\nProgramming language (i. e. Java, C).\r\nI have more than 75% throughout.\r\nActively looking for software Developer, software Engineer, R&D Engineer jobs.\r\n\r\n\r\nWork Experience\r\nParul University as Assistant Professor\r\nJul 2018 to Dec 2019\r\nSubject thought - C, JAVA, Compiler Design, CG, DSA.\r\n\r\n\r\nSAP Labs as Intern\r\nJul 2017 to Mar 2018\r\nAs an Intern at SAP Labs, Bangalore, I worked on the Project Catalog Management System (CMS) which is Java stack\r\nbase application. CMS is a Micro-Service which uses Java Stack base applications and utilize by Buyer(Procurement\r\nSolution)and Ariba Network for content management.I wrote some Java classes definition and Junit Test.\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     f0c59480d0b110b12475c5d09544c6&sid=3810263223&AT=1580681426\r\n2/2/20 23&12\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal in 2016\r\n\r\nPG: M.Tech (Computers) from NIT BHOPAL in 2018\r\n\r\nOther Qualifications/Certifications/Programs:\r\nInernship at SAP Labs\r\nCERTIFICATE FOR COMPLETION OF C WORKSHOP\r\nTudipTechstar coding competition(secure 5th Rank)\r\nCERTIFICATE FOR COMPLETION OF CORE JAVA Training\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nC, C++, Core JAVA\tjava\t2019\t   ~~~~~~~~~~~~~~~  \r\n1.8\r\n\r\nJava, Hadoop HDFS,\t2018\t   ~~~~~~~~~~~~~~~  \r\n\r\nHadoop MapReduce.\t2018\t   ~~~~~~~~~~~~~~~  \r\n\r\nData Structures\r\n\r\nALGORITHM\r\n\r\ndbms\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tExpert\r\n\r\nHindi\tExpert\r\n\r\n\r\nProjects\r\nProject Title: CATALOG MANAGEMENT SYSTEM (CMS)\r\nClient: Buyer\r\nNature of Employment: Full Time\tDuration: Jul 2017 - Feb 2018\r\nProject Location: bangalore\tOnsite / Offsite: Offsite\r\nRole: Programmer\tTeam Size: 6\r\nSkill Used: Java, Spring Boot, Hadoop HDFS, Hadoop MapReduce, APACHE HBase, AngularJS\r\nRole Description: Worked on the project Catalog Management System(CMS).CMS is a Micro-Service which uses Java Stack\r\nbase applications and utilize by Procurement Solution for content management.I wrote some Java classes definition and\r\nJunit Test cases.\r\nProject Details: Both Buyer and CMS use Java stack base Applications, Where Buyer is Multi- Module monolithic application\r\nfor procurement, while CMS is Micro-Service Application which is utilize by Buyer for content management.\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     f0c59480d0b110b12475c5d09544c6&sid=3810263223&AT=1580681426\r\n2/2/20 23&12\r\n\r\n\r\nProject Title: REPLICATION MANAGEMENT IN HDFS BASED ON ACCESS FREQUENCY OF DATA FIL\r\nClient: manit\r\nNature of Employment: Full Time\tDuration: Jul 2017 - Jul 2018\r\nProject Location: NIT BHOPAL\tOnsite / Offsite: Offsite\r\nRole: Other\tTeam Size: 1\r\nSkill Used: Java, Hadoop HDFS, Hadoop MapReduc\r\nRole Description: M.Tech Thesis work.\r\nProject Details: Default replication strategy still remains a critical drawback with regards to performance aspect, instead of\r\nkeeping three copies of data file, proposed mechanism is to replicate data file based on access frequency of the file.\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~~~~~~~~~~  \tUS Work Status: Need H1 Visa\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     f0c59480d0b110b12475c5d09544c6&sid=3810263223&AT=1580681426\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Purchasing, Procurement, Inventory Control, Supply Chain (mostly Purchasing).    ~~~~~~~  's experience appears to be lower-to-mid level, with about 2 years of experience.",
+          "sov:MonthsOfWorkExperience": "25",
+          "sov:AverageMonthsPerEmployer": "12",
+          "sov:FulltimeDirectHirePredictiveIndex": "25",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "97",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "84",
+                        "@percentOfParentTaxonomy": "87",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "25",
+                            "@lastUsed": "2019-12-01",
+                            "@whereFound": "Found in CERTIFICATIONS; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE HADOOP HDFS",
+                            "@id": "5530709",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HADOOP HDFS",
+                                "@id": "553070901",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                              },
+                              {
+                                "@name": "HDFS",
+                                "@id": "553070902",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "APACHE HADOOP MAPREDUCE",
+                            "@id": "5530712",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HADOOP MAPREDUCE",
+                                "@id": "553071201",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                              },
+                              {
+                                "@name": "MAPREDUCE",
+                                "@id": "553071202",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "APACHE HBASE",
+                            "@id": "5530716",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "CONTENT MANAGEMENT SYSTEM",
+                            "@id": "5530931",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2018-03-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CMS",
+                                "@id": "5530932",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2018-03-01",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DATA STRUCTURE",
+                            "@id": "5530961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "5530761",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "HBASE",
+                            "@id": "5530766",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "REPLICATION",
+                            "@id": "5531054",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "CONTENT MANAGEMENT",
+                            "@id": "022339",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-03-01",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "Hadoop",
+                            "@id": "1004744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "HBase",
+                            "@id": "1004747",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "HDFS",
+                            "@id": "1004748",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "MapReduce",
+                            "@id": "1004750",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JUNIT",
+                            "@id": "020369",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-03-01",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMS",
+                            "@id": "013609",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-03-01",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARIBA",
+                            "@id": "081199",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "SECURITY",
+                            "@id": "022110",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAP",
+                            "@id": "007436",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SUMMARY; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "DATABASE DESIGN",
+                                "@id": "015032",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DBMS",
+                            "@id": "015077",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REPLICATION",
+                            "@id": "025246",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Service Providers",
+                        "@id": "348",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARIBA",
+                            "@id": "081179",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Privacy and Data Security",
+                        "@id": "556",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "INFORMATION SECURITY",
+                            "@id": "5551239",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANGULARJS",
+                            "@id": "5520505",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Purchasing",
+                        "@id": "458",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUYER",
+                            "@id": "025714",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-03-01",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "PROCUREMENT",
+                            "@id": "7270001",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-03-01",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022552",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST CASES",
+                            "@id": "009422",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "19",
+              "@ends": "28",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "29",
+              "@ends": "37",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "38",
+              "@ends": "54",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "55",
+              "@ends": "59",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "60",
+              "@ends": "66",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "67",
+              "@ends": "83",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "84",
+              "@ends": "91",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "92",
+              "@ends": "128",
+              "@sectionType": "PROJECT_HEADERS",
+              "#text": "Projects"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "4560",
+        "sov:ParseTime": "312",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:303;7] The following section in the resume contains more content than the work history and education sections combined: 'Projects'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:71f4efee-8786-448d-8e1b-d971894a20ce",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "zNAAAAAAAAA="
+      }
+    }
+  }
+}

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>To increase the level of my competence by developing technical skills and attitude through focused learning, thereby serving an
+organization by giving the fullest of me.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Infosys Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Software Developer</Title>
+					<OrgName>
+						<OrganizationName>Infosys Limited</OrganizationName>
+					</OrgName>
+					<Description>Responsibilities: Worked for a client in Database Administration and Production Operation role.   Domains: Individual &amp; Family Services</Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Database</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Infosys</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Infosys</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>International Institute of Information Technology (IIIT)</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>UTTAR PRADESH</Region>
+					<Municipality>Allahabad</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computers) from International Institute of Information Technology (IIIT), Allahabad in 2018
+
+PG: in 0
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a495a1348280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580666277</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>International Institute of Information Technology IIIT</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Software Developer, Software Development, Application Designing, Project Management, Change
+Management, Data
+Structures, Python, MSQL, HTML, CSS, Javascript, C, C++, Django, MySQL, Algorithms, OOP, Java, OOPS, Machine
+Learning, Programming
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: Jan-Mar 2020	Last Modified: Jan-Mar 2020
+2ce81505600546afb6f3153a3d7f2a6c
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+html, css, javascript
+
+Eclipse, Atom, Spyder, Jupyter Notebook
+
+Windows and Linux</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>te</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Telugu</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'04
+
+
+   ~~~~~~~~~  
+
+
+Python Developer, Software Developer seeking roles in Software Development Python
+and Java, Application Designing, Project Management, Root Cause Analysis, Quality
+Management, Requirement Gathering, Data
+Structures, Python, MSQL, HTML, CSS, Javascript, C, C++
+
+
+Current Designation: Software Developer	Total Experience: 1 Year(s) 5 Month(s)
+Current Company: Infosys Limited	Notice Period: 1 Month
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree:
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: IT Software - Application Programming /
+Maintenance
+Role: Software Developer
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Software Developer, Software Development, Application Designing, Project Management, Change
+Management, Data
+Structures, Python, MSQL, HTML, CSS, Javascript, C, C++, Django, MySQL, Algorithms, OOP, Java, OOPS, Machine
+Learning, Programming
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: Jan-Mar 2020	Last Modified: Jan-Mar 2020
+2ce81505600546afb6f3153a3d7f2a6c
+
+
+Summary
+To increase the level of my competence by developing technical skills and attitude through focused learning, thereby serving an
+organization by giving the fullest of me.
+
+
+Work Experience
+Infosys Limited as Software Developer
+Jun 2018 to Till Date
+Responsibilities: Worked for a client in Database Administration and Production Operation role.   Domains: Individual &amp;
+Family Services
+
+
+Education
+UG: B.Tech/B.E. (Computers) from International Institute of Information Technology (IIIT), Allahabad in 2018
+
+PG: in 0
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a495a1348280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580666277
+2/2/20 19'04
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+html, css, javascript
+
+Eclipse, Atom, Spyder, Jupyter Notebook
+
+Windows and Linux
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+Telugu
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~  	Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a495a1348280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580666277
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Human Resources (mostly Diversity &amp; Inclusion).    ~~~~~~~~~  's experience appears to be entry level, with 20 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>20</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>20</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="88">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="57" percentOfParentTaxonomy="64">
+								<sov:Skill name="DATABASE ADMINISTRATION" id="015028" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="19" percentOfParentTaxonomy="22">
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DJANGO" id="3391160" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="OOP" id="003830" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="5" percentOfParentTaxonomy="5">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="DJANGO" id="5510043" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="5">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="3">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="2">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="2">
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="21" ends="32" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="33" ends="37" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="38" ends="44" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="45" ends="54" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="55" ends="64" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="65" ends="81" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2203</sov:ParsedTextLength>
+			<sov:ParseTime>203</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:31d3720d-f92b-4d6e-80f0-9d1107672594</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>KqUDAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

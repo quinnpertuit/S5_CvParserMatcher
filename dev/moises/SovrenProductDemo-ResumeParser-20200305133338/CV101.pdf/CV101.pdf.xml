@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Mr. Aditya Garg</FormattedName>
+				<GivenName>Aditya</GivenName>
+				<FamilyName>Garg</FamilyName>
+				<Affix type="formOfAddress">Mr.</Affix>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Analysis, Solution Architecture, Data Structure, Algorithm, Java, J2EE, Spring</AddressLine>
+						<AddressLine>Boot, Microservice, Hibernate, RESTful, GWT, HTML5</AddressLine>
+						<AddressLine>Quinnox Consultancy Services</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Result-oriented Professional with 2 years of experience in Software Development, Application Programming, Application
+Maintenance, Project Management, Requirement Analysis, Solution Architecture, Data Structure, Algorithm, Java, J2EE, Spring
+Boot, Microservice, Hibernate, RESTful, GWT, HTML5.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Quinnox Consultancy Services</EmployerOrgName>
+				<PositionHistory positionType="contract" currentEmployer="true">
+					<Title>Consultant</Title>
+					<OrgName>
+						<OrganizationName>Quinnox Consultancy Services</OrganizationName>
+					</OrgName>
+					<Description>Knowledge on Insurance domain.
+Good understanding ability to quickly adapt to new Technologies and Tools.
+Good analytical and problem solving skills with ability to adapt new methods and procedures
+Self-Motivated with ability to work independently or as a team member
+Excellent communication, project co-ordination and interpersonal skills, and loves more challenging task.
+Highly motivated, self-starting, team player with strong desire to learn.</Description>
+					<StartDate>
+						<YearMonth>2019-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Personal Attributes → Attitude</CategoryCode>
+						<Comments>Personal Attributes describes 50% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>Quinnox Consultancy Services</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Consultant</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Quinnox Consultancy Services</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>QBE(US)</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Back End Developer</Title>
+					<OrgName>
+						<OrganizationName>QBE(US)</OrganizationName>
+					</OrgName>
+					<Description>PROJECT DESCRIPTION: QBE Insurance Group Limited is Australia's largest global insurer. It provides insurance
+services mainly to Australia, America, Europe and Asia pacific region.
+AAS i.e, Automated Agency System QBE's information system for managing agent/broker (Agency name, address, personnel etc.). It acts as a central repository for all the agent information which will be utilized by downstream system.
+
+PROJECT TITLE: Sainsbury's Argos
+ENVIRONMENT: Core Java, Spring, Hibernate,
+ROLE: Associate software Engineer
+
+PROJECT DESCRIPTION: Argos is a British catalog retailer operating in the United Kingdom and Ireland, and a subsidiary of Sainsbury's. The company trades both through physical stores and online, with over 845 retail stores.</Description>
+					<StartDate>
+						<Year>2017</Year>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2020-02-02</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 56% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>QBE US</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Back End Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>QBE US</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Accenture India Private Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Associate Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Accenture India Private Limited</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2016-03</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Accenture India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Associate Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Accenture India</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>MOISTURE CHECKING SYSTEM</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Developer</Title>
+					<OrgName>
+						<OrganizationName>MOISTURE CHECKING SYSTEM</OrganizationName>
+					</OrgName>
+					<Description>PROJECT DESCRIPTION: A Major Project (Final Year) to check the moisture of the soil for a farmer using soil sensor and java. (February '15 - April '15).
+
+Role/Responsibilities:
+Identifying the Requirements based on Business Requirement Document.
+Involved in Development, Bug fixing and Unit testing.
+Handled Deployments without any issues.
+Have done Effort Estimation.
+Have done Client interaction and people management.
+Have done server side development using Spring MVC Framework.
+Crud Operations done using Hibernate.
+Have done client side development using GWT, Ajax and JSON
+Have written JUnit test cases.</Description>
+					<StartDate>
+						<YearMonth>2015-02</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2015-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 65% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>MOISTURE CHECKING SYSTEM</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>MOISTURE CHECKING SYSTEM</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2015</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2015</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computers) from IITM, Gwalior in 2015
+
+PG: in 0</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Consultant, Software Developer, Software Development, Application Programming, Application
+Maintenance, Project Management, Requirement Analysis, Solution Architecture, Data
+Structure, Algorithm, Java, J2EE, Spring Boot, Microservice, Hibernate, RESTful, GWT, HTML5
+
+Verified: Phone Number |	Email - id
+
+
+ID: 46551805728918d995	Last Active: 31-Jan-20	Last Modified: 30-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+JAVA, J2EE
+
+spring boot
+
+Microservice, Hibernate
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c8a   120918006116050c500d5440564c6&amp;sid=3810263223&amp;AT=1580681844
+2/2/20 23&amp;17
+
+
+RESTFUL
+
+GWT, HTML5
+
+JSP, JDBC, JavaScript
+
+Apache Tomcat
+
+IBM Websphere Application Server
+
+Mysql, DB2, ORACLE
+
+Eclipse, IBM RAD
+
+Jenkins, UIpath, Notepad++
+
+IBM UCD, JIRA</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Expert</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;17
+
+
+Mr. Aditya Garg
+
+
+Consultant seeking roles in Software Development, Application
+Programming, Application Maintenance, Project Management, Requirement
+Analysis, Solution Architecture, Data Structure, Algorithm, Java, J2EE, Spring
+Boot, Microservice, Hibernate, RESTful, GWT, HTML5
+
+
+Current Designation: Consultant -Java/J2EE	Total Experience: 2 Year(s) 0 Month(s)
+Current Company: Quinnox Consultancy Services	Notice Period: 15 Days or less
+Current Location: Bengaluru / Bangalore	Highest Degree:
+Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Pune
+Functional Area: IT Software - Application Programming /
+Maintenance
+Role: Software Developer
+Industry: IT-Software/Software Services
+Marital Status: Single/unmarried
+Key Skills: Consultant, Software Developer, Software Development, Application Programming, Application
+Maintenance, Project Management, Requirement Analysis, Solution Architecture, Data
+Structure, Algorithm, Java, J2EE, Spring Boot, Microservice, Hibernate, RESTful, GWT, HTML5
+
+Verified: Phone Number |	Email - id
+
+
+ID: 46551805728918d995	Last Active: 31-Jan-20	Last Modified: 30-Jan-20
+
+
+Summary
+Result-oriented Professional with 2 years of experience in Software Development, Application Programming, Application
+Maintenance, Project Management, Requirement Analysis, Solution Architecture, Data Structure, Algorithm, Java, J2EE, Spring
+Boot, Microservice, Hibernate, RESTful, GWT, HTML5.
+
+
+Work Experience
+Quinnox Consultancy Services as Consultant -Java/J2EE
+Jan 2019 to Till Date
+Knowledge on Insurance domain.
+Good understanding ability to quickly adapt to new Technologies and Tools.
+Good analytical and problem solving skills with ability to adapt new methods and procedures
+Self-Motivated with ability to work independently or as a team member
+Excellent communication, project co-ordination and interpersonal skills, and loves more challenging task.
+Highly motivated, self-starting, team player with strong desire to learn.
+
+
+Accenture India Private Limited as Associate Software Engineer
+Mar 2016 to Apr 2017
+PROJECTS:
+
+PROJECT TITLE: QBE INSURANCE
+
+https://freesearch.naukri.com/preview/printResume?uname=c8a   120918006116050c500d5440564c6&amp;sid=3810263223&amp;AT=1580681844
+2/2/20 23&amp;17
+
+
+ENVIRONMENT: Core Java, Data Structure, Spring, IBM WebSphere application Server
+
+ROLE: Back End Developer
+
+CLIENT: QBE(US)
+
+PROJECT DESCRIPTION: QBE Insurance Group Limited is Australia's largest global insurer. It provides insurance
+services mainly to Australia, America, Europe and Asia pacific region.
+AAS i.e, Automated Agency System QBE's information system for managing agent/broker (Agency name, address,
+personnel etc.). It acts as a central repository for all the agent information which will be utilized by downstream system.
+
+PROJECT TITLE: Sainsbury's Argos
+
+ENVIRONMENT: Core Java, Spring, Hibernate,
+
+ROLE: Associate software Engineer
+
+PROJECT DESCRIPTION: Argos is a British catalog retailer operating in the United Kingdom and Ireland, and a
+subsidiary of Sainsbury's. The company trades both through physical stores and online, with over 845 retail stores.
+
+PROJECT TITLE: MOISTURE CHECKING SYSTEM
+
+ENVIRONMENT: Java
+
+ROLE: Developer
+
+PROJECT DESCRIPTION: A Major Project (Final Year) to check the moisture of the soil for a farmer using soil sensor and
+java. (February '15 - April '15).
+
+Role/Responsibilities:
+Identifying the Requirements based on Business Requirement Document.
+Involved in Development, Bug fixing and Unit testing.
+Handled Deployments without any issues.
+Have done Effort Estimation.
+Have done Client interaction and people management.
+Have done server side development using Spring MVC Framework.
+Crud Operations done using Hibernate.
+Have done client side development using GWT, Ajax and JSON
+Have written JUnit test cases.
+
+
+Education
+UG: B.Tech/B.E. (Computers) from IITM, Gwalior in 2015
+
+PG: in 0
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+JAVA, J2EE
+
+spring boot
+
+Microservice, Hibernate
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c8a   120918006116050c500d5440564c6&amp;sid=3810263223&amp;AT=1580681844
+2/2/20 23&amp;17
+
+
+RESTFUL
+
+GWT, HTML5
+
+JSP, JDBC, JavaScript
+
+Apache Tomcat
+
+IBM Websphere Application Server
+
+Mysql, DB2, ORACLE
+
+Eclipse, IBM RAD
+
+Jenkins, UIpath, Notepad++
+
+IBM UCD, JIRA
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Expert
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c8a   120918006116050c500d5440564c6&amp;sid=3810263223&amp;AT=1580681844
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:Gender inferred="true">Male</sov:Gender>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Bengaluru / Bangalore</sov:CurrentLocation>
+				<sov:PreferredLocation>Bengaluru / Bangalore, Delhi / NCR, Pune</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Physically Challenged: No</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Aditya Garg's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Sales (mostly Entry Level). Aditya Garg's experience appears to be lower-to-mid level, with about 3 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>41</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>10</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>18</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="84">
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="59" percentOfParentTaxonomy="70">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="J2EE" id="020255" existsInText="true" totalMonths="14" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="28" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-3; POS-4" childrenTotalMonths="27" childrenLastUsed="2020-02-02">
+									<sov:ChildSkill name="HIBERNATE" id="3391127" existsInText="true" totalMonths="27" lastUsed="2020-02-02" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-3; POS-4"></sov:ChildSkill>
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" totalMonths="27" lastUsed="2020-02-02" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-3; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JSP" id="339001" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="13" percentOfParentTaxonomy="15">
+								<sov:Skill name="ALGORITHM" id="022551" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="APPLICATION PROGRAMMING" id="021658" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="APPLICATION SERVER" id="024219" existsInText="true" totalMonths="25" lastUsed="2020-02-02" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="BACK END" id="025118" existsInText="true" totalMonths="25" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-3" childrenTotalMonths="25" childrenLastUsed="2020-02-02">
+									<sov:ChildSkill name="BACK END DEVELOPER" id="009515" existsInText="true" totalMonths="25" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JSON" id="5520555" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="REQUIREMENT ANALYSIS" id="022962" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="38" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="4" percentOfParentTaxonomy="5">
+								<sov:Skill name="AJAX" id="196001" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="TOMCAT" id="009664" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="WEBSPHERE" id="026748" existsInText="true" totalMonths="25" lastUsed="2020-02-02" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="DATA STRUCTURE" id="5530961" existsInText="true" totalMonths="25" lastUsed="2020-02-02" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="DB2" id="5530738" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JUNIT" id="020369" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="UNIT TESTING" id="010254" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="HTML5" id="5520541" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false" childrenTotalMonths="2" childrenLastUsed="2015-04-01">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false" childrenTotalMonths="2" childrenLastUsed="2015-04-01">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MVC" id="003233" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DB2" id="015075" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JDBC" id="020287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="4">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="3" percentOfParentTaxonomy="64">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" totalMonths="38" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="2" percentOfParentTaxonomy="36">
+								<sov:Skill name="RETAIL" id="030018" existsInText="true" totalMonths="25" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="1" percentOfParentTaxonomy="38">
+								<sov:Skill name="ALGORITHM" id="022552" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="ESTIMATION" id="080470" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Techniques" id="264" percentOfOverall="1" percentOfParentTaxonomy="28">
+								<sov:Skill name="ESTIMATION" id="080635" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Optical" id="141" percentOfOverall="1" percentOfParentTaxonomy="28">
+								<sov:Skill name="SENSOR" id="022936" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="2">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="2" percentOfParentTaxonomy="67">
+								<sov:Skill name="PROBLEM SOLVING" id="005482" existsInText="true" totalMonths="14" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="2">
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="RETAIL MARKETING" id="1400215" existsInText="false" childrenTotalMonths="25" childrenLastUsed="2020-02-02">
+									<sov:ChildSkill name="RETAIL" id="1400216" existsInText="true" totalMonths="25" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="2">
+							<sov:Subtaxonomy name="Attitude" id="528" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEAM PLAYER" id="026529" existsInText="true" totalMonths="14" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Call Center or Help Desk or Customer Service" id="46" percentOfOverall="1">
+							<sov:Subtaxonomy name="Customer Facing" id="130" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="CLIENT INTERACTION" id="013440" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="1">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEST CASES" id="009422" existsInText="true" totalMonths="2" lastUsed="2015-04-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="0">
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Repair" id="452" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022117" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="21" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="36" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="37" ends="49" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="50" ends="98" sectionType="WORK HISTORY">PROJECTS [PROJECT_HEADERS_SUBSECTION_OF_WORK_SECTION]</sov:Section>
+				<sov:Section starts="99" ends="104" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="105" ends="137" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="138" ends="150" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Aditya Garg</sov:Name>
+					<sov:Name>Mr. Aditya Garg</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=c8a</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Analysis, Solution Architecture, Data Structure, Algorithm, Java, J2EE, Spring</sov:OtherDatum>
+					<sov:OtherDatum>Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Pune</sov:OtherDatum>
+					<sov:OtherDatum>Boot, Microservice, Hibernate, RESTful, GWT, HTML5</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Physically Challenged: No</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>4601</sov:ParsedTextLength>
+			<sov:ParseTime>390</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS,WORK HISTORY] The following section types appear multiple times in the resume: SKILLS (2 occurrences), WORK HISTORY (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:b070ec7d-4bb0-4333-8577-16486377a92c</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>QCb///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

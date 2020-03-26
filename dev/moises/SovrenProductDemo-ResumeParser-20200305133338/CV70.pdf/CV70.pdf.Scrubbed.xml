@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>A focused professional offering 01 years of experience in Data Analytics, Business Analytics, Machine Learning, Data
+Mining, Artificial Intelligence, Predictive Modeling, Statistical Modeling, Text Mining, Logic Regression, Cluster Analysis, Logistic
+Regression, R, Python</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Mercedes-Benz Research and Development India</EmployerOrgName>
+				<PositionHistory positionType="internship">
+					<Title>Graduate Engineer Trainee - Data Analytics</Title>
+					<OrgName>
+						<OrganizationName>Mercedes-Benz Research and Development India</OrganizationName>
+					</OrgName>
+					<Description>Job description: Develop algorithms for extracting intelligent insights using the concepts of data analytics and machine learning from the given data set as a part of a dynamic
+reporting platform. We marketed and implemented this solution among different teams
+that were working in the organisation that were using traditional methods for reporting.
+My responsibilities in the project were as follows
+1. Use the concepts of data science and machine learning to draw useful information from
+the raw data provided and send the patterns to the front end of the web application in JSON format
+2. Use the techniques of text mining to identify the core issue from a complaint that is filed
+to advice the steps that need to be taken by user at the front end.
+Technologies used: Python-programming, R-programming, RDBMS, JSON formatting</Description>
+					<StartDate>
+						<YearMonth>2018-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 63% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Mercedes Benz Research and Development India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Graduate Engineer Trainee Data Analytics</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Graduate Engineer Trainee</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Mercedes Benz Research and Development India</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>vishweshwarayya technological university</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeMajor>
+						<Name>Information Science and Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2020-02-02</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2023</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>218030c4b211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681129
+2/2/20 23&amp;09
+
+
+UG: B.Tech/B.E. (Information Science and Engineering) from vishweshwarayya technological university in 2018
+
+PG: in 0</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>false</sov:Graduated>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>vishweshwarayya technological university</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Graduate Engineer Trainee, Data Analyst, Data Analytics, Business Analytics, Machine Learning, Data
+Mining, Artificial Intelligence, Predictive Modeling, Statistical Modeling, Text Mining, Logic Regression, Cluster
+Analysis, Logistic Regression, R, Python
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 30-Jan-20	Last Modified: 28-Jan-20
+27feff51e635477ea9a6fe6051b4c4fe
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+C, C++, Python 3.5
+
+R Programming</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>kn</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Kannada	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;09
+
+
+   ~~~~~~~~~~~~~~~  
+
+
+Graduate Engineer Trainee seeking roles in Data Analytics, Business
+Analytics, Machine Learning, Data Mining, Artificial Intelligence, Predictive
+Modeling, Statistical Modeling, Text Mining, Logic Regression, Cluster Analysis, Logistic
+Regression, R, Python
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Total Experience:    ~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree:
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Graduate Engineer Trainee, Data Analyst, Data Analytics, Business Analytics, Machine Learning, Data
+Mining, Artificial Intelligence, Predictive Modeling, Statistical Modeling, Text Mining, Logic Regression, Cluster
+Analysis, Logistic Regression, R, Python
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 30-Jan-20	Last Modified: 28-Jan-20
+27feff51e635477ea9a6fe6051b4c4fe
+
+
+Summary
+A focused professional offering 01 years of experience in Data Analytics, Business Analytics, Machine Learning, Data
+Mining, Artificial Intelligence, Predictive Modeling, Statistical Modeling, Text Mining, Logic Regression, Cluster Analysis, Logistic
+Regression, R, Python
+
+
+Work Experience
+Mercedes-Benz Research and Development India as Graduate Engineer Trainee - Data Analytics
+Aug 2018 to Aug 2019
+Job description: Develop algorithms for extracting intelligent insights using the concepts
+of data analytics and machine learning from the given data set as a part of a dynamic
+reporting platform. We marketed and implemented this solution among different teams
+that were working in the organisation that were using traditional methods for reporting.
+My responsibilities in the project were as follows
+1. Use the concepts of data science and machine learning to draw useful information from
+the raw data provided and send the patterns to the front end of the web application in
+JSON format
+2. Use the techniques of text mining to identify the core issue from a complaint that is filed
+to advice the steps that need to be taken by user at the front end.
+Technologies used: Python-programming, R-programming, RDBMS, JSON formatting
+
+
+Education
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     218030c4b211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681129
+2/2/20 23&amp;09
+
+
+UG: B.Tech/B.E. (Information Science and Engineering) from vishweshwarayya technological university in 2018
+
+PG: in 0
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+C, C++, Python 3.5
+
+R Programming
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Kannada	Proficient
+
+Hindi	Proficient
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~  	US Work Status: Need H1 Visa
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=e4c   218030c4b211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681129
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Marketing (mostly Data &amp; Analytics).    ~~~~~~~~~~~~~~~  's experience appears to be entry level, with 12 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>12</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>12</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>1</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="72">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="26" percentOfParentTaxonomy="36">
+								<sov:Skill name="ARTIFICIAL INTELLIGENCE" id="5530905" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PREDICTIVE MODELING" id="5531047" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="17" percentOfParentTaxonomy="24">
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DEVELOP ALGORITHMS" id="015339" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="JSON" id="5520555" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="14" percentOfParentTaxonomy="20">
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="LOGISTIC REGRESSION" id="7200039" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="11" percentOfParentTaxonomy="15">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="341" percentOfOverall="3" percentOfParentTaxonomy="5">
+								<sov:Skill name="RDBMS" id="022369" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="ARTIFICIAL INTELLIGENCE" id="003449" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="15">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="14" percentOfParentTaxonomy="96">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="STATISTICAL MODELING" id="1400069" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="1" percentOfParentTaxonomy="4">
+								<sov:Skill name="STATISTICAL MODELING" id="1400099" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="6">
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="FRONT END" id="5570300" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="FRONT END" id="5570217" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="3">
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" totalMonths="12" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="18" ends="28" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="29" ends="34" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="35" ends="50" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="51" ends="60" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="61" ends="68" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="69" ends="86" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2979</sov:ParsedTextLength>
+			<sov:ParseTime>218</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:7eba7b98-e846-4a98-b032-372761114024</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>4/4BAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

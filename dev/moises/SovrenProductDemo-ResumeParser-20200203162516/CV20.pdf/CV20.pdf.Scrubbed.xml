@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Mumbai</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>A focused professional offering 1.6 years of experience in data science, Campaign Management, Data Analysis, Data
+Analytics, Data Visualization, Machine Learning</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>RBL Bank</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Scientist</Title>
+					<OrgName>
+						<OrganizationName>RBL Bank</OrganizationName>
+					</OrgName>
+					<Description>CAMPAIGN ANALYSIS: Analysis did using one year data which included data preparation, consolidation from different
+sources, data cleaning, interpolation, report generation from data.
+Overall campaign frequency, delivery rate and conversion trend
+Campaign coverage through different channel, zonal and demographic.
+Separate analysis done for different products such as CA, SA, SAL, FD, RD
+Debit card analysis: top versus bottom campaigns, successful profile analysis such as MAB, PH
+
+CAMPAIGN FINANCIAL ANALYSIS:
+MAB IMPACT: by campaign type, zone wise and product wise.
+Digital accruing such as customer engagement and there usage on MB and NB.
+Test versus control analysis
+Debit/Credit Card usage: behavior of customer with respect to specific brand, their ATS, Spends, Total number of transactions.
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     51058580d211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666749
+2/2/20 19'08
+
+
+EMAIL ANALYSIS:
+ANALYSIS ON EMAIL: click/open/bounce rates, unsubscribed rate, CTOR
+Subject line analysis such as special character, length of a subject line.
+
+ONBOARDING ANALYSIS:
+Analysis on onboarding customers: channel activation and usage of different product such as
+Pin generation for debit card, MB /NB usage and bill payments.
+POS or ATM Transaction and there product holding.
+Also analyzed impact of voucher and non voucher campaigns. 80% of registered customers have high conversion rate for
+voucher or offer campaigns.
+
+UPI DASHBOARD (AEPS/DMT/API/MSWIPE):-
+Tableau Dashboards were created to track customers transaction on different merchants, which includes day-wise, week-
+wise and monthly analysis with respect to value and volume.
+This also includes the type of transactions such as Withdrawal, Deposit and Balance Enquiry in which we show which type
+is more successful. Along with this we also show which wallet/business commodity is performing better with respect to the day and time slot (bucket of 3 hours).
+Analysis on geographical behaviour such as which zone or state is performing better on the basis of number of transactions, the average number of transaction, total value volume and top 5 merchants across the state.
+Brief:-
+AEPS/DMT DB1: It monitors Transaction behaviours across different merchants/business commodity, Geographical
+transaction behaviours for all the merchants (MOM value and volume)
+API DB2: It monitors all type of API Calls, metrics:- total count, total API hosted, API requested, total successful API Calls,
+active and live API.
+POC AT TCS: -
+Big Data E-Commerce Measurement (POC)
+Business objective of this POC was to find market share of retailers for given time periods. Such as Monthly, Quarterly,
+Yearly sales volume across categories, sub categories and brands. This includes capturing online transaction data from various data sources such as CSV file and My SQL Database.
+Implemented parsing of data, removing Deduplication, cleaning, validation, transformation, Consolidation and report
+generation from data.
+Technology Used: Spark, Hive, Python, MySql, Scoop, Ipython
+Movie Recommendation System (POC)
+Business objective of this POC was to make accurate prediction by discovering the process to clean and visualize
+accurate data from raw data. That can be used as input to machine learning algorithms for implementing recommender
+system.
+Implemented mechanism to use row data usable in machine learning by technique such as filtering missing data, fill in bad or missing data, Apply robust technique to outliers, extracting useful features from raw data which includes Numerical
+feature, categorical features, Derived features, text features, Normalizing Features.
+Extracted features from MovieLens 100k dataset, trained recommendation engine, inspection of recommendations,
+generated similar movie for the movielens 100k dataset, Evaluated the performance of recommendation models.
+Technology Used: Spark, Hive, Ipython, Scala</Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Database</CategoryCode>
+						<Comments>Information Technology describes 53% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>RBL Bank</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Scientist</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>RBL Bank</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Central University of Rajasthan</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: Post Graduate (Big Data Analytics) from Central University of Rajasthan in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Central University of Rajasthan</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Delhi University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<Year>2015</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Mathematical Science</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2015</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: graduation (Mathematical Science) from Delhi University (DDUC) North Campus in 2015</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Delhi University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Scientist/Campaign Analyst, Data Analyst, Project Management, Operations Management, Campaign
+Management, Quality Assurance, Data Analysis, Data Analytics, Product Development, Portfolio Management, Data
+Visualization, Machine Learning, Product Planning
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 1-Feb-20
+4ad40318a12d4406ade742b975d8781a
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft SQL Server, Oracle Database
+
+MySQL, Hive, Sqoop
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     51058580d211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666749
+2/2/20 19'08
+
+
+Hadoop Eco System, Spark
+
+R Studio, Excel, IBM(WCA), CLEVERTAP
+
+R language, SQL, Python
+
+SAS
+
+TABLEAU</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'08
+
+
+   ~~~~~~~  
+
+
+Data Scientist/Data Analysis, Data Analytics, Data Visualization, Machine Learning, big
+data technology, campaign analyst
+
+
+Current Designation: Data Scientist	Total Experience: 1 Year(s) 8 Month(s)
+Current Company: RBL Bank	Notice Period: 3 Months
+   ~~~~~~~~~~~~~~~~~~~  	Highest Degree: Post Graduate [Big Data Analytics]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: Banking/Financial Services/Broking
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Data Scientist/Campaign Analyst, Data Analyst, Project Management, Operations Management, Campaign
+Management, Quality Assurance, Data Analysis, Data Analytics, Product Development, Portfolio Management, Data
+Visualization, Machine Learning, Product Planning
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 1-Feb-20
+4ad40318a12d4406ade742b975d8781a
+
+
+Summary
+A focused professional offering 1.6 years of experience in data science, Campaign Management, Data Analysis, Data
+Analytics, Data Visualization, Machine Learning
+
+
+Work Experience
+RBL Bank as Data Scientist
+Jun 2018 to Till Date
+CAMPAIGN ANALYSIS: Analysis did using one year data which included data preparation, consolidation from different
+sources, data cleaning, interpolation, report generation from data.
+Overall campaign frequency, delivery rate and conversion trend
+Campaign coverage through different channel, zonal and demographic.
+Separate analysis done for different products such as CA, SA, SAL, FD, RD
+Debit card analysis: top versus bottom campaigns, successful profile analysis such as MAB, PH
+
+CAMPAIGN FINANCIAL ANALYSIS:
+MAB IMPACT: by campaign type, zone wise and product wise.
+Digital accruing such as customer engagement and there usage on MB and NB.
+Test versus control analysis
+Debit/Credit Card usage: behavior of customer with respect to specific brand, their ATS, Spends, Total number of
+transactions.
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     51058580d211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666749
+2/2/20 19'08
+
+
+EMAIL ANALYSIS:
+ANALYSIS ON EMAIL: click/open/bounce rates, unsubscribed rate, CTOR
+Subject line analysis such as special character, length of a subject line.
+
+ONBOARDING ANALYSIS:
+Analysis on onboarding customers: channel activation and usage of different product such as
+Pin generation for debit card, MB /NB usage and bill payments.
+POS or ATM Transaction and there product holding.
+Also analyzed impact of voucher and non voucher campaigns. 80% of registered customers have high conversion rate for
+voucher or offer campaigns.
+
+UPI DASHBOARD (AEPS/DMT/API/MSWIPE):-
+Tableau Dashboards were created to track customers transaction on different merchants, which includes day-wise, week-
+wise and monthly analysis with respect to value and volume.
+This also includes the type of transactions such as Withdrawal, Deposit and Balance Enquiry in which we show which type
+is more successful. Along with this we also show which wallet/business commodity is performing better with respect to the
+day and time slot (bucket of 3 hours).
+Analysis on geographical behaviour such as which zone or state is performing better on the basis of number of
+transactions, the average number of transaction, total value volume and top 5 merchants across the state.
+Brief:-
+AEPS/DMT DB1: It monitors Transaction behaviours across different merchants/business commodity, Geographical
+transaction behaviours for all the merchants (MOM value and volume)
+API DB2: It monitors all type of API Calls, metrics:- total count, total API hosted, API requested, total successful API Calls,
+active and live API.
+POC AT TCS: -
+Big Data E-Commerce Measurement (POC)
+Business objective of this POC was to find market share of retailers for given time periods. Such as Monthly, Quarterly,
+Yearly sales volume across categories, sub categories and brands. This includes capturing online transaction data from
+various data sources such as CSV file and My SQL Database.
+Implemented parsing of data, removing Deduplication, cleaning, validation, transformation, Consolidation and report
+generation from data.
+Technology Used: Spark, Hive, Python, MySql, Scoop, Ipython
+Movie Recommendation System (POC)
+Business objective of this POC was to make accurate prediction by discovering the process to clean and visualize
+accurate data from raw data. That can be used as input to machine learning algorithms for implementing recommender
+system.
+Implemented mechanism to use row data usable in machine learning by technique such as filtering missing data, fill in bad
+or missing data, Apply robust technique to outliers, extracting useful features from raw data which includes Numerical
+feature, categorical features, Derived features, text features, Normalizing Features.
+Extracted features from MovieLens 100k dataset, trained recommendation engine, inspection of recommendations,
+generated similar movie for the movielens 100k dataset, Evaluated the performance of recommendation models.
+Technology Used: Spark, Hive, Ipython, Scala
+
+
+Education
+UG: graduation (Mathematical Science) from Delhi University (DDUC) North Campus in 2015
+
+PG: Post Graduate (Big Data Analytics) from Central University of Rajasthan in 2018
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft SQL Server, Oracle Database
+
+MySQL, Hive, Sqoop
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     51058580d211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666749
+2/2/20 19'08
+
+
+Hadoop Eco System, Spark
+
+R Studio, Excel, IBM(WCA), CLEVERTAP
+
+R language, SQL, Python
+
+SAS
+
+TABLEAU
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Proficient
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~  	Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     51058580d211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580666749
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Marketing (mostly Data &amp; Analytics).    ~~~~~~~  's experience appears to be entry level, with 20 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>20</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>20</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="59">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="17" percentOfParentTaxonomy="28">
+								<sov:Skill name="APACHE HADOOP SQOOP" id="5530714" existsInText="false">
+									<sov:ChildSkill name="SQOOP" id="553071402" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="BIG DATA ANALYTICS" id="5530909" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; SKILLS; DEG-2"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA SOURCES" id="5530960" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DB2" id="5530738" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="HADOOP" id="5530761" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="RECOMMENDATION ENGINE" id="5531051" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TRANSACTION DATA" id="5531071" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="14" percentOfParentTaxonomy="24">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA CLEANING" id="014973" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DB2" id="015075" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="MICROSOFT SQL SERVER" id="022023" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="8" percentOfParentTaxonomy="14">
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="Hadoop" id="1004744" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Hive" id="1004749" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="6" percentOfParentTaxonomy="10">
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="6" percentOfParentTaxonomy="9">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="3" percentOfParentTaxonomy="6">
+								<sov:Skill name="SAS" id="5540979" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compiler &amp; Runtime" id="719" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="PARSING" id="7190052" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="SCALA" id="5510135" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="SCALA" id="007474" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SAS" id="5551185" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="341" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SAS" id="007445" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="11">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="2" percentOfParentTaxonomy="23">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; SKILLS; DEG-2"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="HADOOP" id="1400328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SAS" id="1400078" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="2" percentOfParentTaxonomy="19">
+								<sov:Skill name="POINT OF SALE" id="1400219" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="POS" id="1400220" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Advertising" id="595" percentOfOverall="2" percentOfParentTaxonomy="16">
+								<sov:Skill name="MARKET SHARE" id="1400198" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel, Partner &amp; Ecosystem Marketing" id="590" percentOfOverall="2" percentOfParentTaxonomy="16">
+								<sov:Skill name="CUSTOMER ENGAGEMENT" id="1400108" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="2" percentOfParentTaxonomy="16">
+								<sov:Skill name="MARKET SHARE" id="1400066" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="1400009" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PRODUCT DEVELOPMENT" id="1400022" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PRODUCT PLANNING" id="1400019" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="1400096" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PRODUCT PLANNING" id="1400089" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Brand Management" id="227" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="CAMPAIGN MANAGEMENT" id="012543" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="PRODUCT DEVELOPMENT" id="005612" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Marketing Communications" id="592" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="CAMPAIGN MANAGEMENT" id="1400143" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="11">
+							<sov:Subtaxonomy name="Securities" id="236" percentOfOverall="3" percentOfParentTaxonomy="32">
+								<sov:Skill name="CREDIT CARD" id="023234" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080196" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="2" percentOfParentTaxonomy="16">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080203" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Retail" id="280" percentOfOverall="2" percentOfParentTaxonomy="16">
+								<sov:Skill name="CREDIT CARD" id="023235" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="2" percentOfParentTaxonomy="16">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Credit and Underwriting" id="240" percentOfOverall="2" percentOfParentTaxonomy="16">
+								<sov:Skill name="CREDIT" id="014614" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Real Estate &amp; Facilities" id="710" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000109" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000026" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Treasury" id="246" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000007" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="4">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="4" percentOfParentTaxonomy="92">
+								<sov:Skill name="CREDIT" id="022227" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="METRICS" id="021737" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="OPERATIONS MANAGEMENT" id="024470" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="3">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="SALES VOLUME" id="030846" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="3">
+							<sov:Subtaxonomy name="Accounts Receivable" id="940" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="CREDIT" id="022226" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounts Payable" id="933" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="PAYMENTS" id="004363" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="3">
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="2" percentOfParentTaxonomy="55">
+								<sov:Skill name="CUSTOMER ENGAGEMENT" id="5570007" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="0" percentOfParentTaxonomy="9">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="0" percentOfParentTaxonomy="9">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="0" percentOfParentTaxonomy="9">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="0" percentOfParentTaxonomy="9">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="0" percentOfParentTaxonomy="9">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="68">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="0" percentOfParentTaxonomy="19">
+								<sov:Skill name="Serial Attached SCSI" id="1007286" existsInText="false">
+									<sov:ChildSkill name="SAS" id="100728601" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="OPERATIONS MANAGEMENT" id="024471" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Techniques" id="264" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="ECO" id="015853" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="2">
+							<sov:Subtaxonomy name="Talent Management" id="584" percentOfOverall="2" percentOfParentTaxonomy="78">
+								<sov:Skill name="ONBOARDING" id="9000284" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="SAS" id="9000114" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="941" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="QUALITY ASSURANCE" id="022250" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2015-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="18" ends="28" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="29" ends="33" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="34" ends="99" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="100" ends="105" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="106" ends="128" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="129" ends="143" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>5977</sov:ParsedTextLength>
+			<sov:ParseTime>360</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:231;DEG-1] The following educational degree does not have a degree name: DEG-1. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:638107f1-2f3e-416f-acfe-520e83255422</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>s0X///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

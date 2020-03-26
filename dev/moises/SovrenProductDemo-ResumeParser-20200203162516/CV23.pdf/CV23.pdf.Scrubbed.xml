@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Currently working at Luharia Technology pvt.ltd as Data Scientist
+Done B.Tech from Indian Institute of Technology Madras
+Introduction to Machine learning
+Data Science for Engineers
+Supply Chain Analytics</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Luharia Technology Pvt ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Scientist</Title>
+					<OrgName>
+						<OrganizationName>Luharia Technology Pvt ltd</OrganizationName>
+					</OrgName>
+					<Description>Defaulter Prediction
+Exploration of data using matplotlib and seaborn for understanding data; helped for feature engineering and outlier detection
+Categorical column treatment is performed by one-hot-encoding, labelencoding,
+ratio encoding for the ordinal variable
+Missing value treatment is performed using most frequent, fancyimputer,
+few are left untreated
+Preprocessing of the columns having a different scale
+Treating highly imbalanced data using oversampling smote imblearn library
+Built a highly robust prediction model using lgboost: evaluation is performed by
+multi log loss, confusion matrix report
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108160313310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580666755
+2/2/20 19'09
+
+
+Cohort Analysis:
+This analysis to make a business decision and visualize retention percentage of borrower and lender
+
+Chat Bot:
+Used rasa nlu for intent and entity classification in md and yml file using
+embedded spacy and embedded sklearn classifier
+Used rasa core for dialogue management using stories and domain by core policy</Description>
+					<StartDate>
+						<YearMonth>2019-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 37% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Luharia Technology</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Scientist</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Luharia Technology</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Indian Institute of Technology Madras</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>TAMIL NADU</Region>
+					<Municipality>Madras</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Chemical</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Chemical) from Indian Institute of Technology Madras in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Indian Institutes of Technology - Madras</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>NTSE Scholarship</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Scientist, Data Analyst, data analytics, data science, predictive analytics, Financial Analysis, Statistical
+Modeling, Machine Learning, Data Visualization, Supply Chain Analytics, Logistics
+Regression, Python, R, MySQL, matplotlib, seaborn
+
+Verified: Email - id
+
+
+ID: Last Active: 31-Jan-20	Last Modified: 29-Jan-20
+c684d6fa4eef4664a3b41f64d6761b74
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python, Pandas, Numpy, Matplotlib	3.7	2020	0 Year(s) 5 Month(s)
+
+seaborn, scikit-learn, fancyimputer
+
+xgboost, lgboost, Imblearn, nltk
+
+dplyr, tidyverse, mice
+
+R	3.5
+
+MySQL</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>NTSE Scholarship</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'09
+
+
+   ~~~~~~~~~~~~  
+
+
+Data Scientist seeking roles in data analytics, data science, predictive
+analytics, Statistical Modeling, Machine Learning, Data Visualization, Supply Chain
+Analytics, Logistics Regression, Python, R, MySQL, matplotlib, seaborn
+
+
+Current Designation: Data Scientist	Total Experience: 0 Year(s) 5 Month(s)
+Current Company: Luharia Technology Pvt ltd	Highest Degree: B.Tech/B.E. [Chemical]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Data Scientist, Data Analyst, data analytics, data science, predictive analytics, Financial Analysis, Statistical
+Modeling, Machine Learning, Data Visualization, Supply Chain Analytics, Logistics
+Regression, Python, R, MySQL, matplotlib, seaborn
+
+Verified: Email - id
+
+
+ID: Last Active: 31-Jan-20	Last Modified: 29-Jan-20
+c684d6fa4eef4664a3b41f64d6761b74
+
+
+Summary
+Currently working at Luharia Technology pvt.ltd as Data Scientist
+Done B.Tech from Indian Institute of Technology Madras
+Introduction to Machine learning
+Data Science for Engineers
+Supply Chain Analytics
+
+
+Work Experience
+Luharia Technology Pvt ltd as Data Scientist
+Aug 2019 to Till Date
+Defaulter Prediction
+Exploration of data using matplotlib and seaborn for understanding data; helped
+for feature engineering and outlier detection
+Categorical column treatment is performed by one-hot-encoding, labelencoding,
+ratio encoding for the ordinal variable
+Missing value treatment is performed using most frequent, fancyimputer,
+few are left untreated
+Preprocessing of the columns having a different scale
+Treating highly imbalanced data using oversampling smote imblearn library
+Built a highly robust prediction model using lgboost: evaluation is performed by
+multi log loss, confusion matrix report
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108160313310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580666755
+2/2/20 19'09
+
+
+Cohort Analysis:
+This analysis to make a business decision and visualize retention percentage of
+borrower and lender
+
+Chat Bot:
+Used rasa nlu for intent and entity classification in md and yml file using
+embedded spacy and embedded sklearn classifier
+Used rasa core for dialogue management using stories and domain by core policy
+
+
+Education
+UG: B.Tech/B.E. (Chemical) from Indian Institute of Technology Madras in 2019
+
+Other Qualifications/Certifications/Programs:
+NTSE Scholarship
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Python, Pandas, Numpy, Matplotlib	3.7	2020	0 Year(s) 5 Month(s)
+
+seaborn, scikit-learn, fancyimputer
+
+xgboost, lgboost, Imblearn, nltk
+
+dplyr, tidyverse, mice
+
+R	3.5
+
+MySQL
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Proficient
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	US Work Status: Need H1 Visa
+Physically Challenged: No	Countries: India
+Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108160313310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580666755
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in Petrochemical (mostly Drilling).    ~~~~~~~~~~~~  's experience appears to be entry level, with 6 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>6</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>6</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="49">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="29" percentOfParentTaxonomy="60">
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS" childrenTotalMonths="6" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="MATPLOTLIB" id="3391120" existsInText="true" totalMonths="6" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+									<sov:ChildSkill name="NUMPY" id="3391118" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="PANDAS" id="3391116" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="10" percentOfParentTaxonomy="20">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="PREDICTIVE ANALYTICS" id="5531046" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="5" percentOfParentTaxonomy="10">
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="3" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="2" percentOfParentTaxonomy="5">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="14">
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="14" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXPLORATION" id="017070" existsInText="true" totalMonths="6" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="14">
+							<sov:Subtaxonomy name="Document-centric" id="109" percentOfOverall="14" percentOfParentTaxonomy="100">
+								<sov:Skill name="ENCODING" id="016258" existsInText="true" totalMonths="6" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="7">
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="5">
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="4" percentOfParentTaxonomy="74">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080203" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SUPPLY CHAIN" id="7000144" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Securities" id="236" percentOfOverall="1" percentOfParentTaxonomy="26">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080196" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="5">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="PREDICTIVE ANALYTICS" id="1400071" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="4">
+							<sov:Subtaxonomy name="Supply Chain" id="461" percentOfOverall="2" percentOfParentTaxonomy="64">
+								<sov:Skill name="SUPPLY CHAIN" id="022128" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Logistics" id="460" percentOfOverall="1" percentOfParentTaxonomy="36">
+								<sov:Skill name="LOGISTICS" id="022309" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="3">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="19" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="37" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="38" ends="67" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="68" ends="70" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="71" ends="74" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="75" ends="90" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="91" ends="107" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>3195</sov:ParsedTextLength>
+			<sov:ParseTime>281</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:b1e11dd4-afdc-4cc2-a933-127e947c1d4a</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>ZwD///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

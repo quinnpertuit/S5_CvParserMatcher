@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Nisarga Shah</FormattedName>
+				<GivenName>Nisarga</GivenName>
+				<FamilyName>Shah</FamilyName>
+			</PersonName>
+		</ContactInfo>
+		<ExecutiveSummary>Data Analyst with overall 1.10 Years of experience in interpreting &amp; analyzing data in order to drive successful business
+solutions. Proficient Knowledge on Statistics and Analytics Tools.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Nielsen as Data Analyst</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>Have worked at Nielsen as Data Analyst for Projects like Coca-Cola, Nestle etc. Mainly working on R Programming, SQL,
+Rapid Miner, Advance Excel, Data Mining, Regression etc.</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 70% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Nielsen as Data Analyst</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Data Analyst</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Maharaja Sayajirao University</EmployerOrgName>
+				<PositionHistory positionType="temp">
+					<Title>Visiting Faculty - Department of Statistics</Title>
+					<OrgName>
+						<OrganizationName>Maharaja Sayajirao University</OrganizationName>
+					</OrgName>
+					<Description>To deliver Statistics lectures and take respective laboratories.
+To design and assess test papers.
+Do supervisions in exam as directed by department of Statistics.</Description>
+					<StartDate>
+						<YearMonth>2017-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Business Operations and General Business → General Skills and Activities</CategoryCode>
+						<Comments>Business Operations and General Business describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Maharaja Sayajirao University</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Visiting Faculty Department of Statistics</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Visiting Faculty</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Maharaja Sayajirao University</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Maharaja Sayajirao University</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Statistics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MS/M.Sc(Science) (Statistics) from Maharaja Sayajirao University in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Maharaja Sayajirao University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Maharaja Sayajirao University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Sc</DegreeName>
+					<DegreeDate>
+						<Year>2015</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Statistics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2015</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Sc (Statistics) from Maharaja Sayajirao University in 2015</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>BSc</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>BSc</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Maharaja Sayajirao University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Analyst, Data Analytics, R, SQL, Business Analysis, Business Intelligence, Statistical Modeling, Data
+Visualization, Data Mining, Predictive Modeling, Cluster Analysis, Regression Modeling, Big Data Analytics
+
+Verified: Email - id
+
+
+ID: 35255aad1bc0ce1f14	Last Active: 31-Jan-20	Last Modified: 28-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Advanced R
+
+SQL
+
+C++
+
+Rapid Miner
+
+Advanced Excel</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Expert</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'08
+
+
+Nisarga Shah
+
+
+Data Analyst with 1.10 Years of Experience seeking roles in Data Scientist / Data
+Analyst. Proficient Knowledge on R, SQL, Statistical Modeling, Data Visualization, Data
+Mining, Predictive Modeling, Cluster Analysis, Regression Modeling, Big Data Analytics
+
+
+Current Designation: Data Analyst	Total Experience: 1 Year(s) 10 Month(s)
+Current Company: Nielsen	Notice Period: 15 Days or less
+Current Location: Pune	Highest Degree: MS/M.Sc(Science) [Statistics]
+Pref. Location: Pune
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: KPO / Research /Analytics
+Marital Status: Single/unmarried
+Key Skills: Data Analyst, Data Analytics, R, SQL, Business Analysis, Business Intelligence, Statistical Modeling, Data
+Visualization, Data Mining, Predictive Modeling, Cluster Analysis, Regression Modeling, Big Data Analytics
+
+Verified: Email - id
+
+
+ID: 35255aad1bc0ce1f14	Last Active: 31-Jan-20	Last Modified: 28-Jan-20
+
+
+Summary
+Data Analyst with overall 1.10 Years of experience in interpreting &amp; analyzing data in order to drive successful business
+solutions. Proficient Knowledge on Statistics and Analytics Tools.
+
+
+Work Experience
+Nielsen as Data Analyst
+Apr 2018 to Till Date
+Have worked at Nielsen as Data Analyst for Projects like Coca-Cola, Nestle etc. Mainly working on R Programming, SQL,
+Rapid Miner, Advance Excel, Data Mining, Regression etc.
+
+
+Maharaja Sayajirao University as Visiting Faculty - Department of Statistics
+Aug 2017 to Apr 2018
+To deliver Statistics lectures and take respective laboratories.
+To design and assess test papers.
+Do supervisions in exam as directed by department of
+Statistics.
+
+
+Education
+
+https://freesearch.naukri.com/preview/printResume?uname=ddc3   f404e1f012d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580666747
+2/2/20 19'08
+
+
+UG: B.Sc (Statistics) from Maharaja Sayajirao University in 2015
+
+PG: MS/M.Sc(Science) (Statistics) from Maharaja Sayajirao University in 2017
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Advanced R
+
+SQL
+
+C++
+
+Rapid Miner
+
+Advanced Excel
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Expert
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=ddc3   f404e1f012d5e0c1b4a550f504e1c6&amp;sid=3810263223&amp;AT=1580666747
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Pune</sov:CurrentLocation>
+				<sov:PreferredLocation>Pune</sov:PreferredLocation>
+				<sov:WillingToRelocate>No</sov:WillingToRelocate>
+				<sov:VisaStatus>Physically Challenged: No</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Nisarga Shah's experience appears to be mostly concentrated in Information Technology (mostly Big Data) and somewhat concentrated in Business Operations and General Business (mostly General Skills and Activities). Nisarga Shah's experience appears to be lower-to-mid level, with about 3 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>30</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>15</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>25</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="55">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="26" percentOfParentTaxonomy="46">
+								<sov:Skill name="BIG DATA ANALYTICS" id="5530909" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PREDICTIVE MODELING" id="5531047" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="RAPID MINER" id="5530831" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="20" percentOfParentTaxonomy="36">
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="5" percentOfParentTaxonomy="9">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="5" percentOfParentTaxonomy="9">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="28">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="27" percentOfParentTaxonomy="99">
+								<sov:Skill name="STATISTICS" id="008585" existsInText="true" totalMonths="8" lastUsed="2018-04-01" whereFound="Found in EDUCATION; SUMMARY; WORK HISTORY; DEG-1; DEG-2; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="10">
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="9" percentOfParentTaxonomy="91">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="NIELSEN" id="1400054" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="1" percentOfParentTaxonomy="7">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STATISTICAL MODELING" id="1400069" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="STATISTICAL MODELING" id="1400099" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="5">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" totalMonths="22" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="1">
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="0">
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="7000125" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Treasury" id="246" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="BUSINESS ANALYSIS" id="012194" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2015-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="19" ends="27" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="28" ends="32" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="33" ends="47" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="48" ends="58" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="59" ends="72" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="73" ends="85" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Nisarga Shah</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=ddc3</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Work Authorization
+Physically Challenged: No</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Pune</sov:OtherDatum>
+					<sov:OtherDatum>Pref. Location: Pune</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>2384</sov:ParsedTextLength>
+			<sov:ParseTime>484</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:123;] Marital status should not be included in a resume (for most cultures).</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:29ac2f10-9088-4db1-ac14-8564facf6946</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>/rkAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

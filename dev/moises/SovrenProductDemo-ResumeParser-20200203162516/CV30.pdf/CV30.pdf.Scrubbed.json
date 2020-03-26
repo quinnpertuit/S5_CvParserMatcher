@@ -1,0 +1,851 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Hyderabad"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Business Analysis, Data Analysis, Business Intelligence, Equity Research, Secondary Research, Financial Research, Business\r\nResearch, Financial Analysis, Business Planning, Primary Research, Risk Analysis, Market Research",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Data Analyst",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2018-08"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Data Analyst"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Analyst",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2018-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-10"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Analyst"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "STRATISTICS MRC",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Research Associate",
+                "OrgName": {
+                  "OrganizationName": "STRATISTICS MRC"
+                },
+                "Description": "As a research associate, I was involved in secondary analysis of various sectors for developing the report. Market\r\nengineering and development of figures based on proportions were done using advanced Excel. Analyzing the financials,\r\ncompany profiles and segmentation are part of report making through secondary research.",
+                "StartDate": {
+                  "YearMonth": "2017-03"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Marketing → Channel, Partner & Ecosystem Marketing",
+                    "Comments": "Marketing describes 25% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "STRATISTICS MRC",
+                    "sov:NormalizedTitle": "Research Associate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "STRATISTICS MRC"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "MBA/PGDM",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Finance"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "PG: MBA/PGDM (Finance) from IBS HYDERABAD in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "MBA",
+                    "sov:NormalizedDegreeType": "MBA"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "JNTU"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Hyderabad"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2015"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computers"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2015"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computers) from JNTU, Hyderabad in 2015",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "JNTU"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: business analyst, business analysis, data analysis, business intelligence, equity research, secondary\r\nresearch, financial research, financial analysis, business planning, risk analysis, market research\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 5f5ff8440eeea9af70\tLast Active: 2-Feb-20\tLast Modified: 2-Feb-20\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython\t1 Year(s) 6 Month(s)\r\n\r\nMySQL,\t0\t1 Year(s) 10 Month(s)\r\n\r\nTABLEAU\t0\t2 Year(s) 0 Month(s)"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'10\r\n\r\n\r\n   ~~~~~~~~~~~~~~~  \r\n\r\n\r\nData analyst, SQL, Python, R\r\n\r\n\r\nCurrent Designation: Data Analyst\tTotal Experience:    ~~~~~~~~~~~~~~~  \r\nCurrent Company: Amazon\tNotice Period:    ~~~~~~~~~~  \r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree: MBA/PGDM [Finance]\r\n   ~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: KPO / Research /Analytics\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: business analyst, business analysis, data analysis, business intelligence, equity research, secondary\r\nresearch, financial research, financial analysis, business planning, risk analysis, market research\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: 5f5ff8440eeea9af70\tLast Active: 2-Feb-20\tLast Modified: 2-Feb-20\r\n\r\n\r\nSummary\r\nBusiness Analysis, Data Analysis, Business Intelligence, Equity Research, Secondary Research, Financial Research, Business\r\nResearch, Financial Analysis, Business Planning, Primary Research, Risk Analysis, Market Research\r\n\r\n\r\nWork Experience\r\nAmazon as Data Analyst\r\nAug 2018 to Till Date\r\n\r\nAmazon as Analyst\r\nAug 2018 to Oct 2019\r\n\r\nAmazon as Analyst\r\nAug 2018 to Oct 2019\r\n\r\nSTRATISTICS MRC as Research Associate\r\nMar 2017 to Jul 2018\r\nAs a research associate, I was involved in secondary analysis of various sectors for developing the report. Market\r\nengineering and development of figures based on proportions were done using advanced Excel. Analyzing the financials,\r\ncompany profiles and segmentation are part of report making through secondary research.\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     051855003a4454405a4d5f0b02546&sid=3810263223&AT=1580666770\r\n2/2/20 19'10\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computers) from JNTU, Hyderabad in 2015\r\n\r\nPG: MBA/PGDM (Finance) from IBS HYDERABAD in 2017\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython\t1 Year(s) 6 Month(s)\r\n\r\nMySQL,\t0\t1 Year(s) 10 Month(s)\r\n\r\nTABLEAU\t0\t2 Year(s) 0 Month(s)\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tProficient\r\n\r\n\r\nProjects\r\nProject Title: Equity analysis of telecom sector\r\nClient: Investors\r\nNature of Employment: Full Time\tDuration: Feb 2016 - May 2016\r\nOnsite / Offsite: Offsite\r\nProject Details: Conducting analysis of the shares of Telecom sector based on the historical data, fundamental and technical\r\nanalysis thereby assisting in predicting the future investment opportunities in the specific sector\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~  \tCountries: India\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     051855003a4454405a4d5f0b02546&sid=3810263223&AT=1580666770\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~~~~~~~~  's experience appears to be somewhat concentrated in Information Technology (mostly Database) and slightly concentrated in Marketing (mostly Channel, Partner & Ecosystem Marketing).    ~~~~~~~~~~~~~~~  's experience appears to be lower-to-mid level, with about 3 years of experience.",
+          "sov:MonthsOfWorkExperience": "35",
+          "sov:AverageMonthsPerEmployer": "11",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "26",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "47",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "014962",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "43",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYST",
+                            "@id": "5530939",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "5531055",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "TABLEAU SOFTWARE",
+                            "@id": "5540985",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TABLEAU",
+                                "@id": "55409852",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "18",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Channel, Partner & Ecosystem Marketing",
+                        "@id": "590",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "54",
+                        "sov:Skill": [
+                          {
+                            "@name": "SEGMENTATION",
+                            "@id": "1400105",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2018-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "23",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "1400080",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET RESEARCH",
+                            "@id": "1400326",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "PRIMARY RESEARCH",
+                            "@id": "1400063",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS PLANNING",
+                            "@id": "1400329",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "18",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "MBA",
+                            "@id": "7000321",
+                            "@existsInText": "true",
+                            "@lastUsed": "2017-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCE",
+                            "@id": "023147",
+                            "@existsInText": "true",
+                            "@lastUsed": "2017-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL ANALYSIS",
+                            "@id": "080203",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "007091",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "7000125",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Securities",
+                        "@id": "236",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL ANALYSIS",
+                            "@id": "080196",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2018-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Reporting",
+                        "@id": "962",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIALS",
+                            "@id": "017494",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2018-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2018-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "RF",
+                        "@id": "268",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOM",
+                            "@id": "022904",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK ANALYSIS",
+                            "@id": "007090",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INTELLIGENCE",
+                            "@id": "012210",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2015-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "17",
+              "@ends": "25",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "26",
+              "@ends": "30",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "31",
+              "@ends": "51",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "52",
+              "@ends": "57",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "58",
+              "@ends": "67",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "68",
+              "@ends": "73",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "74",
+              "@ends": "90",
+              "@sectionType": "PROJECT_HEADERS",
+              "#text": "Projects"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "2662",
+        "sov:ParseTime": "234",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:222;POS-1,POS-2] No employer name was found for:  POS-1, POS-2. Every position in a resume should have an employer name.",
+                    "[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:c905427e-1cd5-4792-b76f-dd70e97c4846",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "APkAAAAAAAA="
+      }
+    }
+  }
+}

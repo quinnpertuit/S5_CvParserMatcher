@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>false</CurrentJobIsMgmt>
+  <HighestManagementScore>0</HighestManagementScore>
+  <ManagementLevel>none</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Junior Data Scientist M/F</MainJobTitle>
+    <JobTitle>Junior Data Scientist M/F (6 months)</JobTitle>
+    <JobTitle>Junior Data Scientist</JobTitle>
+    <JobTitle>Data Scientist M/F</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <MainEmployerName>Series B funding</MainEmployerName>
+    <EmployerName>Series B funding</EmployerName>
+    <EmployerName>our Paris office</EmployerName>
+  </EmployerNames>
+  <LanguageCodes>
+    <LanguageCode>en</LanguageCode>
+    <LanguageCode>zh</LanguageCode>
+    <LanguageCode>de</LanguageCode>
+    <LanguageCode>sv</LanguageCode>
+    <LanguageCode>pt</LanguageCode>
+  </LanguageCodes>
+  <CurrentLocation>
+    <Municipality>Houston</Municipality>
+    <Region>TX</Region>
+    <CountryCode>US</CountryCode>
+  </CurrentLocation>
+  <PayRate amount="1.00" currency="UNK" unit="month">1</PayRate>
+  <SourceText>assionate about tech? Interested in Energy? Come work for Kayrros, a fast-growing start-up using artificial intelligence to transform the world’s biggest industry.
+
+Kayrros is headquartered in Paris, with offices in New York, Houston, London, and Singapore. By working for Kayrros, you will join an energetic team of 140 people, with diverse professional backgrounds—from data science and petroleum engineering to sales and marketing—and over 15 different nationalities and 10 spoken languages.
+
+Our team of energy experts and tech wizards are working to bring transparency to the global energy market. We employ innovative technologies, like satellite imagery processing and artificial intelligence, to capture and analyse data across the energy sector. Combined with our expert analysis, we give our clients valuable information on global market movements to make better business decisions—whether that’s trading, investing or managing their operations.
+
+In September 2018, Kayrros received €21M in Series B funding to continue breaking the boundaries of the energy market.
+
+Interested in operating at the intersection of energy and the data revolution? Get in touch!
+
+We are currently recruiting for our Paris office,
+
+a Junior Data Scientist M/F (6 months)
+
+Data Scientists have a central role in Kayrros. Working in hand with the oil and gas analysts and the software engineers, they contribute to the whole pipeline of projects, including scoping projects, identifying and collecting data, constructing features, designing models, visualization, testing and improving product with clients.
+
+They face two main challenges:
+The diversity of data available (they have to combine many different sources of data: text data, satellite images, time series…)
+The diversity of the problems (supervised, unsupervised…)
+As a Junior Data Scientist, you will therefore have to:
+Understand energy markets data
+Formulate problems considering available data and value of information
+Design, implement and test machine learning algorithms
+Continuously provide ideas to improve products and take part of all team decision.
+Profile
+
+This is an ideal opportunity if you are looking for a six-month contract starting between January and May 2020, and you want to join a fast-growing start-up.
+You have a strong background and are passionate about machine learning, statistics, operations research. You are very interested in various topics including deep learning, NLP, machine learning applied to time series, image and signal processing. You demonstrate experience in a least one of these areas
+You have strong programming skills in Python, Machine Learning libraries, data visualization packages and data manipulation. Previous exposures to GitHub and R programming preferred, or additional languages like Julia
+You are dynamic, curious and eager to learn about the energy industry
+You can design and deliver working prototypes in a fast-paced environment and then put them into production with the help of software engineers
+You can communicate clearly in English, including with non-technical people
+You are willing to contribute actively and have a real impact to the company success
+Why joining Kayrros?
+We are a young, fast-growing tech company and are extremely passionate about what we do.
+We are located in the WeWork building on Rue la Fayette, 75009 (free drinks, events and a vibrant atmosphere).
+You will work with an international team and practice your English (or Chinese, German, Swedish, Portuguese...) on a day to day basis.
+Recruitment process
+Send your CV specifying the type of contract and your availability
+A phone interview (HR or Product Manager)
+A challenge (Data Challenge)
+A physical interview (Team member + Product Manager + RH)
+The whole process will last one month at the maximum.
+
+Job Types: Full-time, Internship
+
+Salary: 1,700.00€ /month
+
+Language:
+English (Preferred)</SourceText>
+  <RevisionDate>2020-03-08</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>ptkAAAAAAAA=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="34">
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="17" percentOfParentTaxonomy="50">
+          <Skill name="ARTIFICIAL INTELLIGENCE" id="5530905" existsInText="true" required="false" />
+          <Skill name="DATA SCIENCE" id="5530958" existsInText="true" required="false" />
+          <Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" required="true" />
+          <Skill name="MACHINE LEARNING" id="5531016" existsInText="true" required="true" />
+          <Skill name="NATURAL LANGUAGE PROCESSING" id="5531029" existsInText="false" required="false">
+            <ChildSkill name="NLP" id="5531030" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Machine Learning" id="720" percentOfOverall="7" percentOfParentTaxonomy="21">
+          <Skill name="DATA SCIENCE" id="7200001" existsInText="true" required="false" />
+          <Skill name="DEEP LEARNING" id="7200018" existsInText="true" required="true" />
+          <Skill name="MACHINE LEARNING" id="7200149" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Security" id="338" percentOfOverall="2" percentOfParentTaxonomy="7">
+          <Skill name="MACHINE LEARNING" id="3380002" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Database" id="193" percentOfOverall="2" percentOfParentTaxonomy="7">
+          <Skill name="DATA MANIPULATION" id="014988" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="2" percentOfParentTaxonomy="7">
+          <Skill name="PYTHON" id="006120" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Data Mining" id="192" percentOfOverall="2" percentOfParentTaxonomy="7">
+          <Skill name="ARTIFICIAL INTELLIGENCE" id="003449" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="User Experience" id="93" percentOfOverall="20">
+        <Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="5" percentOfParentTaxonomy="25">
+          <Skill name="PROTOTYPE" id="5570036" existsInText="false" required="false">
+            <ChildSkill name="PROTOTYPES" id="5570037" existsInText="true" required="false" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="User Research" id="558" percentOfOverall="2" percentOfParentTaxonomy="12">
+          <Skill name="PROTOTYPES" id="5570209" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Interactive Design" id="572" percentOfOverall="2" percentOfParentTaxonomy="12">
+          <Skill name="VISUALIZATION" id="5570157" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Game Design" id="570" percentOfOverall="2" percentOfParentTaxonomy="12">
+          <Skill name="VISUALIZATION" id="5570127" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Graphic Design" id="569" percentOfOverall="2" percentOfParentTaxonomy="12">
+          <Skill name="VISUALIZATION" id="5570120" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Visual Design" id="565" percentOfOverall="2" percentOfParentTaxonomy="12">
+          <Skill name="VISUALIZATION" id="5570073" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Motion Design" id="564" percentOfOverall="2" percentOfParentTaxonomy="12">
+          <Skill name="VISUALIZATION" id="5570059" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Engineering" id="5" percentOfOverall="12">
+        <Subtaxonomy name="Electrical" id="135" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="SIGNAL PROCESSING" id="080884" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Process" id="143" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="SIGNAL PROCESSING" id="080804" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="SIGNAL PROCESSING" id="080697" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Surveying" id="298" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="ALGORITHMS" id="024338" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Chemical" id="132" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="PETROLEUM" id="024136" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Finance" id="7" percentOfOverall="10">
+        <Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="2" percentOfParentTaxonomy="25">
+          <Skill name="TRADING" id="080204" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Compliance" id="245" percentOfOverall="2" percentOfParentTaxonomy="25">
+          <Skill name="TRADING" id="080179" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Other" id="243" percentOfOverall="2" percentOfParentTaxonomy="25">
+          <Skill name="ALGORITHMS" id="017446" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Trading" id="239" percentOfOverall="2" percentOfParentTaxonomy="25">
+          <Skill name="TRADING" id="009789" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Marketing" id="14" percentOfOverall="7">
+        <Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="2" percentOfParentTaxonomy="33">
+          <Skill name="DATA SCIENCE" id="1400075" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Brand Management" id="227" percentOfOverall="2" percentOfParentTaxonomy="33">
+          <Skill name="PRODUCT MANAGER" id="081160" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="General" id="249" percentOfOverall="2" percentOfParentTaxonomy="33">
+          <Skill name="MARKETING" id="021241" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="7">
+        <Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="5" percentOfParentTaxonomy="67">
+          <Skill name="OPERATIONS" id="003875" existsInText="true" required="false" />
+          <Skill name="TRADING" id="022750" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="2" percentOfParentTaxonomy="33">
+          <Skill name="STATISTICS" id="008585" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Petrochemical" id="44" percentOfOverall="5">
+        <Subtaxonomy name="General" id="444" percentOfOverall="5" percentOfParentTaxonomy="100">
+          <Skill name="PETROLEUM ENGINEERING" id="004577" existsInText="true" required="false" />
+          <Skill name="PETROLEUM" id="024135" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Personal Attributes" id="90" percentOfOverall="2">
+        <Subtaxonomy name="Attitude" id="528" percentOfOverall="2" percentOfParentTaxonomy="100">
+          <Skill name="SELF MOTIVATED" id="007739" existsInText="false" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Transmission &amp; Distribution" id="45" percentOfOverall="2">
+        <Subtaxonomy name="Transmission" id="326" percentOfOverall="2" percentOfParentTaxonomy="100">
+          <Skill name="PIPELINE" id="004805" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

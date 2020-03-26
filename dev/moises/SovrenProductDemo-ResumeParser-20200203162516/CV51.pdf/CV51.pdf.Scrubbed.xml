@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>1   ~~  s of Industrial experience as a SAS programmer with Globallogic technology Pvt. Ltd, Gurugram, Haryana.
+Strong command over BASE SAS, SAS/SQL and SAS MACROS.
+Having experience of working on several high priority issues that occurs during the process, monitoring end to end reports
+and preparation of daily and monthly reports using Excel.
+Strong leadership, problem-solving, planning, team-building and project management skills.
+Worked in a team of 5 members.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Global Logic Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Analyst (Data Analysis/Business Analysis)</Title>
+					<OrgName>
+						<OrganizationName>Global Logic Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Global Logic</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Analyst Data Analysis/Business Analysis</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Analyst</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Global Logic</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Google</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Associate Analyst</Title>
+					<OrgName>
+						<OrganizationName>Google</OrganizationName>
+					</OrgName>
+					<Description>Project Name: Travel domain
+Duration: Ongoing DEC 2018 -AUG 2019
+Platform &amp; Tools: Base SAS, SAS/SQL
+Team Size: 7
+Project Description:
+Used to work in travel domain to Improve the quality of data available on Google Products by filtering the bad data and uploading it to the back end data of Google. This was used for better user experience by using data extracting tools.
+Role: Associate Analyst
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     c09514a1179465e401804435a0e176&amp;sid=3810263223&amp;AT=1580680988
+2/2/20 23&amp;03
+
+
+Responsibilities:
+Check the data integrity like: key value shouldn't be null, duplicates not in key variable, dates check etc.
+Requirements gathering and analysis.
+Create temporary and permanent data sets using temporary and permanent Libraries.
+Validating the datasets and comparing the results to that of source programmers output
+Developed various forms of outputs like RTF, HTML, PDF files using SAS ODS facility.
+Provided reports with minimum risk and optimum result.
+Participated in project meetings, presentations and updating research findings</Description>
+					<StartDate>
+						<YearMonth>2018-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 65% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Google</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Associate Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Google</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>D.A.V College, Panjab University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>HARYANA</Region>
+					<Municipality>Chandigarh</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.A</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Political Science</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.A (Political Science) from D.A.V College, Panjab University, Chandigarh in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>D A V College Panjab University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<SpeakingEventsHistory>
+			<SpeakingEvent>
+				<EventName></EventName>
+				<EventType>conference</EventType>
+				<Description>Participated in project meetings, presentations and updating research findings</Description>
+			</SpeakingEvent>
+		</SpeakingEventsHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Business Analyst, Business Analysis, Data Analysis, Requirement Gathering, Data Validation, Data
+Management, Data Extraction, Data Integrity, Risk Assessment, SAS Programming, SAS SQL, SAS Enterprise Guide, SAS
+Macros, MySQL, HTML, Base SAS
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 27-Jan-20	Last Modified: 27-Jan-20
+71d029b434194bf9b30a2168e23a8c03
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+SAS/BASE, SAS/SQL
+
+SAS/REPORT, SAS/ODS
+
+SAS 9.2, SAS 9.3, SAS 9.4
+
+SAS Enterprise Guide
+
+MySQL, sql server</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;03
+
+
+   ~~~~~~~~  
+
+
+Analyst seeking roles in Business Analysis, Data Analysis, Requirement Gathering, Data
+Validation, Data Management, Data Extraction, Data Integrity, Risk Assessment, SAS
+Programming, SAS SQL, SAS Enterprise Guide, SAS Macros, MySQL, HTML, Base
+SAS, SQL Server
+
+
+Current Designation: Analyst (Data Analysis/Business Analysis) Total Experience: 0 Year(s) 1   ~~  (s)
+Current Company: Global Logic Pvt. Ltd.	Notice Period:    ~~  
+   ~~~~~~~~~~~~~~~~~~~~  	Highest Degree: B.A [Political Science]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: Analytics &amp; Business Intelligence
+Role: Business Analyst
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Business Analyst, Business Analysis, Data Analysis, Requirement Gathering, Data Validation, Data
+Management, Data Extraction, Data Integrity, Risk Assessment, SAS Programming, SAS SQL, SAS Enterprise Guide, SAS
+Macros, MySQL, HTML, Base SAS
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 27-Jan-20	Last Modified: 27-Jan-20
+71d029b434194bf9b30a2168e23a8c03
+
+
+Summary
+1   ~~  s of Industrial experience as a SAS programmer with Globallogic technology Pvt. Ltd, Gurugram, Haryana.
+Strong command over BASE SAS, SAS/SQL and SAS MACROS.
+Having experience of working on several high priority issues that occurs during the process, monitoring end to end reports
+and preparation of daily and monthly reports using Excel.
+Strong leadership, problem-solving, planning, team-building and project management skills.
+Worked in a team of 5 members.
+
+
+Work Experience
+Global Logic Pvt. Ltd. as Analyst (Data Analysis/Business Analysis)
+Dec 2018 to Till Date
+Client: Google
+Project Name: Travel domain
+Duration: Ongoing DEC 2018 -AUG 2019
+Platform &amp; Tools: Base SAS, SAS/SQL
+Team Size: 7
+Project Description:
+Used to work in travel domain to Improve the quality of data available on Google Products by filtering the bad data and
+uploading it to the back end data of Google. This was used for better user experience by using data extracting tools.
+Role: Associate Analyst
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     c09514a1179465e401804435a0e176&amp;sid=3810263223&amp;AT=1580680988
+2/2/20 23&amp;03
+
+
+Responsibilities:
+Check the data integrity like: key value shouldn't be null, duplicates not in key variable, dates check etc.
+Requirements gathering and analysis.
+Create temporary and permanent data sets using temporary and permanent Libraries.
+Validating the datasets and comparing the results to that of source programmers output
+Developed various forms of outputs like RTF, HTML, PDF files using SAS ODS facility.
+Provided reports with minimum risk and optimum result.
+Participated in project meetings, presentations and updating research findings
+
+
+Education
+UG: B.A (Political Science) from D.A.V College, Panjab University, Chandigarh in 2017
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+SAS/BASE, SAS/SQL
+
+SAS/REPORT, SAS/ODS
+
+SAS 9.2, SAS 9.3, SAS 9.4
+
+SAS Enterprise Guide
+
+MySQL, sql server
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     09514a1179465e401804435a0e176&amp;sid=3810263223&amp;AT=1580680988
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Database) and slightly concentrated in Marketing (mostly Data &amp; Analytics).    ~~~~~~~~  's experience appears to be entry level, with 14 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>14</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>7</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="53">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="14" percentOfParentTaxonomy="26">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" totalMonths="14" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA INTEGRITY" id="014985" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="9" percentOfParentTaxonomy="17">
+								<sov:Skill name="DATA INTEGRITY" id="5530950" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DATASETS" id="5530959" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="OPERATIONAL DATA STORE" id="5531037" existsInText="false" childrenTotalMonths="8" childrenLastUsed="2019-08-01">
+									<sov:ChildSkill name="ODS" id="5531038" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="6" percentOfParentTaxonomy="12">
+								<sov:Skill name="SAS" id="5551185" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="6" percentOfParentTaxonomy="12">
+								<sov:Skill name="SAS" id="5540979" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="341" percentOfOverall="6" percentOfParentTaxonomy="12">
+								<sov:Skill name="SAS" id="007445" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="5" percentOfParentTaxonomy="10">
+								<sov:Skill name="BACK END" id="025118" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="3" percentOfParentTaxonomy="7">
+								<sov:Skill name="ODS" id="003670" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="PDF" id="004489" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA VALIDATION" id="025857" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="REQUIREMENT GATHERING" id="006830" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="12">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="10" percentOfParentTaxonomy="84">
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false" childrenTotalMonths="14" childrenLastUsed="2020-02-03">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" totalMonths="14" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SAS" id="1400078" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="2" percentOfParentTaxonomy="16">
+								<sov:Skill name="USER EXPERIENCE" id="1400241" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="7">
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="3" percentOfParentTaxonomy="49">
+								<sov:Skill name="DATA INTEGRITY" id="014986" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Treasury" id="246" percentOfOverall="3" percentOfParentTaxonomy="49">
+								<sov:Skill name="BUSINESS ANALYSIS" id="012194" existsInText="true" totalMonths="14" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="RISK ASSESSMENT" id="007092" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="7">
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="7" percentOfParentTaxonomy="95">
+								<sov:Skill name="DATA EXTRACTION" id="9000117" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA VALIDATION" id="9000104" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SAS" id="9000114" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="7">
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="7" percentOfParentTaxonomy="97">
+								<sov:Skill name="Serial Attached SCSI" id="1007286" existsInText="false" childrenTotalMonths="8" childrenLastUsed="2019-08-01">
+									<sov:ChildSkill name="SAS" id="100728601" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Environmental" id="136" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="RISK ASSESSMENT" id="007095" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="6">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="6" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS ANALYSIS" id="024469" existsInText="true" totalMonths="14" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="BUSINESS REQUIREMENTS" id="022626" existsInText="false" childrenTotalMonths="8" childrenLastUsed="2019-08-01">
+									<sov:ChildSkill name="REQUIREMENTS GATHERING" id="006835" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="4">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" totalMonths="14" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA VALIDATION" id="025858" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="2">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="ACROBAT" id="012099" existsInText="false" childrenTotalMonths="8" childrenLastUsed="2019-08-01">
+									<sov:ChildSkill name="PDF" id="004488" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="2">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" totalMonths="8" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="0">
+							<sov:Subtaxonomy name="Attitude" id="528" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PROBLEM-SOLVING" id="005483" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="39" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="40" ends="67" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="68" ends="71" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="72" ends="85" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="86" ends="98" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>3382</sov:ParsedTextLength>
+			<sov:ParseTime>343</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:8e02aa1d-cb8b-4366-bbda-f5ab4f0ede45</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>o+n7//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

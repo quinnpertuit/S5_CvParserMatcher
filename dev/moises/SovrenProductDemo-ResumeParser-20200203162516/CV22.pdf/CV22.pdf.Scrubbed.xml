@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>B. Tech with 2 years of experience into Data analytics in PWC
+Alteryx Designer Core Certification (Alteryx Community)
+PowerBi Up and running Certification (Udemy</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>PWC</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Analyst</Title>
+					<OrgName>
+						<OrganizationName>PWC</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>PWC</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>PWC</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Heritage Institute of Technology</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>WEST BENGAL</Region>
+					<Municipality>Kolkata</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Applied Electronics and Instrumentation</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Applied Electronics and Instrumentation) from Heritage Institute of Technology, Kolkata in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Heritage Institute of Technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Analyst, Data Analytics, Data Mining, Process Automation, fixed asset analysis, data visualization, predictive
+modeling, statistical analysis, Supply Chain Analytics, Advanced Excel, Alteryx, SQL Server, Power Bi, Tableau, SQL, Data
+Analysis, PLSQL
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 1-Feb-20
+e097a23fe8b441e7bd55f2c7c5a46d98
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Advanced Excel, Alteryx, VBA (Basic)
+
+SQL Server
+
+Power BI, Tableau	1 Year(s) 4 Month(s)
+
+MS PowerPoint, MS Word</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>bn</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Bengali</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'09
+
+
+   ~~~~~~~~~~~~~  
+
+
+Data Analyst seeking roles in Data Analytics, Data Mining, Process Automation, fixed
+asset analysis, data visualization, predictive modeling, statistical analysis, Supply Chain
+Analytics, Advanced Excel, Alteryx, VBA, SQL Server, Power Bi, Tableau
+
+
+Current Designation: Data Analyst	Total Experience: 1 Year(s) 6 Month(s)
+Current Company: PWC	Notice Period: 1 Month
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: B.Tech/B.E. [Applied Electronics and
+Instrumentation]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Data Analyst, Data Analytics, Data Mining, Process Automation, fixed asset analysis, data visualization, predictive
+modeling, statistical analysis, Supply Chain Analytics, Advanced Excel, Alteryx, SQL Server, Power Bi, Tableau, SQL, Data
+Analysis, PLSQL
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 1-Feb-20	Last Modified: 1-Feb-20
+e097a23fe8b441e7bd55f2c7c5a46d98
+
+
+Summary
+B. Tech with 2 years of experience into Data analytics in PWC
+Alteryx Designer Core Certification (Alteryx Community)
+PowerBi Up and running Certification (Udemy
+
+
+Work Experience
+PWC as Data Analyst
+Aug 2018 to Till Date
+PROJECTS:
+1. Worked on major analytical and automation projects with Alteryx; some of which revolved around analyzing the fixed
+asset analysis of the clients, making complex calculations on the tool, preparing Alteryx workflows from scratch as a
+developer. In addition, played the role of a Tester for Alteryx workflows and UiPath bots for multiple projects.
+2 Currently, a part of a major firm-wide automation initiative (as an Alteryx developer) that relates to reducing total manual
+hours in Tax processes.
+3. Participated in a Research-based project in Consulting that worked with tight deadlines and strict client expectations.
+4. Worked on a number of visualization projects using Tableau &amp; Power BI that involved dealing with KPI data, making
+complex calculations using DAX from scratch and making use of essential dash boarding features.
+5. Independently handled client calls and maintained all communication with regards to live projects.
+6. Successfully maintained stringent and urgent deadlines, working beyond the office hours.
+7. Gained knowledge on industry tools while working on the live projects.
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     5a08130b6116050c500d5440564c6&amp;sid=3810263223&amp;AT=1580666753
+2/2/20 19'09
+
+
+Education
+UG: B.Tech/B.E. (Applied Electronics and Instrumentation) from Heritage Institute of Technology, Kolkata in 2017
+
+Other Qualifications/Certifications/Programs:
+Alteryx Designer Core Certification (Alteryx Community)
+PowerBi Up and running Certification (Udemy)
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Advanced Excel, Alteryx, VBA (Basic)
+
+SQL Server
+
+Power BI, Tableau	1 Year(s) 4 Month(s)
+
+MS PowerPoint, MS Word
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+Bengali
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~  	Countries: India
+Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     5a08130b6116050c500d5440564c6&amp;sid=3810263223&amp;AT=1580666753
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Big Data) and slightly concentrated in User Experience (mostly Interactive Design).    ~~~~~~~~~~~~~  's experience appears to be entry level, with 18 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>18</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>18</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="62">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="29" percentOfParentTaxonomy="46">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" totalMonths="18" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="POWER BI" id="5531045" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="27" percentOfParentTaxonomy="43">
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" totalMonths="18" lastUsed="2020-02-03" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="3" percentOfParentTaxonomy="5">
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="VBA" id="3391143" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="10">
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="2" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="2" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="2" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="2" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="2" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="8">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="8" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MICROSOFT POWERPOINT" id="023613" existsInText="false">
+									<sov:ChildSkill name="MS POWERPOINT" id="002995" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="POWERPOINT" id="021977" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT WORD" id="022961" existsInText="false">
+									<sov:ChildSkill name="MS WORD" id="003106" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="WORD" id="002379" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="6">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="5" percentOfParentTaxonomy="81">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="false">
+									<sov:ChildSkill name="BI" id="1400081" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="1400072" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="1" percentOfParentTaxonomy="19">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="5">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="INSTRUMENTATION" id="080537" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+								<sov:Skill name="STATISTICAL ANALYSIS" id="022186" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="1" percentOfParentTaxonomy="25">
+								<sov:Skill name="INSTRUMENTATION" id="080363" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="1" percentOfParentTaxonomy="25">
+								<sov:Skill name="INSTRUMENTATION" id="080270" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="3">
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="STATISTICAL ANALYSIS" id="9000111" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="2">
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="SUPPLY CHAIN" id="7000144" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="STATISTICAL ANALYSIS" id="008574" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="2">
+							<sov:Subtaxonomy name="Non-Nuclear Power Misc" id="924" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="INSTRUMENTATION" id="081113" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Power Related" id="925" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="INSTRUMENTATION" id="081107" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="1">
+							<sov:Subtaxonomy name="Accounting" id="932" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="FIXED ASSET" id="017567" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="36" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="37" ends="39" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="40" ends="57" sectionType="WORK HISTORY">PROJECTS</sov:Section>
+				<sov:Section starts="58" ends="60" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="61" ends="65" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="66" ends="77" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="78" ends="95" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>3363</sov:ParsedTextLength>
+			<sov:ParseTime>281</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS,WORK HISTORY] The following section types appear multiple times in the resume: SKILLS (2 occurrences), WORK HISTORY (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,5] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:2346894d-889f-40e7-9bf8-58ce72a3160c</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>D6z///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

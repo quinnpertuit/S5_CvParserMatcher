@@ -1,0 +1,774 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "ANKUSH KUMAR MISHRA",
+          "GivenName": "ANKUSH",
+          "MiddleName": "KUMAR",
+          "FamilyName": "MISHRA"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Functional Area: Corporate Planning / Consulting"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "A B-Tech graduate from Malaviya National Institute of Technology, Jaipur with over 1 and a half year experience in field of big\r\ndata spark, hive, sql and python. Currently working as ETL engineer for a travel and hospitality giant. Worked in feature\r\nengineering, modelling and data analysis in pyspark (python spark), familiar with environment of qubole and Aws.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Affine Analytics",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Associate AEG",
+                "OrgName": {
+                  "OrganizationName": "Affine Analytics"
+                },
+                "Description": "Collection of data from various upstream sources and applying transformations and actions as per the requirements.\r\nStoring of processed information in AWS S3 & hive with proper policies for further usage by downstream teams.\r\nProviding personalized attributes at user level to the decision engine team to send the final personalized mail campaigns.\r\nWorking in tandem with marketing managers for targeting specific users for new campaigns. Also finding the user\r\ncoverage for each of such campaigns.\r\nAutomation of daily process using Jenkins where the output is used for promotional mails to 70 million people worldwide.\r\nUsing AWS SDK's and other services like lambda.\r\nWriting python-spark scripts for overall ETL process. Data validations using qubole and pyspark.\r\nAws Cost Optimization done to reduce the cost of existing production jobs running in Jenkins platform.\r\nDesigned a Cross Sell Model for the customers using one line of business to attract them to other lob's\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=b1d   81b054b003a4454405a4d5f0b02546&sid=3810263223&AT=1580681125\r\n2/2/20 23&09",
+                "StartDate": {
+                  "YearMonth": "2018-07"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 55% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Affine Analytics",
+                    "sov:NormalizedTitle": "Associate AEG"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Affine Analytics"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Spark and Python for Big data with Pyspark",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "AWS Technical professional assessment",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Applied data science with Python",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: ETL Developer, Business Analyst, Business Analysis, Business Transformation, Data Analytics, Data\r\nAnalysis, Campaign Management, Requirement Gathering, Python, Apache, Spark, Jenkins, SQL, Cost\r\nOptimization, AWS, Hive, pyspark\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 1-Feb-20\tLast Modified: 30-Jan-20\r\n230b408c9fa648c39351a666fd088195\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython, Sql, PySpark\r\n\r\nMS Word, MS PowerPoint,\r\n\r\nQubole, Apache - Spark."
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&09\r\n\r\n\r\nANKUSH KUMAR MISHRA\r\n\r\n\r\nBusiness Analyst with experience in ETL and seeking roles in Business\r\nTransformation, Data Analytics, Data Analysis, Campaign Management, Requirement\r\nGathering, Client Relationship Management, Python, Apache, Spark, Jenkins, SQL, Cost\r\nOptimization\r\n\r\n\r\nCurrent Designation: Associate AEG\tTotal Experience: 1 Year(s) 6 Month(s)\r\nCurrent Company: Affine Analytics\tNotice Period: 2 Months\r\nCurrent Location: Bengaluru / Bangalore\tHighest Degree: graduation [Civil Engineering]\r\nPref. Location: Bengaluru / Bangalore, Gurgaon, Hyderabad\r\nFunctional Area: Corporate Planning / Consulting\r\nRole: Business Analyst\r\nIndustry: Strategy /Management Consulting Firms\r\nMarital Status: Single/unmarried\r\nKey Skills: ETL Developer, Business Analyst, Business Analysis, Business Transformation, Data Analytics, Data\r\nAnalysis, Campaign Management, Requirement Gathering, Python, Apache, Spark, Jenkins, SQL, Cost\r\nOptimization, AWS, Hive, pyspark\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 1-Feb-20\tLast Modified: 30-Jan-20\r\n230b408c9fa648c39351a666fd088195\r\n\r\n\r\nSummary\r\nA B-Tech graduate from Malaviya National Institute of Technology, Jaipur with over 1 and a half year experience in field of big\r\ndata spark, hive, sql and python. Currently working as ETL engineer for a travel and hospitality giant. Worked in feature\r\nengineering, modelling and data analysis in pyspark (python spark), familiar with environment of qubole and Aws.\r\n\r\n\r\nWork Experience\r\nAffine Analytics as Associate AEG\r\nJul 2018 to Till Date\r\nCollection of data from various upstream sources and applying transformations and actions as per the requirements.\r\nStoring of processed information in AWS S3 & hive with proper policies for further usage by downstream teams.\r\nProviding personalized attributes at user level to the decision engine team to send the final personalized mail campaigns.\r\nWorking in tandem with marketing managers for targeting specific users for new campaigns. Also finding the user\r\ncoverage for each of such campaigns.\r\nAutomation of daily process using Jenkins where the output is used for promotional mails to 70 million people worldwide.\r\nUsing AWS SDK's and other services like lambda.\r\nWriting python-spark scripts for overall ETL process. Data validations using qubole and pyspark.\r\nAws Cost Optimization done to reduce the cost of existing production jobs running in Jenkins platform.\r\nDesigned a Cross Sell Model for the customers using one line of business to attract them to other lob's\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=b1d   81b054b003a4454405a4d5f0b02546&sid=3810263223&AT=1580681125\r\n2/2/20 23&09\r\n\r\n\r\nEducation\r\nUG: graduation (Civil Engineering) from NIT Jaipur (MNIT) in 2018\r\n\r\nOther Qualifications/Certifications/Programs:\r\nSpark and Python for Big data with Pyspark\r\nAWS Technical professional assessment\r\nApplied data science with Python\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nPython, Sql, PySpark\r\n\r\nMS Word, MS PowerPoint,\r\n\r\nQubole, Apache - Spark.\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=b1d   1b054b003a4454405a4d5f0b02546&sid=3810263223&AT=1580681125\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Bengaluru / Bangalore",
+          "sov:PreferredLocation": "Bengaluru / Bangalore, Gurgaon, Hyderabad",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Physically Challenged: No"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "ANKUSH KUMAR MISHRA's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Sales (mostly Entry Level). ANKUSH KUMAR MISHRA's experience appears to be entry level, with 20 months of experience.",
+          "sov:MonthsOfWorkExperience": "20",
+          "sov:AverageMonthsPerEmployer": "20",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "75",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "38",
+                        "@percentOfParentTaxonomy": "51",
+                        "sov:Skill": [
+                          {
+                            "@name": "Hive",
+                            "@id": "1004749",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2020-03-05",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "PYSPARK",
+                                "@id": "3391125",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2020-03-05",
+                                "@whereFound": "Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "20",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "ETL",
+                            "@id": "5530987",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "QUBOLE",
+                            "@id": "5530829",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Middleware and Integration",
+                        "@id": "345",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "ETL",
+                            "@id": "016965",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023294",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "64",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "36"
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "87",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023295",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Civil",
+                        "@id": "133",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "CIVIL ENGINEERING",
+                            "@id": "022209",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; TRAINING"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "61",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Marketing Communications",
+                        "@id": "592",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "CAMPAIGN MANAGEMENT",
+                            "@id": "1400143",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Brand Management",
+                        "@id": "227",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "CAMPAIGN MANAGEMENT",
+                            "@id": "012543",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "COLLECTION",
+                            "@id": "013778",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2020-03-05",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT POWERPOINT",
+                            "@id": "023613",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS POWERPOINT",
+                                "@id": "002995",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "POWERPOINT",
+                                "@id": "021977",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT WORD",
+                            "@id": "022961",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS WORD",
+                                "@id": "003106",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "WORD",
+                                "@id": "002379",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; TRAINING"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:TrainingHistory": {
+          "sov:Text": "UG: graduation (Civil Engineering) from NIT Jaipur (MNIT) in 2018",
+          "sov:Training": [
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "UG: graduation (Civil Engineering) from NIT Jaipur (MNIT) in 2018",
+              "sov:EndDate": {
+                "Year": "2018"
+              }
+            }
+          ]
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "36",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "37",
+              "@ends": "55",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "56",
+              "@ends": "58",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "59",
+              "@ends": "64",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "65",
+              "@ends": "74",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "75",
+              "@ends": "87",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "ANKUSH KUMAR MISHRA"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=b1d"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Bengaluru / Bangalore, Gurgaon, Hyderabad",
+              "Work Authorization\r\nPhysically Challenged: No",
+              "Current Location: Bengaluru / Bangalore",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3303",
+        "sov:ParseTime": "281",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:3ef9dd89-f469-40ca-8a4e-55a265c731ac",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "gtcBAAAAAAA="
+      }
+    }
+  }
+}

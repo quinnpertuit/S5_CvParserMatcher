@@ -1,0 +1,502 @@
+{
+  "SovrenData": {
+    "@xml:lang": "en",
+    "DocumentLanguage": "en",
+    "CurrentJobIsMgmt": "false",
+    "HighestManagementScore": "0",
+    "ManagementLevel": "none",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+      "MainJobTitle": "analyst firm"
+    },
+    "EmployerNames": {
+      "MainEmployerName": "ABOUT TINYCLUES",
+      "EmployerName": [
+        "Deep Learning for Recommendation Systems",
+        "Recommendation Systems",
+        "Attention Pooling Networks",
+        "French Grande Ecole or University"
+      ]
+    },
+    "SchoolNames": {
+      "SchoolName": [
+        "French Grande Ecole or University",
+        "French Grande Ecole"
+      ]
+    },
+    "LanguageCodes": {
+      "LanguageCode": [
+        "fr"
+      ]
+    },
+    "TypeOfSource": "stJobOrder",
+    "SourceText": "ABOUT TINYCLUES\r\n\r\n\r\nTinyclues’ AI-first marketing platform is built with the latest technology including Kubernetes, Docker, Presto, Python ML frameworks, Elasticsearch or React. Our software stack is a mix between Python and Scala, natively designed for cloud and deployed on AWS. We focus on using those ecosystems for what they do best.\r\n\r\nThe solution processes and analyzes hundreds of terabytes of data every day from our 100+ enterprise clients across 13 countries. It runs dozens of powerful and carefully designed machine & deep learning algorithms to find the “tiny clues” in our clients’ first-party databases. The technology currently relies on proven datastores and distributed backends to process data. Our data and predictive pipelines are implemented over Kubernetes and orchestrated with an event-driven architecture over RabbitMQ.\r\n\r\nWe believe empowering people is the most efficient way to build the best product together. The teams are organized in small & autonomous groups working on different business needs with agile methodologies.\r\n\r\nOur innovative technology has led Tinyclues to be identified by leading IT analyst firm Gartner as a Vendor to Watch for digital marketing analytics and a Cool Vendor in multichannel marketing.\r\n\r\nBy joining Tinyclues and our 100 team members, you will have an impact on one of top fast-growing start-ups with a unique AI-first vision, breakthrough predictive technology and proven global success.\r\n\r\nWHAT YOU WILL BE WORKING ON\r\nDeep Learning for Recommendation Systems: How to combine implicit & explicit feedback in a deep learning framework (factorizations, higher level interactions, feature transfer, ...)\r\nAttention Pooling Networks: How to aggregate a customer's sequence of historical events into a single meaningful vector\r\nUnsupervised Learning: How to represent best a customer's socio-demographical information in order to feed our models\r\nMeta Learning: How to tune automatically the models' hyper parameters (regularization, latent dimensions, ...) to find the optimal ones\r\nPlanning optimization: How to plan best notifications to a user across different subjects, days and communications channels\r\nRequirements\r\n\r\nMust have:\r\nknowledge in applied mathematics (probability, gradient descent optimization...) and algorithmic\r\nfluency in Python with experience in math libraries (numpy, scipy, sklearn, ...)\r\nknowledge of basic machine learning methods (linear regressions, naive bayes, PCA, kmeans)\r\nknowledge of object and/or functional programming concepts\r\ninternship convention with a French Grande Ecole or University\r\nNice to have:\r\nknowledge and experience with one of the Neural Network backend (Keras, MXNet, PyTorch)\r\nunderstanding the core of the ML libraries\r\nrelation database & SQL basics\r\nexperience in data visualization\r\ncontributing to open source software projects (Github, ...)\r\nIf you believe you have a very strong profile in Data Science but are missing one of the must haves, don’t hesitate to send your application anyway.",
+    "RevisionDate": "2020-03-08",
+    "ParserConfigurationString": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DigitalSignature": "VvcBAAAAAAA=",
+    "SkillsTaxonomyOutput": [
+      {
+        "@name": "Sovren",
+        "Taxonomy": [
+          {
+            "@name": "Information Technology",
+            "@id": "10",
+            "@percentOfOverall": 56.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Machine Learning",
+                "@id": "720",
+                "@percentOfOverall": 15.0,
+                "@percentOfParentTaxonomy": 27.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "7200001",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DEEP LEARNING",
+                    "@id": "7200018",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "PCA",
+                        "@id": "7200050",
+                        "@existsInText": true,
+                        "@required": true
+                      }
+                    ],
+                    "@name": "PRINCIPAL COMPONENT ANALYSIS",
+                    "@id": "7200049",
+                    "@existsInText": false,
+                    "@required": false
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "7200149",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Big Data",
+                "@id": "553",
+                "@percentOfOverall": 13.0,
+                "@percentOfParentTaxonomy": 23.0,
+                "Skill": [
+                  {
+                    "@name": "ELASTICSEARCH",
+                    "@id": "5530744",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "TERABYTES",
+                    "@id": "55308704",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "5530958",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DATA VISUALIZATION",
+                    "@id": "5530962",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "5531016",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Programming",
+                "@id": "204",
+                "@percentOfOverall": 10.0,
+                "@percentOfParentTaxonomy": 18.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "NUMPY",
+                        "@id": "3391118",
+                        "@existsInText": true,
+                        "@required": true
+                      },
+                      {
+                        "@name": "KERAS",
+                        "@id": "3391124",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "PYTHON",
+                    "@id": "006120",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "DOCKER",
+                    "@id": "3391147",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Database",
+                "@id": "193",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 14.0,
+                "Skill": [
+                  {
+                    "@name": "SQL",
+                    "@id": "008481",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "DATABASE",
+                        "@id": "022486",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "DATABASE MODELING",
+                    "@id": "026777",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Gaming",
+                "@id": "551",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 5.0,
+                "Skill": [
+                  {
+                    "@name": "SCALA",
+                    "@id": "5510135",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Security",
+                "@id": "338",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 5.0,
+                "Skill": [
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "3380002",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Multimedia",
+                "@id": "351",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 5.0,
+                "Skill": [
+                  {
+                    "@name": "SCALA",
+                    "@id": "007474",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Protocols and Standards",
+                "@id": "253",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 5.0,
+                "Skill": [
+                  {
+                    "@name": "OPEN SOURCE",
+                    "@id": "003842",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "User Experience",
+            "@id": "93",
+            "@percentOfOverall": 15.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Interactive Design",
+                "@id": "572",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 17.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570157",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Game Design",
+                "@id": "570",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 17.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570127",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Graphic Design",
+                "@id": "569",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 17.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570120",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Industrial Design",
+                "@id": "566",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 17.0,
+                "Skill": [
+                  {
+                    "@name": "ARCHITECTURE",
+                    "@id": "5570085",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Visual Design",
+                "@id": "565",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 17.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570073",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Motion Design",
+                "@id": "564",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 17.0,
+                "Skill": [
+                  {
+                    "@name": "VISUALIZATION",
+                    "@id": "5570059",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Marketing",
+            "@id": "14",
+            "@percentOfOverall": 13.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Advertising",
+                "@id": "595",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 40.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "DIGITAL MARKETING",
+                        "@id": "1400381",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "DIGITAL CAMPAIGN",
+                    "@id": "1400380",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Digital",
+                "@id": "599",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "DIGITAL MARKETING",
+                    "@id": "1400390",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Data & Analytics",
+                "@id": "588",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "DATA SCIENCE",
+                    "@id": "1400075",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "General",
+                "@id": "249",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "MARKETING",
+                    "@id": "021241",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Engineering",
+            "@id": "5",
+            "@percentOfOverall": 10.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Surveying",
+                "@id": "298",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "024338",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "General Engineering",
+                "@id": "307",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "OPTIMIZATION",
+                    "@id": "023295",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Process",
+                "@id": "143",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "PROCESS DATA",
+                    "@id": "005495",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Computer Hardware",
+                "@id": "144",
+                "@percentOfOverall": 3.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "NEURAL NETWORK",
+                    "@id": "003431",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Knowledge and Learning Management",
+            "@id": "92",
+            "@percentOfOverall": 5.0,
+            "Subtaxonomy": [
+              {
+                "@name": "General Knowledge and Learning Management",
+                "@id": "903",
+                "@percentOfOverall": 5.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "NEURAL NETWORK",
+                        "@id": "200038",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "NEURAL",
+                    "@id": "200040",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

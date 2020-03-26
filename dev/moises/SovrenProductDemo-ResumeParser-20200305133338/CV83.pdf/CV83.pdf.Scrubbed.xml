@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Delhi</Region>
+					<Municipality>New Delhi</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Completed M.Sc.(Mathematics) from SVNIT, Surat with 7.01/10 CGPA Strong exposure in Software Development, and Machine
+Learning field Extensive knowledge of Data Analytics Strong knowledge of Statistical Methods such as Simple &amp; Multiple Linear
+Regressions, Polynomial &amp; Logistic Regression Skilled in grasping new technical concepts quickly and utilizing the same in a
+productive manner Focused &amp; goal-driven with strong work ethics and commitment to offer quality work Completed 1-month
+internship with key learnings in the field of e-commerce and e-governance services provided by the government</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Capstone Project-Great Learning</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>Capstone Project-Great Learning</OrganizationName>
+					</OrgName>
+					<Description>Onsite / Offsite: Onsite</Description>
+					<StartDate>
+						<YearMonth>2019-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Capstone Project Great Learning</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Capstone Project Great Learning</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Sardar Vallabhbhai National Institute of Technology</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>GUJARAT</Region>
+					<Municipality>Surat</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Sc</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Maths</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Sc (Maths) from Sardar Vallabhbhai National Institute of Technology (NIT), Surat in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>BSc</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>BSc</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Sardar Vallabhbhai National Institute of Technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Maths</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MS/M.Sc(Science) (Maths) from SVNIT, Surat in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>PGP-Data Science and Engineering from Great Learning</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Fresher, Machine Learning, Data Analytics, Data Analysis, Python, C, Data Science, MySQL, Tableau
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 1-Feb-20
+f5e176265fdf445f8cd12103e0d83666
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+MACHINE LEARNING
+
+R
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a55120219310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681562
+2/2/20 23&amp;13
+
+
+Python
+
+MS-EXCEL
+
+MySQL	4 Month(s)
+
+TABLEAU	1 Month(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;13
+
+
+   ~~~~~~  
+
+
+Fresher, Seeking roles in Machine Learning, Business Analytics, Strategic
+Planing, Business Development, Software Development, Content
+Development, Corporate Finance, Marketing Strategy, Data Analytics, Data
+Analysis, Python, C
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~  	Total Experience:    ~~~~~~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: MS/M.Sc(Science) [Maths]
+Functional Area: Analytics &amp; Business Intelligence
+Role: Fresher
+Industry: KPO / Research /Analytics
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Fresher, Machine Learning, Data Analytics, Data Analysis, Python, C, Data Science, MySQL, Tableau
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 1-Feb-20
+f5e176265fdf445f8cd12103e0d83666
+
+
+Summary
+Completed M.Sc.(Mathematics) from SVNIT, Surat with 7.01/10 CGPA Strong exposure in Software Development, and Machine
+Learning field Extensive knowledge of Data Analytics Strong knowledge of Statistical Methods such as Simple &amp; Multiple Linear
+Regressions, Polynomial &amp; Logistic Regression Skilled in grasping new technical concepts quickly and utilizing the same in a
+productive manner Focused &amp; goal-driven with strong work ethics and commitment to offer quality work Completed 1-month
+internship with key learnings in the field of e-commerce and e-governance services provided by the government
+
+
+Education
+UG: B.Sc (Maths) from Sardar Vallabhbhai National Institute of Technology (NIT), Surat in 2019
+
+PG: MS/M.Sc(Science) (Maths) from SVNIT, Surat in 2019
+
+Other Qualifications/Certifications/Programs:
+PGP-Data Science and Engineering from Great Learning
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+MACHINE LEARNING
+
+R
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a55120219310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681562
+2/2/20 23&amp;13
+
+
+Python
+
+MS-EXCEL
+
+MySQL	4 Month(s)
+
+TABLEAU	1 Month(s)
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+hindi
+
+
+Projects
+Project Title: Online News Popularity
+Client: Capstone Project-Great Learning
+Nature of Employment: Full Time	Duration: Oct 2019 - Nov 2019
+Onsite / Offsite: Onsite
+Project Details: Predict whether an article will be popular or not using classification techniques in machine learning.
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     a55120219310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681562
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Marketing (mostly Data &amp; Analytics).    ~~~~~~  's experience appears to be entry level, with 1 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>1</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>1</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="62">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="18" percentOfParentTaxonomy="29">
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="5530958" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="15" percentOfParentTaxonomy="24">
+								<sov:Skill name="DATA SCIENCE" id="7200001" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+								<sov:Skill name="LOGISTIC REGRESSION" id="7200039" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="10" percentOfParentTaxonomy="16">
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="7" percentOfParentTaxonomy="11">
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="7" percentOfParentTaxonomy="11">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="6" percentOfParentTaxonomy="10">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="18">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="18" percentOfParentTaxonomy="100">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA SCIENCE" id="1400075" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="7">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="7" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2019-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="7">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="3">
+							<sov:Subtaxonomy name="Corporate" id="727" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="GOVERNANCE" id="7270003" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="3">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="18" ends="26" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="27" ends="34" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="35" ends="39" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="40" ends="43" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="44" ends="64" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="65" ends="72" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="73" ends="77" sectionType="WORK HISTORY">Projects</sov:Section>
+				<sov:Section starts="78" ends="87" sectionType="WORK HISTORY">Project Details</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>2510</sov:ParsedTextLength>
+			<sov:ParseTime>296</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;4] The following section in the resume contains more content than the work history and education sections combined: 'IT Skills'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS,WORK HISTORY] The following section types appear multiple times in the resume: SKILLS (2 occurrences), WORK HISTORY (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,3,7] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:', 'Project Details'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:6bf08996-bd4a-4c0a-9dcb-3f5a27dab637</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>M9cAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

@@ -2,6 +2,7 @@ from business.candidate import CandidateBusiness
 from business.job_post import JobPostBusiness
 from business.matching import Matcher
 from business.filter_sort import FilterSortBusiness
+from services.db_services.db_handler import TrackingExecution
 from numpy import linalg as LA
 import services.lang_processing as lp
 
@@ -10,13 +11,14 @@ import services.lang_processing as lp
 
 import pymongo
 from pymongo import MongoClient
+import ssl
 from bson.objectid import ObjectId
 import numpy as np
 import networkx as nx
 from pprint import pprint as pp
 import pandas as pd
 
-client = MongoClient('mongodb+srv://user_imt:2020@s5resumesdb-ppukj.azure.mongodb.net/test')
+client = MongoClient('mongodb+srv://user_imt:2020@s5resumesdb-ppukj.azure.mongodb.net/test',ssl=True,ssl_cert_reqs=ssl.CERT_NONE)
 #print(client.list_database_names())
 db = client['db']
 #print(db.list_collection_names())
@@ -64,6 +66,11 @@ filterAxes = [
         'required': 1,
     }
 ]
+
+def runStoreExecution(analysis_type,dict_exec,inputs,outputs):
+    execution = TrackingExecution(db['executions_history'],analysis_type,dict_exec,inputs,outputs)
+    execution.storeExecution()
+    return
 
 def db_job(db_name,id):
     db_Soveren = db[db_name]
@@ -188,6 +195,6 @@ def runOneToMany(candidate_ids, job_id, weights, filterAxes=filterAxes, analysis
     return filtered_matches, sorted_matches
 
 
-# runOneToOne('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78', True)
+#result=runOneToOne('5e60f5895a90883323e38bbc','5e64cbef837ba015d90abc78', True)
 
 # print('One to one matching of CV to the jobpost is ',OnetoManymatching(['5e60f5895a90883323e38bbc','5e60f5895a90883323e38bbc'],'5e64cbef837ba015d90abc76'))

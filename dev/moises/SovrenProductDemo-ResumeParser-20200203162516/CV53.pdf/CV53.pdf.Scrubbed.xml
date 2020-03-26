@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>2 years of experience as Software Engineer.
+Worked on Data Migration from Legacy systems to SAP system using SAP LSMW.
+Knowledge of Programming in C, C++.
+Experience working in Agile (SCRUM) Development Environment.
+Knowledge of Data Structures and Algorithms.
+Ability to quickly learn and adapt to new technologies.
+An effective communicator with excellent problem solving and client servicing skills.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Tech Mahindra India Private Ltd</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>SAP Data Migration Consultant</Title>
+					<OrgName>
+						<OrganizationName>Tech Mahindra India Private Ltd</OrganizationName>
+					</OrgName>
+					<Description>e4e444510280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580680992
+2/2/20 23&amp;03</Description>
+					<StartDate>
+						<Year>2003</Year>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2020-02-02</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>Tech Mahindra India Private</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>SAP Data Migration Consultant</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Tech Mahindra India Private</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Nestle</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>SAP Data Migration consultant</Title>
+					<OrgName>
+						<OrganizationName>Nestle</OrganizationName>
+					</OrgName>
+					<Description>Designation: SAP Data Migration consultant.
+PROJECT SCOPE:
+Nestle is a food manufacturing company which needs to have the data coming from all over the world in a single SAP
+client. This project involved loading of the master data from different sources into the SAP using LSMW. The enterprise
+project mainly concentrated on the data quality, data migration and also data integration.
+RESPONSIBILITIES:
+Had extensive experience in trouble shooting in resolving the defects and also loading the data in DEV, QA and PROD
+environments.
+Worked extensively on the entire tier two as well as tier one object. Worked extensively on material master and all tier two
+objects which are corresponding with the tier1 object.
+Worked on best practices in order to push the data into SAP using IDOCS and BAPI.
+Resolving issues raised via problem tickets by the users after analyzing and discussing the issue with the core team and upon approval from them, by developing and designing solution while continuing to ensure that it meets the business
+requirements.
+Responsible for error analysis, research of the same and to provide corrective solutions and suggest preventive actions to avoid recurrence.
+
+
+TechMahindra as Software Engineer
+N/A to Till Date</Description>
+					<StartDate>
+						<YearMonth>2015-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 66% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>Nestle</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>SAP Data Migration consultant</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>consultant</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Nestle</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>SAP</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>SAP</OrganizationName>
+					</OrgName>
+					<Description>data migration</Description>
+					<StartDate>
+						<YearMonth>2015-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-05</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>SAP</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>SAP</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Visveswaraiah Technological University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2015</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2015</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computer Science) from Visveswaraiah Technological University (VTU) in 2015</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Visveswaraiah Technological University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: SAP Data Migration Consultant, ERP Consultant, SAP Implementation, SAP Upgrade, SAP Support, SAP
+Consulting, SAP Project Management, Data Migration, Data Structures, Algorithms, SAP ECC, SAP LSMW, BAPI, SQL
+Server, HTML, CSS, JavaScript, C, C++
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+1e84520b8c1045ffb6d4c4d255fb4089
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+C, C++
+
+SAP ERP
+
+SQL Server
+
+HTML, CSS, JAVASCRIPT</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>kn</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Kannada</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;03
+
+
+   ~~~~~~~~  
+
+
+SAP Data Migration Consultant, Seeking Roles in SAP Implementation, SAP
+Upgrade, SAP Support, SAP Consulting, SAP Project Management, Data
+Migration, DataStructures, Algorithms, SAP ECC, SAP
+LSMW, BAPI, SQL Server, HTML, CSS, JavaScript, C, C++
+
+
+Current Designation: Software Engineer	Total Experience: 1 Year(s) 9 Month(s)
+Current Company: TechMahindra	Notice Period: 15 Days or less
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: B.Tech/B.E. [Computer Science]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: IT Software - ERP / CRM
+Role: ERP Consultant
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: SAP Data Migration Consultant, ERP Consultant, SAP Implementation, SAP Upgrade, SAP Support, SAP
+Consulting, SAP Project Management, Data Migration, Data Structures, Algorithms, SAP ECC, SAP LSMW, BAPI, SQL
+Server, HTML, CSS, JavaScript, C, C++
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+1e84520b8c1045ffb6d4c4d255fb4089
+
+
+Summary
+2 years of experience as Software Engineer.
+Worked on Data Migration from Legacy systems to SAP system using SAP LSMW.
+Knowledge of Programming in C, C++.
+Experience working in Agile (SCRUM) Development Environment.
+Knowledge of Data Structures and Algorithms.
+Ability to quickly learn and adapt to new technologies.
+An effective communicator with excellent problem solving and client servicing skills.
+
+
+Work Experience
+TechMahindra as Software Engineer
+Aug 2015 to May 2017
+SAP data migration
+
+
+TechMahindra as Software Engineer
+Aug 2015 to May 2017
+SAP data migration
+
+
+Tech Mahindra India Private Ltd, as SAP Data Migration Consultant
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     e4e444510280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580680992
+2/2/20 23&amp;03
+
+
+Aug 2015 to Jun 2017
+PROJECT PROFILE:
+Project Type: Support &amp; Application Management.
+Environment: SAP R/3, ECC 6.0.
+Client: Nestle.
+Designation: SAP Data Migration consultant.
+PROJECT SCOPE:
+Nestle is a food manufacturing company which needs to have the data coming from all over the world in a single SAP
+client. This project involved loading of the master data from different sources into the SAP using LSMW. The enterprise
+project mainly concentrated on the data quality, data migration and also data integration.
+RESPONSIBILITIES:
+Had extensive experience in trouble shooting in resolving the defects and also loading the data in DEV, QA and PROD
+environments.
+Worked extensively on the entire tier two as well as tier one object. Worked extensively on material master and all tier two
+objects which are corresponding with the tier1 object.
+Worked on best practices in order to push the data into SAP using IDOCS and BAPI.
+Resolving issues raised via problem tickets by the users after analyzing and discussing the issue with the core team and
+upon approval from them, by developing and designing solution while continuing to ensure that it meets the business
+requirements.
+Responsible for error analysis, research of the same and to provide corrective solutions and suggest preventive actions to
+avoid recurrence.
+
+
+TechMahindra as Software Engineer
+N/A to Till Date
+
+
+Education
+UG: B.Tech/B.E. (Computer Science) from Visveswaraiah Technological University (VTU) in 2015
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+C, C++
+
+SAP ERP
+
+SQL Server
+
+HTML, CSS, JAVASCRIPT
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+Kannada
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     4e444510280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580680992
+2/2/20 23&amp;03
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~  	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     4e444510280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580680992
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly ERP and CRM) and slightly concentrated in User Experience (mostly Web Design).    ~~~~~~~~   has 16 years of work experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>195</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>65</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>32</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="98">
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="32" percentOfParentTaxonomy="33">
+								<sov:Skill name="BAPI" id="010304" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="ERP" id="016891" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SAP" id="007436" existsInText="true" totalMonths="193" lastUsed="2020-02-02" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-3" childrenTotalMonths="22" childrenLastUsed="2017-06-01">
+									<sov:ChildSkill name="R/3" id="006324" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="32" percentOfParentTaxonomy="32">
+								<sov:Skill name="DATA INTEGRATION" id="5530949" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="DATA MIGRATION" id="5530953" existsInText="true" totalMonths="193" lastUsed="2020-02-02" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="ENTERPRISE RESOURCE PLANNING" id="5530983" existsInText="false">
+									<sov:ChildSkill name="ERP" id="5530984" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="31" percentOfParentTaxonomy="32">
+								<sov:Skill name="DATA MIGRATION" id="014990" existsInText="true" totalMonths="193" lastUsed="2020-02-02" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA QUALITY" id="015002" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA STRUCTURES" id="6180000" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="0">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="22" childrenLastUsed="2017-06-01">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BEST PRACTICES" id="011365" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="PROBLEM SOLVING" id="005482" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="General" id="362" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="FOOD MANUFACTURING" id="017828" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="80">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+								<sov:Skill name="EMPLOYEE RESOURCE GROUP" id="9000074" existsInText="false">
+									<sov:ChildSkill name="ERP" id="9000075" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="0">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="941" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="QA" id="006125" existsInText="true" totalMonths="22" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="40" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="41" ends="84" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="85" ends="88" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="89" ends="100" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="101" ends="121" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>3913</sov:ParsedTextLength>
+			<sov:ParseTime>375</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:33c9dcc0-12b7-4629-938d-f06ddbc0e9dc</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>Trr8//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

@@ -1,0 +1,215 @@
+{
+  "SovrenData": {
+    "@xml:lang": "en",
+    "DocumentLanguage": "en",
+    "CurrentJobIsMgmt": "false",
+    "ManagementLevel": "none",
+    "ExecutiveType": "NONE",
+    "EmployerNames": {
+      "MainEmployerName": "Mission"
+    },
+    "LanguageCodes": {
+      "LanguageCode": [
+        "fr",
+        "en"
+      ]
+    },
+    "Education": {
+      "Degree": [
+        {
+          "DegreeType": "doctorate",
+          "DegreeName": "PhD"
+        }
+      ]
+    },
+    "RequiredDegree": "doctorate",
+    "TypeOfSource": "stJobOrder",
+    "SourceText": "okad is a young company with a strong focus on business intelligence. Mathematics and statistics are the heart of our technology.\r\n\r\nMission\r\nLokad is offering the unique opportunity to start working over very large datasets such as sales data, cash flows, call volumes, ...\r\n\r\nThe internship or PhD could be focused on:\r\ndeveloping new statistical models to forecast massively concurrent time-series.\r\ndeveloping new algorithms to distribute statistical learning algorithms over computational grids.\r\nThe internship can be followed by a PhD in Computer Science (*) at Lokad after your internship.\r\n\r\n(*) The PhD is co-directed by Lokad and a French university. More details on about the Thèse CIFRE (in French).\r\n\r\nProfile\r\nWe do not expect you to have much programming experience, although, the more the better. We are looking for top notch mathematicians who are willing to acquire the skills that will let them turn their ideas into industrial-strength software. At Lokad, you will be provided the necessary training to achieve this.\r\nExcellent academic track in mathematics and / or statistics.\r\nExcellent command of written and spoken English.\r\nThe position is in our office in Paris intramuros.\r\nThe duration of the internship is 3 to 9 months.\r\nSalary depends on the experience.\r\n\r\nApplication\r\nIf you are interested by Lokad, you can apply by sending your resume to contact@lokad.com. Please attach your resume as a plain text, Word, PDF or HTML file. In your email, please shortly explain why you think you would be a good fit for this job. If you have a website, please send us the URL.",
+    "RevisionDate": "2020-03-08",
+    "ParserConfigurationString": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DigitalSignature": "gs8AAAAAAAA=",
+    "SkillsTaxonomyOutput": [
+      {
+        "@name": "Sovren",
+        "Taxonomy": [
+          {
+            "@name": "Information Technology",
+            "@id": "10",
+            "@percentOfOverall": 33.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Big Data",
+                "@id": "553",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "DATASETS",
+                    "@id": "5530959",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Programming",
+                "@id": "204",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "HTML",
+                    "@id": "019115",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Financial",
+                "@id": "350",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "TIME-SERIES",
+                    "@id": "009618",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Protocols and Standards",
+                "@id": "253",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 25.0,
+                "Skill": [
+                  {
+                    "@name": "PDF",
+                    "@id": "004489",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Common End-user Software",
+            "@id": "0",
+            "@percentOfOverall": 33.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Core Office",
+                "@id": "108",
+                "@percentOfOverall": 33.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "PDF",
+                        "@id": "004488",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "ACROBAT",
+                    "@id": "012099",
+                    "@existsInText": false,
+                    "@required": false
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "WORD",
+                        "@id": "002379",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "MICROSOFT WORD",
+                    "@id": "022961",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Finance",
+            "@id": "7",
+            "@percentOfOverall": 17.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Operations",
+                "@id": "237",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "BUSINESS INTELLIGENCE",
+                    "@id": "7000125",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Other",
+                "@id": "243",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "017446",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Business Operations and General Business",
+            "@id": "34",
+            "@percentOfOverall": 17.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Management Activities or Functions",
+                "@id": "436",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "BUSINESS INTELLIGENCE",
+                    "@id": "012210",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "General Skills and Activities",
+                "@id": "437",
+                "@percentOfOverall": 8.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "STATISTICS",
+                    "@id": "008585",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

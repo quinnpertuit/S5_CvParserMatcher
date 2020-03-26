@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Mumbai</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>A focused Marketing professional with 7 months of experience in the Marketing
+Operations, Digital Marketing
+Previously associated with BigWin Infotech Private Ltd. (   ~~~~~~~~~  ) as
+Management Trainee and performed activities related to Digital Marketing, Email
+Campaigns, Reporting and MIS Tracking
+Familiar with the concepts of Search Engine Optimization (SEO), PPC,
+Integrated Marketing and Data Analysis
+Understanding of marketing strategies and programs to achieve or exceed marketing
+objectives, while keeping in line with market trends and driving initiatives for
+achieving business objectives
+Successfully rationalized and integrated all online assets through coordinating with a
+cross-functional team; made recommendations to senior managers
+Expertise in marketing plan execution, product promotion and implementation of
+business strategies to accomplish the decided targets</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Bigwin Infotech private limited</EmployerOrgName>
+				<PositionHistory positionType="internship" currentEmployer="true">
+					<Title>Management Trainee</Title>
+					<OrgName>
+						<OrganizationName>Bigwin Infotech private limited</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2019-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Bigwin Infotech</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Management Trainee</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="internship">
+					<Title>Management Trainee</Title>
+					<OrgName>
+						<OrganizationName>BigWin Infotech Private Limited</OrganizationName>
+					</OrgName>
+					<Description>55440416310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681430
+2/2/20 23&amp;12</Description>
+					<StartDate>
+						<Year>2012</Year>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2020-02-02</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>BigWin Infotech</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Management Trainee</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Bigwin Infotech</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Digital Marketing Department</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Lead Generation, Calling &amp; Operations</Title>
+					<OrgName>
+						<OrganizationName>Digital Marketing Department</OrganizationName>
+					</OrgName>
+					<Description>including Database Email Marketing and Display
+Advertising Campaign
+Supervised a team of 10 assistants with focus on managing Lead Generation, Calling &amp; Operations
+Maintained partnerships with Digital Media Agencies, Portals, Vendors
+Analyzed &amp; approved loan application files and led disbursement and funding process in the organization
+Led various functions like social media, public relation efforts and content marketing
+Digital Marketing
+Data Analysis
+Search Engine
+Optimisation (SEO)
+Social Media Campaigns
+Email- Campaigns
+PPC
+Social IMC
+Integrated Marketing
+Advertising
+Communicator
+Negotiator
+Collaborator
+Team Player
+Formulated reports on marketing campaign overall performance; tracked the activities of MIS investors and prepared
+market report on a daily basis
+Coordinated with experts in advertising and media to improve the marketing outcome</Description>
+					<StartDate>
+						<YearMonth>2019-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Marketing → Digital</CategoryCode>
+						<Comments>Marketing describes 49% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BT">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>10</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Digital Marketing Department</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Lead Generation Calling AND Operations</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Lead Generation</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Digital Marketing Department</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Welingkar Institute of Management Development and Research</SchoolName>
+				</School>
+				<Degree degreeType="masters">
+					<DegreeName>MBA/PGDM</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Marketing</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MBA/PGDM (Marketing) from Welingkar Institute of Management Development and Research (WIMDR) in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>MBA</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>MBA</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Welingkar Institute of Management Development and Research</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Nagpur University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Nagpur</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.B.A</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Management</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.B.A/ B.M.S (Management) from Nagpur University in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Nagpur University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Management Trainee, Display Marketing Executive, Digital Marketing, Business Development, Data
+Analysis, Search Engine Optimization, Social Media Marketing, Campaign Management, Advertising, Market
+Research, Online Marketing, Email Marketing, Lead Generation
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 1-Feb-20
+c6f8e521555842d98fb59c3ef6985282
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft Office</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>mr</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Marathi</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;12
+
+
+   ~~~~~~~~~  
+
+
+Management Trainee seeking roles in Digital Marketing, Business Development, Data
+Analysis, Search Engine Optimization, Social Media Marketing, Campaign
+Management, Advertising, Market Research, Online Marketing, Email Marketing, Lead
+Generation
+
+
+Current Designation: Management Trainee	Total Experience: 1 Year(s) 0 Month(s)
+Current Company: Bigwin Infotech private limited	Notice Period:    ~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~  	Highest Degree: MBA/PGDM [Marketing]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: Marketing / Advertising / MR / PR
+Role: Display Marketing Executive
+Industry: FMCG/Foods/Beverage
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Management Trainee, Display Marketing Executive, Digital Marketing, Business Development, Data
+Analysis, Search Engine Optimization, Social Media Marketing, Campaign Management, Advertising, Market
+Research, Online Marketing, Email Marketing, Lead Generation
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 1-Feb-20
+c6f8e521555842d98fb59c3ef6985282
+
+
+Summary
+A focused Marketing professional with 7 months of experience in the Marketing
+Operations, Digital Marketing
+Previously associated with BigWin Infotech Private Ltd. (   ~~~~~~~~~  ) as
+Management Trainee and performed activities related to Digital Marketing, Email
+Campaigns, Reporting and MIS Tracking
+Familiar with the concepts of Search Engine Optimization (SEO), PPC,
+Integrated Marketing and Data Analysis
+Understanding of marketing strategies and programs to achieve or exceed marketing
+objectives, while keeping in line with market trends and driving initiatives for
+achieving business objectives
+Successfully rationalized and integrated all online assets through coordinating with a
+cross-functional team; made recommendations to senior managers
+Expertise in marketing plan execution, product promotion and implementation of
+business strategies to accomplish the decided targets
+
+
+Work Experience
+Bigwin Infotech private limited as Management Trainee
+Apr 2019 to Till Date
+
+BigWin Infotech Private Limited as Management Trainee
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     55440416310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681430
+2/2/20 23&amp;12
+
+
+Apr 2019 to Oct 2019
+Key Result Areas:
+Developed and administered all facets of the Digital Marketing Department including Database Email Marketing and
+Display
+Advertising Campaign
+Supervised a team of 10 assistants with focus on managing Lead Generation, Calling &amp; Operations
+Maintained partnerships with Digital Media Agencies, Portals, Vendors
+Analyzed &amp; approved loan application files and led disbursement and funding process in the organization
+Led various functions like social media, public relation efforts and content marketing
+Digital Marketing
+Data Analysis
+Search Engine
+Optimisation (SEO)
+Social Media Campaigns
+Email- Campaigns
+PPC
+Social IMC
+Integrated Marketing
+Advertising
+Communicator
+Negotiator
+Collaborator
+Team Player
+Formulated reports on marketing campaign overall performance; tracked the activities of MIS investors and prepared
+market report
+on a daily basis
+Coordinated with experts in advertising and media to improve the marketing outcome
+
+
+Education
+UG: B.B.A/ B.M.S (Management) from Nagpur University in 2017
+
+PG: MBA/PGDM (Marketing) from Welingkar Institute of Management Development and Research (WIMDR) in 2019
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft Office
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+Marathi
+
+
+Affirmative Action	Work Authorization
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     55440416310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681430
+2/2/20 23&amp;12
+
+
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     55440416310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580681430
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~  's experience appears to be mostly concentrated in Marketing (mostly General) and slightly concentrated in Information Technology (mostly Internet).    ~~~~~~~~~   has 7 years of work experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>87</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>43</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>28</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>6</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 4/1/2019, the candidate held the following low-level management position for 6 months:
+	Title: Lead Generation, Calling &amp; Operations for Digital Marketing Department</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="59">
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="23" percentOfParentTaxonomy="39">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in EDUCATION; SKILLS; SUMMARY; WORK HISTORY; DEG-2; POS-3"></sov:Skill>
+								<sov:Skill name="MARKETING DEPARTMENT" id="021246" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="14" percentOfParentTaxonomy="24">
+								<sov:Skill name="DIGITAL MARKETING" id="1400390" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="DIGITAL MEDIA" id="1400261" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="SEARCH ENGINE OPTIMIZATION" id="1400234" existsInText="true" whereFound="Found in SKILLS; SUMMARY" childrenTotalMonths="6" childrenLastUsed="2019-10-01">
+									<sov:ChildSkill name="SEO" id="1400235" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOCIAL MEDIA MARKETING" id="1400238" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Advertising" id="595" percentOfOverall="7" percentOfParentTaxonomy="12">
+								<sov:Skill name="DIGITAL CAMPAIGN" id="1400380" existsInText="false" childrenTotalMonths="6" childrenLastUsed="2019-10-01">
+									<sov:ChildSkill name="DIGITAL MARKETING" id="1400381" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Marketing Communications" id="592" percentOfOverall="7" percentOfParentTaxonomy="11">
+								<sov:Skill name="ADVERTISING" id="1400153" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="CAMPAIGN MANAGEMENT" id="1400143" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MARKETING CAMPAIGN" id="1400348" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="MARKETING PLAN" id="1400146" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false" childrenTotalMonths="6" childrenLastUsed="2019-10-01">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="MARKETING CAMPAIGN" id="1400308" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="MARKETING PLAN" id="1400013" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MARKET TRENDS" id="1400325" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MARKET TRENDS" id="1400082" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Category Management" id="587" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MARKET TRENDS" id="1400038" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Brand Management" id="227" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CAMPAIGN MANAGEMENT" id="012543" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Direct" id="222" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ONLINE MARKETING" id="003814" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="14">
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="7" percentOfParentTaxonomy="51">
+								<sov:Skill name="SEARCH ENGINE" id="024268" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="6" percentOfParentTaxonomy="46">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="6" childrenLastUsed="2019-10-01">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="OPTIMIZATION" id="023294" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="8">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="4" percentOfParentTaxonomy="51">
+								<sov:Skill name="BUSINESS DEVELOPMENT" id="023757" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="LEAD GENERATION" id="081147" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Account Management" id="104" percentOfOverall="4" percentOfParentTaxonomy="49">
+								<sov:Skill name="LEAD GENERATION" id="081150" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="8">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="4" percentOfParentTaxonomy="50">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="4" percentOfParentTaxonomy="50">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="4">
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="MBA" id="7000321" existsInText="true" lastUsed="2019-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="DISBURSEMENT" id="015486" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="2">
+							<sov:Subtaxonomy name="Attitude" id="528" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEAM PLAYER" id="026529" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Clinical" id="28" percentOfOverall="2">
+							<sov:Subtaxonomy name="Other" id="277" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="FACETS" id="025473" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="2">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="FACETS" id="017119" existsInText="true" totalMonths="6" lastUsed="2019-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="47" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="48" ends="86" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="87" ends="92" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="93" ends="98" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="99" ends="120" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>3938</sov:ParsedTextLength>
+			<sov:ParseTime>359</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:40619aa4-eace-4e2f-b1be-8c671306db45</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>H4/8//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

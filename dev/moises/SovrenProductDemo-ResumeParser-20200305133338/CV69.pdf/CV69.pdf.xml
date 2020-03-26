@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Geetika Raizada</FormattedName>
+				<GivenName>Geetika</GivenName>
+				<FamilyName>Raizada</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Mumbai</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Functional Area: Analytics &amp; Business Intelligence</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>A result-driven professional with nearly 2 years of experience in Retail/ Forex Trade and Banking Operations of Finnacle and
+related activities
+Presently associated with ICICI Bank as Deputy Manager
+Hands-on experience in various tools &amp; technologies such as Python(OOPS, Collections, POP and exception Handling, data
+encapsulation), SQL and many more
+Experienced in DMAT Account/ Trading &amp; Finance Account
+Skilled in working on Finacle Tools; successfully updated all the banking transaction database within stipulated timeline</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>ICICI Bank</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Deputy Manager</Title>
+					<OrgName>
+						<OrganizationName>ICICI Bank</OrganizationName>
+					</OrgName>
+					<Description>to Apr 2018
+Key Result Areas:
+Administering end-to-end Banking Operations inclusive of managing all types of banking products
+Acting as an escalation gate; addressing and resolving queries of Corporate and HNI Accounts pertaining to banking
+products which resulting in achievement of customer satisfaction matrices
+Documenting and updating all the banking transaction database in Finacle Tool
+Monitoring and evaluating:
+The customer accounts; updating the KYC details of customers who all are falling in different risk categories; ensuring
+adherence to service standards of the bank &amp; regulatory compliance as laid down by RBI &amp; other regulatory authorities
+Post loan disbursement activities including processing of release letters, recovery of bad debts, NPA, preparation of
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c88   090958503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681127
+2/2/20 23&amp;09
+
+
+compromise proposals and associated legal proceedings
+Maintaining Suspicious Transaction Reports; submitting the same to the Branch Head to avoid any case of fraud and risk to the banks image
+Mitigating financial risk through the development and implementation of strategic measures
+Managing various credit operations involving appraising proposals, conducting risk analysis &amp; scrutinizing relevant
+documents before sanctioning loans
+Indulging in overall risk &amp; exposures of customers, involving risk assessment, internal / external rating, monitoring
+mitigants &amp; portfolio risks
+Scrutinzing and reviewing existing working capital limits
+Performing analytical review of financial operations of the process; interpreting financial data for determining past financial
+performance and projecting the financial probability of process
+Investigating key business issues behind the numbers and providing clear, concise &amp; timely analysis</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Finance → Operations</CategoryCode>
+						<Comments>Finance describes 46% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Manager</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>ICICI Bank</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Deputy Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Deputy Manager</Title>
+					<OrgName>
+						<OrganizationName>ICICI Bank</OrganizationName>
+					</OrgName>
+					<Description>operation and business development</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Sales → General</CategoryCode>
+						<Comments>Sales describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Manager</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>ICICI Bank</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Deputy Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>ICICI Bank</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>ICICI Manipal University</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG Diploma</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Banking and Finance</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: PG Diploma (Banking and Finance) from ICICI Manipal University in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>ICICI Manipal University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2014</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Electronics and Instrumentation Engineering</Name>
+					</DegreeMajor>
+					<DegreeMinor>
+						<Name>Technology</Name>
+					</DegreeMinor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2014</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Electronics and Instrumentation Engineering) from Babu Banarasi Das Northern India Instiute of Technology in 2014</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>NISM -MUTUAL FUND, NISM-Equity derivatives (pursuing), IRDA</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>(pursuing)</Name>
+				<Id>1</Id>
+				<Description>NISM -MUTUAL FUND, NISM-Equity derivatives (pursuing), IRDA</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>NISM -MUTUAL FUND, NISM-Equity derivatives</Name>
+				<Id>1</Id>
+				<Description>NISM -MUTUAL FUND, NISM-Equity derivatives (pursuing), IRDA</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Deputy Manager, Project Manager, Project Management, Banking Operations, Branch Operations, Business
+Analysis, Financial Analysis, Project Execution, Data Analysis, Python, SQL, Forex Trading, Financial Risk, Credit
+Operations, Risk Analysis
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 31-Jan-20
+40921a6e441c4452b6c5f24571624d46
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Windows OS (Win 98, 2000, XP, )
+
+MS Office, MS PowerPoint
+
+INTERNET APPLICATIONS
+
+Python, SQL</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;09
+
+
+Geetika Raizada
+
+
+Deputy Manager seeking roles in Project Management, Banking Operations, Branch
+Operations, Business Analysis, Financial Analysis, Project Execution, Data Analysis,
+Python, SQL, Forex Trading, Financial Risk, Credit Operations, Risk Analysis
+
+
+Current Designation: Deputy Manager	Total Experience: 2 Year(s) 0 Month(s)
+Current Company: ICICI Bank	Notice Period: 1 Month
+Current Location: Mumbai	Highest Degree: PG Diploma [Banking and Finance]
+Pref. Location: Mumbai, Pune, Delhi / NCR
+Functional Area: Analytics &amp; Business Intelligence
+Role: Business Analyst
+Industry: Banking/Financial Services/Broking
+Marital Status: Single/unmarried
+Key Skills: Deputy Manager, Project Manager, Project Management, Banking Operations, Branch Operations, Business
+Analysis, Financial Analysis, Project Execution, Data Analysis, Python, SQL, Forex Trading, Financial Risk, Credit
+Operations, Risk Analysis
+
+Verified: Phone Number |	Email - id
+
+
+ID: Last Active: 2-Feb-20	Last Modified: 31-Jan-20
+40921a6e441c4452b6c5f24571624d46
+
+
+Summary
+A result-driven professional with nearly 2 years of experience in Retail/ Forex Trade and Banking Operations of Finnacle and
+related activities
+Presently associated with ICICI Bank as Deputy Manager
+Hands-on experience in various tools &amp; technologies such as Python(OOPS, Collections, POP and exception Handling, data
+encapsulation), SQL and many more
+Experienced in DMAT Account/ Trading &amp; Finance Account
+Skilled in working on Finacle Tools; successfully updated all the banking transaction database within stipulated timeline
+
+
+Work Experience
+ICICI Bank as Deputy Manager
+Apr 2018 to Apr 2018
+Key Result Areas:
+Administering end-to-end Banking Operations inclusive of managing all types of banking products
+Acting as an escalation gate; addressing and resolving queries of Corporate and HNI Accounts pertaining to banking
+products which resulting in achievement of customer satisfaction matrices
+Documenting and updating all the banking transaction database in Finacle Tool
+Monitoring and evaluating:
+The customer accounts; updating the KYC details of customers who all are falling in different risk categories; ensuring
+adherence to service standards of the bank &amp; regulatory compliance as laid down by RBI &amp; other regulatory authorities
+Post loan disbursement activities including processing of release letters, recovery of bad debts, NPA, preparation of
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c88   090958503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681127
+2/2/20 23&amp;09
+
+
+compromise proposals and associated legal proceedings
+Maintaining Suspicious Transaction Reports; submitting the same to the Branch Head to avoid any case of fraud and risk
+to the banks image
+Mitigating financial risk through the development and implementation of strategic measures
+Managing various credit operations involving appraising proposals, conducting risk analysis &amp; scrutinizing relevant
+documents before sanctioning loans
+Indulging in overall risk &amp; exposures of customers, involving risk assessment, internal / external rating, monitoring
+mitigants &amp; portfolio risks
+Scrutinzing and reviewing existing working capital limits
+Performing analytical review of financial operations of the process; interpreting financial data for determining past financial
+performance and projecting the financial probability of process
+Investigating key business issues behind the numbers and providing clear, concise &amp; timely analysis
+
+
+ICICI Bank as Deputy Manager
+Apr 2018 to Till Date
+operation and business development
+
+
+Education
+UG: B.Tech/B.E. (Electronics and Instrumentation Engineering) from Babu Banarasi Das Northern India Instiute of
+Technology in 2014
+
+PG: PG Diploma (Banking and Finance) from ICICI Manipal University in 2018
+
+Other Qualifications/Certifications/Programs:
+NISM -MUTUAL FUND, NISM-Equity derivatives (pursuing), IRDA
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Windows OS (Win 98, 2000, XP, )
+
+MS Office, MS PowerPoint
+
+INTERNET APPLICATIONS
+
+Python, SQL
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+Hindi
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c88   090958503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681127
+2/2/20 23&amp;09
+
+
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=c88   090958503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681127
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Mumbai</sov:CurrentLocation>
+				<sov:PreferredLocation>Mumbai, Pune, Delhi / NCR</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Geetika Raizada's experience appears to be somewhat concentrated in Finance (mostly Operations) and slightly concentrated in Business Operations and General Business (mostly Management Activities or Functions). Geetika Raizada's experience appears to be lower-to-mid level, with about 2 years of experience, with several years tenure in management, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>24</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>24</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>24</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>mid-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>general</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 4/1/2018, the candidate held the following mid-level management position for 1 months:
+	Title: Deputy Manager for ICICI Bank
+Current position is a mid-level management role: Deputy Manager
+Starting on 4/1/2018, the candidate held the following mid-level management position for 23 months:
+	Title: Deputy Manager for ICICI Bank</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="39">
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="10" percentOfParentTaxonomy="26">
+								<sov:Skill name="BANKING OPERATIONS" id="023218" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="LOAN DISBURSEMENT" id="020857" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Credit and Underwriting" id="240" percentOfOverall="7" percentOfParentTaxonomy="17">
+								<sov:Skill name="CREDIT" id="014614" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="LOANS" id="022185" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="5" percentOfParentTaxonomy="14">
+								<sov:Skill name="DERIVATIVES" id="024287" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="DISBURSEMENT" id="015486" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="RISK ASSESSMENT" id="007092" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TRADING" id="080179" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="5" percentOfParentTaxonomy="12">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080203" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="RISK ANALYSIS" id="007091" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TRADING" id="080204" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Securities" id="236" percentOfOverall="3" percentOfParentTaxonomy="7">
+								<sov:Skill name="FINANCIAL ANALYSIS" id="080196" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="FINANCIAL OPERATIONS" id="017470" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internal Audit" id="706" percentOfOverall="2" percentOfParentTaxonomy="6">
+								<sov:Skill name="FINANCIAL OPERATIONS" id="7000208" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mortgage" id="233" percentOfOverall="2" percentOfParentTaxonomy="6">
+								<sov:Skill name="LOANS" id="080236" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Lending" id="234" percentOfOverall="2" percentOfParentTaxonomy="6">
+								<sov:Skill name="LOANS" id="080217" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="2" percentOfParentTaxonomy="5">
+								<sov:Skill name="FINANCE" id="023147" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; SUMMARY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Trading" id="239" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="TRADING" id="009789" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Equities" id="238" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="MUTUAL FUND" id="003228" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="12">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="8" percentOfParentTaxonomy="64">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TRADING" id="022750" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="4" percentOfParentTaxonomy="36">
+								<sov:Skill name="CREDIT" id="022227" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="11">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="47">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="1" childrenLastUsed="2018-04-01">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="4" percentOfParentTaxonomy="40">
+								<sov:Skill name="RISK ANALYSIS" id="5531055" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="DAS" id="5551108" existsInText="true" lastUsed="2014-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="PROJECT MANAGER" id="022909" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="MS OFFICE" id="022137" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="8">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="5" percentOfParentTaxonomy="58">
+								<sov:Skill name="INSTRUMENTATION" id="080537" existsInText="true" lastUsed="2014-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+								<sov:Skill name="RISK ANALYSIS" id="007090" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Environmental" id="136" percentOfOverall="2" percentOfParentTaxonomy="28">
+								<sov:Skill name="RISK ASSESSMENT" id="007095" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="1" percentOfParentTaxonomy="7">
+								<sov:Skill name="INSTRUMENTATION" id="080363" existsInText="true" lastUsed="2014-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="1" percentOfParentTaxonomy="7">
+								<sov:Skill name="INSTRUMENTATION" id="080270" existsInText="true" lastUsed="2014-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="7">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="7" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS DEVELOPMENT" id="023757" existsInText="true" totalMonths="23" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="CUSTOMER ACCOUNTS" id="030368" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="RETAIL" id="030018" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SATISFACTION" id="030000" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="7">
+							<sov:Subtaxonomy name="Accounts Receivable" id="940" percentOfOverall="4" percentOfParentTaxonomy="64">
+								<sov:Skill name="CREDIT" id="022226" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounts Payable" id="933" percentOfOverall="2" percentOfParentTaxonomy="36">
+								<sov:Skill name="DISBURSEMENT" id="015485" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="5">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="DOCUMENTING" id="023928" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Proposals and Related" id="431" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="PROPOSALS" id="005891" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Bookkeeping, Office Management" id="89" percentOfOverall="4">
+							<sov:Subtaxonomy name="Bookeeping Tasks" id="533" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="CREDIT" id="022229" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1">
+									<sov:ChildSkill name="COLLECTIONS" id="013782" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Government" id="86" percentOfOverall="2">
+							<sov:Subtaxonomy name="Regulatory" id="524" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="REGULATORY COMPLIANCE" id="006698" existsInText="true" totalMonths="1" lastUsed="2018-04-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="2">
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="1" percentOfParentTaxonomy="71">
+								<sov:Skill name="POINT OF PURCHASE" id="1400217" existsInText="false">
+									<sov:ChildSkill name="POP" id="1400218" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="RETAIL MARKETING" id="1400215" existsInText="false">
+									<sov:ChildSkill name="RETAIL" id="1400216" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="0" percentOfParentTaxonomy="29">
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="1">
+							<sov:Subtaxonomy name="Non-Nuclear Power Misc" id="924" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="INSTRUMENTATION" id="081113" existsInText="true" lastUsed="2014-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Power Related" id="925" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="INSTRUMENTATION" id="081107" existsInText="true" lastUsed="2014-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="1">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="false">
+									<sov:ChildSkill name="MS OFFICE" id="022136" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT POWERPOINT" id="023613" existsInText="false">
+									<sov:ChildSkill name="MS POWERPOINT" id="002995" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="POWERPOINT" id="021977" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2014-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="19" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="39" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="40" ends="76" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="77" ends="82" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="83" ends="86" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="87" ends="98" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="99" ends="119" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Geetika Raizada</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=c88</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Mumbai, Pune, Delhi / NCR</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Mumbai</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>4517</sov:ParsedTextLength>
+			<sov:ParseTime>312</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:b19377e7-2d4b-4e01-a696-03004b14e409</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>rGcCAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

@@ -1,0 +1,646 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Swaraj Patil",
+          "GivenName": "Swaraj",
+          "FamilyName": "Patil"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "1 Month",
+                  "M.Tech [Electronics]"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "A focused professional offering 1.2 years of experience in Data Analysis, Machine Learning, Predictive Modeling, Statistical\r\nModeling, Natural Language Processing, Deep Learning, Sentiment Analysis, Regression Modeling, Cluster Analysis, C,\r\nPython, SQL, Statsmodel",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Carnot Technologies Private Limited",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Junior Data Scientist",
+                "OrgName": {
+                  "OrganizationName": "Carnot Technologies Private Limited"
+                },
+                "Description": "Creating automated anomaly detection systems and constantly tracking its\r\nperformance.\r\nImplementation of model for detecting road and farm using captured\r\nsatellite images.\r\nDevelopment of internal tools for resolving tickets.\r\nEnhancement of data monitoring scripts for observing health stats of devices",
+                "StartDate": {
+                  "YearMonth": "2019-04"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Machine Learning",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Carnot Technologies",
+                    "sov:NormalizedTitle": "Junior Data Scientist",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Data Scientist"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Carnot Technologies"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Sardar Patel Institute of Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "2020-02-02"
+                    },
+                    "EndDate": {
+                      "Year": "2023"
+                    }
+                  }
+                ],
+                "Comments": "https://freesearch.naukri.com/preview/printResume?uname=e42   1401b5a5f79061742504d1d421e056&sid=3810263223&AT=1580680854\r\n2/2/20 23&01\r\n\r\n\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from Sardar Patel Institute of Technology in 2016",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "false",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Sardar Patel Institute of Technology"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Veermata Jijabai Institute of Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: M.Tech (Electronics) from Veermata Jijabai Institute of Technology in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Veermata Jijabai Institute of Technology"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Junior Data Scientist, Data Analysis, Machine Learning, Predictive Modeling, Statistical Modeling, Natural\r\nLanguage Processing, Deep Learning, Sentiment Analysis, Regression Modeling, Cluster Analysis, C, Python, SQL,\r\nStatsmodel, NLTK\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 2-Feb-20\r\n176b35a11e0e48efa7856ccd169e52a6\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nC, Python, SQL\r\n\r\nPandas, Matplotlib, Seaborn, Numpy\r\n\r\nSklearn, SciPy, NLTK\r\n\r\nStatsmodel, Keras, Tensorflow"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English\tProficient"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi\tProficient"
+          },
+          {
+            "LanguageCode": "mr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Marathi\tProficient"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&01\r\n\r\n\r\nSwaraj Patil\r\n\r\n\r\nJunior Data Scientist seeking roles in Machine Learning, Predictive Modeling,\r\nStatistical Modeling, Natural Language Processing, Deep Learning, Sentiment\r\nAnalysis, Regression Modeling, Cluster Analysis, C, Python, SQL, Statsmodel\r\n\r\n\r\nCurrent Designation: Junior Data Scientist\tTotal Experience: 1 Year(s) 3 Month(s)\r\nCurrent Company: Carnot Technologies Private Limited\tNotice Period: 1 Month\r\nCurrent Location: Mumbai\tHighest Degree: M.Tech [Electronics]\r\nPref. Location: Mumbai, Other International Location\r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: IT-Software/Software Services\r\nMarital Status: Single/unmarried\r\nKey Skills: Junior Data Scientist, Data Analysis, Machine Learning, Predictive Modeling, Statistical Modeling, Natural\r\nLanguage Processing, Deep Learning, Sentiment Analysis, Regression Modeling, Cluster Analysis, C, Python, SQL,\r\nStatsmodel, NLTK\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 2-Feb-20\r\n176b35a11e0e48efa7856ccd169e52a6\r\n\r\n\r\nSummary\r\nA focused professional offering 1.2 years of experience in Data Analysis, Machine Learning, Predictive Modeling, Statistical\r\nModeling, Natural Language Processing, Deep Learning, Sentiment Analysis, Regression Modeling, Cluster Analysis, C,\r\nPython, SQL, Statsmodel\r\n\r\n\r\nWork Experience\r\nCarnot Technologies Private Limited as Junior Data Scientist\r\nApr 2019 to Till Date\r\nCreating automated anomaly detection systems and constantly tracking its\r\nperformance.\r\nImplementation of model for detecting road and farm using captured\r\nsatellite images.\r\nDevelopment of internal tools for resolving tickets.\r\nEnhancement of data monitoring scripts for observing health stats of\r\ndevices\r\n\r\n\r\nEducation\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=e42   1401b5a5f79061742504d1d421e056&sid=3810263223&AT=1580680854\r\n2/2/20 23&01\r\n\r\n\r\nUG: B.Tech/B.E. (Electronics/Telecommunication) from Sardar Patel Institute of Technology in 2016\r\n\r\nPG: M.Tech (Electronics) from Veermata Jijabai Institute of Technology in 2018\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nC, Python, SQL\r\n\r\nPandas, Matplotlib, Seaborn, Numpy\r\n\r\nSklearn, SciPy, NLTK\r\n\r\nStatsmodel, Keras, Tensorflow\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\tProficient\r\n\r\nHindi\tProficient\r\n\r\nMarathi\tProficient\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=e42   1401b5a5f79061742504d1d421e056&sid=3810263223&AT=1580680854\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Mumbai",
+          "sov:PreferredLocation": "Mumbai, Other International Location",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Physically Challenged: No"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Swaraj Patil's experience appears to be mostly concentrated in Information Technology (mostly Machine Learning) and slightly concentrated in Telecommunications (mostly Skilled). Swaraj Patil's experience appears to be entry level, with 10 months of experience.",
+          "sov:MonthsOfWorkExperience": "10",
+          "sov:AverageMonthsPerEmployer": "10",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "64",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "26",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANOMALY DETECTION",
+                            "@id": "7200003",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DEEP LEARNING",
+                            "@id": "7200018",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "15",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "NATURAL",
+                            "@id": "003276",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "KERAS",
+                                "@id": "3391124",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "MATPLOTLIB",
+                                "@id": "3391120",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "NUMPY",
+                                "@id": "3391118",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "PANDAS",
+                                "@id": "3391116",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "TENSORFLOW",
+                                "@id": "3391117",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "NATURAL LANGUAGE PROCESSING",
+                            "@id": "5531029",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "PREDICTIVE MODELING",
+                            "@id": "5531047",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SENTIMENT ANALYSIS",
+                            "@id": "5531060",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "19",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "19",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2023-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "79",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "STATISTICAL MODELING",
+                            "@id": "1400069",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICAL MODELING",
+                            "@id": "1400099",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2023-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "19",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "35",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "36",
+              "@ends": "47",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "48",
+              "@ends": "58",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "59",
+              "@ends": "70",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "71",
+              "@ends": "87",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Swaraj Patil"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=e42"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Mumbai, Other International Location",
+              "Work Authorization\r\nPhysically Challenged: No",
+              "Current Location: Mumbai",
+              "Marital Status: Single",
+              "1 Month"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2566",
+        "sov:ParseTime": "234",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:fb63737c-0776-4254-8cce-abfbf9fcf6af",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "WNr///////8="
+      }
+    }
+  }
+}

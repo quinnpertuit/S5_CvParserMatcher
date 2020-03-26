@@ -1,0 +1,1014 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Kalyanbrata Maity",
+          "GivenName": "Kalyanbrata",
+          "FamilyName": "Maity"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Functional Area: Analytics & Business Intelligence"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "Data Scientist with 1.5+ years of experience, executing data-driven solutions to deliver business insights efficiently & accurately\r\nusing predictive modelling & data mining algorithms. Willing to learn new skills to improve my abilities and to contribute my\r\norganisation.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "KARVY ANALYTICS LIMITED",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Data Scientist",
+                "OrgName": {
+                  "OrganizationName": "KARVY ANALYTICS LIMITED"
+                },
+                "Description": "Risk Assessment of Country-by-Country Reporting (CbCR)\r\nSchema was designed by studying CbCR schema guide and extracted data to csv from xml files for both inbound & outbound.\r\nLatest data was compared with old data to keep new & revised records and delete repeated records.\r\nPerformed deficiency analysis to find discrepancies in data & text analysis on additional info data to fetch multiplication factor.\r\nCalculated Indian footprint & made rules and applied to identify high risk jurisdictions and MNEs.\r\nTools & Techniques: Python, NumPy, Excel",
+                "StartDate": {
+                  "YearMonth": "2019-09"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 38% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "KARVY ANALYTICS",
+                    "sov:NormalizedTitle": "Data Scientist"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "KARVY ANALYTICS"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "AI-ML-NLP LAB, Dept. Of Computer Science",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Junior Research Fellow",
+                "OrgName": {
+                  "OrganizationName": "AI-ML-NLP LAB, Dept. Of Computer Science"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "BIHAR"
+                      ],
+                      "Municipality": "Patna"
+                    }
+                  }
+                ],
+                "Description": "Developing MM-NAEMO: an multimodal many-objective optimization algorithm.\r\nIt is based on Genetic algorithm, developed to solve MMO problems from CEC2019 competition.\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c261   8151b1a0d61544c1001011702154e6&sid=3810263223&AT=1580666732\r\n2/2/20 19'06\r\n\r\n\r\nAchieved 5th position in accuracy using MM-NAEMO & published in IEEE Xplore as a paper.\r\nUsefull for Automatic text summarization, feature selection, numerical optimization etc.\r\nTools & Techniques: Python, Matlab, Niching, Selection, Mutation, Cross-over, GMM",
+                "StartDate": {
+                  "YearMonth": "2018-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 44% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BK",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "AI ML NLP LAB Dept Of Computer Science",
+                    "sov:NormalizedTitle": "Junior Research Fellow",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Research Fellow"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "AI ML NLP LAB Dept Of Computer Science"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "R. K. M. Vivekananda Educational and Research Institute"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "BELUR"
+            },
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "PG",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "PG: MS/M.Sc(Science) (Data Science) from R. K. M. Vivekananda Educational and Research Institute, BELUR, West\r\nBengal in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "R K M Vivekananda Educational and Research Institute"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "R. K. M. Vivekananda Centenary College"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Sc",
+                "DegreeDate": {
+                  "Year": "2016"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Physics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2016"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Sc (Physics) from R. K. M. Vivekananda Centenary College, RAHARA in 2016",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "BSc",
+                    "sov:NormalizedDegreeType": "BSc"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "R K M Vivekananda Centenary College"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: data scientist, data analytics, data mining, data modelling, data extraction, machine learning, logistic\r\nregression, predictive modelling, python, r, sql, pandas\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 1-Feb-20\tLast Modified: 29-Jan-20\r\ncbaec038d1ea4be39fe84543c41c49ce\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\npython, R, SQL\r\n\r\nPandas, NumPy, data.table, Excel\r\n\r\nRShiny, Plotly, ggplot2, matplotlib\r\n\r\nEXCEL\r\n\r\nNLTK, WordNet, Regex, Gensim\r\n\r\nKeras, Scikit-Learn\r\n\r\nFlask, TensorFlow, Tableau\r\n\r\nMapReduce, Matlab"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          },
+          {
+            "LanguageCode": "bn",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Bengali"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'06\r\n\r\n\r\nKalyanbrata Maity\r\n\r\n\r\nData Scientist seeking assignments in Data Analysis, Database Management, Data\r\nAnalytics, Data Mining, Data Modelling, Data Integration, Data Transition, Data\r\nExtraction, Machine Learning, Program Management, Logistic Regression, Predictive\r\nModelling\r\n\r\n\r\nCurrent Designation: Data Scientist\tTotal Experience: 1 Year(s) 5 Month(s)\r\nCurrent Company: KARVY ANALYTICS LIMITED\tNotice Period: 2 Months\r\nCurrent Location: Delhi\tHighest Degree: MS/M.Sc(Science) [Data Science]\r\nPref. Location: Bengaluru / Bangalore, Gurgaon, Hyderabad\r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Data Analyst\r\nIndustry: KPO / Research /Analytics\r\nMarital Status: Single/unmarried\r\nKey Skills: data scientist, data analytics, data mining, data modelling, data extraction, machine learning, logistic\r\nregression, predictive modelling, python, r, sql, pandas\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 1-Feb-20\tLast Modified: 29-Jan-20\r\ncbaec038d1ea4be39fe84543c41c49ce\r\n\r\n\r\nSummary\r\nData Scientist with 1.5+ years of experience, executing data-driven solutions to deliver business insights efficiently & accurately\r\nusing predictive modelling & data mining algorithms. Willing to learn new skills to improve my abilities and to contribute my\r\norganisation.\r\n\r\n\r\nWork Experience\r\nKARVY ANALYTICS LIMITED as Data Scientist\r\nSep 2019 to Till Date\r\nRisk Assessment of Country-by-Country Reporting (CbCR)\r\nSchema was designed by studying CbCR schema guide and extracted data to csv from xml files for\r\nboth inbound & outbound.\r\nLatest data was compared with old data to keep new & revised records and delete repeated records.\r\nPerformed deficiency analysis to find discrepancies in data & text analysis on additional info data to\r\nfetch multiplication factor.\r\nCalculated Indian footprint & made rules and applied to identify high risk jurisdictions and MNEs.\r\nTools & Techniques: Python, NumPy, Excel\r\n\r\n\r\nAI-ML-NLP LAB, Dept. Of Computer Science, IIT Patna as Junior Research Fellow\r\nNov 2018 to May 2019\r\nDeveloping MM-NAEMO: an multimodal many-objective optimization algorithm.\r\nIt is based on Genetic algorithm, developed to solve MMO problems from CEC2019 competition.\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c261   8151b1a0d61544c1001011702154e6&sid=3810263223&AT=1580666732\r\n2/2/20 19'06\r\n\r\n\r\nAchieved 5th position in accuracy using MM-NAEMO & published in IEEE Xplore as a paper.\r\nUsefull for Automatic text summarization, feature selection, numerical optimization etc.\r\nTools & Techniques: Python, Matlab, Niching, Selection, Mutation, Cross-over, GMM\r\n\r\n\r\nEducation\r\nUG: B.Sc (Physics) from R. K. M. Vivekananda Centenary College, RAHARA in 2016\r\n\r\nPG: MS/M.Sc(Science) (Data Science) from R. K. M. Vivekananda Educational and Research Institute, BELUR, West\r\nBengal in 2018\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\npython, R, SQL\r\n\r\nPandas, NumPy, data.table, Excel\r\n\r\nRShiny, Plotly, ggplot2, matplotlib\r\n\r\nEXCEL\r\n\r\nNLTK, WordNet, Regex, Gensim\r\n\r\nKeras, Scikit-Learn\r\n\r\nFlask, TensorFlow, Tableau\r\n\r\nMapReduce, Matlab\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\nBengali\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=c261   8151b1a0d61544c1001011702154e6&sid=3810263223&AT=1580666732\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Delhi",
+          "sov:PreferredLocation": "Bengaluru / Bangalore, Gurgaon, Hyderabad",
+          "sov:WillingToRelocate": "Yes",
+          "sov:VisaStatus": "Physically Challenged: No"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Kalyanbrata Maity's experience appears to be mostly concentrated in Information Technology (mostly Programming) and somewhat concentrated in Engineering (mostly General Engineering). Kalyanbrata Maity's experience appears to be entry level, with 11 months of experience.",
+          "sov:MonthsOfWorkExperience": "11",
+          "sov:AverageMonthsPerEmployer": "5",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "50",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "27",
+                        "@percentOfParentTaxonomy": "54",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "MapReduce",
+                            "@id": "1004750",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2",
+                            "@childrenTotalMonths": "5",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "FLASK",
+                                "@id": "3391121",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "GGPLOT2",
+                                "@id": "3391123",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "KERAS",
+                                "@id": "3391124",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "MATPLOTLIB",
+                                "@id": "3391120",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "NUMPY",
+                                "@id": "3391118",
+                                "@existsInText": "true",
+                                "@totalMonths": "5",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                              },
+                              {
+                                "@name": "PANDAS",
+                                "@id": "3391116",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "TENSORFLOW",
+                                "@id": "3391117",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "REGEX",
+                            "@id": "3391139",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "XML",
+                            "@id": "011476",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "021346",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE HADOOP MAPREDUCE",
+                            "@id": "5530712",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MAPREDUCE",
+                                "@id": "553071202",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "5530954",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "NATURAL LANGUAGE PROCESSING",
+                            "@id": "5531029",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "NLP",
+                                "@id": "5531030",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "IEEE",
+                            "@id": "026096",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "7200000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "TABLEAU SOFTWARE",
+                            "@id": "5540985",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TABLEAU",
+                                "@id": "55409852",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "026549",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "21",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "41",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022552",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023295",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software and Tools",
+                        "@id": "310",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "37",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "024275",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Environmental",
+                        "@id": "136",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK ASSESSMENT",
+                            "@id": "007095",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Scientific",
+                    "@id": "15",
+                    "@percentOfOverall": "12",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Basic",
+                        "@id": "376",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "64",
+                        "sov:Skill": [
+                          {
+                            "@name": "MATLAB",
+                            "@id": "021347",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Bio",
+                        "@id": "373",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "GENETIC ALGORITHM",
+                            "@id": "018329",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-05-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK ASSESSMENT",
+                            "@id": "007092",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "70",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA MINING",
+                            "@id": "026550",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INSIGHTS",
+                            "@id": "1400083",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS INSIGHTS",
+                            "@id": "9000113",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "DATA EXTRACTION",
+                            "@id": "9000117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "29",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "30",
+              "@ends": "35",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "36",
+              "@ends": "62",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "63",
+              "@ends": "69",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "70",
+              "@ends": "89",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "90",
+              "@ends": "106",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Kalyanbrata Maity"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=c261"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Bengaluru / Bangalore, Gurgaon, Hyderabad",
+              "Work Authorization\r\nPhysically Challenged: No",
+              "Current Location: Delhi",
+              "Marital Status: Single"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3354",
+        "sov:ParseTime": "453",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:0c20101f-51e7-4357-9a7d-a5fdaa961c37",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "L3gAAAAAAAA="
+      }
+    }
+  }
+}

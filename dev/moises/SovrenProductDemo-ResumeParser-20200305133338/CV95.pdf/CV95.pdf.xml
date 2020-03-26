@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Arpan Konar</FormattedName>
+				<GivenName>Arpan</GivenName>
+				<FamilyName>Konar</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Functional Area: IT Software - DBA / Datawarehousing</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>I am a Data Engineer with 2 years of professional experience in Data Warehousing, ETL and Business Intelligence in retail and
+e-commerce. I am passionate and quick learner professional having demonstrated ability to work in agile environment.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Wipro Technologies</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Project Engineer</Title>
+					<OrgName>
+						<OrganizationName>Wipro Technologies</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Client: Walmart
+
+Project Description: Managing large scale data of Online Grocery of Walmart U.S. and building dashboards for analyzing
+different Key Performance Indicators.
+
+Responsibilities:
+Building data pipeline and ETL flow to load historical and incremental business data from different
+source systems like Oracle, MySQL to target tables in Teradata.
+Writing HiveQL to load data consumed from Kafka to Hive tables.
+Writing proper logic and implementing in Teradata SQL to derive different metrics.
+Developing Tableau Dashboards to report different Key Performance Indicators as required by
+business managers.
+Scheduling Teradata and Hive scripts by Automic tool for batch processing.
+Analyzing and fixing any mismatch in Financial, Operational and Customer Satisfaction related
+metrics.
+
+
+https://freesearch.naukri.com/preview/printResume?uname=d19   343585c09211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681700
+2/2/20 23&amp;16
+
+
+?	Communicating across different teams to ensure meeting SLA of batch.
+?	Deputed in client location (Walmart Global Technology Services, Bangalore).
+
+
+I am currently serving Notice Period.</Description>
+					<StartDate>
+						<YearMonth>2018-02</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 65% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Wipro Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Project Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Wipro Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>KALAM</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Electronics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Electronics/Telecommunication) from MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY,
+WEST BENGAL in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Warehousing, ETL, Business Intelligence, Analytics, Data Visualization, Reporting, Data
+Loading, SQL, Teradata, Tableau, HDFS, Hive, Kafka, Hadoop, Teradata SQL, Oracle SQL, Informatica
+Powercenter, Performance Tuning, Dashboards, Unix, Automic, Job Scheduling
+
+Verified: Phone Number |	Email - id
+
+
+ID: 3453044a32ef7c2469	Last Active: 1-Feb-20	Last Modified: 1-Feb-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Teradata	2020	2 Year(s)
+
+TABLEAU	2020	2 Year(s)
+
+ETL	2020	2 Year(s)
+
+DATA WAREHOUSING	2020	2 Year(s)
+
+REPORTING	2020	2 Year(s)
+
+SQL	2020	2 Year(s)
+
+HIVE	2020	1 Year(s) 6 Month(s)
+
+JIRA	2020	2 Year(s)
+
+MS OFFICE	2020	2 Year(s)
+
+Automic	2020	2 Year(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>bn</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Bengali	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;16
+
+
+Arpan Konar
+
+
+Experienced Software Engineer seeking roles in Data Warehousing, ETL &amp; Business
+Intelligence. Having strong and in-depth experience of different tools and technologies
+required in Data Warehousing and BI. Currently serving Notice Period.
+
+
+Current Designation: Project Engineer	Total Experience: 2 Year(s) 0 Month(s)
+Current Company: Wipro Technologies	Notice Period: Currently Serving Notice Period
+Current Location: Bengaluru / Bangalore	Highest Degree: B.Tech/B.E.
+[Electronics/Telecommunication]
+Pref. Location: Bengaluru / Bangalore
+Functional Area: IT Software - DBA / Datawarehousing
+Role: Software Developer
+Industry: IT-Software/Software Services
+Marital Status: Single/unmarried
+Key Skills: Data Warehousing, ETL, Business Intelligence, Analytics, Data Visualization, Reporting, Data
+Loading, SQL, Teradata, Tableau, HDFS, Hive, Kafka, Hadoop, Teradata SQL, Oracle SQL, Informatica
+Powercenter, Performance Tuning, Dashboards, Unix, Automic, Job Scheduling
+
+Verified: Phone Number |	Email - id
+
+
+ID: 3453044a32ef7c2469	Last Active: 1-Feb-20	Last Modified: 1-Feb-20
+
+
+Summary
+I am a Data Engineer with 2 years of professional experience in Data Warehousing, ETL and Business Intelligence in retail and
+e-commerce. I am passionate and quick learner professional having demonstrated ability to work in agile environment.
+
+
+Work Experience
+Wipro Technologies as Project Engineer
+Feb 2018 to Till Date
+Client: Walmart
+
+Project Description: Managing large scale data of Online Grocery of Walmart U.S. and building dashboards for analyzing
+different Key Performance Indicators.
+
+Responsibilities:
+Building data pipeline and ETL flow to load historical and incremental business data from different
+source systems like Oracle, MySQL to target tables in Teradata.
+Writing HiveQL to load data consumed from Kafka to Hive tables.
+Writing proper logic and implementing in Teradata SQL to derive different metrics.
+Developing Tableau Dashboards to report different Key Performance Indicators as required by
+business managers.
+Scheduling Teradata and Hive scripts by Automic tool for batch processing.
+Analyzing and fixing any mismatch in Financial, Operational and Customer Satisfaction related
+metrics.
+
+
+https://freesearch.naukri.com/preview/printResume?uname=d19   343585c09211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681700
+2/2/20 23&amp;16
+
+
+?	Communicating across different teams to ensure meeting SLA of batch.
+?	Deputed in client location (Walmart Global Technology Services, Bangalore).
+
+
+I am currently serving Notice Period.
+
+
+Education
+UG: B.Tech/B.E. (Electronics/Telecommunication) from MAULANA ABUL KALAM AZAD UNIVERSITY OF TECHNOLOGY,
+WEST BENGAL in 2017
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Teradata	2020	2 Year(s)
+
+TABLEAU	2020	2 Year(s)
+
+ETL	2020	2 Year(s)
+
+DATA WAREHOUSING	2020	2 Year(s)
+
+REPORTING	2020	2 Year(s)
+
+SQL	2020	2 Year(s)
+
+HIVE	2020	1 Year(s) 6 Month(s)
+
+JIRA	2020	2 Year(s)
+
+MS OFFICE	2020	2 Year(s)
+
+Automic	2020	2 Year(s)
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Proficient
+
+Bengali	Proficient
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Countries: India
+Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=d19   343585c09211d4e58485f0f1207006&amp;sid=3810263223&amp;AT=1580681700
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Bengaluru / Bangalore</sov:CurrentLocation>
+				<sov:PreferredLocation>Bengaluru / Bangalore</sov:PreferredLocation>
+				<sov:WillingToRelocate>No</sov:WillingToRelocate>
+				<sov:VisaStatus>Physically Challenged: No</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Arpan Konar's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Purchasing, Procurement, Inventory Control, Supply Chain (mostly Logistics). Arpan Konar's experience appears to be lower-to-mid level, with about 2 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>25</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>25</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>85</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="68">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="21" percentOfParentTaxonomy="31">
+								<sov:Skill name="APACHE HADOOP HDFS" id="5530709" existsInText="false">
+									<sov:ChildSkill name="HDFS" id="553070902" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="ETL" id="5530987" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="HADOOP" id="5530761" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="INFORMATICA" id="5530776" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="KAFKA" id="5531005" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TERADATA" id="5530864" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="13" percentOfParentTaxonomy="19">
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="11" percentOfParentTaxonomy="16">
+								<sov:Skill name="INFORMATICA" id="5540928" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false" childrenTotalMonths="25" childrenLastUsed="2020-03-05">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="TERADATA" id="5540987" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Middleware and Integration" id="345" percentOfOverall="10" percentOfParentTaxonomy="14">
+								<sov:Skill name="ETL" id="016965" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="POWERCENTER" id="005242" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="6" percentOfParentTaxonomy="8">
+								<sov:Skill name="Hadoop" id="1004744" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HDFS" id="1004748" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Hive" id="1004749" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mainframe" id="197" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="TERADATA" id="026472" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA WAREHOUSING" id="015020" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="UNIX" id="5551207" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MS OFFICE" id="022137" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="JOB SCHEDULING" id="020329" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="INFORMATICA" id="019770" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="UNIX" id="01026309" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="5">
+							<sov:Subtaxonomy name="Logistics" id="460" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="SCHEDULING" id="022740" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="5">
+							<sov:Subtaxonomy name="Planning" id="208" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="SCHEDULING" id="022739" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="5">
+							<sov:Subtaxonomy name="Other" id="263" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="PROJECT ENGINEER" id="022592" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="3">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="3" percentOfParentTaxonomy="86">
+								<sov:Skill name="METRICS" id="021737" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="14">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="012210" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="3">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="RETAIL" id="030018" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SATISFACTION" id="030000" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Scientific" id="15" percentOfOverall="3">
+							<sov:Subtaxonomy name="Pharma" id="372" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="BATCH PROCESSING" id="010547" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Transmission &amp; Distribution" id="45" percentOfOverall="3">
+							<sov:Subtaxonomy name="Transmission" id="326" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="PIPELINE" id="004805" existsInText="true" totalMonths="25" lastUsed="2020-03-05" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="1">
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="1">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="1" percentOfParentTaxonomy="58">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="HADOOP" id="1400328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="1" percentOfParentTaxonomy="42">
+								<sov:Skill name="RETAIL MARKETING" id="1400215" existsInText="false">
+									<sov:ChildSkill name="RETAIL" id="1400216" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="1">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="false">
+									<sov:ChildSkill name="MS OFFICE" id="022136" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="0">
+							<sov:Subtaxonomy name="Skilled" id="323" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TELECOMMUNICATION" id="022284" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PERFORMANCE TUNING" id="004550" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="34" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="35" ends="65" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="66" ends="70" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="71" ends="94" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="95" ends="112" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Arpan Konar</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=d19</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Work Authorization
+Physically Challenged: No</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Pref. Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>3369</sov:ParsedTextLength>
+			<sov:ParseTime>328</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:273b4f9a-bb21-4f4e-998b-c68437b5c72a</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>F00CAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

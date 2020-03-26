@@ -1,0 +1,524 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "Gurgaon"
+              ],
+              "Municipality": "Noida"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "To secure a position where I can efficiently contribute my skills, gain experience and willingness to learn in making organization\r\nsuccessful.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Online University Admission System",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Online University Admission System"
+                },
+                "Description": "Onsite / Offsite: Onsite",
+                "StartDate": {
+                  "YearMonth": "2018-09"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Online University Admission System"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Online University Admission System"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "IIMT Engineering College"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "UTTAR PRADESH"
+              ],
+              "Municipality": "Meerut"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science and Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Computer Science and Engineering) from IIMT Engineering College, Meerut in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "IIMT Engineering College"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "java certificate",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Fresher, Software Development, Application Designing, Process Improvement, HTML, CSS, Core\r\nJava, Oracle, JavaScript, C, OOPS, Data Structures, multithreding, collections, Algorithm\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 1-Feb-20\tLast Modified: 1-Feb-20\r\nbb0df58a70bc4a529808183106e8c32a\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nHTML, CSS, C, Java Core, Java advance\t2019\t0 Year(s) 6 Month(s)\r\n\r\nMS Word, MS paint, MS power point\t2018\t0 Year(s) 3 Month(s)\r\n\r\nOracle DB.\t11\t2018\t0 Year(s) 6 Month(s)\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     c0c5042120f1906144746550e56486&sid=3810263223&AT=1580666279\r\n2/2/20 19'04"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'04\r\n\r\n\r\n   ~~~~~~  \r\n\r\n\r\nFresher seeking roles in Software Development, java development, Application\r\nDesigning, Process Improvement, HTML, CSS, Core Java, Advance\r\njava, Oracle, JavaScript, C\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~  \tTotal Experience:    ~~~~~~~~~~~~~~~  \r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \tHighest Degree: B-tech [computer science engineering]\r\nFunctional Area: IT Software - Application Programming /\r\nMaintenance\r\nRole: Fresher\r\nIndustry: Fresher/Trainee\r\n   ~~~~~~~~~~~~~~~~~  /unmarried\r\nKey Skills: Fresher, Software Development, Application Designing, Process Improvement, HTML, CSS, Core\r\nJava, Oracle, JavaScript, C, OOPS, Data Structures, multithreding, collections, Algorithm\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 1-Feb-20\tLast Modified: 1-Feb-20\r\nbb0df58a70bc4a529808183106e8c32a\r\n\r\n\r\nSummary\r\nTo secure a position where I can efficiently contribute my skills, gain experience and willingness to learn in making organization\r\nsuccessful.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Computer Science and Engineering) from IIMT Engineering College, Meerut in 2019\r\n\r\nPG: B-tech (computer science engineering) in 0\r\n\r\nOther Qualifications/Certifications/Programs:\r\njava certificate\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nHTML, CSS, C, Java Core, Java advance\t2019\t0 Year(s) 6 Month(s)\r\n\r\nMS Word, MS paint, MS power point\t2018\t0 Year(s) 3 Month(s)\r\n\r\nOracle DB.\t11\t2018\t0 Year(s) 6 Month(s)\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     c0c5042120f1906144746550e56486&sid=3810263223&AT=1580666279\r\n2/2/20 19'04\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\nBhojpuri\r\n\r\n\r\nProjects\r\nProject Title: Online University Admission System\r\nClient: college project\r\nNature of Employment: Full Time\tDuration: Sep 2018 - Jan 2019\r\nOnsite / Offsite: Onsite\r\nProject Details: This is a web application and its working to token based. this sites are provide to one exams and this exams\r\nare qualified to any students then one token id are provide and this students are eligible to joins college through available\r\nuniversity.all students are checked available to proper branches through seats and available seats are booked.\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\nCategory: OBC - non-creamy\tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     c0c5042120f1906144746550e56486&sid=3810263223&AT=1580666279\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in Common End-user Software (mostly Core Office).    ~~~~~~  's experience appears to be entry level, with 4 months of experience.",
+          "sov:MonthsOfWorkExperience": "4",
+          "sov:AverageMonthsPerEmployer": "4",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "49",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "25",
+                        "@percentOfParentTaxonomy": "51",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "18",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "15",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "15",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT WORD",
+                            "@id": "022961",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS WORD",
+                                "@id": "003106",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "WORD",
+                                "@id": "002379",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022229",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "COLLECTIONS",
+                                "@id": "013782",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESS IMPROVEMENT",
+                            "@id": "005521",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "18",
+              "@ends": "27",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "28",
+              "@ends": "32",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "33",
+              "@ends": "37",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "38",
+              "@ends": "41",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Qualifications/Certifications/Programs:"
+            },
+            {
+              "@starts": "42",
+              "@ends": "55",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "56",
+              "@ends": "65",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            },
+            {
+              "@starts": "66",
+              "@ends": "70",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Projects"
+            },
+            {
+              "@starts": "71",
+              "@ends": "82",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Project Details"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "2428",
+        "sov:ParseTime": "328",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS,WORK HISTORY] The following section types appear multiple times in the resume: SKILLS (2 occurrences), WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.",
+                    "[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,3,7] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:', 'Project Details'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:44bf01f9-905f-4f9a-bdf9-105a0a6c78a0",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "WBMAAAAAAAA="
+      }
+    }
+  }
+}

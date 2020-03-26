@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>ANAND MOHAN</FormattedName>
+				<GivenName>ANAND</GivenName>
+				<FamilyName>MOHAN</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Gurgaon</Region>
+					<Municipality>Delhi</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Noida</AddressLine>
+						<AddressLine>MCA [Computer Science]</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>A focused professional in Software Development, Application Development, Application Programming, IT Project
+Management, Requirement Gathering, System Integration, Change Management, CORE JAVA</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>fresher as Fresher
+N/A to Till Date
+i am fresher 2019 pass out. i have post graduated in MCA</Description>
+					<StartDate>
+						<AnyDate>notKnown</AnyDate>
+					</StartDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>galgotias college of engineering and technology</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: MCA (Computers) from galgotias college of engineering and technology, greater noida in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>galgotias college of engineering and technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>galgotias college of engineering and technology</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG</DegreeName>
+					<DegreeDate>
+						<Year>2019</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2019</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Post PG: MCA (Computer Science) from galgotias college of engineering and technology, greater noida in 2019</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>galgotias college of engineering and technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>HNB Garhwal University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>BCA</DegreeName>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: BCA (Computers) from HNB Garhwal University (HNBGU) in 2016</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>HNB Garhwal University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: mysql, html, c++, data structures, oop, cloud computing, core java, eclipse ide
+
+Verified: Phone Number |	Email - id
+
+
+ID: 74de6c753d4e083342	Last Active: 30-Jan-20	Last Modified: 30-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+CORE JAVA	2019	2 Year(s)
+
+HTML	5	2019	5 Year(s)
+
+C++	2019	5 Year(s)
+
+MySQL
+
+OOPS
+
+Data Structures</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'04
+
+
+ANAND MOHAN
+
+
+Seeking Roles in Software Development, Application Development, Application
+Programming, IT Project Management, Requirement Gathering, System
+Integration, Change Management, CORE JAVA
+
+
+Current Designation: Fresher	Total Experience: 0 Year(s) 0 Month(s)
+Current Company: fresher	Notice Period: 15 Days or less
+Current Location: Noida	Highest Degree: MCA [Computer Science]
+Pref. Location: Delhi / NCR, Gurgaon
+Functional Area: IT Software - Application Programming /
+Maintenance
+Role: Fresher
+Industry: Fresher/Trainee
+Marital Status: Single/unmarried
+Key Skills: mysql, html, c++, data structures, oop, cloud computing, core java, eclipse ide
+
+Verified: Phone Number |	Email - id
+
+
+ID: 74de6c753d4e083342	Last Active: 30-Jan-20	Last Modified: 30-Jan-20
+
+
+Summary
+A focused professional in Software Development, Application Development, Application Programming, IT Project
+Management, Requirement Gathering, System Integration, Change Management, CORE JAVA
+
+
+Work Experience
+fresher as Fresher
+N/A to Till Date
+i am fresher 2019 pass out. i have post graduated in MCA
+
+
+Education
+UG: BCA (Computers) from HNB Garhwal University (HNBGU) in 2016
+
+PG: MCA (Computers) from galgotias college of engineering and technology, greater noida in 2019
+
+Post PG: MCA (Computer Science) from galgotias college of engineering and technology, greater noida in 2019
+
+Other Qualifications/Certifications/Programs:
+core java certification
+
+https://freesearch.naukri.com/preview/printResume?uname=3ca   257105b5b79061742504d1d421e056&amp;sid=3810263223&amp;AT=1580666281
+2/2/20 19'04
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+CORE JAVA	2019	2 Year(s)
+
+HTML	5	2019	5 Year(s)
+
+C++	2019	5 Year(s)
+
+MySQL
+
+OOPS
+
+Data Structures
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Proficient
+
+
+Projects
+Project Title: INDIA TRIP
+Client: NONE
+Nature of Employment: Full Time	Duration: Jan 2019 - Apr 2019
+Role: Programmer	Onsite / Offsite: Offsite
+Team Size: 2
+Skill Used: Java, Html5, MySQL
+Project Details: I MADE A WEBSITE WHERE YOU CAN NOW MAKE HOTEL BOOKING ON THE GO.TO BOOK HOTEL
+ONLINE ALL YOU HAVE TO DO IS SIMPLE LOGON TON THE INDIA TRIP WEBSITE
+
+
+Affirmative Action	Work Authorization
+Category: General	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=3ca   257105b5b79061742504d1d421e056&amp;sid=3810263223&amp;AT=1580666281
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Noida</sov:CurrentLocation>
+				<sov:PreferredLocation>Delhi / NCR, Gurgaon</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Category: General</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>ANAND MOHAN's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Human Resources (mostly Diversity &amp; Inclusion). ANAND MOHAN's experience appears to be entry level, with 0 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>0</sov:MonthsOfWorkExperience>
+				<sov:FulltimeDirectHirePredictiveIndex>0</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="75">
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="31" percentOfParentTaxonomy="41">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in CERTIFICATIONS; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="20" percentOfParentTaxonomy="27">
+								<sov:Skill name="APPLICATION DEVELOPMENT" id="021556" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="APPLICATION PROGRAMMING" id="021658" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SYSTEM INTEGRATION" id="009089" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="9" percentOfParentTaxonomy="13">
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="HTML5" id="5520541" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="DATA STRUCTURES" id="6180000" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="CHANGE MANAGEMENT" id="022159" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="REQUIREMENT GATHERING" id="006830" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="16">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="5" percentOfParentTaxonomy="32">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="5" percentOfParentTaxonomy="32">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Organization Development" id="581" percentOfOverall="3" percentOfParentTaxonomy="18">
+								<sov:Skill name="CHANGE MANAGEMENT" id="9000213" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Management" id="579" percentOfOverall="3" percentOfParentTaxonomy="18">
+								<sov:Skill name="CHANGE MANAGEMENT" id="9000169" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="6">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="6" percentOfParentTaxonomy="100">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="3">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2016-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="27" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="28" ends="32" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="33" ends="38" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="39" ends="45" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="46" ends="52" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="53" ends="68" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="69" ends="76" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="77" ends="94" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>ANAND MOHAN</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=3ca</sov:Url>
+					<sov:Url>GO.TO</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Work Authorization
+Category: General</sov:OtherDatum>
+					<sov:OtherDatum>Pref. Location: Delhi / NCR, Gurgaon</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Noida</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>2455</sov:ParsedTextLength>
+			<sov:ParseTime>343</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;5,7] Each of the following sections in the resume contain more content than the work history and education sections combined: 'IT Skills', 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.</sov:Information>
+							<sov:Information>[Sovren:224;POS-1] The following work history position does not have a start date: POS-1. Every position in a resume should have a start date.</sov:Information>
+							<sov:Information>[Sovren:225;POS-1] The following work history position does not have an end date: POS-1. Every position in a resume should have an end date, unless it is a currently held position.</sov:Information>
+							<sov:Information>[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:0c624626-3902-4641-89e9-834ce0c80938</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>STH9//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

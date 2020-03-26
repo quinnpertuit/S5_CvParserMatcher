@@ -1,0 +1,839 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bengaluru"
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "A focused professional offering 1 + years of experience in Business Analysis, Data Analysis, Big Data Analytics, Business\r\nConsulting, Regression Analysis, Customer Segmentation, Dashboard Generation, User Stories, MS\r\nExcel, R, Python, Tableau, Hive, Spark, GCP, HDFS, YARN, SQL..",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Tredence Analytics Services and Solutions Company",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Business Analyst - Data Analysis",
+                "OrgName": {
+                  "OrganizationName": "Tredence Analytics Services and Solutions Company"
+                },
+                "Description": "Performed customer segmentation and profiling (One Time Shoppers vs Repeat Shoppers as well as High/Medium/Low valued).\r\nIdentified customer pre-purchase browsing behavior to assist the marketing team to target potential High Value Repeat\r\ncustomers.\r\nWorked on measuring various campaign effectiveness by measuring conversions through campaigns based on 3-day last\r\ntouch method.\r\nAnalyzed conversions through various marketing vehicles within category and cross category.\r\nPerformed Sequential Analysis on a combination of categories to find their order of purchase in a Customer life cycle.\r\nWorked on data warehousing for a campaign performance dashboard for Email campaigns and push notifications.\r\nWorked on classification of campaigns into various segments to see high and low performing segments.\r\nWorked on optimizing existing data pipelines for existing production dashboard.\r\nWorked on scheduling of jobs and automating data pipelines using shell scripting.\r\nAlso added various quality check points in the data pipelines for smooth functioning and detection of errors.\r\nWorked on migration of data pipelines from on premise clusters to Google Cloud Platform and Big Query.\r\nMaintained a production Tableau Dashboard and also made various changes to it when required\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     240021345280a5400134f17425c4c6&sid=3810263223&AT=1580666737\r\n2/2/20 19'07\r\n\r\n\r\nAutomated a process for Daily reporting of various KPI's using R and Excel.",
+                "StartDate": {
+                  "YearMonth": "2018-08"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Business Intelligence",
+                    "Comments": "Information Technology describes 51% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Tredence Analytics Services and Solutions Company",
+                    "sov:NormalizedTitle": "Business Analyst Data Analysis",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Business Analyst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Tredence Analytics Services and Solutions Company"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "national institute of technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech/B.E.",
+                "DegreeDate": {
+                  "Year": "2018"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Ceramics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2018"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.Tech/B.E. (Ceramics) from national institute of technology, rourkela in 2018",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "national institute of technology"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: business analysis, data analysis, big data analytics, regression analysis, customer segmentation, dashboard\r\ngeneration, ms excel, r, python, tableau, hive, spark, gcp, hdfs, yarn, sql, retail analytics, data warehousing, Google cloud platform\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 30-Jan-20\tLast Modified: 28-Jan-20\r\nf527dc78b45043eb91c15df44b3d0dc9\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMS EXCEL\r\n\r\nSQL\r\n\r\nR\r\n\r\nPython\r\n\r\nTableau, R Shiny\r\n\r\nAdobe Analytics\r\n\r\nHDFS, YARN, Hive, Spark\r\n\r\nMapReduce\r\n\r\nGCP, Data proc, Airflow, Big Query"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          }
+        ]
+      },
+      "RevisionDate": "2020-02-03"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 19'07\r\n\r\n\r\n   ~~~~~~~~~~~~  \r\n\r\n\r\nBusiness Analyst seeking roles in Business Analysis, Data Analysis, Big Data\r\nAnalytics, Business Consulting, Regression Analysis, Customer\r\nSegmentation, Dashboard Generation, User Stories, MS\r\nExcel, R, Python, Tableau, Hive, Spark, GCP, HDFS, YARN, SQL.\r\n\r\n\r\nCurrent Designation: Business Analyst - Data Analysis\tTotal Experience: 1 Year(s) 5 Month(s)\r\nCurrent Company: Tredence Analytics Services and Solutions\tNotice Period: Currently Serving Notice Period\r\nCompany\r\nHighest Degree: B.Tech/B.E. [Ceramics]\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  \r\nFunctional Area: Analytics & Business Intelligence\r\nRole: Business Analyst\r\nIndustry: KPO / Research /Analytics\r\nKey Skills: business analysis, data analysis, big data analytics, regression analysis, customer segmentation, dashboard\r\ngeneration, ms excel, r, python, tableau, hive, spark, gcp, hdfs, yarn, sql, retail analytics, data warehousing, Google cloud platform\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 30-Jan-20\tLast Modified: 28-Jan-20\r\nf527dc78b45043eb91c15df44b3d0dc9\r\n\r\n\r\nSummary\r\nA focused professional offering 1 + years of experience in Business Analysis, Data Analysis, Big Data Analytics, Business\r\nConsulting, Regression Analysis, Customer Segmentation, Dashboard Generation, User Stories, MS\r\nExcel, R, Python, Tableau, Hive, Spark, GCP, HDFS, YARN, SQL..\r\n\r\n\r\nWork Experience\r\nTredence Analytics Services and Solutions Company as Business Analyst - Data Analysis\r\nAug 2018 to Till Date\r\nPerformed customer segmentation and profiling (One Time Shoppers vs Repeat Shoppers as well as High/Medium/Low\r\nvalued).\r\nIdentified customer pre-purchase browsing behavior to assist the marketing team to target potential High Value Repeat\r\ncustomers.\r\nWorked on measuring various campaign effectiveness by measuring conversions through campaigns based on 3-day last\r\ntouch method.\r\nAnalyzed conversions through various marketing vehicles within category and cross category.\r\nPerformed Sequential Analysis on a combination of categories to find their order of purchase in a Customer life cycle.\r\nWorked on data warehousing for a campaign performance dashboard for Email campaigns and push notifications.\r\nWorked on classification of campaigns into various segments to see high and low performing segments.\r\nWorked on optimizing existing data pipelines for existing production dashboard.\r\nWorked on scheduling of jobs and automating data pipelines using shell scripting.\r\nAlso added various quality check points in the data pipelines for smooth functioning and detection of errors.\r\nWorked on migration of data pipelines from on premise clusters to Google Cloud Platform and Big Query.\r\nMaintained a production Tableau Dashboard and also made various changes to it when required\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     240021345280a5400134f17425c4c6&sid=3810263223&AT=1580666737\r\n2/2/20 19'07\r\n\r\n\r\nAutomated a process for Daily reporting of various KPI's using R and Excel.\r\n\r\n\r\nEducation\r\nUG: B.Tech/B.E. (Ceramics) from national institute of technology, rourkela in 2018\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMS EXCEL\r\n\r\nSQL\r\n\r\nR\r\n\r\nPython\r\n\r\nTableau, R Shiny\r\n\r\nAdobe Analytics\r\n\r\nHDFS, YARN, Hive, Spark\r\n\r\nMapReduce\r\n\r\nGCP, Data proc, Airflow, Big Query\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\nOdia\r\n\r\n\r\nAffirmative Action\t   ~~~~~~~~~~~~~~~\r\n~~~~~~~~~~~~~~~  \tJob Type: Permanent\r\nPhysically Challenged: No\tEmployment Status: Full time\r\n\r\n\r\n   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     40021345280a5400134f17425c4c6&sid=3810263223&AT=1580666737\r\nde 2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "   ~~~~~~~~~~~~  's experience appears to be mostly concentrated in Information Technology (mostly Database) and somewhat concentrated in Marketing (mostly Data & Analytics).    ~~~~~~~~~~~~  's experience appears to be entry level, with 18 months of experience.",
+          "sov:MonthsOfWorkExperience": "18",
+          "sov:AverageMonthsPerEmployer": "18",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "46",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "TABLEAU SOFTWARE",
+                            "@id": "5540985",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "18",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TABLEAU",
+                                "@id": "55409852",
+                                "@existsInText": "true",
+                                "@totalMonths": "18",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA WAREHOUSING",
+                            "@id": "015020",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "HDFS",
+                            "@id": "1004748",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "Hive",
+                            "@id": "1004749",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MapReduce",
+                            "@id": "1004750",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "SCRIPTING",
+                            "@id": "024873",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SHINY",
+                            "@id": "3391157",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE HADOOP HDFS",
+                            "@id": "5530709",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HDFS",
+                                "@id": "553070902",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "APACHE HADOOP MAPREDUCE",
+                            "@id": "5530712",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MAPREDUCE",
+                                "@id": "553071202",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "BIG DATA ANALYTICS",
+                            "@id": "5530909",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "LIFE CYCLE",
+                            "@id": "022707",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "SHELL SCRIPTING",
+                            "@id": "007925",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REGRESSION ANALYSIS",
+                            "@id": "7200135",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "27",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "44",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "18",
+                            "@childrenLastUsed": "2020-02-03",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@totalMonths": "18",
+                                "@lastUsed": "2020-02-03",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Channel, Partner & Ecosystem Marketing",
+                        "@id": "590",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "41",
+                        "sov:Skill": [
+                          {
+                            "@name": "SEGMENTATION",
+                            "@id": "1400105",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Channel Management",
+                        "@id": "226",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "RETAIL MARKETING",
+                            "@id": "1400215",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RETAIL",
+                                "@id": "1400216",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS EXCEL",
+                                "@id": "002864",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "86",
+                        "sov:Skill": [
+                          {
+                            "@name": "LIFE CYCLE",
+                            "@id": "020748",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "LIFE CYCLE",
+                            "@id": "020750",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial",
+                        "@id": "137",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "CERAMICS",
+                            "@id": "012902",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCHEDULING",
+                            "@id": "022740",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Planning",
+                        "@id": "208",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCHEDULING",
+                            "@id": "022739",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2020-02-03",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Scientific",
+                    "@id": "15",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Chemical",
+                        "@id": "377",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "GCP",
+                            "@id": "018186",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Clinical",
+                    "@id": "28",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "277",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "GCP",
+                            "@id": "018185",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "User Research",
+                        "@id": "558",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "USER STORIES",
+                            "@id": "5570004",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "21",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "36",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "37",
+              "@ends": "62",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "63",
+              "@ends": "66",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "67",
+              "@ends": "88",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "89",
+              "@ends": "105",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ParsedTextLength": "3633",
+        "sov:ParseTime": "234",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:025acc9c-b652-4f9e-8911-7d0e620eb0cd",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.10.0",
+        "sov:DigitalSignature": "nQ4AAAAAAAA="
+      }
+    }
+  }
+}

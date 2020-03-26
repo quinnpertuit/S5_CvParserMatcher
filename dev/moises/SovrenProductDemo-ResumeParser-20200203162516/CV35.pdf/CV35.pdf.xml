@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Seethi Mukula</FormattedName>
+				<GivenName>Seethi</GivenName>
+				<FamilyName>Mukula</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Functional Area: Analytics &amp; Business Intelligence</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Accomplished and results-driven IT professional with over one and half year of working experience as a Data Scientist with
+expertise in MachineLearning, DataMining, DataAnalysis, DeepLearning, Computer Vision and BigDataTechnologies.
+Comprehensive experience in working with large datasets of Structured and Unstructured data.Good Communication,
+Management and Organizational skills with stakeholder friendly and goal oriented winning attitude.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>AI Droid</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Scientist</Title>
+					<OrgName>
+						<OrganizationName>AI Droid</OrganizationName>
+					</OrgName>
+					<Description>Responsibilities:
+* Experience in working with Computer Vision projects, building models using MobileNet, ImageNet classifiers using
+Caffe framework.
+* Experience in developing a live Face-Recognition model using Google's Facenet.
+* Experience in developing image instance segmentation models using DeepLab and MaskRCNN for different kinds of problem statements.
+* Hands on experience in using Open CV for image data preparation. Experience in applying object detection models
+like Mask R-CNN, YOLO, MobileNet.
+* Experience in working with grayscale and color images while preparing the data</Description>
+					<StartDate>
+						<YearMonth>2019-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Marketing → Channel, Partner &amp; Ecosystem Marketing</CategoryCode>
+						<Comments>Marketing describes 50% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="X">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>AI Droid</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Scientist</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>AI Droid</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Cognerium Robotic Labs</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Data Scientist</Title>
+					<OrgName>
+						<OrganizationName>Cognerium Robotic Labs</OrganizationName>
+					</OrgName>
+					<Description>https://freesearch.naukri.com/preview/printResume?uname=082   44574508280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580667059
+2/2/20 19'12
+
+
+Responsibilities:
+* Extensive experience in building robust Statistical Machine Learning and Deep Learning models to various business
+problems and generating data visualizations using Python.
+* Hands-on expertise with all MachineLearning Models and concepts such as Classification, Regression, Clustering,
+Ensemble techniques.
+* Expertised in Data preparation, Integration, Mining, Manipulation, Exploration, Feature Engineering, developing
+Models and improving the efficiency and accuracy by evaluating the model.
+* Working experience with Python Data Visualization Libraries like Matplotlib, Seaborn, Plotly, ggplot, Altair, Geoplotlib
+for plotting graphs like Scatter plots, Bar charts and Histograms, Line plots, pie charts, heat maps, time series, Box plots,
+Density plots and more.
+* Extensively utilized NumPy, SciPy, Pandas, RDDs and DataFrames in performing preprocessing and exploratory data
+analysis throughout the machine learning process. Efficient in writing and optimizing the code inPython.
+* Old hands on all python libraries used for data loading, feature extraction, data exploration, model building, evaluation
+and testing.
+* Experience on various applications using Python integrated IDEs such as Anaconda, Jupyter Notebook, Pyspark and Eclipse.
+* Hands-on Experience in various modern Programming and Query Languages like Python, JavaScript and experience
+in SQL, Hive.
+* Experience in building a product AML (Anti Money Laundering) using Machine Learning models, backend Django,
+frontend HTML, CSS, Bootstrap with HIVE Database.</Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 76% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Cognerium Robotic Labs</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Scientist</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Cognerium Robotic Labs</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Social Prachar</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Data Scientist</Title>
+					<OrgName>
+						<OrganizationName>Social Prachar</OrganizationName>
+					</OrgName>
+					<Description>Responsibilities:
+* Hands on experience in Data Analytics using Python, extensively utilized Pandas, NumPy.
+* Experience in building Machine Learning modelslike K-means Clustering, Linear Regression, Logistic Regression,
+Decision Trees, Random Forest on sample datasets.
+* Hands on all python libraries used for data loading, feature extraction, data exploration, model building, evaluation and testing.
+* Worked on deep learning and developed neural networks using TensorFlow in python.
+* Developed a CNN model for "Captcha Recognition"
+* Experience on various applications using Python IDE's Anaconda, Jupyter Notebook.</Description>
+					<StartDate>
+						<YearMonth>2018-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-05</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Machine Learning</CategoryCode>
+						<Comments>Information Technology describes 87% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="X">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Social Prachar</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Scientist</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Social Prachar</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Madanapalle Institute of Technology and Science</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Madanapalle</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Electronics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Electronics/Telecommunication) from Madanapalle Institute of Technology and Science in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Madanapalle Institute of Technology and Science</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Data Scientist, Data Analyst, Data Analysis, Data Mining, Data Management, Data Extraction, Deep
+Learning, Machine Learning, Quality Management, Performance Management, Client Servicing, Relationship
+Management, Python, MySQL, Hive, Eclipse, Java script, C
+
+Verified: Phone Number |	Email - id
+
+
+ID: 31e399883621a60064	Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+MYSQL, HIVE, HTML
+
+HDFS, Hive, Spark, PySpark
+
+Python, SQL, PL/SQL, C, Java script</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>te</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Telugu</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>ta</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Tamil</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 19'12
+
+
+Seethi Mukula
+
+
+Data Scientist seeking roles in Data Analysis, Data Mining, Data Management, Data
+Extraction, Deep Learning, Machine Learning, Quality Management, Performance
+Management, Client Servicing, Relationship
+Management, Python, MySQL, Hive, Eclipse, Java script, C
+
+
+Current Designation: Data Scientist	Total Experience: 1 Year(s) 6 Month(s)
+Current Company: AI Droid	Notice Period: Currently Serving Notice Period
+Current Location: Bengaluru / Bangalore	Highest Degree: B.Tech/B.E.
+[Electronics/Telecommunication]
+Pref. Location: Chennai, Hyderabad, Bengaluru / Bangalore
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: IT-Software/Software Services
+Marital Status: Single/unmarried
+Key Skills: Data Scientist, Data Analyst, Data Analysis, Data Mining, Data Management, Data Extraction, Deep
+Learning, Machine Learning, Quality Management, Performance Management, Client Servicing, Relationship
+Management, Python, MySQL, Hive, Eclipse, Java script, C
+
+Verified: Phone Number |	Email - id
+
+
+ID: 31e399883621a60064	Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+
+
+Summary
+Accomplished and results-driven IT professional with over one and half year of working experience as a Data Scientist with
+expertise in MachineLearning, DataMining, DataAnalysis, DeepLearning, Computer Vision and BigDataTechnologies.
+Comprehensive experience in working with large datasets of Structured and Unstructured data.Good Communication,
+Management and Organizational skills with stakeholder friendly and goal oriented winning attitude.
+
+
+Work Experience
+AI Droid as Data Scientist
+May 2019 to Till Date
+Responsibilities:
+* Experience in working with Computer Vision projects, building models using MobileNet, ImageNet classifiers using
+Caffe framework.
+* Experience in developing a live Face-Recognition model using Google's Facenet.
+* Experience in developing image instance segmentation models using DeepLab and
+MaskRCNN for different kinds of problem statements.
+* Hands on experience in using Open CV for image data preparation. Experience in applying object detection models
+like Mask R-CNN, YOLO, MobileNet.
+* Experience in working with grayscale and color images while preparing the data
+
+
+Cognerium Robotic Labs as Data Scientist
+Jun 2018 to Apr 2019
+
+
+https://freesearch.naukri.com/preview/printResume?uname=082   44574508280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580667059
+2/2/20 19'12
+
+
+Responsibilities:
+* Extensive experience in building robust Statistical Machine Learning and Deep Learning models to various business
+problems and generating data visualizations using Python.
+* Hands-on expertise with all MachineLearning Models and concepts such as Classification, Regression, Clustering,
+Ensemble techniques.
+* Expertised in Data preparation, Integration, Mining, Manipulation, Exploration, Feature Engineering, developing
+Models and improving the efficiency and accuracy by evaluating the model.
+* Working experience with Python Data Visualization Libraries like Matplotlib, Seaborn, Plotly, ggplot, Altair, Geoplotlib
+for plotting graphs like Scatter plots, Bar charts and Histograms, Line plots, pie charts, heat maps, time series, Box plots,
+Density plots and more.
+* Extensively utilized NumPy, SciPy, Pandas, RDDs and DataFrames in performing preprocessing and exploratory data
+analysis throughout the machine learning process. Efficient in writing and optimizing the code inPython.
+* Old hands on all python libraries used for data loading, feature extraction, data exploration, model building, evaluation
+and testing.
+* Experience on various applications using Python integrated IDEs such as Anaconda, Jupyter Notebook, Pyspark and
+Eclipse.
+* Hands-on Experience in various modern Programming and Query Languages like Python, JavaScript and experience
+in SQL, Hive.
+* Experience in building a product AML (Anti Money Laundering) using Machine Learning models, backend Django,
+frontend HTML, CSS, Bootstrap with HIVE Database.
+
+
+Social Prachar as Data Scientist
+Apr 2018 to May 2018
+Responsibilities:
+* Hands on experience in Data Analytics using Python, extensively utilized Pandas, NumPy.
+* Experience in building Machine Learning modelslike K-means Clustering, Linear Regression, Logistic Regression,
+Decision Trees, Random Forest on sample datasets.
+* Hands on all python libraries used for data loading, feature extraction, data exploration, model building, evaluation and
+testing.
+* Worked on deep learning and developed neural networks using TensorFlow in python.
+* Developed a CNN model for "Captcha Recognition"
+* Experience on various applications using Python IDE's Anaconda, Jupyter Notebook.
+
+
+Education
+UG: B.Tech/B.E. (Electronics/Telecommunication) from Madanapalle Institute of Technology and Science in 2018
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+MYSQL, HIVE, HTML
+
+HDFS, Hive, Spark, PySpark
+
+Python, SQL, PL/SQL, C, Java script
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English
+
+
+https://freesearch.naukri.com/preview/printResume?uname=082   44574508280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580667059
+2/2/20 19'12
+
+
+Hindi
+
+Telugu
+
+Tamil
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=082   44574508280a5400134f17425c4c6&amp;sid=3810263223&amp;AT=1580667059
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:MaritalStatus inferred="false">Single</sov:MaritalStatus>
+				<sov:CurrentLocation>Bengaluru / Bangalore</sov:CurrentLocation>
+				<sov:PreferredLocation>Chennai, Hyderabad, Bengaluru / Bangalore</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Physically Challenged: No</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Seethi Mukula's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in User Experience (mostly Web Design). Seethi Mukula's experience appears to be entry level, with 22 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>22</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>7</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="78">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="24" percentOfParentTaxonomy="31">
+								<sov:Skill name="DJANGO" id="3391160" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="HDFS" id="1004748" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Hive" id="1004749" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2" childrenTotalMonths="11" childrenLastUsed="2019-04-30">
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3" childrenTotalMonths="13" childrenLastUsed="2019-04-30">
+									<sov:ChildSkill name="MATPLOTLIB" id="3391120" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="NUMPY" id="3391118" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:ChildSkill>
+									<sov:ChildSkill name="PANDAS" id="3391116" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:ChildSkill>
+									<sov:ChildSkill name="PYSPARK" id="3391125" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="TENSORFLOW" id="3391117" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="15" percentOfParentTaxonomy="20">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DECISION TREES" id="7200017" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="DEEP LEARNING" id="7200018" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="K-MEANS" id="7200034" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="LINEAR REGRESSION" id="7200037" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="LOGISTIC REGRESSION" id="7200039" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="NEURAL NETWORKS" id="7200042" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="RANDOM FOREST" id="7200053" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="13" percentOfParentTaxonomy="17">
+								<sov:Skill name="APACHE HADOOP HDFS" id="5530709" existsInText="false">
+									<sov:ChildSkill name="HDFS" id="553070902" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="CLUSTERING" id="5530921" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="DATA MANAGEMENT" id="5530951" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DATASETS" id="5530959" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="UNSTRUCTURED DATA" id="5531073" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="6">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="11" childrenLastUsed="2019-04-30">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PL/SQL" id="004871" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="5" percentOfParentTaxonomy="6">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="CLUSTERING" id="5551333" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="CLUSTERING" id="3490022" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="CLUSTERING" id="013564" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DJANGO" id="5510043" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial" id="350" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="AML" id="018997" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="CSS" id="014705" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="10">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="2" percentOfParentTaxonomy="15">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="11" childrenLastUsed="2019-04-30">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Usability Design" id="563" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="HEAT MAPS" id="5570057" existsInText="true" totalMonths="11" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="3">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="2" percentOfParentTaxonomy="52">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel, Partner &amp; Ecosystem Marketing" id="590" percentOfOverall="1" percentOfParentTaxonomy="44">
+								<sov:Skill name="SEGMENTATION" id="1400105" existsInText="true" totalMonths="9" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="3">
+							<sov:Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="NEURAL" id="200040" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3" childrenTotalMonths="2" childrenLastUsed="2018-05-31">
+									<sov:ChildSkill name="NEURAL NETWORKS" id="200039" existsInText="true" totalMonths="2" lastUsed="2018-05-31" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Optical" id="141" percentOfOverall="3" percentOfParentTaxonomy="91">
+								<sov:Skill name="COMPUTER VISION" id="014117" existsInText="true" totalMonths="9" lastUsed="2020-02-03" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="ROBOTIC" id="080426" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Industrial" id="137" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="ROBOTIC" id="080863" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="3">
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXPLORATION" id="017070" existsInText="true" totalMonths="13" lastUsed="2019-04-30" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Talent Management" id="584" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="PERFORMANCE MANAGEMENT" id="9000269" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Management" id="579" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="PERFORMANCE MANAGEMENT" id="9000152" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="DATA EXTRACTION" id="9000117" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="0">
+							<sov:Subtaxonomy name="Attitude" id="528" percentOfOverall="0" percentOfParentTaxonomy="67">
+								<sov:Skill name="GOAL-ORIENTED" id="018483" existsInText="false">
+									<sov:ChildSkill name="GOAL ORIENTED" id="0184832" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Aptitudes" id="532" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="ORGANIZATIONAL SKILLS" id="022714" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="0">
+							<sov:Subtaxonomy name="Skilled" id="323" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TELECOMMUNICATION" id="022284" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="21" ends="30" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="31" ends="37" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="38" ends="94" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="95" ends="98" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="99" ends="108" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="109" ends="132" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Seethi Mukula</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=082</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Chennai, Hyderabad, Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Physically Challenged: No</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Bengaluru / Bangalore</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Single</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>5389</sov:ParsedTextLength>
+			<sov:ParseTime>421</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:221ca8f4-7871-481a-a077-65006d5f9bf1</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>PLEBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

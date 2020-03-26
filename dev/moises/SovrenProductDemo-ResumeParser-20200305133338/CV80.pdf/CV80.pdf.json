@@ -1,0 +1,1047 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Ashwin Deokule",
+          "GivenName": "Ashwin",
+          "FamilyName": "Deokule"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "15 Days or less",
+                  "MBA/PGDM [Marketing]"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "ExecutiveSummary": "A focused Marketing professional with 7 months of experience in the Marketing\r\nOperations, Digital Marketing\r\nPreviously associated with BigWin Infotech Private Ltd. (PaisaDukan.com) as\r\nManagement Trainee and performed activities related to Digital Marketing, Email\r\nCampaigns, Reporting and MIS Tracking\r\nFamiliar with the concepts of Search Engine Optimization (SEO), PPC,\r\nIntegrated Marketing and Data Analysis\r\nUnderstanding of marketing strategies and programs to achieve or exceed marketing\r\nobjectives, while keeping in line with market trends and driving initiatives for\r\nachieving business objectives\r\nSuccessfully rationalized and integrated all online assets through coordinating with a\r\ncross-functional team; made recommendations to senior managers\r\nExpertise in marketing plan execution, product promotion and implementation of\r\nbusiness strategies to accomplish the decided targets",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Bigwin Infotech private limited",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "@currentEmployer": "true",
+                "Title": "Management Trainee",
+                "OrgName": {
+                  "OrganizationName": "Bigwin Infotech private limited"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2019-04"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Bigwin Infotech",
+                    "sov:NormalizedTitle": "Management Trainee"
+                  }
+                }
+              },
+              {
+                "@positionType": "internship",
+                "Title": "Management Trainee",
+                "OrgName": {
+                  "OrganizationName": "BigWin Infotech Private Limited"
+                },
+                "Description": "https://freesearch.naukri.com/preview/printResume?uname=40c   55440416310f005808160d5a4e5e6&sid=3810263223&AT=1580681430\r\n2/2/20 23&12",
+                "StartDate": {
+                  "Year": "2012"
+                },
+                "EndDate": {
+                  "AnyDate": "2020-02-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "BigWin Infotech",
+                    "sov:NormalizedTitle": "Management Trainee"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Bigwin Infotech"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Digital Marketing Department",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Lead Generation, Calling & Operations",
+                "OrgName": {
+                  "OrganizationName": "Digital Marketing Department"
+                },
+                "Description": "including Database Email Marketing and Display\r\nAdvertising Campaign\r\nSupervised a team of 10 assistants with focus on managing Lead Generation, Calling & Operations\r\nMaintained partnerships with Digital Media Agencies, Portals, Vendors\r\nAnalyzed & approved loan application files and led disbursement and funding process in the organization\r\nLed various functions like social media, public relation efforts and content marketing\r\nDigital Marketing\r\nData Analysis\r\nSearch Engine\r\nOptimisation (SEO)\r\nSocial Media Campaigns\r\nEmail- Campaigns\r\nPPC\r\nSocial IMC\r\nIntegrated Marketing\r\nAdvertising\r\nCommunicator\r\nNegotiator\r\nCollaborator\r\nTeam Player\r\nFormulated reports on marketing campaign overall performance; tracked the activities of MIS investors and prepared\r\nmarket report on a daily basis\r\nCoordinated with experts in advertising and media to improve the marketing outcome",
+                "StartDate": {
+                  "YearMonth": "2019-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-10"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Marketing → Digital",
+                    "Comments": "Marketing describes 49% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BT",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NumberOfEmployeesSupervised": "10",
+                    "sov:NormalizedOrganizationName": "Digital Marketing Department",
+                    "sov:NormalizedTitle": "Lead Generation Calling AND Operations",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Lead Generation"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Digital Marketing Department"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Welingkar Institute of Management Development and Research"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "MBA/PGDM",
+                "DegreeDate": {
+                  "Year": "2019"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Marketing"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2019"
+                    }
+                  }
+                ],
+                "Comments": "PG: MBA/PGDM (Marketing) from Welingkar Institute of Management Development and Research (WIMDR) in 2019",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "MBA",
+                    "sov:NormalizedDegreeType": "MBA"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Welingkar Institute of Management Development and Research"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Nagpur University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Nagpur"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.B.A",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Management"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "UG: B.B.A/ B.M.S (Management) from Nagpur University in 2017",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Nagpur University"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Key Skills: Management Trainee, Display Marketing Executive, Digital Marketing, Business Development, Data\r\nAnalysis, Search Engine Optimization, Social Media Marketing, Campaign Management, Advertising, Market\r\nResearch, Online Marketing, Email Marketing, Lead Generation\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 1-Feb-20\r\nc6f8e521555842d98fb59c3ef6985282\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMicrosoft Office"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi"
+          },
+          {
+            "LanguageCode": "mr",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Marathi"
+          }
+        ]
+      },
+      "RevisionDate": "2020-03-05"
+    },
+    "NonXMLResume": {
+      "TextResume": "2/2/20 23&12\r\n\r\n\r\nAshwin Deokule\r\n\r\n\r\nManagement Trainee seeking roles in Digital Marketing, Business Development, Data\r\nAnalysis, Search Engine Optimization, Social Media Marketing, Campaign\r\nManagement, Advertising, Market Research, Online Marketing, Email Marketing, Lead\r\nGeneration\r\n\r\n\r\nCurrent Designation: Management Trainee\tTotal Experience: 1 Year(s) 0 Month(s)\r\nCurrent Company: Bigwin Infotech private limited\tNotice Period: 15 Days or less\r\nCurrent Location: Mumbai\tHighest Degree: MBA/PGDM [Marketing]\r\nPref. Location: Mumbai, Pune, Nasik\r\nFunctional Area: Marketing / Advertising / MR / PR\r\nRole: Display Marketing Executive\r\nIndustry: FMCG/Foods/Beverage\r\nMarital Status: Single/unmarried\r\nKey Skills: Management Trainee, Display Marketing Executive, Digital Marketing, Business Development, Data\r\nAnalysis, Search Engine Optimization, Social Media Marketing, Campaign Management, Advertising, Market\r\nResearch, Online Marketing, Email Marketing, Lead Generation\r\n\r\nVerified: Phone Number |\tEmail - id\r\n\r\n\r\nID: Last Active: 2-Feb-20\tLast Modified: 1-Feb-20\r\nc6f8e521555842d98fb59c3ef6985282\r\n\r\n\r\nSummary\r\nA focused Marketing professional with 7 months of experience in the Marketing\r\nOperations, Digital Marketing\r\nPreviously associated with BigWin Infotech Private Ltd. (PaisaDukan.com) as\r\nManagement Trainee and performed activities related to Digital Marketing, Email\r\nCampaigns, Reporting and MIS Tracking\r\nFamiliar with the concepts of Search Engine Optimization (SEO), PPC,\r\nIntegrated Marketing and Data Analysis\r\nUnderstanding of marketing strategies and programs to achieve or exceed marketing\r\nobjectives, while keeping in line with market trends and driving initiatives for\r\nachieving business objectives\r\nSuccessfully rationalized and integrated all online assets through coordinating with a\r\ncross-functional team; made recommendations to senior managers\r\nExpertise in marketing plan execution, product promotion and implementation of\r\nbusiness strategies to accomplish the decided targets\r\n\r\n\r\nWork Experience\r\nBigwin Infotech private limited as Management Trainee\r\nApr 2019 to Till Date\r\n\r\nBigWin Infotech Private Limited as Management Trainee\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=40c   55440416310f005808160d5a4e5e6&sid=3810263223&AT=1580681430\r\n2/2/20 23&12\r\n\r\n\r\nApr 2019 to Oct 2019\r\nKey Result Areas:\r\nDeveloped and administered all facets of the Digital Marketing Department including Database Email Marketing and\r\nDisplay\r\nAdvertising Campaign\r\nSupervised a team of 10 assistants with focus on managing Lead Generation, Calling & Operations\r\nMaintained partnerships with Digital Media Agencies, Portals, Vendors\r\nAnalyzed & approved loan application files and led disbursement and funding process in the organization\r\nLed various functions like social media, public relation efforts and content marketing\r\nDigital Marketing\r\nData Analysis\r\nSearch Engine\r\nOptimisation (SEO)\r\nSocial Media Campaigns\r\nEmail- Campaigns\r\nPPC\r\nSocial IMC\r\nIntegrated Marketing\r\nAdvertising\r\nCommunicator\r\nNegotiator\r\nCollaborator\r\nTeam Player\r\nFormulated reports on marketing campaign overall performance; tracked the activities of MIS investors and prepared\r\nmarket report\r\non a daily basis\r\nCoordinated with experts in advertising and media to improve the marketing outcome\r\n\r\n\r\nEducation\r\nUG: B.B.A/ B.M.S (Management) from Nagpur University in 2017\r\n\r\nPG: MBA/PGDM (Marketing) from Welingkar Institute of Management Development and Research (WIMDR) in 2019\r\n\r\n\r\nIT Skills\r\nSkill Name\tVersion Last Used\tExperience\r\n\r\nMicrosoft Office\r\n\r\n\r\nLanguages Known\r\nLanguage\tProficiency\tRead\tWrite\tSpeak\r\n\r\nEnglish\r\n\r\nHindi\r\n\r\nMarathi\r\n\r\n\r\nAffirmative Action\tWork Authorization\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=40c   55440416310f005808160d5a4e5e6&sid=3810263223&AT=1580681430\r\n2/2/20 23&12\r\n\r\n\r\nPhysically Challenged: No\tJob Type: Permanent\r\nEmployment Status: Full time\r\n\r\n\r\nhttps://freesearch.naukri.com/preview/printResume?uname=40c   55440416310f005808160d5a4e5e6&sid=3810263223&AT=1580681430\r\nde 3"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Single"
+          },
+          "sov:CurrentLocation": "Mumbai",
+          "sov:PreferredLocation": "Mumbai, Pune, Nasik",
+          "sov:WillingToRelocate": "Yes"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Ashwin Deokule's experience appears to be mostly concentrated in Marketing (mostly General) and slightly concentrated in Information Technology (mostly Internet). Ashwin Deokule has 7 years of work experience.",
+          "sov:MonthsOfWorkExperience": "87",
+          "sov:AverageMonthsPerEmployer": "43",
+          "sov:FulltimeDirectHirePredictiveIndex": "28",
+          "sov:MonthsOfManagementExperience": "6",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Starting on 4/1/2019, the candidate held the following low-level management position for 6 months:\r\n\tTitle: Lead Generation, Calling & Operations for Digital Marketing Department",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "59",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "23",
+                        "@percentOfParentTaxonomy": "39",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in EDUCATION; SKILLS; SUMMARY; WORK HISTORY; DEG-2; POS-3"
+                          },
+                          {
+                            "@name": "MARKETING DEPARTMENT",
+                            "@id": "021246",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Digital",
+                        "@id": "599",
+                        "@percentOfOverall": "14",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "DIGITAL MARKETING",
+                            "@id": "1400390",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "DIGITAL MEDIA",
+                            "@id": "1400261",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SEARCH ENGINE OPTIMIZATION",
+                            "@id": "1400234",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY",
+                            "@childrenTotalMonths": "6",
+                            "@childrenLastUsed": "2019-10-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SEO",
+                                "@id": "1400235",
+                                "@existsInText": "true",
+                                "@totalMonths": "6",
+                                "@lastUsed": "2019-10-01",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SOCIAL MEDIA MARKETING",
+                            "@id": "1400238",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Advertising",
+                        "@id": "595",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "DIGITAL CAMPAIGN",
+                            "@id": "1400380",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "6",
+                            "@childrenLastUsed": "2019-10-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DIGITAL MARKETING",
+                                "@id": "1400381",
+                                "@existsInText": "true",
+                                "@totalMonths": "6",
+                                "@lastUsed": "2019-10-01",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Marketing Communications",
+                        "@id": "592",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADVERTISING",
+                            "@id": "1400153",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "CAMPAIGN MANAGEMENT",
+                            "@id": "1400143",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MARKETING CAMPAIGN",
+                            "@id": "1400348",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "MARKETING PLAN",
+                            "@id": "1400146",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "6",
+                            "@childrenLastUsed": "2019-10-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@totalMonths": "6",
+                                "@lastUsed": "2019-10-01",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING CAMPAIGN",
+                            "@id": "1400308",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "MARKETING PLAN",
+                            "@id": "1400013",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET TRENDS",
+                            "@id": "1400325",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET TRENDS",
+                            "@id": "1400082",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Category Management",
+                        "@id": "587",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET TRENDS",
+                            "@id": "1400038",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Brand Management",
+                        "@id": "227",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "CAMPAIGN MANAGEMENT",
+                            "@id": "012543",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Direct",
+                        "@id": "222",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ONLINE MARKETING",
+                            "@id": "003814",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "14",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "51",
+                        "sov:Skill": [
+                          {
+                            "@name": "SEARCH ENGINE",
+                            "@id": "024268",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "6",
+                            "@childrenLastUsed": "2019-10-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "6",
+                                "@lastUsed": "2019-10-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023294",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "51",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS DEVELOPMENT",
+                            "@id": "023757",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "LEAD GENERATION",
+                            "@id": "081147",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Account Management",
+                        "@id": "104",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "49",
+                        "sov:Skill": [
+                          {
+                            "@name": "LEAD GENERATION",
+                            "@id": "081150",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MBA",
+                            "@id": "7000321",
+                            "@existsInText": "true",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "DISBURSEMENT",
+                            "@id": "015486",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM PLAYER",
+                            "@id": "026529",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Clinical",
+                    "@id": "28",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "277",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "FACETS",
+                            "@id": "025473",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Light Technical/Trades/Skilled Labor",
+                    "@id": "27",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "293",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "FACETS",
+                            "@id": "017119",
+                            "@existsInText": "true",
+                            "@totalMonths": "6",
+                            "@lastUsed": "2019-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "9000071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AFFIRMATIVE ACTION",
+                            "@id": "014620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in LANGUAGES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@lastUsed": "2017-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "20",
+              "@ends": "30",
+              "@sectionType": "SKILLS",
+              "#text": "Key Skills"
+            },
+            {
+              "@starts": "31",
+              "@ends": "47",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "48",
+              "@ends": "86",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "87",
+              "@ends": "92",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "93",
+              "@ends": "98",
+              "@sectionType": "SKILLS",
+              "#text": "IT Skills"
+            },
+            {
+              "@starts": "99",
+              "@ends": "120",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Names": {
+            "sov:Name": [
+              "Ashwin Deokule"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://freesearch.naukri.com/preview/printResume?uname=40c",
+              "PaisaDukan.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Pref. Location: Mumbai, Pune, Nasik",
+              "Current Location: Mumbai",
+              "Marital Status: Single",
+              "15 Days or less"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3938",
+        "sov:ParseTime": "375",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.",
+                    "[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:24c9bd50-0b18-47df-b392-89a7b3e19684",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.4.0.0",
+        "sov:DigitalSignature": "JaH///////8="
+      }
+    }
+  }
+}

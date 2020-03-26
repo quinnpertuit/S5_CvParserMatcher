@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Bangalore</Region>
+					<Municipality>Pune</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Total 2 years of working experience in Cloud Technologies, Big Data, Analytics &amp; Devops domain.
+? Working experience in Public Cloud platforms (Azure, GCP, Alibaba)
+? Experience in Azure Cloud platform and it's services (Azure VM, Virtual Machines Scale Sets, Azure
+Functions, Azure SQL Database, Azure Monitor, Virtual Network)
+? Experience with Microsoft Power Platform (Microsoft's PowerApps, Power Automate &amp; Power BI) and
+Microsoft Security tools (Microsoft Information Protection).
+? Experience in migrating applications from Data center to cloud which includes the transfer from on premise
+data center to the cloud.
+? Hadoop Development and Administration, Scripting, Solution Architecting and Designing experience
+? Working experience in REST API's
+? Experience in business analysis and requirements gathering, design and implementing solutions</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>HCL Infosystems Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>System Engineer</Title>
+					<OrgName>
+						<OrganizationName>HCL Infosystems Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>DELHI</Region>
+							<Municipality>New Delhi</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Project Office 365 Migration &amp; Microsoft Products Deployments
+Project Overview Involved in Migration of users to Office 365 cloud with deployment of various
+Microsoft Tools which includes Microsoft Teams, App developed on Power Platform.
+Period Oct 2018 - till date
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108584b1179465e401804435a0e176&amp;sid=3810263223&amp;AT=1580681849</Description>
+					<StartDate>
+						<YearMonth>2018-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Config Deploy Upgrade Migrate</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>HCL Infosystems</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>System Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory>
+					<Title>Business, Planner</Title>
+					<OrgName>
+						<OrganizationName>Technologies Microsoft Azure</OrganizationName>
+					</OrgName>
+					<Description>Microsoft Power Platforms(Power Apps, Power Bi, Power Automate)
+Tasks and Responsibilities
+Installing and Configuration of Azure VMs.
+Configuration of Azure AD Connect Server with Azure AD Pass through
+Authentication Agent Server.
+Microsoft Teams Deployment with in-built applications.
+Microsoft Information Protection deployment with its labels &amp; policies.
+Developed Canvas Visitor Management User's App on Microsoft's Power
+Platform using PowerApps &amp; Power Automate.
+Developed Model Driven Visitor management admin app on Power Apps.
+Developed flow models on Power Automate for Automatic process.
+Developed AI model for text recognition with Power Apps AI Builder.
+Configured Power BI tabs for SCCM data in Microsoft Teams.
+Power BI Reports Modeling
+Created end user SOP's of Office 365, Microsoft Teams, One Drive for
+Business, Planner, Yammer, Forms etc.</Description>
+					<StartDate>
+						<Year>2018</Year>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2020-02-02</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 92% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Technologies Microsoft Azure</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Business Planner</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>HCL Infosystems</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Centre for Development</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG Diploma</DegreeName>
+					<DegreeDate>
+						<Year>2018</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Centre for Development of Advanced Computing</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2018</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>PG: PG Diploma (Big Data Analytics) from Centre for Development of Advanced Computing in 2018</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Center for Development</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>ECHELON INSTITUTE OF TECHNOLOGY</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computers</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computers) from ECHELON INSTITUTE OF TECHNOLOGY in 2017</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>ECHELON INSTITUTE OF TECHNOLOGY</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Microsoft Azure Administrator AZ 103</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Microsoft Azure Fundamentals AZ 900</Name>
+				<Id>2</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Google Cloud Architecting (Google Learning)</Name>
+				<Id>3</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: system engineer, software developer, hadoop development, solution architecting, business analysis, data
+mining, python, java, r, c++, c, mysql, nosql, tableau, microsoft azure, google cloud platform, devops, cloud
+computing, Powerapps
+
+Verified: Phone Number |	Email - id
+
+
+ID: 542981ee6869f0bb96	Last Active: 2-Feb-20	Last Modified: 31-Jan-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft Azure, Google Cloud Platform	1 Year(s) 5 Month(s)
+
+Microsoft's PowerApps, Power BI	1 Year(s) 0 Month(s)
+
+WINDOWS, LINUX	1 Year(s) 0 Month(s)
+
+Python, Java, R, C++, C	1 Year(s) 0 Month(s)
+
+Mongodb, Mysql
+
+Hadoop, Apache Spark
+
+NoSQL
+
+Power BI, Tableau	1 Year(s) 0 Month(s)
+
+PowerApps Portal	1 Year(s) 0 Month(s)
+
+Office 365	1 Year(s) 5 Month(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Expert</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;18
+
+
+   ~~~~~~~~  
+
+
+System Engineer seeking roles in Microsoft Azure, GCP, Cloud Computing, Microsoft
+PowerPlatform, Powerapps, Software Development, Hadoop Development, Solution
+Architecting, BusinessAnalysis, Data Mining, Python, Java, R, C++, Power Bi, Devops
+
+
+Current Designation: System Engineer	Total Experience: 1 Year(s) 10 Month(s)
+Current Company: HCL Infosystems Ltd	Notice Period: 15 Days or less
+   ~~~~~~~~~~~~~~~~~~~~~~  	Highest Degree: PG Diploma [Big Data Analytics]
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+Functional Area: IT Software - Application Programming /
+Maintenance
+Role: Software Developer
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: system engineer, software developer, hadoop development, solution architecting, business analysis, data
+mining, python, java, r, c++, c, mysql, nosql, tableau, microsoft azure, google cloud platform, devops, cloud
+computing, Powerapps
+
+Verified: Phone Number |	Email - id
+
+
+ID: 542981ee6869f0bb96	Last Active: 2-Feb-20	Last Modified: 31-Jan-20
+
+
+Summary
+Total 2 years of working experience in Cloud Technologies, Big Data, Analytics &amp; Devops domain.
+? Working experience in Public Cloud platforms (Azure, GCP, Alibaba)
+? Experience in Azure Cloud platform and it's services (Azure VM, Virtual Machines Scale Sets, Azure
+Functions, Azure SQL Database, Azure Monitor, Virtual Network)
+? Experience with Microsoft Power Platform (Microsoft's PowerApps, Power Automate &amp; Power BI) and
+Microsoft Security tools (Microsoft Information Protection).
+? Experience in migrating applications from Data center to cloud which includes the transfer from on premise
+data center to the cloud.
+? Hadoop Development and Administration, Scripting, Solution Architecting and Designing experience
+? Working experience in REST API's
+? Experience in business analysis and requirements gathering, design and implementing solutions
+
+
+Work Experience
+HCL Infosystems Ltd as System Engineer
+Oct 2018 to Till Date
+Client JK Cement, New Delhi
+Project Office 365 Migration &amp; Microsoft Products Deployments
+Project Overview Involved in Migration of users to Office 365 cloud with deployment of various
+Microsoft Tools which includes Microsoft Teams, App developed on Power Platform.
+Period Oct 2018 - till date
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108584b1179465e401804435a0e176&amp;sid=3810263223&amp;AT=1580681849
+2/2/20 23&amp;18
+
+
+Technologies Microsoft Azure, Microsoft Power Platforms(Power Apps, Power Bi, Power
+Automate)
+Tasks and
+Responsibilities
+Installing and Configuration of Azure VMs.
+Configuration of Azure AD Connect Server with Azure AD Pass through
+Authentication Agent Server.
+Microsoft Teams Deployment with in-built applications.
+Microsoft Information Protection deployment with its labels &amp; policies.
+Developed Canvas Visitor Management User's App on Microsoft's Power
+Platform using PowerApps &amp; Power Automate.
+Developed Model Driven Visitor management admin app on Power Apps.
+Developed flow models on Power Automate for Automatic process.
+Developed AI model for text recognition with Power Apps AI Builder.
+Configured Power BI tabs for SCCM data in Microsoft Teams.
+Power BI Reports Modeling
+Created end user SOP's of Office 365, Microsoft Teams, One Drive for
+Business, Planner, Yammer, Forms etc.
+
+
+Education
+UG: B.Tech/B.E. (Computers) from ECHELON INSTITUTE OF TECHNOLOGY in 2017
+
+PG: PG Diploma (Big Data Analytics) from Centre for Development of Advanced Computing in 2018
+
+Other Qualifications/Certifications/Programs:
+Microsoft Azure Administrator AZ 103
+Microsoft Azure Fundamentals AZ 900
+Google Cloud Architecting (Google Learning)
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+Microsoft Azure, Google Cloud Platform	1 Year(s) 5 Month(s)
+
+Microsoft's PowerApps, Power BI	1 Year(s) 0 Month(s)
+
+WINDOWS, LINUX	1 Year(s) 0 Month(s)
+
+Python, Java, R, C++, C	1 Year(s) 0 Month(s)
+
+Mongodb, Mysql
+
+Hadoop, Apache Spark
+
+NoSQL
+
+Power BI, Tableau	1 Year(s) 0 Month(s)
+
+PowerApps Portal	1 Year(s) 0 Month(s)
+
+Office 365	1 Year(s) 5 Month(s)
+
+
+Languages Known
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108584b1179465e401804435a0e176&amp;sid=3810263223&amp;AT=1580681849
+2/2/20 23&amp;18
+
+
+Language	Proficiency	Read	Write	Speak
+
+English	Expert
+
+Hindi	Proficient
+
+
+Projects
+Project Title: Office 365 Migration
+Client: J K Cement
+Nature of Employment: Full Time	Duration: Dec 2018 - Till Date
+Project Location: New Delhi	Onsite / Offsite: Offsite
+Role: Domain Expert	Team Size: 9
+Skill Used: Microsoft Azure, Microsoft Power Platform, Office 365
+Project Details: Involved in Migration of users to Office 365 cloud with deployment of various Microsoft Tools which includes
+Microsoft Teams, App developed on Power Platform.
+
+Project Title: CryptoCurrency
+Client:    ~~~~~~~~~~~  
+Nature of Employment: Full Time	Duration: Sep 2017 - Feb 2018
+Project Location: Work From Home	Onsite / Offsite: Offsite
+Role: Database Architect/DBA	Team Size: 5
+Skill Used: MySQL, Data Analysis, Core Java, JDBC,
+Project Details: The system enables to get all the updated cryptocurrency data &amp;perform SQL queries.
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Countries: India
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     108584b1179465e401804435a0e176&amp;sid=3810263223&amp;AT=1580681849
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Config Deploy Upgrade Migrate) and slightly concentrated in Marketing (mostly Data &amp; Analytics).    ~~~~~~~~  's experience appears to be entry level, with 18 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>18</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>18</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="86">
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="30" percentOfParentTaxonomy="35">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" totalMonths="17" lastUsed="2020-03-05" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="27" percentOfParentTaxonomy="31">
+								<sov:Skill name="BIG DATA ANALYTICS" id="5530909" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="DATA CENTER" id="5530942" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="HADOOP" id="5530761" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="NOSQL" id="5530812" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="POWER BI" id="5531045" existsInText="true" totalMonths="13" lastUsed="2020-02-02" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="8" percentOfParentTaxonomy="9">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JDBC" id="020287" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SQL QUERIES" id="3404001" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mainframe" id="197" percentOfOverall="5" percentOfParentTaxonomy="6">
+								<sov:Skill name="VMS" id="010680" existsInText="true" totalMonths="13" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="5" percentOfParentTaxonomy="6">
+								<sov:Skill name="AUTHENTICATION" id="005912" existsInText="true" totalMonths="13" lastUsed="2020-02-02" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="4" percentOfParentTaxonomy="4">
+								<sov:Skill name="APACHE SPARK" id="3391146" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Hadoop" id="1004744" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MS SECURITY" id="025140" existsInText="false">
+									<sov:ChildSkill name="MICROSOFT SECURITY" id="022010" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SCRIPTING" id="024873" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA CENTER" id="024134" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DEV OPS" id="0146073" existsInText="false">
+									<sov:ChildSkill name="DEVOPS" id="0146074" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="REST" id="7180010" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="VIRTUAL MACHINE" id="7180107" existsInText="false">
+									<sov:ChildSkill name="VM" id="7180108" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="TABLEAU SOFTWARE" id="5540985" existsInText="false">
+									<sov:ChildSkill name="TABLEAU" id="55409852" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compiler &amp; Runtime" id="719" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="VIRTUAL MACHINE" id="7190065" existsInText="false">
+									<sov:ChildSkill name="VM" id="7190066" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="SECURITY" id="022110" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="VM" id="010677" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="9">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="9" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS INTELLIGENCE" id="1400080" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2020-02-02">
+									<sov:ChildSkill name="BI" id="1400081" existsInText="true" totalMonths="13" lastUsed="2020-02-02" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" lastUsed="2018-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="HADOOP" id="1400328" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="2">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS ANALYSIS" id="024469" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="BUSINESS REQUIREMENTS" id="022626" existsInText="false">
+									<sov:ChildSkill name="REQUIREMENTS GATHERING" id="006835" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="2">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="1">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" lastUsed="2017-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Scientific" id="15" percentOfOverall="0">
+							<sov:Subtaxonomy name="Chemical" id="377" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="GCP" id="018186" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Clinical" id="28" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="277" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="GCP" id="018185" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="20" ends="29" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="30" ends="43" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="44" ends="77" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="78" ends="82" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="83" ends="88" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="89" ends="112" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="113" ends="124" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="125" ends="151" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>5426</sov:ParsedTextLength>
+			<sov:ParseTime>640</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:f6db117f-26bc-4de4-96e3-89ec0d62eaba</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>g7YBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

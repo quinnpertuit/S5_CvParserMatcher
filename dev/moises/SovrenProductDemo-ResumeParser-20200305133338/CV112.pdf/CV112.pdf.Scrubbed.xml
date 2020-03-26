@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Delhi</Region>
+					<Municipality>Noida</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>B.Tech. (Computer Science &amp; Engineering) with specialization in Cloud Computing and Virtualization Technology; working
+experience of over an year with IBM India Pvt. Ltd., Bengaluru
+Understanding of other Big Data technologies like Hive, Hbase, Sqoop &amp; Pig
+Goal-oriented professional with a zeal to make a winning career in Cloud, Big Data Infrastructure/ Hadoop, Virtualization &amp;
+DBMS
+Certified in RHEL 7, VMWARE, Big Data/ Apache Hadoop &amp; Routing &amp;
+Switching
+Won IBNC-2014, India's Biggest Networking Championship at zonal level,
+organized by ACM, IIT DELHI
+Co-authored &amp; published paper on Datacenter Virtualization with Optimization and Customization in Indian Journal of Science
+and Technology.
+Successfully administered and deployed IBM Open Platform for Apache
+Hadoop at IBM Designed &amp; developed Hadoop system &amp; deployed Hadoop administration with strong documentation skills.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>IBM India Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Associate System Engineer</Title>
+					<OrgName>
+						<OrganizationName>IBM India Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description>Key Result Areas:
+Performed the administration &amp; deployment of IBM Predictive Maintenance &amp; Quality Server
+Executed the administration and deployment of IBM Open Platform for Apache Hadoop
+Highlight:
+Accomplished the administration &amp; deployment of IBM Big Insights; trained for Application Developer for Oracle
+DB</Description>
+					<StartDate>
+						<YearMonth>2016-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 71% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>IBM</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Associate System Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>IBM</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>University of Petroleum and Energy Studies</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>UTTARAKHAND</Region>
+					<Municipality>Dehradun</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Cloud and Virtualization</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Computer Science and Engineering with Specialization in Cloud and Virtualization) from University of Petroleum and Energy Studies, Dehradun (UPES) in 2016</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>University of Petroleum and Energy Studies</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Certified in RHEL 7, VMWARE, Big Data/ Apache Hadoop &amp; Routing</Name>
+				<Id>1</Id>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Red Hat System Administrator</Name>
+				<Id>2</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>VMware Virtualization Administration</Name>
+				<Id>3</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Big Data Hadoop</Name>
+				<Id>4</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: Associate System Engineer, System Admin, Big Data Analytics, Database Administration, Cloud
+Computing, Predictive Maintenance, System Administration, Linux Administration, VMware Vsphere, Remote
+Access, Hadoop, Virtualization, HBase, Pig, Hive, Sqoop
+
+Verified: Phone Number |	Email - id
+
+
+ID: 5eacb55b5298b41379	Last Active: 2-Feb-20	Last Modified: 2-Feb-20
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+VMWare Vsphere	6	2017	1 Year(s)
+
+Apache Hadoop	2017	1 Year(s)
+
+Red Hat Enterprise Linux	7	2017	1 Year(s)
+
+Cloud Computing	2017	2 Year(s)
+
+Big Data	2017	   ~~~~~~~~~~~~~~~  
+
+IBM BigInsights	2017	0 Year(s) 6 Month(s)
+
+IBM DB2	2016	5 Month(s)
+
+IBM PMQ	2.5.3	2017	3 Month(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Proficient</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-03-05</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;20
+
+
+   ~~~~~~~~~~  
+
+
+Associate System Engineer seeking roles in Big Data Analytics, Database
+Administration, Cloud Computing, Predictive Maintenance, Service Quality, System
+Administration, Linux Administration, VMware Vsphere, Remote
+Access, Hadoop, Virtualization, HBase, Pig, Hive
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~  	Total Experience:    ~~~~~~~~~~~~~~~  
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  	Notice Period: 15 Days or less
+Functional Area: IT Software - Other	Highest Degree: B.Tech/B.E. [Computer Science and
+Engineering with Specialization in Cloud and
+Role: Solution Architect / Enterprise Architect	Virtualization]
+Industry: IT-Software/Software Services
+   ~~~~~~~~~~~~~~~~~  /unmarried
+Key Skills: Associate System Engineer, System Admin, Big Data Analytics, Database Administration, Cloud
+Computing, Predictive Maintenance, System Administration, Linux Administration, VMware Vsphere, Remote
+Access, Hadoop, Virtualization, HBase, Pig, Hive, Sqoop
+
+Verified: Phone Number |	Email - id
+
+
+ID: 5eacb55b5298b41379	Last Active: 2-Feb-20	Last Modified: 2-Feb-20
+
+
+Summary
+B.Tech. (Computer Science &amp; Engineering) with specialization in Cloud Computing and Virtualization Technology; working
+experience of over an year with IBM India Pvt. Ltd., Bengaluru
+Understanding of other Big Data technologies like Hive, Hbase, Sqoop &amp; Pig
+Goal-oriented professional with a zeal to make a winning career in Cloud, Big Data Infrastructure/ Hadoop, Virtualization &amp;
+DBMS
+Certified in RHEL 7, VMWARE, Big Data/ Apache Hadoop &amp; Routing &amp;
+Switching
+Won IBNC-2014, India's Biggest Networking Championship at zonal level,
+organized by ACM, IIT DELHI
+Co-authored &amp; published paper on Datacenter Virtualization with Optimization and Customization in Indian Journal of Science
+and Technology.
+Successfully administered and deployed IBM Open Platform for Apache
+Hadoop at IBM Designed &amp; developed Hadoop system &amp; deployed Hadoop administration with strong documentation skills.
+
+
+Work Experience
+IBM India Pvt. Ltd as Associate System Engineer
+Aug 2016 to Nov 2017
+Key Result Areas:
+Performed the administration &amp; deployment of IBM Predictive Maintenance &amp; Quality Server
+Executed the administration and deployment of IBM Open Platform for Apache Hadoop
+Highlight:
+Accomplished the administration &amp; deployment of IBM Big Insights; trained for Application Developer for Oracle
+DB
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     0a0550503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681974
+2/2/20 23&amp;20
+
+
+Education
+UG: B.Tech/B.E. (Computer Science and Engineering with Specialization in Cloud and Virtualization) from University of
+Petroleum and Energy Studies, Dehradun (UPES) in 2016
+
+Other Qualifications/Certifications/Programs:
+Red Hat System Administrator
+VMware Virtualization Administration
+Big Data Hadoop
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+VMWare Vsphere	6	2017	1 Year(s)
+
+Apache Hadoop	2017	1 Year(s)
+
+Red Hat Enterprise Linux	7	2017	1 Year(s)
+
+Cloud Computing	2017	2 Year(s)
+
+Big Data	2017	   ~~~~~~~~~~~~~~~  
+
+IBM BigInsights	2017	0 Year(s) 6 Month(s)
+
+IBM DB2	2016	5 Month(s)
+
+IBM PMQ	2.5.3	2017	3 Month(s)
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Proficient
+
+
+Projects
+Project Title: Deployment Of IBM BigInsights
+Client: IBM
+Nature of Employment: Full Time	Duration: Apr 2017 - May 2017
+Onsite / Offsite: Offsite
+Project Details: Complete infrastructure deployment (including all services of IBM BigInsights)
+
+Project Title: Deployment Of IBM PMQ 2.5.3
+Client: IBM
+Nature of Employment: Full Time	Duration: Dec 2016 - Mar 2017
+Onsite / Offsite: Offsite
+Project Details: Complete Infrastructure deployment of IBM PMQ 2.5.3
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     0a0550503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681974
+2/2/20 23&amp;20
+
+
+Project Title: Handling Heterogeneous Database systems Using Hadoop
+Client: Prakshal Infotech Pvt. Ltd.
+Nature of Employment: Full Time	Duration: May 2015 - Jul 2015
+Onsite / Offsite: Offsite
+Project Details: Retrieving data from MySQL to HDFS using SQOOP and storingthat data in Postgres SQL using sqoop.
+
+Project Title: Datacenter Virtualization with Remote Access
+Client: Prakshal Infotech Pvt. Ltd.
+Nature of Employment: Full Time	Duration: Dec 2014 - Jan 2015
+Onsite / Offsite: Offsite
+Project Details: Using Windows Server 2012 and port forwarding over vSphereto access virtually created datacenter from
+remote locations.
+
+
+Affirmative Action	   ~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~  	Job Type: Permanent
+Physically Challenged: No	Employment Status: Full time
+
+
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     0a0550503a4454405a4d5f0b02546&amp;sid=3810263223&amp;AT=1580681974
+de 3</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>   ~~~~~~~~~~  's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and somewhat concentrated in Marketing (mostly Data &amp; Analytics).    ~~~~~~~~~~  's experience appears to be entry level, with 15 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>15</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>15</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="67">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="28" percentOfParentTaxonomy="41">
+								<sov:Skill name="APACHE HADOOP HDFS" id="5530709" existsInText="false">
+									<sov:ChildSkill name="HDFS" id="553070902" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="APACHE HADOOP SQOOP" id="5530714" existsInText="false">
+									<sov:ChildSkill name="SQOOP" id="553071402" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="BIG DATA ANALYTICS" id="5530909" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MANAGEMENT SYSTEM" id="5530966" existsInText="false">
+									<sov:ChildSkill name="DBMS" id="5530967" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DB2" id="5530738" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HADOOP" id="5530761" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in CERTIFICATIONS; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="HBASE" id="5530766" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="27" percentOfParentTaxonomy="40">
+								<sov:Skill name="Hadoop" id="1004744" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in CERTIFICATIONS; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="HBase" id="1004747" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="HDFS" id="1004748" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="Hive" id="1004749" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="Pig" id="1004751" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="NETWORKING" id="3490044" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SYSTEM ADMINISTRATION" id="3490001" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="VIRTUALIZATION" id="3490016" existsInText="true" whereFound="Found in CERTIFICATIONS; EDUCATION; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="RED HAT" id="006652" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="VIRTUALIZATION" id="7180009" existsInText="true" whereFound="Found in CERTIFICATIONS; EDUCATION; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATABASE ADMINISTRATION" id="015028" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DATABASE SYSTEMS" id="015039" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DB2" id="015075" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DBMS" id="015077" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="POSTGRES" id="005136" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="OPTIMIZATION" id="023294" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="REMOTE ACCESS" id="024595" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SWITCHING" id="1980041" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SYSTEMS ADMINISTRATION" id="009105" existsInText="false">
+									<sov:ChildSkill name="SYSTEM ADMINISTRATION" id="009077" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="VMWARE" id="026285" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="RED HAT" id="5551183" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="26">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="26" percentOfParentTaxonomy="100">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HADOOP" id="1400328" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in CERTIFICATIONS; PROJECT_HEADERS; SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="2" percentOfParentTaxonomy="94">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Chemical" id="132" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="PETROLEUM" id="024136" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="OPTIMIZATION" id="023295" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="2">
+							<sov:Subtaxonomy name="General Repair" id="452" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022117" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PREDICTIVE MAINTENANCE" id="022347" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="1">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" totalMonths="15" lastUsed="2017-11-01" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Operating Systems" id="299" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="WINDOWS SERVER 2012" id="027191" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="0">
+							<sov:Subtaxonomy name="Management" id="960" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="JOURNAL" id="026930" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Bookkeeping" id="944" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="JOURNAL" id="026929" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="0">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="DOCUMENTATION" id="022620" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="0">
+							<sov:Subtaxonomy name="Attitude" id="528" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="GOAL-ORIENTED" id="018483" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="19" ends="28" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="29" ends="44" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="45" ends="59" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="60" ends="63" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="64" ends="69" sectionType="CERTIFICATIONS">Qualifications/Certifications/Programs:</sov:Section>
+				<sov:Section starts="70" ends="89" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="90" ends="97" sectionType="LANGUAGES">Languages Known</sov:Section>
+				<sov:Section starts="98" ends="135" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+			</sov:Sections>
+			<sov:ParsedTextLength>4739</sov:ParsedTextLength>
+			<sov:ParseTime>515</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;5,7] Each of the following sections in the resume contain more content than the work history and education sections combined: 'IT Skills', 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,4] The following sections do not have the header on a separate line: 'Key Skills', 'Qualifications/Certifications/Programs:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:9333c97b-a4e9-4bb0-94bf-172874c0a3be</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.4.0.0</sov:ParserVersion>
+			<sov:DigitalSignature>Bx7+//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

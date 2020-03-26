@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>SUSHIL KUMAR</FormattedName>
+				<GivenName>SUSHIL</GivenName>
+				<FamilyName>KUMAR</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>I3infosoft Pvt Ltd</AddressLine>
+						<AddressLine>15 Days or less</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Certified civil engineer (B.TECH) Professional with excellence in managing Business Analytics, Data Analysis, Data Mining, Data
+Modeling, Statistical Modeling, Predictive Modeling, Financial Research, Economic Research, Business Research, Civil
+Engineering, Environmental Engineering.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>I3infosoft Pvt Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Data Analyst</Title>
+					<OrgName>
+						<OrganizationName>I3infosoft Pvt Ltd</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BQ">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>I3infosoft</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Data Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>I3infosoft</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>UTTAR PRADESH TECHNICAL UNIVERSITY</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech/B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2014</Year>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2014</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>UG: B.Tech/B.E. (Civil) from UTTAR PRADESH TECHNICAL UNIVERSITY in 2014</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>UTTAR PRADESH TECHNICAL UNIVERSITY</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Certified civil engineer (B.TECH) Professional with excellence in managing Business Analytics, Data Analysis, Data Mining, Data</Name>
+				<Id>1</Id>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>(B.TECH)</Name>
+				<Id>1</Id>
+				<Description>Certified civil engineer (B.TECH) Professional with excellence in managing Business Analytics, Data Analysis, Data Mining, Data</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified civil engineer</Name>
+				<Id>1</Id>
+				<Description>Certified civil engineer (B.TECH) Professional with excellence in managing Business Analytics, Data Analysis, Data Mining, Data</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Key Skills: business analytics, data analysis, data mining, data modeling, statistical modeling, predictive modeling, financial
+research, economic research, business research
+
+Verified: Email - id
+
+
+ID: Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+50be9d9a23804976860308300bb6ab91
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+
+https://freesearch.naukri.com/preview/printResume?uname=017   f08100a4c310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580680866
+2/2/20 23&amp;02
+
+
+SQL, Python, Excel, oracle	0	1 Year(s) 7 Month(s)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English	Proficient</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi	Expert</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2020-02-03</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>2/2/20 23&amp;02
+
+
+SUSHIL KUMAR
+
+
+Seeking Roles in Business Analytics, Data Analysis, Data Mining, Data Modeling,
+Statistical Modeling, Predictive Modeling, Financial Research, Economic
+Research, Business Research.
+
+
+Current Designation: Data Analyst	Total Experience: 1 Year(s) 7 Month(s)
+Current Company: I3infosoft Pvt Ltd	Notice Period: 15 Days or less
+Current Location: Noida	Highest Degree: B.Tech/B.E. [Civil]
+Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Gurgaon
+Functional Area: Analytics &amp; Business Intelligence
+Role: Data Analyst
+Industry: KPO / Research /Analytics
+Key Skills: business analytics, data analysis, data mining, data modeling, statistical modeling, predictive modeling, financial
+research, economic research, business research
+
+Verified: Email - id
+
+
+ID: Last Active: 31-Jan-20	Last Modified: 31-Jan-20
+50be9d9a23804976860308300bb6ab91
+
+
+Summary
+Certified civil engineer (B.TECH) Professional with excellence in managing Business Analytics, Data Analysis, Data Mining, Data
+Modeling, Statistical Modeling, Predictive Modeling, Financial Research, Economic Research, Business Research, Civil
+Engineering, Environmental Engineering.
+
+
+Work Experience
+I3infosoft Pvt Ltd as Data Analyst
+Jun 2018 to Till Date
+
+
+Education
+UG: B.Tech/B.E. (Civil) from UTTAR PRADESH TECHNICAL UNIVERSITY in 2014
+
+
+IT Skills
+Skill Name	Version Last Used	Experience
+
+
+https://freesearch.naukri.com/preview/printResume?uname=017   f08100a4c310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580680866
+2/2/20 23&amp;02
+
+
+SQL, Python, Excel, oracle	0	1 Year(s) 7 Month(s)
+
+
+Languages Known
+Language	Proficiency	Read	Write	Speak
+
+English	Proficient
+
+Hindi	Expert
+
+
+Affirmative Action	Work Authorization
+Physically Challenged: No	Job Type: Permanent
+Employment Status: Full time
+
+
+https://freesearch.naukri.com/preview/printResume?uname=017   f08100a4c310f005808160d5a4e5e6&amp;sid=3810263223&amp;AT=1580680866
+de 2</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:CurrentLocation>Noida</sov:CurrentLocation>
+				<sov:PreferredLocation>Bengaluru / Bangalore, Delhi / NCR, Gurgaon</sov:PreferredLocation>
+				<sov:WillingToRelocate>Yes</sov:WillingToRelocate>
+				<sov:VisaStatus>Physically Challenged: No</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>SUSHIL KUMAR's experience appears to be mostly concentrated in Information Technology (mostly Database) and slightly concentrated in Marketing (mostly Data &amp; Analytics). SUSHIL KUMAR's experience appears to be entry level, with 20 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>20</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>20</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="61">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="25" percentOfParentTaxonomy="41">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA ANALYST" id="014962" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATA MODELING" id="01503802" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="23" percentOfParentTaxonomy="38">
+								<sov:Skill name="DATA ANALYST" id="5530939" existsInText="true" totalMonths="20" lastUsed="2020-02-03" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DATA MINING" id="5530954" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="PREDICTIVE MODELING" id="5531047" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="DATA MINING" id="7200000" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="DATA MINING" id="026549" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA MODELING" id="024098" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="16">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="9" percentOfParentTaxonomy="55">
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="STATISTICAL MODELING" id="1400069" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Market Research" id="223" percentOfOverall="5" percentOfParentTaxonomy="29">
+								<sov:Skill name="DATA MINING" id="026550" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="3" percentOfParentTaxonomy="16">
+								<sov:Skill name="STATISTICAL MODELING" id="1400099" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="8">
+							<sov:Subtaxonomy name="Civil" id="133" percentOfOverall="3" percentOfParentTaxonomy="32">
+								<sov:Skill name="CIVIL ENGINEER" id="080961" existsInText="true" whereFound="Found in CERTIFICATIONS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="3" percentOfParentTaxonomy="32">
+								<sov:Skill name="CIVIL ENGINEER" id="080330" existsInText="true" whereFound="Found in CERTIFICATIONS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Environmental" id="136" percentOfOverall="1" percentOfParentTaxonomy="18">
+								<sov:Skill name="ENVIRONMENTAL ENGINEERING" id="080879" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="1" percentOfParentTaxonomy="18">
+								<sov:Skill name="ENVIRONMENTAL ENGINEERING" id="080529" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="6">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="6" percentOfParentTaxonomy="100">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="DATA MODELING" id="014996" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Environmental" id="6" percentOfOverall="4">
+							<sov:Subtaxonomy name="Water" id="330" percentOfOverall="3" percentOfParentTaxonomy="64">
+								<sov:Skill name="CIVIL ENGINEER" id="023649" existsInText="true" whereFound="Found in CERTIFICATIONS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="333" percentOfOverall="1" percentOfParentTaxonomy="36">
+								<sov:Skill name="ENVIRONMENTAL ENGINEERING" id="016720" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="3">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="9000071" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="258" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="AFFIRMATIVE ACTION" id="014620" existsInText="true" whereFound="Found in LANGUAGES"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="1">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="18" ends="27" sectionType="SKILLS">Key Skills</sov:Section>
+				<sov:Section starts="28" ends="33" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="34" ends="38" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="39" ends="42" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="43" ends="53" sectionType="SKILLS">IT Skills</sov:Section>
+				<sov:Section starts="54" ends="68" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>SUSHIL KUMAR</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>https://freesearch.naukri.com/preview/printResume?uname=017</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Pref. Location: Bengaluru / Bangalore, Delhi / NCR, Gurgaon</sov:OtherDatum>
+					<sov:OtherDatum>Work Authorization
+Physically Challenged: No</sov:OtherDatum>
+					<sov:OtherDatum>Current Location: Noida</sov:OtherDatum>
+					<sov:OtherDatum>I3infosoft Pvt Ltd</sov:OtherDatum>
+					<sov:OtherDatum>15 Days or less</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>1891</sov:ParsedTextLength>
+			<sov:ParseTime>171</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:301;] Neither an email address nor a phone number were found in the contact information. A resume should always include both.</sov:Information>
+							<sov:Information>[Sovren:303;0,4,5] Each of the following sections in the resume contain more content than the work history and education sections combined: 'Key Skills', 'IT Skills', 'Languages Known'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'Key Skills', 'IT Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Key Skills'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:844e10e4-ee21-4cb2-8d30-074e07b7198a</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.10.0</sov:ParserVersion>
+			<sov:DigitalSignature>e9r///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

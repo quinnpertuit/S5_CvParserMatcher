@@ -1,0 +1,578 @@
+{
+  "SovrenData": {
+    "@xml:lang": "en",
+    "DocumentLanguage": "en",
+    "CurrentJobIsMgmt": "false",
+    "HighestManagementScore": "0",
+    "ManagementLevel": "none",
+    "ExecutiveType": "NONE",
+    "JobTitles": {
+      "MainJobTitle": "Joining Ipsos means choosing an exciting internship",
+      "JobTitle": [
+        "means choosing an exciting internship"
+      ]
+    },
+    "EmployerNames": {
+      "MainEmployerName": "Treating different languages, even if those are limited",
+      "EmployerName": [
+        "Treating different languages, even if those are limited",
+        "different languages, even if those are limited",
+        "even if those are limited"
+      ]
+    },
+    "LanguageCodes": {
+      "LanguageCode": [
+        "en",
+        "ar",
+        "zh"
+      ]
+    },
+    "CurrentLocation": {
+      "Municipality": "Paris",
+      "CountryCode": "FR"
+    },
+    "Education": {
+      "Degree": [
+        {
+          "DegreeType": "masters",
+          "DegreeName": "Master's"
+        }
+      ]
+    },
+    "RequiredDegree": "masters",
+    "TypeOfSource": "stJobOrder",
+    "SourceText": "About\r\n\r\nWith more than 16.000 employees in 90 countries, Ipsos is one of the world’s leading research companies.\r\n\r\nCurious about people, markets, brands and society, Ipsos provides to its clients the necessary inspiration to make strategic decisions, thank to multiple innovative study methodologies related to Artificial Intelligence (Neurosciences, Eyetracking, Data processing related to Social Listening, …) enriching traditional study methodologies.\r\n\r\nJoining Ipsos means choosing an exciting internship at the heart of news issues, on multi-sectoral and a wide range of issues (marketing, advertising, media, politics, opinions, customer experience, employee commitment, …).\r\n\r\nLabeled Happy Trainees, Ipsos is one of the companies that take care of welcoming, coaching and managing their trainees and work-study trainees, who are hired under fixed-term and permanent contract in Ipsos in 50% of cases!\r\n\r\nOur integration and training courses will allow you to better apprehend the world of studies.\r\n\r\nJob Description\r\n\r\nThe department of Social Intelligence and Analytics has a mission to bring forth the best of ideas among what people express spontaneously in surveys and on the web. Our team uses cutting-edge research models in artificial intelligence to analyze enormous quantities of text data, images and videos.\r\nOur work environment is open, flexible and convivial. You will work and grow in a multi-faceted international team, based in Paris and composed of Data Scientists, Natural Language Processing Engineers, and front-end and back-end developers.\r\n\r\nYour missions :\r\nAI development – Helping implement different algorithms of Machine Learning (including neural networks), both supervised and non-supervised, and applying them to unstructured data. Work on each aspect of the methodological development, be it on the selection process of the training data, the selection of the model to be applied or the validation of said model.\r\nDeploying the solutions – Once the research for a bespoke model is finished, deploying the model for production in partnership with specialists.\r\nKnowledge of data sources – Account for the wealth of information brought in by different sources of unstructured data available (text, image and video), whether they come from social networks or from surveys.\r\nWorking on diverse languages – Treating different languages, even if those are limited in terms of linguistic resources, improving existing tools or develop and test new ones.\r\nAccount for the cultural and linguistic particularities\r\nPreferred Experience\r\nStudents from engineering school and/or pursuing a Master’s in either computational linguistics or Machine Learning. Previous projects or work experience in NLP is an asset.\r\n\r\nSkills :\r\nNatural Language Processing: one of the following fields: POS-tagging, parsing, translation, NER, Topic Modeling, text classification, sentiment analysis, word/sentence embeddings...\r\nComputer science: Python. Good knowledge of NLP tools and libraries (regexes, spaCy...) and/or of Machine learning libraries (scikit-learn, keras, tensorflow...) is an asset.\r\nOptional: R coding skills, usage of command line, IDE, Git and Cloud Platforms (GCP)\r\nEnglish expertise required, and knowledge of Arabic and Chinese will be a real advantage.\r\nAdditional Information\r\nContract Type: Internship (6 month(s))\r\nStart Date: 06 April 2020\r\nLocation: Paris, France (75013)\r\nEducation Level: Fourth-Year University Level\r\nExperience: < 6 months",
+    "RevisionDate": "2020-03-08",
+    "ParserConfigurationString": "Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+    "DigitalSignature": "0aMBAAAAAAA=",
+    "SkillsTaxonomyOutput": [
+      {
+        "@name": "Sovren",
+        "Taxonomy": [
+          {
+            "@name": "Information Technology",
+            "@id": "10",
+            "@percentOfOverall": 41.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Big Data",
+                "@id": "553",
+                "@percentOfOverall": 17.0,
+                "@percentOfParentTaxonomy": 42.0,
+                "Skill": [
+                  {
+                    "@name": "ARTIFICIAL INTELLIGENCE",
+                    "@id": "5530905",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "DATA SOURCES",
+                    "@id": "5530960",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "5531016",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "NLP",
+                        "@id": "5531030",
+                        "@existsInText": true,
+                        "@required": true
+                      }
+                    ],
+                    "@name": "NATURAL LANGUAGE PROCESSING",
+                    "@id": "5531029",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "SENTIMENT ANALYSIS",
+                    "@id": "5531060",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "UNSTRUCTURED DATA",
+                    "@id": "5531073",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Programming",
+                "@id": "204",
+                "@percentOfOverall": 13.0,
+                "@percentOfParentTaxonomy": 32.0,
+                "Skill": [
+                  {
+                    "@name": "NATURAL",
+                    "@id": "003276",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "TENSORFLOW",
+                        "@id": "3391117",
+                        "@existsInText": true,
+                        "@required": true
+                      },
+                      {
+                        "@name": "KERAS",
+                        "@id": "3391124",
+                        "@existsInText": true,
+                        "@required": true
+                      }
+                    ],
+                    "@name": "PYTHON",
+                    "@id": "006120",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "CODING",
+                    "@id": "013739",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "Git",
+                    "@id": "1004755",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Machine Learning",
+                "@id": "720",
+                "@percentOfOverall": 4.0,
+                "@percentOfParentTaxonomy": 11.0,
+                "Skill": [
+                  {
+                    "@name": "NEURAL NETWORKS",
+                    "@id": "7200042",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "7200149",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Compiler & Runtime",
+                "@id": "719",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 5.0,
+                "Skill": [
+                  {
+                    "@name": "PARSING",
+                    "@id": "7190052",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Security",
+                "@id": "338",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 5.0,
+                "Skill": [
+                  {
+                    "@name": "MACHINE LEARNING",
+                    "@id": "3380002",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Data Mining",
+                "@id": "192",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 5.0,
+                "Skill": [
+                  {
+                    "@name": "ARTIFICIAL INTELLIGENCE",
+                    "@id": "003449",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "User Experience",
+            "@id": "93",
+            "@percentOfOverall": 20.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Integration Design",
+                "@id": "568",
+                "@percentOfOverall": 7.0,
+                "@percentOfParentTaxonomy": 33.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "FRONT-END",
+                        "@id": "5570112",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "FRONT END DESIGN",
+                    "@id": "5570111",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Information Architect",
+                "@id": "567",
+                "@percentOfOverall": 4.0,
+                "@percentOfParentTaxonomy": 22.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "FRONT-END",
+                        "@id": "5570301",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "FRONT END",
+                    "@id": "5570300",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Human Computer Interaction",
+                "@id": "561",
+                "@percentOfOverall": 4.0,
+                "@percentOfParentTaxonomy": 22.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "FRONT-END",
+                        "@id": "5570218",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "FRONT END",
+                    "@id": "5570217",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Web Design",
+                "@id": "571",
+                "@percentOfOverall": 4.0,
+                "@percentOfParentTaxonomy": 22.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "INTEGRATION",
+                        "@id": "5570147",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "INTEGRATOR",
+                    "@id": "5570146",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Marketing",
+            "@id": "14",
+            "@percentOfOverall": 11.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Channel Management",
+                "@id": "226",
+                "@percentOfOverall": 7.0,
+                "@percentOfParentTaxonomy": 60.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "POS",
+                        "@id": "1400220",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "POINT OF SALE",
+                    "@id": "1400219",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Marketing Communications",
+                "@id": "592",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "ADVERTISING",
+                    "@id": "1400153",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "General",
+                "@id": "249",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 20.0,
+                "Skill": [
+                  {
+                    "@name": "MARKETING",
+                    "@id": "021241",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Knowledge and Learning Management",
+            "@id": "92",
+            "@percentOfOverall": 7.0,
+            "Subtaxonomy": [
+              {
+                "@name": "General Knowledge and Learning Management",
+                "@id": "903",
+                "@percentOfOverall": 7.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "NEURAL NETWORKS",
+                        "@id": "200039",
+                        "@existsInText": true,
+                        "@required": true
+                      }
+                    ],
+                    "@name": "NEURAL",
+                    "@id": "200040",
+                    "@existsInText": true,
+                    "@required": true
+                  },
+                  {
+                    "@name": "COACHING",
+                    "@id": "200053",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Translations and Language Work",
+            "@id": "91",
+            "@percentOfOverall": 4.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Semantics",
+                "@id": "902",
+                "@percentOfOverall": 4.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "LINGUISTICS",
+                    "@id": "200009",
+                    "@existsInText": true,
+                    "@required": false
+                  },
+                  {
+                    "@name": "LINGUISTIC",
+                    "@id": "200010",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Common End-user Software",
+            "@id": "0",
+            "@percentOfOverall": 4.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Core Office",
+                "@id": "108",
+                "@percentOfOverall": 4.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "ChildSkill": [
+                      {
+                        "@name": "WORD",
+                        "@id": "002379",
+                        "@existsInText": true,
+                        "@required": false
+                      }
+                    ],
+                    "@name": "MICROSOFT WORD",
+                    "@id": "022961",
+                    "@existsInText": false,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Scientific",
+            "@id": "15",
+            "@percentOfOverall": 4.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Basic",
+                "@id": "376",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "LINGUISTICS",
+                    "@id": "020793",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              },
+              {
+                "@name": "Chemical",
+                "@id": "377",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "GCP",
+                    "@id": "018186",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Clinical",
+            "@id": "28",
+            "@percentOfOverall": 4.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Other",
+                "@id": "277",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "GCP",
+                    "@id": "018185",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              },
+              {
+                "@name": "Coding",
+                "@id": "270",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 50.0,
+                "Skill": [
+                  {
+                    "@name": "CODING",
+                    "@id": "013742",
+                    "@existsInText": true,
+                    "@required": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Engineering",
+            "@id": "5",
+            "@percentOfOverall": 2.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Surveying",
+                "@id": "298",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "024338",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@name": "Finance",
+            "@id": "7",
+            "@percentOfOverall": 2.0,
+            "Subtaxonomy": [
+              {
+                "@name": "Other",
+                "@id": "243",
+                "@percentOfOverall": 2.0,
+                "@percentOfParentTaxonomy": 100.0,
+                "Skill": [
+                  {
+                    "@name": "ALGORITHMS",
+                    "@id": "017446",
+                    "@existsInText": true,
+                    "@required": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
